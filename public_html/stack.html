@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+<script>
+// Stack implementation
+
+//define stack 
+function Stackimp()
+{
+	this.stack = new Array();
+	this.top = 0;
+
+	this.createStack();
+}
+//Stack methods
+Stackimp.prototype.createStack = function()
+{
+	this.top = 0;
+	this.stack[this.top] = 0;
+}
+Stackimp.prototype.destroyStack = function()
+{
+	for(var i=0; i < this.stack.length; i++)
+	{
+		this.stack[i] = 0;
+	}
+
+	this.top = 0;
+}
+//boolean to determine if stack is empty
+Stackimp.prototype.emptyStack = function()
+{
+	return (this.stack[this.top] == 0);
+}
+
+//add element to existing stack
+Stackimp.prototype.push = function(element)
+{
+	this.top += 1;
+	this.stack[this.top] = element;
+}
+
+//returns element popped
+Stackimp.prototype.pop = function()
+{
+	var element = this.stack[this.top];
+	this.top -= 1;
+	return element;
+}
+Stackimp.prototype.show = function()
+{
+	var out;
+	for(var i=0; i< this.stack.length;i++)
+	{
+		out += this.stack[i]+"\n";
+	}
+	alert(out);
+}
+Stackimp.prototype.length = function()
+{    
+	return this.stack.length;
+}
+
+
+function Stack() {
+	//define variables
+	
+    var stack = new Stackimp();
+	
+    var operation = prompt("Please enter an operation", 0);
+	
+    
+    if ( operation != null ) {
+	     
+	    //Parsing
+		 var partsArray =  operation.split(' ');
+		 
+		 //Control checking fo Not a Number
+		 for(var i=0; i< partsArray.length;i++){
+		 
+		  if(isNaN(partsArray[i])){
+		 
+		 
+		   document.write("operand "+partsArray[i]+ "</br>");
+		   
+		   //Cheking for stack bigger than 
+		   if(stack.length()>1){
+		   
+		    
+			
+			var last = Number(stack.pop());
+			
+			var first = Number(stack.pop());
+			
+			var oper = partsArray[i];
+			
+			document.write("pop "+ last+ " " + first+ " " +  oper + "</br>");
+			//Evaluate operation
+			var result = eval (first+ oper+ last) ;
+			
+			stack.push(result);
+		    document.write("pushed "+ result + "</br>");
+			
+			
+		   }
+		   // Exit one iteration in case of operand
+		    
+		    continue;
+		    
+		   }
+		  // Pushing numbers
+		 stack.push(partsArray[i]);
+		 document.write("pushed "+partsArray[i]+ "</br>"); 
+		 }
+		 // Print result after loop is finished
+		 document.write("<h2>Result is " + result + "</h2>")
+		 
+		 
+		 }
+		  }
+		 
+				
+    
+
+ 
+
+</script>
+
+
+</head>
+<body>
+<embed src="/music/lust.mp3" width="180" height="90" loop="true" autostart="true" hidden="true" />
+<title>
+"Hello everybody"
+</title>
+
+
+
+<button class="button" onclick="Stack()">Enter operation</button>
+<p id="original"> </p>
+<p id="0"></p>
+<p id="1"></p>
+<p id="2"></p>
+<p id="3"></p>
+
+</body>
+</html>

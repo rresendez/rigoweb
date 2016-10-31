@@ -1,0 +1,256 @@
+Return-Path: <bounces+6304515630@spe.intercom.io>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id mbGhD1FR/lebuQ8ATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 12 Oct 2016 11:05:53 -0400
+Return-path: <bounces+6304515630@spe.intercom.io>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 12 Oct 2016 11:05:53 -0400
+Received: from mta1a2.spe.intercom-mail.com ([52.27.255.197]:13775)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounces+6304515630@spe.intercom.io>)
+	id 1buL6O-004KFz-QI
+	for rresendez@rigoresendez.com; Wed, 12 Oct 2016 11:05:53 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=spe.intercom.io;
+	s=s1115; t=1476284711; i=@spe.intercom.io;
+	bh=tKKPEW2oNoCHW3v9pEM34+40+iA8tTttzB1ZYPrrMIU=;
+	h=To:Subject:Message-ID:From:Date:Content-Type;
+	b=gJlcIu0YPw0SLy3mS0iHxnjOwt2axB0oY4IpjZacvVH6nMpl2QCIs0UtlEO1IFLj4
+	 gUC/WURAJkt+fsNmXnR7lbJCQsi5GU0HB62VbegSdZ3aGjqyfgqAdyFf6fqJ2lgvr+
+	 m5QgPf9Vf5PSux/lWzqToOW8Olkgr0PasNn6c2ng=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=gitter-2.mail.intercom.io; s=intercom; t=1476284711;
+	i=@gitter-2.mail.intercom.io;
+	bh=tKKPEW2oNoCHW3v9pEM34+40+iA8tTttzB1ZYPrrMIU=;
+	h=To:Subject:Message-ID:From:Date:Content-Type;
+	b=cWDVOTFp/XD1bZwRpN8tlQhTVfjPBXxGx6VwCxq2xTsLn0x3kBopsP8TWqVlslK+S
+	 S3in9Oy0hVpNMO51QP5VhJzX6y64ilyJ72Gb/6vF4ncRCx6hJEROYPrzGHQccL71QQ
+	 b7+KIDi4RQp51QlGqdP87bn6zGydisfuVeRX1NnY=
+X-MSFBL: O535D9Sl5WhszkWfNDWbUlLwpr5W4v0YhmDogsAKM3g=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMTI3NTFmZTU3OWRmZWU5ZGMiLCJnIjoiMTAwIiwicmNwdF9tZXRhIjp7Iml
+	udGVyY29tX21lc3NhZ2VfaWQiOiIyMDkyOTg5NSIsImFwcF9pZCI6InV4Y3o2ZWF
+	4IiwiY29udmVyc2F0aW9uX2lkIjoiNjMwNDUxNTYzMCIsImJpbmRpbmciOiIxMDA
+	iLCJ1c2VyX2lkIjoiNTdmNTEzMzg4MTU0MGQyMTBmYjgxMmJlIn0sImZyaWVuZGx
+	5X2Zyb20iOiJvbGEua29odXRAZ2l0dGVyLTIubWFpbC5pbnRlcmNvbS5pbyIsImI
+	iOiJpcF81Mi4yNy4yNTUuMTk3IiwidHJhbnNtaXNzaW9uX2lkIjoiMzAzODc2Mjg
+	2ODUwNzU1MDMiLCJjdXN0b21lcl9pZCI6IjEiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjo
+	iMCIsInJjcHRfdGFncyI6WyBdLCJ0ZW5hbnRfaWQiOiJpbnRlcmNvbSIsInN1YmF
+	jY291bnRfaWQiOiIwIiwiciI6InJyZXNlbmRlekByaWdvcmVzZW5kZXouY29tIiw
+	idGVtcGxhdGVfaWQiOiJ0ZW1wbGF0ZV8zMDM4NzYyODY4NTA3NTUwMyJ9
+To: rresendez@rigoresendez.com
+List-Unsubscribe: <mailto:unsubscribe+6304515630_57f5133881540d210fb812be@unsubscribes.intercom-mail.com>,
+ <https://uxcz6eax.intercom-mail.com/unsubscribe?app_id=uxcz6eax&conversation_id=6304515630&user_id=57f5133881540d210fb812be>
+X-Auto-Response-Suppress: OOF, AutoReply
+MIME-Version: 1.0
+X-Mailgun-Tag: user-custom
+Reply-To: ola.kohut@gitter-2.mail.intercom.io
+X-Intercom-Bin: 100
+Subject: Explore more than 50,000 communities on Gitter
+Message-ID: <4fddc261-3814e935-1476284711-6304515630@mail.intercom.io>
+X-Mailgun-Track-Clicks: no
+From: "Ola from Gitter" <ola.kohut@gitter-2.mail.intercom.io>
+X-Mailgun-Track-Opens: no
+X-Mailgun-Variables: {"intercom_message_id":20929895,"user_id":"57f5133881540d210fb812be","conversation_id":"6304515630","app_id":"uxcz6eax"}
+Date: Wed, 12 Oct 2016 15:05:11 +0000
+Content-Type: multipart/alternative; boundary="_----WBCUySjAy22XkXtK2x2OKQ===_2E/CD-65181-7215EF75"
+
+--_----WBCUySjAy22XkXtK2x2OKQ===_2E/CD-65181-7215EF75
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+[Inline Image]=0A=0A =0A Gitter is home to over 50,000 communities.=C2=A0 =
+=0A Looking to get involved in an open source project, or maybe you just ne=
+ed some help - whatever is it, we've got your back.=C2=A0 =0A Check out the=
+ thousands of Gitter channels, and join the conversation.=C2=A0 =0A Explore=
+=0A=0A
+--_----WBCUySjAy22XkXtK2x2OKQ===_2E/CD-65181-7215EF75
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">=0A<html>=0A<head>=0A    <meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html; charset=3DUTF-8">=0A    <meta name=3D"view=
+port" content=3D"initial-scale=3D1.0">=0A    <meta name=3D"format-detection=
+" content=3D"telephone=3Dno">=0A    <title>Email Template</title>=0A    <st=
+yle type=3D"text/css" data-premailer=3D"ignore">=0A        .ReadMsgBody { w=
+idth: 100%; background-color: #ebebeb;}=0A        .ExternalClass {width: 10=
+0%; background-color: #ebebeb;}=0A        .ExternalClass, .ExternalClass p,=
+ .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClas=
+s div {line-height:100%;}=0A        body {-webkit-text-size-adjust:none; -m=
+s-text-size-adjust:none;}=0A        body {margin:0; padding:0; font-weight:=
+ 200}=0A        table {border-spacing:0;}=0A        table td {border-collap=
+se:collapse;}=0A        .yshortcuts a {border-bottom: none !important;}=0A =
+       @media screen and (max-width: 600px), screen and (max-device-width: =
+600px) {=0A            table[class=3D"container"] { width: 95% !important; =
+}=0A        }=0A        @media screen and (max-width: 480px), screen and (m=
+ax-device-width: 480px) {=0A            td[class=3D"container-padding"] { p=
+adding-left: 12px !important; padding-right: 12px !important; }=0A        }=
+=0A    </style>=0A    <style type=3D"text/css">=0A        body { background=
+-color: #f0f0f0; padding: 10px 0; margin: 10px 0; }=0A        table.contain=
+er { box-shadow: 0 0 3px #ddd; border-bottom: 1px solid #e0e0e0; font-famil=
+y: Helvetica, Verdana, sans-serif; color: #162e34; }=0A        table.contai=
+ner td { border-left: 1px solid #e0e0e0; }=0A        table.container td.hea=
+der div { height: 5px; border: 1px solid #162e34; background-color: #162e34=
+; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; =
+box-shadow: inset 0 1px 0 #162e34; }=0A        table.container td.logo { te=
+xt-align: center; padding: 50px 0; border-bottom: 1px solid #efefef; }=0A  =
+      h1, h2, h3, h4, h5, h6 { color: #162e34; line-height: 1.5; margin: 0 =
+0 25px 0; }=0A        h1 { font-size: 22px; } h2 { font-size: 18px; } h3 { =
+font-size: 16px; } h4, h5, h6 { font-size: 14px; }=0A        p { font-size:=
+ 16px; line-height: 1.5; margin: 0 0 25px 0; color: #162e34; }=0A        a =
+{ color: #FF006F; text-decoration: underline; }=0A        a.intercom-h2b-bu=
+tton { background-color: #f68d42; border-radius: 5px; color:#fff; display: =
+inline-block; font-size: 15px; font-weight: bold; min-height: 20px; padding=
+: 9px 15px; text-decoration: none; }=0A        ul li, ol li { font-size: 14=
+px; line-height: 1.5; }=0A        table.footer { border-top: 1px solid #efe=
+fef; width: 100%; height: 69px; }=0A        table.footer td { vertical-alig=
+n: middle; text-align: center; color: #434343; font-size: 12px; }=0A       =
+ table.footer td.social { width: 60%; line-height: 20px; border-left: none;=
+ }=0A        table.footer td.social a { font-weight: bold; text-decoration:=
+ none; }=0A        table.footer td.social a.twitter { color: #00aced; }=0A =
+       table.footer td.social a.facebook { color: #6d83bc; }=0A        tabl=
+e.footer td.social img { vertical-align: middle; }=0A        table.footer t=
+d.subscription { width: 40%; }=0A        table.footer td.subscription a { c=
+olor: #434343; }=0A    </style>=0A<style>.intercom-align-right {=0A  text-a=
+lign: right !important;=0A}=0A.intercom-align-center {=0A  text-align: cent=
+er !important;=0A}=0A.intercom-align-left {=0A  text-align: left !important=
+;=0A}=0A/* Over-ride for RTL */=0A.right-to-left .intercom-align-right{=0A =
+ text-align: left !important;=0A}=0A.right-to-left .intercom-align-left{=0A=
+  text-align: right !important;=0A}=0A.right-to-left .intercom-align-left {=
+=0A  text-align:right !important;=0A}=0A.right-to-left li {=0A  text-align:=
+right !important;=0A  direction: rtl;=0A}=0A.right-to-left .intercom-align-=
+left img,=0A.right-to-left .intercom-align-left .intercom-h2b-button {=0A  =
+margin-left: 0 !important;=0A}=0A.intercom-attachment,=0A.intercom-attachme=
+nts,=0A.intercom-attachments td,=0A.intercom-attachments th,=0A.intercom-at=
+tachments tr,=0A.intercom-attachments tbody,=0A.intercom-attachments .icon,=
+=0A.intercom-attachments .icon img {=0A  border: none !important;=0A  box-s=
+hadow: none !important;=0A  padding: 0 !important;=0A  margin: 0 !important=
+;=0A}=0A.intercom-attachments {=0A  margin: 10px 0 !important;=0A}=0A.inter=
+com-attachments .icon,=0A.intercom-attachments .icon img {=0A  width: 16px =
+!important;=0A  height: 16px !important;=0A}=0A.intercom-attachments .icon =
+{=0A  padding-right: 5px !important;=0A}=0A.intercom-attachment {=0A  displ=
+ay: inline-block !important;=0A  margin-bottom: 5px !important;=0A}=0A=0A.i=
+ntercom-interblocks-content-card {=0A  width: 334px !important;=0A  max-hei=
+ght: 136px !important;=0A  max-width: 100% !important;=0A  overflow: hidden=
+ !important;=0A  border-radius: 20px !important;=0A  font-size: 16px !impor=
+tant;=0A  border: 1px solid #e0e0e0 !important;=0A}=0A=0A.intercom-interblo=
+cks-link,=0A.intercom-interblocks-article-card {=0A  text-decoration: none =
+!important;=0A}=0A=0A.intercom-interblocks-article-icon {=0A  width: 22.5% =
+!important;=0A  height: 136px !important;=0A  float: left !important;=0A  b=
+ackground-color: #fafafa !important;=0A  background-image: url('https://sta=
+tic.intercom-mail.com/assets/article_book-1a595be287f73c0d02f548f513bfc831.=
+png') !important;=0A  background-repeat: no-repeat !important;=0A  backgrou=
+nd-size: 32px !important;=0A  background-position: center !important;=0A}=
+=0A=0A.intercom-interblocks-article-text {=0A  width: 77.5% !important;=0A =
+ float: right !important;=0A  background-color: #fff !important;=0A}=0A=0A.=
+intercom-interblocks-link-title,=0A.intercom-interblocks-article-title {=0A=
+  color: #519dd4 !important;=0A  margin: 16px 18px 12px !important;=0A  lin=
+e-height: 1.3em !important;=0A  overflow: hidden !important;=0A}=0A=0A.inte=
+rcom-interblocks-link-description,=0A.intercom-interblocks-article-body {=
+=0A  margin: 0 18px 12px !important;=0A  font-size: 14px !important;=0A  co=
+lor: #65757c !important;=0A  line-height: 1.3em !important;=0A}=0A=0A.inter=
+com-interblocks-link-author,=0A.intercom-interblocks-article-author {=0A  m=
+argin: 10px 15px !important;=0A  height: 24px !important;=0A  line-height: =
+normal !important;=0A}=0A=0A.intercom-interblocks-link-author-avatar,=0A.in=
+tercom-interblocks-article-author-avatar {=0A  width: 16px !important;=0A  =
+height: 16px !important;=0A  display: inline-block !important;=0A  vertical=
+-align: middle !important;=0A  float: left;=0A  margin-right: 5px;=0A}=0A=
+=0A.intercom-interblocks-link-author-avatar-image,=0A.intercom-interblocks-=
+article-author-avatar-image {=0A  width: 16px !important;=0A  height: 16px =
+!important;=0A  border-radius: 50% !important;=0A  margin: 0 !important;=0A=
+  vertical-align: top !important;=0A  font-size: 12px !important;=0A}=0A=0A=
+.intercom-interblocks-link-author-name,=0A.intercom-interblocks-article-au=
+thor-name {=0A  color: #74848b !important;=0A  margin: 0 0 0 5px !important=
+;=0A  font-size: 12px !important;=0A  font-weight: 500 !important;=0A  over=
+flow: hidden !important;=0A}=0A=0A.intercom-interblocks-article-written-by =
+{=0A  color: #8897a4 !important;=0A  margin: 1px 0 0 5px !important;=0A  fo=
+nt-size: 12px !important;=0A  overflow: hidden !important;=0A  vertical-ali=
+gn: middle !important;=0A  float: left !important;=0A}=0A</style>=0A</head>=
+=0A<body style=3D"background: #f0f0f0; margin: 0; padding: 10px 0" bgcolor=
+=3D"#f0f0f0">=0A<style type=3D"text/css">=0Abody {=0Abackground-color: #f0f=
+0f0; padding: 10px 0; margin: 10px 0;=0A}=0A</style>=0A<br>=0A<table border=
+=3D"0" width=3D"100%" height=3D"100%" cellpadding=3D"0" cellspacing=3D"0" b=
+gcolor=3D"#f0f0f0">=0A  <tr>=0A    <td align=3D"center" valign=3D"top" bgco=
+lor=3D"#f0f0f0" style=3D"background: #f0f0f0">=0A      <table width=3D"600"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"container" bgcol=
+or=3D"#ffffff" style=3D"border-bottom-color: #e0e0e0; border-bottom-style: =
+solid; border-bottom-width: 1px; box-shadow: 0 0 3px #ddd; color: #162e34; =
+font-family: Helvetica, Verdana, sans-serif">=0A        <tr>=0A            =
+<td class=3D"header" style=3D"border-left-color: #e0e0e0; border-left-style=
+: solid; border-left-width: 1px">=0A                <div style=3D"-moz-bord=
+er-radius: 2px; -webkit-border-radius: 2px; background: #162e34; border: 1p=
+x solid #162e34; border-radius: 2px; box-shadow: inset 0 1px 0 #162e34; hei=
+ght: 5px">=C2=A0</div>=0A            </td>=0A        </tr>=0A        <tr>=
+=0A            <td class=3D"logo" style=3D"border-bottom-color: #efefef; bo=
+rder-bottom-style: solid; border-bottom-width: 1px; border-left-color: #e0e=
+0e0; border-left-style: solid; border-left-width: 1px; padding: 50px 0; tex=
+t-align: center" align=3D"center">=0A<img src=3D"https://gitter.im/_s/l/ima=
+ges/logo/logo-64.png" width=3D"138" height=3D"32" alt=3D"">=0A            <=
+/td>=0A=0A        </tr>=0A        <tr>=0A          <td class=3D"container-p=
+adding" bgcolor=3D"#ffffff" style=3D"background: #ffffff; border-left-color=
+: #e0e0e0; border-left-style: solid; border-left-width: 1px; padding-left: =
+30px; padding-right: 30px">=0A=0A            <br>=0A            =0A        =
+    <div class=3D"intercom-container intercom-align-left" style=3D"text-ali=
+gn: left !important" align=3D"left">=0A<a target=3D"_blank" href=3D"https:/=
+/via.intercom-mail.com/e=3Fob=3D5JgKgcNqI22MnTcsH7DdZ%2F8Qgqc6V7NyDjP%2F8BJ=
+bmbyZkTZbAxOCmY1e69%2F2JSqC2tUp69%2BnZVQEY8IQlJnTnA%3D%3D&h=3Dec0e5a16980f3=
+8f98bac12c0195ce8c2d8886702-6304515630" style=3D"color: #FF006F; text-decor=
+ation: underline">=0A<img src=3D"https://uploads.intercomcdn.com/i/o/388942=
+9/044629e611cb2d516c031a7d/explore-one.png">=0A</a>=0A</div>=0A<p class=3D"=
+intercom-align-left" style=3D"color: #162e34; font-size: 16px; line-height:=
+ 1.5; margin: 0 0 25px; text-align: left !important" align=3D"left"></p>=0A=
+<h1 class=3D"intercom-align-center" style=3D"color: #162e34; font-size: 22p=
+x; line-height: 1.5; margin: 0 0 25px; text-align: center !important" align=
+=3D"center">Gitter is home to over 50,000 communities.=C2=A0</h1>=0A<p clas=
+s=3D"intercom-align-center" style=3D"color: #162e34; font-size: 16px; line-=
+height: 1.5; margin: 0 0 25px; text-align: center !important" align=3D"cent=
+er">Looking to get involved in an open source project, or maybe you just ne=
+ed some help - whatever is it, we've got your back.=C2=A0</p>=0A<p class=3D=
+"intercom-align-center" style=3D"color: #162e34; font-size: 16px; line-heig=
+ht: 1.5; margin: 0 0 25px; text-align: center !important" align=3D"center">=
+Check out the thousands of <a href=3D"https://via.intercom-mail.com/e=3Fob=
+=3DYnhx59HQY1woaKm1dV4m15agNsbOPmnyYl%2Bh8%2F%2FsAxU%3D&h=3D851fbbb9f771285=
+a8f03417395d3715d3697a7ae-6304515630" target=3D"_blank" style=3D"color: #FF=
+006F; text-decoration: underline">Gitter</a> channels, and join the convers=
+ation.=C2=A0</p>=0A<div class=3D"intercom-container intercom-align-center" =
+style=3D"text-align: center !important" align=3D"center"><a class=3D"interc=
+om-h2b-button" target=3D"_blank" href=3D"https://via.intercom-mail.com/e=3F=
+ob=3D5JgKgcNqI22MnTcsH7DdZ%2F8Qgqc6V7NyDjP%2F8BJbmbyZkTZbAxOCmY1e69%2F2JSqC=
+2tUp69%2BnZVQEY8IQlJnTnA%3D%3D&h=3Dec0e5a16980f38f98bac12c0195ce8c2d8886702=
+-6304515630" style=3D"background: #f68d42; border-radius: 5px; color: #fff;=
+ display: inline-block; font-size: 15px; font-weight: bold; min-height: 20p=
+x; padding: 9px 15px; text-decoration: none">Explore </a></div>=0A<p class=
+=3D"intercom-align-left" style=3D"color: #162e34; font-size: 16px; line-hei=
+ght: 1.5; margin: 0 0 25px; text-align: left !important" align=3D"left"><br=
+></p>=0A            =0A          </td>=0A        </tr>=0A        <tr>=0A   =
+         <td style=3D"border-left-color: #e0e0e0; border-left-style: solid;=
+ border-left-width: 1px">=0A                <table border=3D"0" width=3D"10=
+0%" height=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#fbfbfb"=
+ class=3D"footer" style=3D"border-top-color: #efefef; border-top-style: sol=
+id; border-top-width: 1px; height: 69px; width: 100%">=0A                  =
+  <tr>=0A                        <td class=3D"social" style=3D"border-left-=
+color: #e0e0e0; border-left-style: none; border-left-width: 1px; color: #43=
+4343; font-size: 12px; line-height: 20px; text-align: center; vertical-alig=
+n: middle; width: 60%" align=3D"center" valign=3D"middle">=0A              =
+              Follow us: =C2=A0  =C2=A0 <a href=3D"https://via.intercom.io/=
+e=3Fob=3DE88XlgUhM8Uvj7wa9DkqINIK%2BLQu8g%2FdDrZrhhs0fY8%3D&h=3De5edf3cbcb5=
+23364314966d82a11d711db410ba5-6304515630" class=3D"twitter" style=3D"color:=
+ #00aced; font-weight: bold; text-decoration: none"><img src=3D"https://git=
+ter.im/_s/l/images/intercom/twitter-icon-40.png" width=3D"20" height=3D"20"=
+ style=3D"vertical-align: middle"> Twitter</a> =C2=A0=0A                   =
+     </td>=0A                        <td class=3D"subscription" style=3D"bo=
+rder-left-color: #e0e0e0; border-left-style: solid; border-left-width: 1px;=
+ color: #434343; font-size: 12px; text-align: center; vertical-align: middl=
+e; width: 40%" align=3D"center" valign=3D"middle">=0A                      =
+      <a href=3D"https://uxcz6eax.intercom-mail.com/unsubscribe=3Fapp_id=3D=
+uxcz6eax&conversation_id=3D6304515630&user_id=3D57f5133881540d210fb812be" s=
+tyle=3D"color: #434343; text-decoration: underline">Unsubscribe from our em=
+ails</a>=0A                        </td>=0A                    </tr>=0A    =
+            </table>=0A            </td>=0A        </tr>=0A      </table>=
+=0A    </td>=0A  </tr>=0A</table>=0A<br>=0A<img src=3D"https://via.intercom=
+-mail.com/o=3Fh=3D0059447c4ca4c34af6ae1dd56e582f504bce3709-6304515630" widt=
+h=3D"1" height=3D"1" style=3D"display: block;" alt=3D"intercom">=0A</body>=
+=0A</html>=0A
+--_----WBCUySjAy22XkXtK2x2OKQ===_2E/CD-65181-7215EF75--
+

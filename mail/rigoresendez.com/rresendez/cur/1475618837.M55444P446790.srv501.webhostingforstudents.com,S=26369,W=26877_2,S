@@ -1,0 +1,508 @@
+Return-Path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id Edw4AxUo9FdG0QYATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 04 Oct 2016 18:07:17 -0400
+Return-path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 04 Oct 2016 18:07:17 -0400
+Received: from o1.em2.juke.ly ([198.21.7.97]:59096)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>)
+	id 1brXro-001sFx-6I
+	for rresendez@rigoresendez.com; Tue, 04 Oct 2016 18:07:16 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=juke.ly; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=k1koZCeuBynQn/eJeTyZwm2fLxs=; b=MXuLmnjG0BlsAeJvN1sAkLr
+	dkoo+wHZeQV5SMecc1MfbG7d3/Zx7JIk+D0IhUhR5PPa/plZOJmC9er6aXEXx6TP
+	jkuqW9nkj8TuxCh9eOgrM0ZnPvcSyi5KWFOB1eWI60ubb7uMDjUuni8QvCELkd9e
+	G2yiCmPqdCWe5g3cD630=
+Received: by filter0808p1mdw1.sendgrid.net with SMTP id filter0808p1mdw1.28064.57F427B338
+        2016-10-04 22:05:39.366996233 +0000 UTC
+Received: from MjY4Nzk4OA (o16789125x233.outbound-mail.sendgrid.net [167.89.125.233])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with HTTP id RahEqe3MTEeZ1A7uNIiWSg
+	for <hi@juke.ly>; Tue, 04 Oct 2016 22:05:39.221 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=2b7164bb9ce60b3f0dc59418dde6758958c605be7920259cc3f03ae1012e
+Date: Tue, 04 Oct 2016 22:05:39 +0000
+From: "Jukely" <hi@juke.ly>
+Mime-Version: 1.0
+Reply-To: hi@juke.ly
+Subject: Save $10 on your first Minibar Delivery order
+To: rresendez@rigoresendez.com
+Message-ID: <RahEqe3MTEeZ1A7uNIiWSg@ismtpd0003p1iad1.sendgrid.net>
+List-Unsubscribe: <http://track.juke.ly/asm/unsubscribe/?user_id=2687988&data=AsZHRlAQ1T3CtZvjv1GwbQSLFaHPQ3V8UVrffHyBim-00N3ZHbckpqfG2eHsq2ofOJyTrogKTCVhs1ggQQzDme0ZcgqW0oKTQFqDgr8Mnso--S5dN4S3hWJipT_FCJjmcks1_wZ9jEa9XrruAZKKeYuzPcKYbcKuZviAIYOWnWawaJsu3UIEKTy8dz0Myjl2XeINyAoz8vK5HSjYzbPm1gMRXqDOvA8R0c7RY6ehionUbvMShnspRCofTTsByLjbcwD4nxdIYKH6lkb5SK4HJtyPBsmK560ng2BrUi7yYnCxD0u3V3FRCEbwaN7VLwTpIhQGtkA9BF-YeNHBqGPx6HsBTrn-49w8CVtKSaLSHeObKhpzK87DW5Hs0DmjMzYO-xXMq9dgmIJxwnl3zRy0k9WWnwXu4Nuc35-Xeo8X4JSu3BG0lKqCm2iGUC2L1HD1cS8KWlQlUGhvaUjhbQZdiBaOs-EGUXRHoyrSrQJBr_wmX8mWIvWSm-y2J1cMmUTkLRW4IAnaOH9FN5vuq_cN6ewbxHV-bIWt0sskvfPRqCqL76-G79UfY2YYsHFMBSP6tUR0HJ2nBNllOp0AxsNQQg==>, <mailto:unsubscribe@em.juke.ly?subject=http://track.juke.ly/asm/unsubscribe/*q*user_id=2687988&data=AsZHRlAQ1T3CtZvjv1GwbQSLFaHPQ3V8UVrffHyBim-00N3ZHbckpqfG2eHsq2ofOJyTrogKTCVhs1ggQQzDme0ZcgqW0oKTQFqDgr8Mnso--S5dN4S3hWJipT_FCJjmcks1_wZ9jEa9XrruAZKKeYuzPcKYbcKuZviAIYOWnWawaJsu3UIEKTy8dz0Myjl2XeINyAoz8vK5HSjYzbPm1gMRXqDOvA8R0c7RY6ehionUbvMShnspRCofTTsByLjbcwD4nxdIYKH6lkb5SK4HJtyPBsmK560ng2BrUi7yYnCxD0u3V3FRCEbwaN7VLwTpIhQGtkA9BF-YeNHBqGPx6HsBTrn-49w8CVtKSaLSHeObKhpzK87DW5Hs0DmjMzYO-xXMq9dgmIJxwnl3zRy0k9WWnwXu4Nuc35-Xeo8X4JSu3BG0lKqCm2iGUC2L1HD1cS8KWlQlUGhvaUjhbQZdiBaOs-EGUXRHoyrSrQJBr_wmX8mWIvWSm-y2J1cMmUTkLRW4IAnaOH9FN5vuq_cN6ewbxHV-bIWt0sskvfPRqCqL76-G79UfY2YYsHFMBSP6tUR0HJ2nBNllOp0AxsNQQg==>
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgYK9Hri4kk8PW9LRPlXso+twb2xAi+6Xw4xTb
+ DXNx4vvrbc8sV6UYu0ZE5k40WvbwSobSXKlmoYiaTXDAHQrVicKVN0CMl6Uph07bwZ2aZpl7Mzaev7
+ I2eKzh2QUiKXdlU41pYxNKWHUsGXGt0RarnY8CqiWbhSvt9xpfQ1FyBLSQ==
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP0nyJFSpE800ROL0pcCWT+1BksD4LN+Z+sXS+
+ yeOu7/NxPx1dRbNLz5Qt3pg8p3/DfFzcmv590EesWCfdJvfid0GCoZykoTTjMU/UYc5yHv12qBu+zv
+ prhh5kCha/tOfDDx8maDVIPkmgRJphyrnSgzVFpZgjxUqxtmlwsdftWEwdrJ2xUQv59oFlYmIwL4rq
+ Y=
+
+--2b7164bb9ce60b3f0dc59418dde6758958c605be7920259cc3f03ae1012e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Jukely.com_email-01
+
+https://www.jukely.com/login?utm_source=3Demail=C2=A0 =C2=A0PARTNERS
+
+https://minibardelivery.com/?utm_source=3Djukely&utm_medium=3Demail&utm_cam=
+paign=3Dcross-promo
+
+We've partnered with Minibar Delivery, an app that delivers=C2=A0wine, beer=
+ & liquor to your door in under an hour with just a few taps.=C2=A0
+
+We hope you'll keep making magical, memorable moments this season, whether =
+you're heading out to a show=C2=A0or spending the=C2=A0night in.=C2=A0
+
+Try Minibar Delivery and use code JUKELY=C2=A0when you check out=C2=A0to sa=
+ve $10 on your first order.=C2=A0
+
+SHOP NOW https://minibardelivery.com/?utm_source=3Djukely&utm_medium=3Demai=
+l&utm_campaign=3Dcross-promo
+
+* Offer valid until 12/31/16. Offer is valid on first Minibar Delivery purc=
+hase only and cannot be combined with another offer. In Texas and Indianapo=
+lis, promo is valid only on delivery fee or non-alcoholic items.
+
+http://instagram.com/jukely/
+
+http://twitter.com/jukely
+
+http://facebook.com/jukelyapp
+
+Copyright =C2=A9 2016 Jukely, Inc., All rights reserved.
+
+If you wish to stop receiving the weekly digest simply update your preferen=
+ces http://jukely.com/settings or unsubscribe http://track.juke.ly/asm/unsu=
+bscribe/?user_id=3D2687988&data=3DAsZHRlAQ1T3CtZvjv1GwbQSLFaHPQ3V8UVrffHyBi=
+m-00N3ZHbckpqfG2eHsq2ofOJyTrogKTCVhs1ggQQzDme0ZcgqW0oKTQFqDgr8Mnso--S5dN4S3=
+hWJipT_FCJjmcks1_wZ9jEa9XrruAZKKeYuzPcKYbcKuZviAIYOWnWawaJsu3UIEKTy8dz0Myjl=
+2XeINyAoz8vK5HSjYzbPm1gMRXqDOvA8R0c7RY6ehionUbvMShnspRCofTTsByLjbcwD4nxdIYK=
+H6lkb5SK4HJtyPBsmK560ng2BrUi7yYnCxD0u3V3FRCEbwaN7VLwTpIhQGtkA9BF-YeNHBqGPx6=
+HsBTrn-49w8CVtKSaLSHeObKhpzK87DW5Hs0DmjMzYO-xXMq9dgmIJxwnl3zRy0k9WWnwXu4Nuc=
+35-Xeo8X4JSu3BG0lKqCm2iGUC2L1HD1cS8KWlQlUGhvaUjhbQZdiBaOs-EGUXRHoyrSrQJBr_w=
+mX8mWIvWSm-y2J1cMmUTkLRW4IAnaOH9FN5vuq_cN6ewbxHV-bIWt0sskvfPRqCqL76-G79UfY2=
+YYsHFMBSP6tUR0HJ2nBNllOp0AxsNQQg=3D=3D.=
+
+--2b7164bb9ce60b3f0dc59418dde6758958c605be7920259cc3f03ae1012e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<title>Jukely.com_email-01</title>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /=
+><meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0" />
+	<style type=3D"text/css">a{
+				outline:none;
+				color:#9b02ff;
+				text-decoration:underline;
+			}
+			a:hover{text-decoration:none !important;}
+			.link:hover{text-decoration:underline !important;}
+			a[x-apple-data-detectors]{color:inherit !important; text-decoration:none=
+ !important;}
+			.active:hover{opacity:0.8; text-decoration:none !important;}
+			.active{
+				-webkit-transition:all 0.3s ease;
+				-moz-transition:all 0.3s ease;
+				-ms-transition:all 0.3s ease;
+				transition:all 0.3s ease;
+			}
+			a img{border:none;}
+			p{Margin:0 !important;}
+			table td{mso-line-height-rule:exactly;}
+			.ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b,=
+ .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:inheri=
+t;}
+			@media only screen and (max-width:500px) {
+				/* default style */
+				table[class=3D"flexible"]{width:100% !important;}
+				table[class=3D"table-center"]{float:none !important; margin:0 auto !imp=
+ortant; width:auto !important;}
+				*[class=3D"hide"]{display:none !important; width:0 !important; height:0=
+ !important; padding:0 !important; font-size:0 !important; line-height:0 !i=
+mportant;}
+				span[class=3D"db"]{display:block !important;}
+				td[class=3D"img-flex"] img{width:100% !important; height:auto !importan=
+t;}
+				td[class=3D"aligncenter"]{text-align:center !important;}
+				tr[class=3D"table-holder"]{display:table !important; width:100% !import=
+ant;}
+				th[class=3D"tcap"]{display:table-caption !important; width:100% !import=
+ant;}
+				th[class=3D"thead"]{display:table-header-group !important; width:100% !=
+important;}
+				th[class=3D"trow"]{display:table-row !important; width:100% !important;}
+				th[class=3D"tfoot"]{display:table-footer-group !important; width:100% !=
+important;}
+				th[class=3D"flex"]{display:block !important; width:100% !important;}
+				/* custom style */
+				td[class=3D"logo"]{padding:26px 16px 26px !important;}
+				td[class~=3D"block-holder"]{padding-left:0 !important; padding-right:0 =
+!important;}
+				td[class~=3D"pb40"]{padding-bottom:40px !important;}
+				td[class~=3D"pb31"]{padding-bottom:31px !important;}
+				td[class=3D"frame"]{padding-left:8% !important; padding-right:8% !impor=
+tant;}
+				td[class=3D"block-title"]{font-size: 25px !important; line-height: 29px=
+ !important; padding-bottom:15px !important;}
+				td[class=3D"pre-footer"]{padding:57px 30px 81px !important;}
+				td[class=3D"w55"]{width: 55px !important;}
+			}
+	</style>
+</head>
+<body bgcolor=3D"#ffffff" style=3D"margin:0; padding:0; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%;">
+<table bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" style=3D"min=
+-width:320px;" width=3D"100%"><!-- fix for gmail -->
+	<tbody>
+		<tr>
+			<td style=3D"line-height:0;">
+			<div style=3D"display:none; white-space:nowrap; font:15px/1px courier;">=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp;</div>
+			</td>
+		</tr>
+		<!-- header -->
+		<tr>
+			<td class=3D"pb40" style=3D"padding:0 0 32px;">
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td class=3D"hide" valign=3D"top" width=3D"50%">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#781214" height=3D"315">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td bgcolor=3D"#781214">
+						<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+flexible" style=3D"margin:0 auto;" width=3D"600"><!-- fix for gmail -->
+							<tbody>
+								<tr>
+									<td class=3D"hide">
+									<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:600px !i=
+mportant;" width=3D"600">
+										<tbody>
+											<tr>
+												<td style=3D"min-width:600px; font-size:0; line-height:0;">&nbs=
+p;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- pre-header -->
+								<tr>
+									<td class=3D"logo" style=3D"line-height: 20px; padding: 24px 0px;"=
+><span class=3D"sg-image" data-imagelibrary=3D"%7B%22width%22%3A%2299%22%2C=
+%22height%22%3A%2220%22%2C%22alt_text%22%3A%22JUKELY%22%2C%22alignment%22%3=
+A%22left%22%2C%22src%22%3A%22https%3A//marketing-image-production.s3.amazon=
+aws.com/uploads/2e1bdd28ac27c10b7f03ba16bfded7fb210a2fc735b79196e4910a90878=
+453c2ad3184b89005abdbbb12e316db8861c37a2a136d29f9ba50822c7fac877d55d2.png%2=
+2%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D" styl=
+e=3D"float: left; display: inline; text-align: left;"><a href=3D"http://tra=
+ck.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNUqycZX3tsX1PddEoVJrAvRSLD9dp=
+jSRkf41en4W-2BHIhQqk26tT80GQ0kIBF1wOCMg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2Bt=
+cgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLu=
+w51AQ5l2MCjJXMTpgzLSYKscgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqFcadbZ-2B=
+lPsBMgKQOSeconb5-2FDdFp1N5HhlbwAI9-2FONUcfrkllkHCSOxSsyeaJylJF49dszd3doVhu9=
+COu-2BgyGsoQknRp0rCiKB950BIB0O4ihSpbJh72QJdNYUy-2ByzI23tlaAgsYfMjgTl6MTitMd=
+JrXdB0fTQX6azu2UzMZDSo0mD6Lj7Pb-2BxKlcLe6cRExpIb5SWHjpuaKzf8JtxeUp76GQqWxbJ=
+60fsKhwmsu2Fo1E1xILd3ZoUNGcPHOBm-2F4iaIkG-2FHyhnjBOMeGRUKpTLg4uEeUiQHO7dZis=
+VQrUFzMj6VoVRc7c6Vo-2FRBJP62pS70PselD59u8s-3D" style=3D"text-decoration:non=
+e;" target=3D"_blank"><img alt=3D"JUKELY" height=3D"20" src=3D"https://mark=
+eting-image-production.s3.amazonaws.com/uploads/2e1bdd28ac27c10b7f03ba16bfd=
+ed7fb210a2fc735b79196e4910a90878453c2ad3184b89005abdbbb12e316db8861c37a2a13=
+6d29f9ba50822c7fac877d55d2.png" style=3D"vertical-align: top; font-style: n=
+ormal; font-variant: normal; font-weight: bold; font-stretch: normal; font-=
+size: 20px; line-height: 24px; font-family: Helvetica, Arial, sans-serif; c=
+olor: rgb(255, 255, 255); width: 99px; height: 20px;" width=3D"99" /></a></=
+span>&nbsp; &nbsp;<strong><span style=3D"font-size:18px;"><span style=3D"fo=
+nt-family:helvetica,arial,sans-serif;"><span style=3D"color:#FFFFFF;">PARTN=
+ERS</span></span></span></strong></td>
+								</tr>
+								<!-- banner -->
+								<tr>
+									<td class=3D"img-flex"><span class=3D"sg-image" data-imagelibrary=
+=3D"%7B%22width%22%3A%22605%22%2C%22height%22%3A%22427%22%2C%22alt_text%22%=
+3A%22%22%2C%22alignment%22%3A%22%22%2C%22src%22%3A%22https%3A//marketing-im=
+age-production.s3.amazonaws.com/uploads/43b7fe8fb57d36b64cc392b785f6c4c09bb=
+3deac21d1e8a2e2bd3351d90d240133bd88cfe9ad1a172619857d29ae5895a8c1ea78fe0f00=
+d95eea99d1f82c4d97.jpg%22%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%22sg-=
+image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNe0GwOP8BYpp8gx-2BRoS0zLW2-2FcsvNWy37sLHxZfU-2FtcucQ7tYc9bboXWD=
+8qJTFKgxxkoWixd5T2EsbOpRqUQbDh9GI821cJ34YQzv0F7iQp-2B_xb69N2IWj9cpa7VY1jz2n=
+0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FR=
+asRi3zLuw51AQ5l2MCjJXMTpgzLSYKscgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqF=
+cadbZ-2BlPsBMgKQOSeconb5-2FDdFp1N5HhlbwAI9-2FONUcfrkllkHCSOxVDFTIUZQc72ealV=
+FmwQvQXGUzphYyelztgj7Hsg51HyI6tT9wKBqBztmQfrMk6Ty6k4UQWi2veZj9i38vwEy5h9CiU=
+8yakU39Pqm8Oo0P0XsZI9QFnxUs-2BmAGnJp9OEJWcLmgg4Fls266USqt0zBeAdPFHCA2fldUj1=
+M4QAwZyGb-2FXh-2B3eAkwgxPUvl6ZbLsUJnWzNfCulRu5L241L06CFfvskA4sIyzePt-2FNs-2=
+FYtfNFl7NF2vtui-2FzKy8mLApxk98C-2BOZRdLa-2F0wnQljkuIzk-3D" style=3D"text-de=
+coration:none;" target=3D"_blank"><img alt=3D"We've partnered with Minibar =
+Delivery." height=3D"427" src=3D"https://marketing-image-production.s3.amaz=
+onaws.com/uploads/43b7fe8fb57d36b64cc392b785f6c4c09bb3deac21d1e8a2e2bd3351d=
+90d240133bd88cfe9ad1a172619857d29ae5895a8c1ea78fe0f00d95eea99d1f82c4d97.jpg=
+" style=3D"vertical-align: top; font-style: normal; font-variant-ligatures:=
+ normal; font-variant-caps: normal; font-weight: normal; font-stretch: norm=
+al; font-size: 18px; line-height: 22px; font-family: Helvetica, Arial, sans=
+-serif; color: rgb(255, 255, 255); width: 605px; height: 427px;" width=3D"6=
+05" /></a></span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class=3D"hide" valign=3D"top" width=3D"50%">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#781214" height=3D"315">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- content -->
+		<tr>
+		</tr>
+	</tbody>
+</table>
+
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"flexib=
+le" style=3D"margin:0 auto;" width=3D"600">
+	<tbody>
+		<tr>
+			<td class=3D"frame" style=3D"padding:0 10px 0 0;">
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td class=3D"text" style=3D"font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-stretch: normal; font-size: 16px; line-height: 24px;=
+ font-family: Helvetica, Arial, sans-serif; color: rgb(82, 82, 82); padding=
+: 0px 0px 31px;">
+						<div>We&#39;ve partnered with <strong style=3D"font-style: normal;">M=
+inibar Delivery</strong>, an app that delivers&nbsp;wine, beer &amp; liquor=
+ to your door in under an hour with just a few taps.&nbsp;</div>
+
+						<div style=3D"font-style: normal;">&nbsp;</div>
+
+						<div style=3D"font-style: normal;">We hope you&#39;ll keep making mag=
+ical, memorable moments this season, whether you&#39;re heading out to a sh=
+ow&nbsp;or spending the&nbsp;night in.&nbsp;</div>
+
+						<div style=3D"font-style: normal;">&nbsp;</div>
+
+						<div style=3D"font-style: normal;">Try Minibar Delivery and use code<=
+b> JUKELY&nbsp;</b>when you check out&nbsp;to save $10 on your first order.=
+&nbsp;</div>
+						</td>
+					</tr>
+					<!-- button -->
+					<tr>
+						<td>
+						<center>&nbsp;</center>
+
+						<table cellpadding=3D"0" cellspacing=3D"0" class=3D"full-width">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#781214" class=3D"button active" style=3D"font-styl=
+e: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-=
+weight: bold; font-stretch: normal; font-size: 16px; line-height: 17px; fon=
+t-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); text-tra=
+nsform: uppercase; letter-spacing: 1px; border-radius: 2px; text-align: cen=
+ter;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNe=
+0GwOP8BYpp8gx-2BRoS0zLW2-2FcsvNWy37sLHxZfU-2FtcucQ7tYc9bboXWD8qJTFKgxxkoWix=
+d5T2EsbOpRqUQbDh9GI821cJ34YQzv0F7iQp-2B_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-=
+2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5=
+l2MCjJXMTpgzLSYKscgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqFcadbZ-2BlPsBMg=
+KQOSeconb5-2FDdFp1N5HhlbwAI9-2FONUcfrkllkHCSOxVV-2FCHmM67H3T5J-2F4wsqF2wui0=
+FWlAAFgI4oHaltYXDaIeHgonsh5j4iEpYwDQfCDe4xF64R7hs-2BvMRFdlyV4YvDgiKhcSH6scm=
+aiUkdI4aZ5sj-2BginpH7OaX-2FQRfZ439BBiURKqSfbfqJjwBlA2lcUNd-2BsFxINuUJjPYQJc=
+7Hr8xenI8FdmM4e4hIDRbU-2FYh2EQj7QNGvui4qw4VVNSrYUbQYBY6rqjrXuWRvWRV-2B2gctd=
+k0M-2BABCGrmcfpmYhLnoRHx58MlzRzevqcM0sFP9I-3D" style=3D"text-decoration:non=
+e; color:#fff; display:block; padding:16px 32px;"><span style=3D"font-size:=
+18px;">SHOP NOW</span></a></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<div>&nbsp;</div>
+
+						<div><span style=3D"font-size:11px;"><span style=3D"color: rgb(82, 82=
+, 82); font-family: Helvetica, Arial, sans-serif; line-height: 24px;">* <em=
+>Offer valid until 12/31/16. Offer is valid on first Minibar Delivery purch=
+ase only and cannot be combined with another offer. In Texas and Indianapol=
+is, promo is valid only on delivery fee or non-alcoholic items.</em></span>=
+</span></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div><!-- pre-footer --><!-- footer --></div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"flexib=
+le" style=3D"margin:0 auto;" width=3D"600">
+	<tbody>
+		<tr>
+			<td class=3D"frame" style=3D"padding: 51px 200px 40px 0;">
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"padding: 0 0 37px;">
+						<table cellpadding=3D"0" cellspacing=3D"0">
+							<tbody>
+								<tr>
+									<td class=3D"active" width=3D"28"><span class=3D"sg-image" data-im=
+agelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2228%22%2C%22alt_=
+text%22%3A%22in%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%2=
+2%3A%22https%3A//marketing-image-production.s3.amazonaws.com/uploads/b72073=
+9e450199971db1776d0e5c82899049439eb9e4ba5a632d9b45119f72e281e9e699c99eec482=
+75914ab477b17149c552ee329dfff3fd9b582dd83438b73.png%22%2C%22link%22%3A%22ht=
+tp%3A//instagram.com/jukely/%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%=
+7D"><a href=3D"http://track.juke.ly/wf/click?upn=3DFmrldxErjk26cymxNCOYaQOP=
+F0-2FI1t-2FBahknMj8qHTGsdIsMHmR-2BYHfl6BowDQCX_xb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zL=
+uw51AQ5l2MCjJXMTpgzLSYKscgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqFcadbZ-2=
+BlPsBMgKQOSeconb5-2FDdFp1N5HhlbwAI9-2FONUcfrkllkHCSOxRbIi1-2FU3jxkrAeOLGKrM=
+GX2-2FlbyczdPFacCCqKowa6Uj5If8jryy5GUkROiQ2Zl7B3sFRiXqj5c4YBsG-2FbgVVp7-2Fd=
+zAYyB3T5qWWcn0gCBlcy5tSUq5xrI3GOGXCsZU7sxkoZIXmIhLw0gFBbBY-2Fbimw7-2BjgR-2F=
+BDewAzX9dMDevUM9l1PbZMYJebfk51p7p3eiDJTvGAqjrswfD4uvi4jBl1NcM2HglkSLbC9rvo-=
+2F18-2BcdU9bMsCmVFIPgBJrNSIkRKcMnznQVdgnD-2FYDQGLWw-3D" target=3D"_blank"><=
+img alt=3D"in" border=3D"0" height=3D"28" src=3D"https://marketing-image-pr=
+oduction.s3.amazonaws.com/uploads/b720739e450199971db1776d0e5c82899049439eb=
+9e4ba5a632d9b45119f72e281e9e699c99eec48275914ab477b17149c552ee329dfff3fd9b5=
+82dd83438b73.png" style=3D"vertical-align: top; width: 28px; height: 28px;"=
+ width=3D"28" /></a></span></td>
+									<td width=3D"21">&nbsp;</td>
+									<td class=3D"active" width=3D"28"><span class=3D"sg-image" data-im=
+agelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2223%22%2C%22alt_=
+text%22%3A%22tw%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%2=
+2%3A%22https%3A//marketing-image-production.s3.amazonaws.com/uploads/7b1899=
+e3ef5be4c72d170d546ea791883a7fb427de2a504cd15d60a1e0d9a889305f3821cc3afa591=
+41e2819bd068ceac16f79fd3208a7549efe7378abd27229.png%22%2C%22link%22%3A%22ht=
+tp%3A//twitter.com/jukely%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"=
+><a href=3D"http://track.juke.ly/wf/click?upn=3D3QihKcNaduXmwDLFG1HPsayBqYc=
+lg2yfoviy-2BmryIZhYQeAePxBLP9FyLZ2d3rDn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-=
+2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5=
+l2MCjJXMTpgzLSYKscgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqFcadbZ-2BlPsBMg=
+KQOSeconb5-2FDdFp1N5HhlbwAI9-2FONUcfrkllkHCSOxf01lKfsYia5OMdqrR80bePZIj5OjD=
+Nz1qOOlCinNb-2BfjcqSnsSzpJm-2FC5-2BoMOvmVYe85k91ZNIKxLmHzE7p0LbtqzqnsZCB45t=
+mkftJ8XcT97ScjUwChpn7Ol7DZQ-2B6-2FZRcfWgSWcZ26VAZxCLMBz9HMnok9miXLv4JDRSMxt=
+-2FKUdMLhGMzglsFuP6QSoMG8URnSWv13Sj5C0KzjMnJELDeStMavlTM1DEz4RRJvkhg5oAFo0-=
+2F9XW6suRqIMxDy6ZwRbs4t6hPhWCzTQtE-2BLfs-3D" target=3D"_blank"><img alt=3D"=
+tw" border=3D"0" height=3D"23" src=3D"https://marketing-image-production.s3=
+.amazonaws.com/uploads/7b1899e3ef5be4c72d170d546ea791883a7fb427de2a504cd15d=
+60a1e0d9a889305f3821cc3afa59141e2819bd068ceac16f79fd3208a7549efe7378abd2722=
+9.png" style=3D"vertical-align: top; width: 28px; height: 23px;" width=3D"2=
+8" /></a></span></td>
+									<td width=3D"21">&nbsp;</td>
+									<td class=3D"active" width=3D"28"><span class=3D"sg-image" data-im=
+agelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2228%22%2C%22alt_=
+text%22%3A%22fb%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%2=
+2%3A%22https%3A//marketing-image-production.s3.amazonaws.com/uploads/af3e2b=
+6282b13644485f6f754f6ab5058cd6e553be903f6d79f4a403c04419bd56fe3597fcaf5bad7=
+31fcd79d380be7868155220c9b85e1dd4f2d5bd21ddbc20.png%22%2C%22link%22%3A%22ht=
+tp%3A//facebook.com/jukelyapp%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D=
+%7D"><a href=3D"http://track.juke.ly/wf/click?upn=3Dq5GdJANgzHoODmOQ9g28etj=
+voARZJGU8EJDCUp6x56kctoUhNZjUSLziKBTse5hz_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1=
+b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51A=
+Q5l2MCjJXMTpgzLSYKscgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqFcadbZ-2BlPsB=
+MgKQOSeconb5-2FDdFp1N5HhlbwAI9-2FONUcfrkllkHCSOxagRozo38kLMgXrZd-2BWH6ZexUV=
+Y8LN4TjjUnwLR4yRtmOyjJTCOHCJo-2FL7DeQAzbyrpRHmg5IzJrsUVD7BwauJQDUxLLEG3-2B9=
+K-2BIFDupcuJ2sExZKqIBNmsIEhHi9D26OPzu4WDkDq1yzlPChC8s0TFNET-2FP-2F2E03ucMwB=
+EveU4C8-2FecDITEOMdiM1Zcyp-2FckOMoahcrKi87-2Fhp1xPsJshZzdOvBQHiXgQ-2BdhqvVb=
+wddrobD-2BMK1IX2QZ-2BXrDoP4z5c5-2FmaYjqLg5yl4kGRhKVo-3D" target=3D"_blank">=
+<img alt=3D"fb" border=3D"0" height=3D"28" src=3D"https://marketing-image-p=
+roduction.s3.amazonaws.com/uploads/af3e2b6282b13644485f6f754f6ab5058cd6e553=
+be903f6d79f4a403c04419bd56fe3597fcaf5bad731fcd79d380be7868155220c9b85e1dd4f=
+2d5bd21ddbc20.png" style=3D"vertical-align: top; width: 28px; height: 28px;=
+" width=3D"28" /></a></span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; color:#c5bd=
+c8; padding: 0 0 10px;">Copyright &copy; 2016 Jukely, Inc., All rights rese=
+rved.</td>
+					</tr>
+					<tr>
+						<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; color:#c5bd=
+c8;">If you wish to stop receiving the weekly digest simply <a href=3D"http=
+://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65RzmUU0COK5ypNruyIrGF4yt=
+xYhiaKphGlFXKoayiVP-2Bh_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2=
+B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJXMTpgzLSYK=
+scgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqFcadbZ-2BlPsBMgKQOSeconb5-2FDdF=
+p1N5HhlbwAI9-2FONUcfrkllkHCSOxbcqHzk40ydu6UPojridZIIvMQYhrKZCCYw-2FiCEZJlZu=
+b4kcDTmNz8slAAv1sw1q-2BbHhmyzupJ7pVqLajjWtHHMLJweLmniyFtEsp2QBx2wVvQC7mb-2F=
+4F1rZuFWUBBGTm1y27HL-2FRDt6dzCzDIY5xYqvN6FTm3yTfQ54lIRL4sy5ldfUFeQSs0ei6XNN=
+aj-2FU-2FCs0BfYdPJPxL6EVBExPp1Iut8GQ0Qe7IzZ1p8nwE3z1IuSrrvZdQSeucSLfAeDF6Pd=
+pDwcGKK80JYBPRnDdhg0-3D" style=3D"text-decoration:underline; color:#c5bdc8;=
+">update your preferences</a> or <a href=3D"http://track.juke.ly/asm/unsubs=
+cribe/?user_id=3D2687988&data=3DAsZHRlAQ1T3CtZvjv1GwbQSLFaHPQ3V8UVrffHyBim-=
+00N3ZHbckpqfG2eHsq2ofOJyTrogKTCVhs1ggQQzDme0ZcgqW0oKTQFqDgr8Mnso--S5dN4S3hW=
+JipT_FCJjmcks1_wZ9jEa9XrruAZKKeYuzPcKYbcKuZviAIYOWnWawaJsu3UIEKTy8dz0Myjl2X=
+eINyAoz8vK5HSjYzbPm1gMRXqDOvA8R0c7RY6ehionUbvMShnspRCofTTsByLjbcwD4nxdIYKH6=
+lkb5SK4HJtyPBsmK560ng2BrUi7yYnCxD0u3V3FRCEbwaN7VLwTpIhQGtkA9BF-YeNHBqGPx6Hs=
+BTrn-49w8CVtKSaLSHeObKhpzK87DW5Hs0DmjMzYO-xXMq9dgmIJxwnl3zRy0k9WWnwXu4Nuc35=
+-Xeo8X4JSu3BG0lKqCm2iGUC2L1HD1cS8KWlQlUGhvaUjhbQZdiBaOs-EGUXRHoyrSrQJBr_wmX=
+8mWIvWSm-y2J1cMmUTkLRW4IAnaOH9FN5vuq_cN6ewbxHV-bIWt0sskvfPRqCqL76-G79UfY2YY=
+sHFMBSP6tUR0HJ2nBNllOp0AxsNQQg=3D=3D" style=3D"text-decoration:underline; c=
+olor:#c5bdc8;">unsubscribe</a>.</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div>&nbsp;</div>
+
+<img src=3D"http://track.juke.ly/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zL=
+uw51AQ5l2MCjJXMTpgzLSYKscgCpoG4q52kapLVheEJctY4bAg5skdojFtr-2B3p4VqFcadbZ-2=
+BlPsBMgKQOSeconb5-2FDdFp1N5HhlbwAI9-2FONUcfrkllkHCSOxT4MyowDLYjxFKjfhn7dD7P=
+Smaoohg9gJ5VrvhMO5USGHTbpRNdvPmFEIOkzvEonhEzXROt7W-2FrCkOzvI2-2FKar3787KDrx=
+WCvVxMB7O97P2400wMzdusS14GjCADovzJyLxA6GBKcAu2B9CxvzZcTZ-2FarFSv-2BR8vM-2Fy=
+yU-2FEXkJIjVvmGeUX0qoEnos5uPIbam3FRz57EemNVLWIcxxc8HhVUBKN4aGvTQi5BsSowykwk=
+ZL8mwGecTXxF5UyDfH4Iie-2BX28Bp5q1b9KUb0TXzAWo-3D" alt=3D"" width=3D"1" heig=
+ht=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;b=
+order-width:0 !important;margin-top:0 !important;margin-bottom:0 !important=
+;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importan=
+t;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !im=
+portant;"/>
+</body>
+</html>
+
+
+--2b7164bb9ce60b3f0dc59418dde6758958c605be7920259cc3f03ae1012e--

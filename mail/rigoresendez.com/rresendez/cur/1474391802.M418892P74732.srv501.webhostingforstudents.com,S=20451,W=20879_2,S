@@ -1,0 +1,428 @@
+Return-Path: <BwBEWwoBVwJsUggNAFVRB1VcAAEAVAcHVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBQCg@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id EHfkGPpu4VfsIwEATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 20 Sep 2016 13:16:42 -0400
+Return-path: <BwBEWwoBVwJsUggNAFVRB1VcAAEAVAcHVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBQCg@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 20 Sep 2016 13:16:42 -0400
+Received: from mta-dock-front-16.bluestatedigital.com ([70.42.50.134]:57463)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsUggNAFVRB1VcAAEAVAcHVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBQCg@bounce.bluestatedigital.com>)
+	id 1bmOew-000JL1-8H
+	for rresendez@rigoresendez.com; Tue, 20 Sep 2016 13:16:42 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.88])
+	by mta-dock-front-16.bluestatedigital.com (Postfix) with ESMTP id 3sdqCk1MnLz1nsMw
+	for <rresendez@rigoresendez.com>; Tue, 20 Sep 2016 17:16:02 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=bounce.bluestatedigital.com; s=bsdkey; t=1474391762;
+	bh=RjRFlEcKQC3xUbTxhJ2DpqOgxTz1opT3UYIYuwQ4E2Y=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=XBE7zusWjMQQpuz0FyMsnFeQL4CbFP3SJ+9F8GD+jrnmR4+4qtIQH0UA6udi0L07D
+	 v6mA/AlGUPmxi7DxcRIy1GVWnlEguGb2CYSLC27qUZdLAH4Dp95paTFemclQwqfBUa
+	 ZYi428uKR++2rZGYQ+F025l1DmsatEgQvv7jsNjU=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Tue, 20 Sep 2016 17:16:02 +0000
+Date: Tue, 20 Sep 2016 17:16:02 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: "OurRevolution.com" <info@ourrevolution.com>
+Reply-to: info@ourrevolution.com
+Subject: 10 candidates
+Message-ID: <37a572634be991d808db9dfa3742b1d8@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: a8810bf6e034cb45
+X-rpcampaign: rp_177100
+X-maillist-guid: BwBEWwoBVwJsUggNAFVRB1VcAAEAVAcHVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBQCg
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsUggNAFVRB1VcAAEAVAcHVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBQCg@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_37a572634be991d808db9dfa3742b1d8"
+
+
+--b1_37a572634be991d808db9dfa3742b1d8
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto,
+
+Change never happens from the top down, it always occurs from the bottom =
+up. This is just as true for how we can win long-lasting progressive =
+change in our cities and our states.
+
+We want to help progressives who are fighting for change at the local =
+level. So today we're endorsing 10 local candidates who represent the =
+future of our political revolution.
+
+Some of these candidates could help determine how congressional districts =
+are drawn for the remainder of the next decade -- a key to progressives =
+gaining power in the House of Representatives for the decade to come. =
+Others can use their offices to create real change for voting rights, =
+equal pay, and economic justice.
+
+It's up to us to transform the future of our country, and that's why we =
+are proud to ask:
+
+Can we count on you to split a $15 contribution to this great slate of =
+progressive local candidates and Our Revolution as a way of saying we are =
+going to fight to transform our country from the bottom up?
+
+https://secure.actblue.com/contribute/page/10-local-candidates?refcode=3De=
+m160920-pt
+
+Sara Niccoli is a farmer and advocate for working people running for New =
+York's state senate. She's running on a platform that will always put her =
+community ahead of corporate interests. A victory for Sara would help turn =
+the tide against the narrow majority in New York's senate held by =
+conservatives and corporate-backed politicians.
+
+Teresa Meyer is a registered nurse who would be a tremendous state =
+representative in Iowa. She wants to increase the minimum wage, and she's =
+seen in her career how difficult it can be for patients to navigate health =
+insurance companies to get the care they need. She'll be on the side of =
+working families in Iowa.
+
+Brad Avakian has spent his career fighting for working people, and now =
+he's running to be Oregon's next Secretary of State. As the state's labor =
+commissioner, Brad fought wage theft and civil rights abuses. And if Brad =
+wins, he plans to use his office to ensure Oregon corporations provide =
+equal pay for equal work.
+
+Adrian Fontes should be Maricopa County, Arizona's next County Recorder. =
+You might remember huge lines, delays, and disenfranchisement during =
+Arizona's presidential primary. Well, that was partially thanks to =
+Adrian's opponent, because the county recorder is in charge of voting =
+access and rights in Arizona's biggest county. Adrian is running to =
+restore voting rights and to protect democracy.
+
+Dan Quick is a proud union member running to be a state senator in =
+Nebraska. Dan's fought against corporate privatization of public =
+utilities, and he would be a strong advocate for working families in =
+Nebraska's state senate.
+
+Mari Cordes is a registered nurse running for Vermont's state house who =
+knows we need universal health care. She wants to remove corporate greed =
+from our health care system because she's seen how insurance companies get =
+in the way of patient care. That's why Mari will fight for a =
+publicly-funded health care system.
+
+Gary Kroeger is running as a proud progressive to be a state =
+representative in Iowa. He will fight to protect students, the =
+environment, and working people, and will help advance the ideals of our =
+political revolution.
+
+Jane Kim is a civil rights attorney who's fought for affordable housing =
+and fair wages and who is running for California's state senate. You've =
+met her before: Bernie Sanders' endorsement, along with thousands of =
+contributions from our political revolution, helped Jane pull off a =
+shocking win in her primary in June. Now she needs our help in her general =
+election to secure another huge victory.
+
+Nicole Cannizzaro knows the value of public education, and that's why =
+she's running to be a state senator in Nevada. She benefited from Nevada's =
+state-funded educational opportunities that helped her go to college and =
+become a lawyer. She'll fight to protect and expand those programs in =
+Nevada's state senate.
+
+Sabrina Shrader uses her experience growing up in poverty to help others, =
+and now she's running for West Virginia's state house. After a difficult =
+childhood, Sabrina shares her story with other families struggling in =
+poverty and works to help them get back on their feet. She would be a =
+tremendous advocate in West Virginia's legislature.
+
+Can you split a $15 contribution to these candidates and Our Revolution as =
+a way of saying we are going to fight to transform our country from top to =
+bottom?
+
+https://secure.actblue.com/contribute/page/10-local-candidates?refcode=3De=
+m160920-pt
+
+We have the opportunity to help these folks win their local races. If =
+they're successful, they'll help create lasting progressive policies, and =
+some might even go on to be members of Congress, senators, and governors.
+
+That is the political revolution, and that's why splitting your =
+contribution between this great slate of local candidates and Our =
+Revolution is so important.
+
+In solidarity,
+
+Shannon Jackson
+Executive Director
+Our Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Our Revolution
+
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE. OUR REVOLUTION IS =
+A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION ARE NOT =
+DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX PURPOSES.
+(not the billionaires)
+
+603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to Our =
+Revolution here: https://secure.actblue.com/contribute/page/ourrevolution?=
+refcode=3Demail_footer.
+
+
+--b1_37a572634be991d808db9dfa3742b1d8
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+         div{
+         font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+         font-weight: 400;
+         font-size: 17px;
+         line-height:140%;
+         color: #364350;
+         }
+         a{
+         color: #147FD7;
+         }
+         .express-lane-links .link{
+         margin: 0;
+         }
+         .express-lane-links .link a{
+         font-family: sans-serif;
+         font-size: 18px;
+         background-color: #147FD7;
+         border-top: 1px solid #1e88e0;
+         border-bottom: 2px solid #0e72c4;
+         width: 290px;
+         margin: 12px auto;
+         border-radius: 4px;
+         text-align: center;
+         color: white;
+         text-decoration: none;
+         padding: 12px 5px;
+         font-weight:700;
+         display: block;
+         text-transform: uppercase;
+         letter-spacing: 0.075em;
+         }
+         .express-lane-links .link a:hover{
+         background-color: #1e88e0;
+         }
+         .express-lane-links .link.other a{
+         font-size: 17px;
+         }
+      </style></head><body><h1 style=3D"text-align: center; padding: 25px =
+0 20px 0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Our Revolution" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Our%20Revolution/OurRev-Logo=
+-160827-335px.png"></h1>
+   <!--[if mso]>
+   <center>
+      <table>
+         <tr>
+            <td width=3D"600">
+               <![endif]-->
+               <div style=3D"max-width: 600px; margin: 0 auto;"><p =
+style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Rigoberto,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Change never happens from the top down, it always occurs from the bottom =
+up. This is just as true for how we can win long-lasting progressive =
+change in our cities and our states.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We want to help progressives who are fighting for change at the local =
+level. <strong>So today we're endorsing 10 local candidates who represent =
+the future of our political revolution.</strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Some of these candidates could help determine how congressional districts =
+are drawn for the remainder of the next decade &mdash; a key to =
+progressives gaining power in the House of Representatives for the decade =
+to come. Others can use their offices to create real change for voting =
+rights, equal pay, and economic justice.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	It&rsquo;s up to us to transform the future of our country, and =
+that&rsquo;s why we are proud to ask:</p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/10-local-candidates=
+?refcode=3Dem160920-v1" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/10-local-candidates?re=
+fcode=3Dem160920-v1"><strong>Can we count on you to split a $15 =
+contribution to this great slate of progressive local candidates and Our =
+Revolution as a way of saying we are going to fight to transform our =
+country from the bottom up?</strong></a></p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Sara Niccoli is a farmer and advocate for working people running =
+for New York's state senate.</strong> She's running on a platform that =
+will always put her community ahead of corporate interests. A victory for =
+Sara would help turn the tide against the narrow majority in New York's =
+senate held by conservatives and corporate-backed politicians.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Teresa Meyer is a registered nurse who would be a tremendous =
+state representative in Iowa.</strong> She wants to increase the minimum =
+wage, and she's seen in her career how difficult it can be for patients to =
+navigate health insurance companies to get the care they need. She'll be =
+on the side of working families in Iowa.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Brad Avakian has spent his career fighting for working people, =
+and now he's running to be Oregon's next Secretary of State.</strong> As =
+the state's labor commissioner, Brad fought wage theft and civil rights =
+abuses. And if Brad wins, he plans to use his office to ensure Oregon =
+corporations provide equal pay for equal work.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Adrian Fontes should be Maricopa County, Arizona's next County =
+Recorder.</strong> You might remember huge lines, delays, and =
+disenfranchisement during Arizona's presidential primary. Well, that was =
+partially thanks to Adrian's opponent, because the county recorder is in =
+charge of voting access and rights in Arizona's biggest county. Adrian is =
+running to restore voting rights and to protect democracy.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Dan Quick is a proud union member running to be a state senator =
+in Nebraska.</strong> Dan's fought against corporate privatization of =
+public utilities, and he would be a strong advocate for working families =
+in Nebraska's state senate.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Mari Cordes is a registered nurse running for Vermont's state =
+house who knows we need universal health care.</strong> She wants to =
+remove corporate greed from our health care system because she's seen how =
+insurance companies get in the way of patient care. That's why Mari will =
+fight for a publicly-funded health care system.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Gary Kroeger is running as a proud progressive to be a state =
+representative in Iowa.</strong> He will fight to protect students, the =
+environment, and working people, and will help advance the ideals of our =
+political revolution.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Jane Kim is a civil rights attorney who's fought for affordable =
+housing and fair wages and who is running for California's state =
+senate.</strong> You've met her before: Bernie Sanders' endorsement, along =
+with thousands of contributions from our political revolution, helped Jane =
+pull off a shocking win in her primary in June. Now she needs our help in =
+her general election to secure another huge victory.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Nicole Cannizzaro knows the value of public education, and that's =
+why she's running to be a state senator in Nevada.</strong> She benefited =
+from Nevada's state-funded educational opportunities that helped her go to =
+college and become a lawyer. She'll fight to protect and expand those =
+programs in Nevada's state senate.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Sabrina Shrader uses her experience growing up in poverty to help =
+others, and now she's running for West Virginia's state house.</strong> =
+After a difficult childhood, Sabrina shares her story with other families =
+struggling in poverty and works to help them get back on their feet. She =
+would be a tremendous advocate in West Virginia's legislature.</p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/10-local-candidates=
+?refcode=3Dem160920-v1" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/10-local-candidates?re=
+fcode=3Dem160920-v1"><strong>Can you split a $15 contribution to these =
+candidates and Our Revolution as a way of saying we are going to fight to =
+transform our country from top to bottom?</strong></a></p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We have the opportunity to help these folks win their local races. If =
+they're successful, they'll help create lasting progressive policies, and =
+some might even go on to be members of Congress, senators, and =
+governors.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	That is the political revolution, and that&rsquo;s why splitting your =
+contribution between this great slate of local candidates and Our =
+Revolution is so important.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Shannon Jackson<br>
+	Executive Director<br>
+	Our Revolution</p>
+<p>
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/10-local-ca=
+ndidates?refcode=3Dem160920-v1" style=3D"font-family: sans-serif; =
+font-size: 18px; background-color: #E9514F; border-top: 1px solid #E9514F; =
+border-bottom: 2px solid #E9514F; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/10-local-candidates?refcode=3Dem160920-v1">=
+CONTRIBUTE</a></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<br><br><br><br><br><br><br><br><br><br></div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px; font-size: 12px; max-width:400px;">PAID FOR BY OUR REVOLUTION<br><br>
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE.<br><br>OUR =
+REVOLUTION IS A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION =
+ARE NOT DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX =
+PURPOSES.</p>
+                  <p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb0962/43b7f9e2/35e1d432=
+/62010954/2865103598/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_37a572634be991d808db9dfa3742b1d8--
+
+

@@ -1,0 +1,227 @@
+Return-Path: <bounce@tweet.twitter.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id msJZCOtlE1gjPQgATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 28 Oct 2016 10:51:23 -0400
+Return-path: <bounce@tweet.twitter.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 28 Oct 2016 10:51:23 -0400
+Received: from mail01.tweet.twitter.com ([204.92.114.203]:50065)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <bounce@tweet.twitter.com>)
+	id 1c08V8-002GO0-V1
+	for rresendez@rigoresendez.com; Fri, 28 Oct 2016 10:51:23 -0400
+DKIM-Signature: v=1; a=rsa-sha256; d=twitter.com; s=dk1024-201507; c=relaxed/relaxed;
+	q=dns/txt; i=@twitter.com; t=1477666243;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=NAKma3QagO9D91JnN7SIPiDdhuVZ2ccndRstWzDCFng=;
+	b=M9wg+gUkdXQsM8ptIBe7eFCYOnQYXOMwEY2xzQiFTm93K4wddWJnx32jUHRH7aKI
+	d4iUJz9tR7jUD6OrOYxDMfo490cKqf7WoKX3nyvs41UjRcuT8t0NjqEF6jw0kcbu
+	gM0JpEAvgXK2n49cmHGGP81cjXvMDWUC8hNYR234ub0=;
+Received: from [10.4.1.245] ([10.4.1.245:51975] helo=P01SNJ026)
+	by msm-mta06-tor6 (envelope-from <bounce@tweet.twitter.com>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTP
+	id 41/4E-25999-3C563185; Fri, 28 Oct 2016 10:50:43 -0400
+Message-ID: <e5160e271c2b4160924640bf23d3a81e@1259914507>
+X-Binding: 1259914507
+X-elqSiteID: 1259914507
+X-elqPod: 0x04D4AA276AEFAC548AF4C2541180280C6E4E16410A533B620AAC2EC8FC2601D8
+MIME-Version: 1.0
+From: "Twitter Developer Relations" <twitterdev@twitter.com>
+To: rresendez@rigoresendez.com
+Reply-To: "Twitter Developer Relations" <twitterdev@twitter.com>
+Date: 28 Oct 2016 10:50:43 -0400
+Subject: Welcome to Twitter Platform Newsletter!
+Content-Type: multipart/alternative;
+ boundary=--boundary_2028065_51616a3f-b7cf-4b8c-8893-319735e6699d
+
+
+----boundary_2028065_51616a3f-b7cf-4b8c-8893-319735e6699d
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+ 
+
+
+"Twitter Developer Relations"                                                          
+
+Thank you for subscribing!                                                      
+
+Don't forget to follow us for the latest from the developer community including product announcements, upcoming events, API changes, and to connect with our teams.                                                            
+
+"@TwitterDev" <https://twitter.com/twitterdev?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=97fbf6431bdf43e2824d7a906bc0e5af>                                 
+
+Follow @TwitterDev <https://twitter.com/twitterdev?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=a1864f335d374484bfd03ab5b1e6710b>                                                                                                                                "@Fabric" <https://twitter.com/fabric?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=29b427be1ccc468b9b0e4f7b1570634b>                                 
+
+Follow @Fabric <https://twitter.com/fabric?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=52a71a2d678a4cb39355077b779300a7>                                                          
+
+""
+Twitter, Inc. |                dev.twitter.com <http://s1259914507.t.en25.com/e/er?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&s=1259914507&lid=4055&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1&elqTrackId=0bb06dce1bc84836a75f9a54954a8d9f>                |                @TwitterDev <http://s1259914507.t.en25.com/e/er?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&s=1259914507&lid=11618&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1&elqTrackId=539b69d6b2dc4158b1af8abaf7456622>
+1355 Market St., Suite 900 San Francisco, CA 94103
+Unsubscribe <http://s1259914507.t.en25.com/e/u?s=1259914507&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1> | View email in browser <http://s1259914507.t.en25.com/e/es?s=1259914507&e=921965&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1&elqTrackId=bec01e3387cc4af182d030d9266c021f>                                          
+
+
+----boundary_2028065_51616a3f-b7cf-4b8c-8893-319735e6699d
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title></title>
+		<link href="https://business.twitter.com/a/1314118012/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+	</head>
+
+<body bgcolor="#f5f8fa" style="-webkit-text-size-adjust: none;margin: 0;padding: 0; font-family: Arial, Helvetica, san-serif;"> 
+
+	
+	
+	<style type="text/css">
+
+	@font-face
+ {
+	    font-family: Gotham, "Gotham Narrow", Helvetica, "Helvetica Neue", Arial, sans-serif;
+	    src: url(https://abs.twimg.com/font/gotham-narrow-v1.css);
+	}
+	
+		.btn-color:hover {
+			background-color: #50a5e6 !important;
+		}
+	
+	@media all and (max-width: 600px){ 
+	
+		.frame {
+			width:100% !important;
+		}
+		
+		.banner {
+			width: 80% !important;
+		}
+	
+		.mobilepad {
+			padding-left: 20px !important;
+			padding-right: 20px !important;
+		}
+		
+	  }
+	
+	</style>
+
+
+	
+	
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#f5f8fa" style="border-collapse:collapse;">
+		<tr>
+			<td height="20">
+				&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" align="center">
+				
+			<table class="frame" border="0" cellspacing="0" cellpadding="0" width="600" bgcolor="#ffffff" style="border-collapse:collapse;">
+				<tr>
+					<td style="height: 45px; text-align: center;">
+					
+					<!--banner image-->
+					
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse; text-align: center; margin: 0 auto;">
+						<tr>
+							<td background="#" bgcolor="#407aa8" valign="top" align="center" style="text-align: center;">
+								<img src="http://tw-gbm.s3.amazonaws.com/images/BD/Conf-email-header.jpg" alt="Twitter Developer Relations" style="font-size: 26px; font-weight: bold; color: white; display: block;">
+							</td>
+						</tr>
+					</table>
+					<!--/banner image-->
+					
+					
+</td>
+				</tr>
+				<tr>
+					<td class="mobilepad" style="font-size: 14px; font-family: Gotham, Arial, sans-serif; padding: 40px 40px 20px 40px; vertical-align:top; line-height: 20px; color: #66757f; text-align: left;">
+						 
+						<p style="font-size: 20px; font-weight: bold; text-align: center; margin-top: 0;">
+							<span style="color: #66757f; text-decoration: none;">
+							Thank you for subscribing!
+							</span>
+						</p>
+						
+<p style="border-top: 2px solid #1c6399; width: 40%; margin: 20px auto 0 auto;">&nbsp;</p>
+							Don't forget to follow us for the latest from the developer community including product announcements, upcoming events, API changes, and to connect with our teams.
+	                        
+ 
+					</td>
+				</tr>
+				<tr>
+					<td align="center" style="padding: 0 40px 40px 40px;">
+
+					
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; font-family: Gotham, Arial, Helvetica, sans-serif; font-size: 13px; width: 100%; color: #66757f; font-weight: bold;"> 
+						<!--
+						<tr>
+							<td colspan="3" style="text-align: center; font-size: 14px; font-weight: bold; background-color: #e1e8ed; padding: 20px 20px 0 20px; color: #66757f;">
+								TakeFlight #KnowHow webinar series
+							</td>
+						</tr>
+						-->
+						
+<tr style="background-color: #e1e8ed;">
+							<td class="mobilestack" style="padding: 20px; text-align: center; width: 50%;vertical-align: top; box-sizing: border-box;">
+								<a href="https://twitter.com/twitterdev?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=97fbf6431bdf43e2824d7a906bc0e5af">
+								
+<img src="http://tw-gbm.s3.amazonaws.com/images/BD/Bird-gear.png" alt="@TwitterDev" style="max-height: 80px; border: 0; width: 60px; color: #2b7bb9;"></a>
+								<br><br>
+								Follow <a href="https://twitter.com/twitterdev?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=a1864f335d374484bfd03ab5b1e6710b" target="_blank" style="color: #2b7bb9;">@TwitterDev</a>
+							</td>
+							
+<td class="mobilestack" style="padding: 20px; text-align: center; width: 50%;vertical-align: top; box-sizing: border-box;">
+								<a href="https://twitter.com/fabric?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=29b427be1ccc468b9b0e4f7b1570634b">
+								
+<img src="http://tw-gbm.s3.amazonaws.com/images/BD/Fabric_avatar.png" alt="@Fabric" style="max-height: 80px; width: 60px; color: #2b7bb9;"></a>
+								<br><br>
+								Follow <a href="https://twitter.com/fabric?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&elq=e5160e271c2b4160924640bf23d3a81e&elqCampaignId=&elqaid=5713&elqat=1&elqTrackId=52a71a2d678a4cb39355077b779300a7" target="_blank" style="color: #2b7bb9;">@Fabric</a>
+							</td>
+						</tr>	
+					</table>
+					
+</td>
+				</tr>
+				
+				
+				
+				<tr>
+					<td style="text-align: center; padding: 20px; border-top: 1px solid #f5f8fa;color: #999999; font-family:Gotham, Arial, Helvetica, sans-serif; font-size:10px; text-align: center; line-height: 18px; background-color: #f5f8fa;">
+						<img src="http://tw-gbm.s3.amazonaws.com/images/BIRD_Twitter_footer_grey_97.png" alt="" style="padding-bottom:4px; margin: 0 auto; width: 13px;" width="13"><br>
+
+                            Twitter, Inc.&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <a href="http://s1259914507.t.en25.com/e/er?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&s=1259914507&lid=4055&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1&elqTrackId=0bb06dce1bc84836a75f9a54954a8d9f" style="border: none; color: #999999;text-decoration: underline;font-weight: bold;">dev.twitter.com</a>
+
+                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                            <a href="http://s1259914507.t.en25.com/e/er?utm_campaign=RE_NW_DPR_Developer_US_EN_conf&utm_medium=email&utm_source=Eloqua&s=1259914507&lid=11618&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1&elqTrackId=539b69d6b2dc4158b1af8abaf7456622" style="border: none;color: #999999;text-decoration: underline;font-weight: bold;">@TwitterDev</a><br>
+                      1355 Market St., Suite 900 San Francisco, CA 94103<br>
+
+                            <a href="http://s1259914507.t.en25.com/e/u?s=1259914507&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1" style="color: #999999;">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://s1259914507.t.en25.com/e/es?s=1259914507&e=921965&elq=e5160e271c2b4160924640bf23d3a81e&elqaid=5713&elqat=1&elqTrackId=bec01e3387cc4af182d030d9266c021f" style="color: #999999;">View email in browser</a>
+					</td>
+				</tr>
+				
+			</table>
+			</td>
+		</tr>
+		<tr height="20">
+			
+<td bgcolor="#f5f8fa">
+				&nbsp;
+			</td>
+		</tr>
+		
+	</table>
+	
+
+
+
+<img src='http://s1259914507.t.en25.com/e/FooterImages/FooterImage1?elq=e5160e271c2b4160924640bf23d3a81e&siteid=1259914507' alt="" border=0 width=1px height=1px></body></html>
+----boundary_2028065_51616a3f-b7cf-4b8c-8893-319735e6699d--
+
+

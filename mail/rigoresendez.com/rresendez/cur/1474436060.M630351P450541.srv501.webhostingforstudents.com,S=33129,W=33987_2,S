@@ -1,0 +1,858 @@
+Return-Path: <bounce-mc.us8_27663843.2031881-rresendez=rigoresendez.com@mail98.atl91.mcsv.net>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id uQaFJdwb4lft3wYATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 21 Sep 2016 01:34:20 -0400
+Return-path: <bounce-mc.us8_27663843.2031881-rresendez=rigoresendez.com@mail98.atl91.mcsv.net>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 21 Sep 2016 01:34:20 -0400
+Received: from mail98.atl91.mcsv.net ([198.2.130.98]:41218)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <bounce-mc.us8_27663843.2031881-rresendez=rigoresendez.com@mail98.atl91.mcsv.net>)
+	id 1bmaAm-001tBP-DZ
+	for rresendez@rigoresendez.com; Wed, 21 Sep 2016 01:34:20 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail98.atl91.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=joel=3Dcodergv.org@mail98.atl91.mcsv.net;
+ bh=4jkzq+qIz9ZZf5CoMjqQn2MqOKk=;
+ b=Wx43VOO4tlOhrKYMFP7Qj3KrMoenfuBwxFYXhZLNII/C1vvdnAiMngHBg/qW4BiXHM57k9PM9kf6
+   syqBABMJk8dvskhNyMILpEzVu829hvZYw+xlNAHeLDLVIwG4yHHlcywp/kS3IlFv6udnkX3r9T0W
+   1vUo8XB43eENKYsFlhs=
+Received: from (127.0.0.1) by mail98.atl91.mcsv.net id hs8dtq1ohkg3 for <rresendez@rigoresendez.com>; Wed, 21 Sep 2016 05:33:40 +0000 (envelope-from <bounce-mc.us8_27663843.2031881-rresendez=rigoresendez.com@mail98.atl91.mcsv.net>)
+Subject: =?utf-8?Q?=28boot=29=20Fall=202016=20Application=20Review?=
+From: =?utf-8?Q?Joel=20Garza?= <joel@codergv.org>
+Reply-To: =?utf-8?Q?Joel=20Garza?= <joel@codergv.org>
+To: <rresendez@rigoresendez.com>
+Date: Wed, 21 Sep 2016 05:33:40 +0000
+Message-ID: <7a00dbd2356f7ab4647cd42067a1f31cf99.20160921053334@mail98.atl91.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID4386fc747a7a1f31cf99**
+X-Campaign: mailchimp7a00dbd2356f7ab4647cd4206.4386fc747a
+X-campaignid: mailchimp7a00dbd2356f7ab4647cd4206.4386fc747a
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=7a00dbd2356f7ab4647cd4206&id=4386fc747a&e=7a1f31cf99
+X-MC-User: 7a00dbd2356f7ab4647cd4206
+X-Feedback-ID: 27663843:27663843.2031881:us8:mc
+List-ID: 7a00dbd2356f7ab4647cd4206mc list <7a00dbd2356f7ab4647cd4206.584041.list-id.mcsv.net>
+X-Accounttype: ff
+List-Unsubscribe: <mailto:unsubscribe-mc.us8_7a00dbd2356f7ab4647cd4206.4386fc747a-7a1f31cf99@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://codergv.us8.list-manage.com/unsubscribe?u=7a00dbd2356f7ab4647cd4206&id=fc561ad8ba&e=7a1f31cf99&c=4386fc747a>
+Sender: "Joel Garza" <joel=codergv.org@mail98.atl91.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1784845273"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1784845273
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+View this email in your browser (http://us8.campaign-archive2.com/?u=3D7a0=
+0dbd2356f7ab4647cd4206&id=3D4386fc747a&e=3D7a1f31cf99)
+Dear Rigoberto=2C
+
+Thank you for your application to Code RGV's (boot) Coding Schoool. We hav=
+e completed the review of your candidacy and would like to offer you the o=
+ption to continue on our waitlist for the June 2016 cohort.
+
+We recognize that this news brings mixed emotions=2C but know that continu=
+ing on (boot)'s waitlist is an exceptional accomplishment. Waitlisted cand=
+idates are a strong fit with the class=2C but due to size limitations=2C w=
+e cannot offer everyone a seat.
+
+We'd like for you to consider being on the waitlist because:
+* Enrollment in the class can change until June 20th=2C 2016
+* Students may be unable to fulfill performance requirements and may be as=
+ked to release their seat
+
+All final decisions on the waitlist will be made by July 11th=2C 2016.
+
+Until that time=2C we encourage you to stay connected and to follow the co=
+ursework as we release it to the public. We will record and publish all of=
+ the sessions and we encourage you follow along. We will also send out inv=
+ites to those on the waitlist to audit the courses in person.
+
+Should you wish to withdraw your application please send an email to boot@=
+codergv.org (mailto:boot@codergv.org?subject=3DWaitlist%20Remove) with the=
+ subject header "Waitlist Remove".
+
+We greatly appreciate the time and thoughtfulness you put applying to the=
+ Code RGV (boot) program.
+
+Sincerely=2C
+
+Olmo Maldonado
+(boot) Director
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2016 Code#RGV=2C All rights reserved.
+ You are receiving this email because you have signed up to be a student.=
+ This list keeps you informed of all things (boot).
+
+Our mailing address is:
+Code#RGV
+P.O. Box 5631
+McAllen=2C TX 78502
+USA
+Want to change how you receive these emails?
+You can ** update your preferences (http://codergv.us8.list-manage.com/pro=
+file?u=3D7a00dbd2356f7ab4647cd4206&id=3Dfc561ad8ba&e=3D7a1f31cf99)
+or ** unsubscribe from this list (http://codergv.us8.list-manage.com/unsub=
+scribe?u=3D7a00dbd2356f7ab4647cd4206&id=3Dfc561ad8ba&e=3D7a1f31cf99&c=3D4386=
+fc747a)
+ Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7a00dbd2356f7ab4647=
+cd4206&afl=3D1
+--_----------=_MCPart_1784845273
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+=09<head>
+=09=09<!-- NAME: 1 COLUMN -->
+=09=09<!--[if gte mso 15]>
+=09=09<xml>
+=09=09=09<o:OfficeDocumentSettings>
+=09=09=09<o:AllowPNG/>
+=09=09=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09=09=09</o:OfficeDocumentSettings>
+=09=09</xml>
+=09=09<![endif]-->
+=09=09<meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1">
+=09=09<title>(boot) Fall 2016 Application Review</title>
+
+    <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:10px 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:10px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09a.mcnButton{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent{
+=09=09=09word-break:break-word;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09.mcnDividerBlock{
+=09=09=09table-layout:fixed !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#333333;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:22px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:14px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#222222;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09color:#999999;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader .mcnTextContent a=2C#templatePreheader .mcnTextCo=
+ntent p a{
+=09=09=09color:#666666;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#000000;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:0px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateHeader .mcnTextContent a=2C#templateHeader .mcnTextContent=
+ p a{
+=09=09=09color:#2BAADF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:18px;
+=09=09=09padding-bottom:36px;
+=09=09}
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:'Trebuchet MS'=2C 'Lucida Grande'=2C 'Lucida Sans Uni=
+code'=2C 'Lucida Sans'=2C Tahoma=2C sans-serif;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateBody .mcnTextContent a=2C#templateBody .mcnTextContent p a{
+=09=09=09color:#dc143c;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#222222;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09color:#999999;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#templateFooter .mcnTextContent a=2C#templateFooter .mcnTextContent=
+ p a{
+=09=09=09color:#656565;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (min-width:768px){
+=09=09.templateContainer{
+=09=09=09width:600px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-top:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImage{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCartContainer=2C.mcnCaptionTopContent=2C.mcnRecContentContainer=
+=2C.mcnCaptionBottomContent=2C.mcnTextContentContainer=2C.mcnBoxedTextCont=
+entContainer=2C.mcnImageGroupContentContainer=2C.mcnCaptionLeftTextContent=
+Container=2C.mcnCaptionRightTextContentContainer=2C.mcnCaptionLeftImageCon=
+tentContainer=2C.mcnCaptionRightImageContentContainer=2C.mcnImageCardLeftT=
+extContentContainer=2C.mcnImageCardRightTextContentContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer{
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupContent{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCaptionLeftContentOuter .mcnTextContent=2C.mcnCaptionRightConten=
+tOuter .mcnTextContent{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardTopImageContent=2C.mcnCaptionBlockInner .mcnCaptionTopC=
+ontent:last-child .mcnTextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardBottomImageContent{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockInner{
+=09=09=09padding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnTextContent=2C.mcnBoxedTextContentColumn{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardLeftImageContent=2C.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:22px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer .mcnTextContent=2C.mcnBoxedTextContent=
+Container .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}</style></head>
+    <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #333333=
+;">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;pad=
+ding: 0;width: 100%;background-color: #333333;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;height: 100%;margin: 0;padding: 10px;width: 100%;bord=
+er-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600" style=
+=3D"width:600px;">
+=09=09=09=09=09=09<![endif]-->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !importa=
+nt;">
+                            <tr>
+                                <td valign=3D"top" id=3D"templatePreheader=
+" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;background-color: #222222;border-top: 0;border-bo=
+ttom: 0;padding-top: 9px;padding-bottom: 9px;"><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"390" style=3D"width:390px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 390px;border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-left: 18px;padding-bottom: 9px;padding-right: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #999999;font-family: Helve=
+tica;font-size: 12px;line-height: 150%;text-align: left;">
+
+
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"210" style=3D"width:210px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 210px;border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-left: 18px;padding-bottom: 9px;padding-right: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #999999;font-family: Helve=
+tica;font-size: 12px;line-height: 150%;text-align: left;">
+
+                            <a href=3D"http://us8.campaign-archive2.com/?u=
+=3D7a00dbd2356f7ab4647cd4206&id=3D4386fc747a&e=3D7a1f31cf99" target=3D"_blan=
+k" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #666666;font-weight: normal;text-decorati=
+on: underline;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;background-color: #000000;border-top: 0;border-botto=
+m: 0;padding-top: 0px;padding-bottom: 0;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=3D"m=
+in-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/7a00dbd2356f7ab4647cd4206/images/aaa5eed=
+e-85f4-4721-905c-fe4642d0598d.jpg" width=3D"564" style=3D"max-width: 600px=
+;padding-bottom: 0;display: inline !important;vertical-align: bottom;borde=
+r: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mo=
+de: bicubic;" class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;background-color: #FFFFFF;border-top: 0;border-bottom:=
+ 0;padding-top: 18px;padding-bottom: 36px;"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"m=
+in-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #202020;font-family: 'Treb=
+uchet MS'=2C 'Lucida Grande'=2C 'Lucida Sans Unicode'=2C 'Lucida Sans'=2C=
+ Tahoma=2C sans-serif;font-size: 16px;line-height: 150%;text-align: left;"=
+>
+
+                            Dear Rigoberto=2C<br>
+<br>
+Thank you for your application to Code RGV's (boot) Coding School. We are=
+ nearing the final round of reviews for candidacy in the Fall 2016 cohort=
+=2C and would like to provide to you some additional information regarding=
+ the schedule before we announce selections.<br>
+<br>
+We'd like for you to know:
+<ul>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">Classes are planned to begin October 3rd.<=
+/li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">Classes will run up through December 23rd.=
+</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">Class has a mandatory presence requirement=
+ onsite between 8:30 AM and 2:30 PM=2C with students expected to be availa=
+ble to work on class assignments between 8:00 AM and 6:00 PM (to achieve 1=
+0 hours study per day).</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">Classes will be held in the&nbsp;CEED buil=
+ding=2C on Bryan Road in Mission=2C South of Business 83.</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;"><span style=3D"line-height:1.6">Students u=
+nable to fulfill performance requirements are asked&nbsp;to release their=
+ seat.</span></li>
+</ul>
+Texas Workforce has additional requirements for participation:&nbsp;
+
+<ul>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">be 18 years of age or older;</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">be a citizen or non-citizen authorized to=
+ work in the United States; and</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">meet Military Selective Service registrati=
+on requirements (males only)</li>
+</ul>
+<br>
+Decisions will start going out September 22nd=2C 2016.&nbsp;<br>
+<br>
+Until that time=2C we encourage you to stay connected.<br>
+<br>
+Should you wish to withdraw your application please send an email to <a hr=
+ef=3D"mailto:boot@codergv.org?subject=3DWaitlist%20Remove" target=3D"_blan=
+k" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #dc143c;font-weight: normal;text-decorati=
+on: underline;">boot@codergv.org</a> with the subject header "Withdraw App=
+lication".<br>
+<br>
+We greatly appreciate the time and thoughtfulness you put applying to the=
+ Code RGV (boot) program.&nbsp;<br>
+<br>
+Sincerely=2C<br>
+<br>
+<strong>Joel Garza</strong><br>
+(boot) Coordinator
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateFooter" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;background-color: #222222;border-top: 0;border-botto=
+m: 0;padding-top: 9px;padding-bottom: 9px;"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"m=
+in-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #999999;font-family: Helve=
+tica;font-size: 12px;line-height: 150%;text-align: center;">
+
+                            <em>Copyright =C2=A9 2016 Code#RGV=2C All righ=
+ts reserved.</em><br>
+ You are receiving this email because you have signed up to be a student.=
+ This list keeps you informed of all things (boot).<br>
+<br>
+<strong>Our mailing address is:</strong><br>
+<div class=3D"vcard"><span class=3D"org fn">Code#RGV</span><div class=3D"a=
+dr"><div class=3D"street-address">P.O. Box 5631</div><span class=3D"locali=
+ty">McAllen</span>=2C <span class=3D"region">TX</span>  <span class=3D"pos=
+tal-code">78502</span></div><br><a href=3D"http://codergv.us8.list-manage2=
+=2Ecom/vcard?u=3D7a00dbd2356f7ab4647cd4206&id=3Dfc561ad8ba" class=3D"hcard-d=
+ownload">Add us to your address book</a></div>
+<br>
+<br>
+Want to change how you receive these emails?<br>
+You can <a href=3D"http://codergv.us8.list-manage.com/profile?u=3D7a00dbd2=
+356f7ab4647cd4206&id=3Dfc561ad8ba&e=3D7a1f31cf99" style=3D"mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;col=
+or: #656565;font-weight: normal;text-decoration: underline;">update your p=
+references</a> or <a href=3D"http://codergv.us8.list-manage.com/unsubscrib=
+e?u=3D7a00dbd2356f7ab4647cd4206&id=3Dfc561ad8ba&e=3D7a1f31cf99&c=3D4386fc747=
+a" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decorati=
+on: underline;">unsubscribe from this list</a><br>
+<br>
+ <a href=3D"http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium=
+_newsletter&utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7a00dbd=
+2356f7ab4647cd4206&afl=3D1"><img src=3D"http://cdn-images.mailchimp.com/mo=
+nkey_rewards/MC_MonkeyReward_15.png" border=3D"0" alt=3D"Email Marketing P=
+owered by MailChimp" title=3D"MailChimp Email Marketing" width=3D"139" hei=
+ght=3D"54"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                        </table>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://codergv.us8.list-manage.com/track/open.php?u=3D7a00=
+dbd2356f7ab4647cd4206&id=3D4386fc747a&e=3D7a1f31cf99" height=3D"1" width=
+=3D"1"></body>
+</html>
+--_----------=_MCPart_1784845273--

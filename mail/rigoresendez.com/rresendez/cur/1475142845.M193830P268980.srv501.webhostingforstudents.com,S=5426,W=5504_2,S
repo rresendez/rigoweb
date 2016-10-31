@@ -1,0 +1,78 @@
+Return-Path: <barefoo2@newserver.barefootstudent.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id YTqCC73k7Fe0GgQATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 29 Sep 2016 05:54:05 -0400
+Return-path: <barefoo2@newserver.barefootstudent.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 29 Sep 2016 05:54:05 -0400
+Received: from [204.152.194.98] (port=36480 helo=newserver.barefootstudent.com)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bpY2W-00188x-Nw
+	for rresendez@rigoresendez.com; Thu, 29 Sep 2016 05:54:05 -0400
+Received: from barefoo2 by newserver.barefootstudent.com with local (Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bpY1s-00048h-6F
+	for rresendez@rigoresendez.com; Thu, 29 Sep 2016 03:53:24 -0600
+To: rresendez@rigoresendez.com
+Subject: Your Email Alert - Barefoot Student
+From: Barefoot Student <no-reply@barefootstudent.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bond-4bcbbbd18af897500bfe9e52deef8a2e"
+Message-Id: <E1bpY1s-00048h-6F@newserver.barefootstudent.com>
+Date: Thu, 29 Sep 2016 03:53:24 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - newserver.barefootstudent.com
+X-AntiAbuse: Original Domain - rigoresendez.com
+X-AntiAbuse: Originator/Caller UID/GID - [501 512] / [47 12]
+X-AntiAbuse: Sender Address Domain - newserver.barefootstudent.com
+X-Get-Message-Sender-Via: newserver.barefootstudent.com: authenticated_id: barefoo2/from_h
+X-Authenticated-Sender: newserver.barefootstudent.com: no-reply@barefootstudent.com
+
+--bond-4bcbbbd18af897500bfe9e52deef8a2e
+Content-type: text/html; charset="utf-8"
+
+<html>
+	<head>
+    	<title>Your Email Alert - Barefoot Student</title>
+	</head>
+	<body>
+		<div>Barefoot Student's Weekly alert for Jobs in Austin, TX with the keywords: No keywords selected.</div>
+		<div>
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/seeking_lpc_intern_lmft_associate_or_lpc_lmft_1920255458?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Seeking LPC-Intern/LMFT-Associate or LPC/LMFT </a></div>
+							<div class="description">Currently seeking LPC-Interns/LMFT-Associates or LPC/LMFT applicants who are licensed in the state of Texas, for a quarter-time (.15-.25 FTE) counseling position working about 6-10 clinical hours per week. There is a possibility of half-time (.5 FTE) employment in the future. The position includes p...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/child_care/staff_leader_management_1920255279?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Staff Leader (Management)</a></div>
+							<div class="description">We are a new drop in child care center located in Georgetown TX. We are looking for someone that is great with customer service, comfortable checking children in and out on the computer (will train), handling a cash register & communicating with parents. We need someone who can work mornings, aftern...</div>
+							<div class="location">Georgetown, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/child_care/specialist_1920255270?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Specialist</a></div>
+							<div class="description">Do you love children. We are an hourly drop in child care center in Georgetown TX. We are looking for someone willing to be on the child care center floor playing, interacting and reading to children. Require someone to take the initiative, do morning cleaning routine and someone not afraid to chang...</div>
+							<div class="location">Georgetown, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/work_part_time_for_an_awesome_organic_food_company_1920255267?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Work part-time for an awesome organic food company!</a></div>
+							<div class="description">Position: Brand Ambassador (Food Demonstrator) at Whole Foods Market
+Compensation: $20-25/hr including commission + mileage
+
+Are you passionate about healthy eating and want to help grow an innovative organic food company?  Do you love meeting new people, being social, and building relationships?...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						</div>
+		<div style="padding-top: 10px;">
+			<p>Please <a href="http://www.barefootstudent.com/user/email-alerts-unsubscribe/alertId/419292/code/1d5f1dd82d2674778ca884dfbfd4b4b1">click here</a> if you wish to modify or cancel this alert.</p>
+            <p>Max 100 results shown.</p>
+		</div>
+        <div><img src="http://www.barefootstudent.com/count_email.php?alert_id=419292&category_id=2" width="1" height="1" ></div>        
+	</body>
+</html>
+--bond-4bcbbbd18af897500bfe9e52deef8a2e--

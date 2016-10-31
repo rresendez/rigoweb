@@ -1,0 +1,312 @@
+Return-Path: <bounces+972571-651f-rresendez=rigoresendez.com@delivery.customeriomail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id UcOxIfWz91fw5gEATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 07 Oct 2016 10:40:53 -0400
+Return-path: <bounces+972571-651f-rresendez=rigoresendez.com@delivery.customeriomail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 07 Oct 2016 10:40:53 -0400
+Received: from o11.delivery.customeriomail.com ([167.89.32.158]:56507)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+972571-651f-rresendez=rigoresendez.com@delivery.customeriomail.com>)
+	id 1bsWKT-000WRf-91
+	for rresendez@rigoresendez.com; Fri, 07 Oct 2016 10:40:53 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=hackerrank.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=mjpGyvSga5Lux/hg0whT690l+Rc=; b=G5K26xluxjB6M8P783
+	XNowN1xJYYna+8cnXy15afZH2P4dIRksSC8Zm+pGuKin0SaKDrJhxtizPGPzHqnc
+	Yo5oNRMqKWLKAz8zmMgy4UMMFffWkX3KNJ57nYgl3MHausg+qn8GW8VX4ODoH38g
+	IckqiBtgGPBHHxZPQcPdX6QVU=
+Received: by filter0942p1mdw1.sendgrid.net with SMTP id filter0942p1mdw1.28337.57F7B3C381
+        2016-10-07 14:40:03.971811111 +0000 UTC
+Received: from delivery.customeriomail.com (ovh86.cio.host [192.99.200.218])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id xXkj-ukyRUquUwsnjpFt7A
+	for <rresendez@rigoresendez.com>; Fri, 07 Oct 2016 14:40:03.932 +0000 (UTC)
+Date: Fri, 07 Oct 2016 14:40:03 +0000
+From: HackerRank Team <hackers@hackerrank.com>
+To: rresendez@rigoresendez.com
+Message-ID: <57f7b3c321e6b_33a11c4278202041d2@ovh86.cio.host.mail>
+Subject: Welcome to HackerRank
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57f7b3c31e46e_33a11c42782020387c";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgY42Zwm41PwDg5Y303bVKJNJ+2aUgBwF8zzOi
+ qlEyOM/2zm9Jml0yvFPJ5QGw5QAZmG9FnhEqpAuQEf4GBo8TxrU/sbod7lEtwuPOtfBL/gPVX6BRNW
+ fn3VwFNbaiXnVdvUdS6uw6LnLsBZ1HjLFLvBSQ5CvQ0FxD7xv90c4e33gs6gAiNuDqmrfKiFYiFnQr
+ E=
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZtIJeMlJ4ntS9yTBKZ9l4cZSZXWJNJFqruKnDTMlAIKwVywr8z0WZBV4VU
+ 9rz1WVbkakipgVS1xLdNedGyP7lVkdONSc5hJ863fWMlNs6d/dUiTCDKJXBRqybjXlV7U4uOR4ysWS
+ GwN7899qxAiq4FaRiWYs5H8S/GX/ht6ffE8i
+
+
+----==_mimepart_57f7b3c31e46e_33a11c42782020387c
+Date: Fri, 07 Oct 2016 14:40:03 +0000
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: <57f7b3c31f200_33a11c427820203928@ovh86.cio.host.mail>
+
+Hello,
+
+Welcome to
+
+HackerRank ( http://www.hackerrank.com/auth/hacker_redirect?context=3Dconte=
+st_signup_email&hacker_id=3D1747943&key=3D4b32580cc23520decadf177d6b5a2aa84=
+3baf00d&timestamp=3D1476110398&to=3D%2F )!
+
+We are building an engaged community of problem solvers
+in different domains of Computer Science like AI, Algorithms,
+Machine Learning,
+functional programming, etc.
+
+Hugs or bugs, please let us know by replying to this e-mail.
+Welcome again!
+
+Happy hacking!
+
+HackerRank Team
+
+Copyright =C2=A9 2016 HackerRank (127
+Lytton Ave, Palo Alto, CA 94301), All rights reserved.
+
+=2E
+
+----==_mimepart_57f7b3c31e46e_33a11c42782020387c
+Date: Fri, 07 Oct 2016 14:40:03 +0000
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: <57f7b3c3219a9_33a11c42782020408f@ovh86.cio.host.mail>
+
+<!DOCTYPE html>
+<html lang=3D"en">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title> Welcome to HackerRank </title>
+    <style>
+      .m {
+      text-align: center;
+      }
+      button, a.button {
+      user-select: none;
+      padding: 0.5em 0.75em;
+      background: #2BC56E;
+      border: 1px solid #008233;
+      color: #fbfbfb;
+      font-size: 14px;
+      cursor: pointer;
+      margin-bottom: 10px;
+      display: inline-block;
+      font-family: Verdana, sans;
+      font-weight: bold;
+      }
+
+      .yield p {
+      color: #666;
+      font-size: 14px;
+      line-height: 18px;
+      font-family: Verdana, sans;
+      margin-top:0;
+      margin-bottom:20px;
+      padding-top:0;
+      padding-bottom:0;
+      font-weight:normal;
+      }
+
+      li {
+      color: #666;
+      font-size: 14px;
+      line-height: 18px;
+      font-family:Verdana, sans;
+      margin-top:0;
+      padding-top:0;
+      padding-bottom:0;
+      font-weight:normal;
+      margin-bottom: 8px;
+      }
+
+      ul, ol {
+      margin-bottom: 15px;
+      margin-top: 15px;
+      padding-left: 30px;
+      }
+
+      a {
+      color: #2BC56E;
+      text-decoration: none;
+      }
+
+      a.bold {
+      font-weight: bold;
+      }
+
+      pre {
+      font-size: 14px;
+      margin-left: -15px;
+      }
+
+      blockquote {
+      font-family: Verdana, sans;
+      color: #777;
+      font-style: italic;
+      margin: 20px 15px 20px 15px;
+      font-weight: 600;
+      font-size: 14px;
+      }
+    </style>
+  </head>
+  <body bgcolor=3D"#fafafa" topmargin=3D"0" leftmargin=3D"0" marginheight=
+=3D"0" marginwidth=3D"0" style=3D"-webkit-font-smoothing: antialiased; widt=
+h: 100% !important; -webkit-text-size-adjust: none; background: #fafafa;">
+    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+bgcolor=3D"#fafafa">
+      <tr>
+        <td bgcolor=3D"#fafafa" width=3D"100%">
+          <table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"table">
+            <tr>
+              <td width=3D"580" class=3D"cell">
+                <table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" class=3D"table" style=3D"margin-top: 15px;">
+                  <tr>
+                    <td width=3D"254" align=3D"center" bgcolor=3D"#fafafa" =
+class=3D"logocell">
+                      <br class=3D"hide">
+                      <img src=3D"https://d3keuzeb2crhkn.cloudfront.net/hac=
+kerrank/assets/brand/wordmark_sm.png" height=3D"56" alt=3D"HackerRank Logo"=
+ style=3D"-ms-interpolation-mode: bicubic;">
+                      <br>
+                      <br class=3D"hide">
+                    </td>
+                  </tr>
+                  <repeater>
+                    <layout label=3D"New feature">
+                      <table width=3D"580" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">
+                        <tr>
+                          <td width=3D"580" bgcolor=3D"#ffffff" style=3D"bo=
+rder-radius: 5px;">
+                            <table width=3D"580" cellpadding=3D"20" cellspa=
+cing=3D"0" border=3D"0" style=3D"border-radius: 5px; border: 1px solid #e4e=
+4e4;">
+                              <tr>
+                                <td bgcolor=3D"#ffffff" class=3D"contentblo=
+ck" style=3D"border-radius: 5px;">
+                                  <table width=3D"535" cellpadding=3D"10" a=
+lign=3D"center" cellspacing=3D"0" border=3D"0" style=3D"margin-top: 15px;">
+                                    <tr>
+                                      <td class=3D"yield">
+                                        <p style=3D"color: #666; font-size:=
+ 14px; line-height: 18px; font-family: Verdana, sans; margin-top: 0; margin=
+-bottom: 20px; padding-top: 0; padding-bottom: 0; font-weight: normal;">Hel=
+lo,</p>
+
+<p style=3D"color: #666; font-size: 14px; line-height: 18px; font-family: V=
+erdana, sans; margin-top: 0; margin-bottom: 20px; padding-top: 0; padding-b=
+ottom: 0; font-weight: normal;">Welcome to=20
+
+<a href=3D"http://email.hackerrank.com/e/c/eyJlbWFpbF9pZCI6Ik9UazBNem9XVVRR=
+Q1pBQUNjd0FYRnVrakdnRlhuNVlmZ3hVM0dGZjNzNzBCWlRwbFlqbGlNVFV4TmkwNFl6bGlMVEV=
+4WlRZdE9HVmpOUzFoTTJZMlpURm1ZVFE1TW1RNk1URTRNVGMzQUE9PSIsInBvc2l0aW9uIjowLC=
+JocmVmIjoiaHR0cDovL3d3dy5oYWNrZXJyYW5rLmNvbS9hdXRoL2hhY2tlcl9yZWRpcmVjdD9jb=
+250ZXh0PWNvbnRlc3Rfc2lnbnVwX2VtYWlsJmhhY2tlcl9pZD0xNzQ3OTQzJmtleT00YjMyNTgw=
+Y2MyMzUyMGRlY2FkZjE3N2Q2YjVhMmFhODQzYmFmMDBkJnRpbWVzdGFtcD0xNDc2MTEwMzk4JnR=
+vPSUyRiIsImxpbmtfaWQiOjExNTcyMjE4fQ/2fe3a7bf09e0f9c7d3dee1e15e9c507838d88de=
+e40068a90ed571352e5bc7f45" style=3D"color: #2BC56E; text-decoration: none;"=
+>HackerRank</a>!
+
+We are building an engaged community of problem solvers
+in different domains of Computer Science like AI, Algorithms, Machine Learn=
+ing,
+functional programming, etc.</p>
+
+<br>
+<p style=3D"color: #666; font-size: 14px; line-height: 18px; font-family: V=
+erdana, sans; margin-top: 0; margin-bottom: 20px; padding-top: 0; padding-b=
+ottom: 0; font-weight: normal;">Hugs or bugs, please let us know by replyin=
+g to this e-mail. Welcome again!</p>
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        <p style=3D"color: #666; font-size:=
+ 14px; line-height: 18px; font-family: Verdana, sans; margin-top: 0; margin=
+-bottom: 20px; padding-top: 0; padding-bottom: 0; font-weight: normal;">Hap=
+py hacking!<br>
+                                           HackerRank Team</p>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                        <tr>
+                          <td>
+                            <p style=3D"color: #888888; font-size: 12px; fo=
+nt-family: Helvetica,Arial,sans-serif; text-align: center; margin-top: 15px=
+; margin-bottom: 15px; padding-top: 0; padding-bottom: 0; line-height: 18px=
+;" class=3D"reminder" align=3D"center">
+                            </p>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                            <p style=3D"color: #9f9f9f; font-size: 10px; fo=
+nt-family: Helvetica,Arial,sans-serif; text-align: center; margin-top: 15px=
+; margin-bottom: 15px; padding-top: 0; padding-bottom: 0; line-height: 18px=
+;" class=3D"reminder" align=3D"center">
+                              Copyright =C2=A9 2016 HackerRank (127 Lytton =
+Ave, Palo Alto, CA 94301), All rights reserved.<br>
+                              <a href=3D"http://email.hackerrank.com/e/c/ey=
+JlbWFpbF9pZCI6Ik9UazBNem9XVVRRQ1pBQUNjd0FYRnVrakdnRlhuNVlmZ3hVM0dGZjNzNzBCW=
+lRwbFlqbGlNVFV4TmkwNFl6bGlMVEV4WlRZdE9HVmpOUzFoTTJZMlpURm1ZVFE1TW1RNk1URTRN=
+VGMzQUE9PSIsInBvc2l0aW9uIjoxLCJocmVmIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2h=
+hY2tlcnJhbmsiLCJsaW5rX2lkIjoxMzR9/5102eebc18a822c533808331a7f87ac930a1d4b5a=
+ac28a00bd51426626be2f26" target=3D"_blank" style=3D"margin-right: 2px; colo=
+r: #2BC56E; text-decoration: none;">
+                                <img height=3D"24" src=3D"https://hrcdn.net=
+/hackerrank/assets/facebook_circle-24.png" title=3D"Facebook" alt=3D"Facebo=
+ok"></a>
+                              <a href=3D"http://email.hackerrank.com/e/c/ey=
+JlbWFpbF9pZCI6Ik9UazBNem9XVVRRQ1pBQUNjd0FYRnVrakdnRlhuNVlmZ3hVM0dGZjNzNzBCW=
+lRwbFlqbGlNVFV4TmkwNFl6bGlMVEV4WlRZdE9HVmpOUzFoTTJZMlpURm1ZVFE1TW1RNk1URTRN=
+VGMzQUE9PSIsInBvc2l0aW9uIjoyLCJocmVmIjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9oYWNrZXJ=
+yYW5rIiwibGlua19pZCI6MTM1fQ/3ffcfcbd198e6409c023427381682e8a731cba0fff32f14=
+7c9e3b6db3efef704" target=3D"_blank" style=3D"margin-left: 2px; color: #2BC=
+56E; text-decoration: none;">
+                                <img height=3D"24" src=3D"https://hrcdn.net=
+/hackerrank/assets/twitter_circle-24.png" title=3D"Twitter" alt=3D"Twitter"=
+></a>.
+                            </p>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                          </td>
+                        </tr>
+                      </table>
+                    </layout>
+                  </repeater>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  <img src=3D"http://email.hackerrank.com/e/o/eyJlbWFpbF9pZCI6Ik9UazBNem9XV=
+VRRQ1pBQUNjd0FYRnVrakdnRlhuNVlmZ3hVM0dGZjNzNzBCWlRwbFlqbGlNVFV4TmkwNFl6bGlM=
+VEV4WlRZdE9HVmpOUzFoTTJZMlpURm1ZVFE1TW1RNk1URTRNVGMzQUE9PSJ9">
+</body>
+</html>
+
+----==_mimepart_57f7b3c31e46e_33a11c42782020387c--

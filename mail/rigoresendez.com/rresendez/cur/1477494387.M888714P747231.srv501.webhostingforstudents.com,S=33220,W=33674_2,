@@ -1,0 +1,454 @@
+Return-Path: <bounces+6493334364@spe.intercom.io>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id UbXoNHPGEFjfZgsATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 26 Oct 2016 11:06:27 -0400
+Return-path: <bounces+6493334364@spe.intercom.io>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 26 Oct 2016 11:06:27 -0400
+Received: from mta1a2.spe.intercom-mail.com ([52.27.255.197]:11375)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounces+6493334364@spe.intercom.io>)
+	id 1bzPmd-0038qT-CE
+	for rresendez@rigoresendez.com; Wed, 26 Oct 2016 11:06:27 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=spe.intercom.io;
+	s=s1115; t=1477494346; i=@spe.intercom.io;
+	bh=K1HUWKOlob17A5HNplVuH4jT/e88U0h30NHi55LWBPU=;
+	h=To:Subject:Message-ID:From:Date:Content-Type;
+	b=g7JXvA5muqpD1UoNSlHMcikDu+9pwjGejNWpdhZP0DNr+H6+dNbY44Unu0PitdmxQ
+	 zQjTYlij3wZaR944BSo8OhwJD3kwoyiZXI2Xz6XVtO1dFvleMNskXtYbgNSSebLWTn
+	 Xr2zH8TqHffbUbA2ipVtAkcDVsPTeS3pWN758HrM=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=gitter-2.mail.intercom.io; s=intercom; t=1477494346;
+	i=@gitter-2.mail.intercom.io;
+	bh=K1HUWKOlob17A5HNplVuH4jT/e88U0h30NHi55LWBPU=;
+	h=To:Subject:Message-ID:From:Date:Content-Type;
+	b=jZ8X1+2BxCSxrruRY3ndbIybjB2nmJb8ZQf2/K5LMKQwfUHb5vcR2y38lK2cJWajl
+	 8Ysew0KuV9ZQDg0zbmywajBPStvDSWGLA4YZsCQwCxK600TGTI+N5k9fDNTCVfiWoA
+	 NLBhoFmPT9PuC9Mb55BZHsnHxENSpFCjDPYDsIbg=
+X-MSFBL: UeNKRcuvJtqrWApJiCCZft7gZOvfcLKGCQ2qVQ3aGEs=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInRyYW5zbWlzc2lvbl9pZCI6IjQ4NDE2NTY4NzQ1MzI0MTIxIiw
+	iY3VzdG9tZXJfaWQiOiIxIiwiciI6InJyZXNlbmRlekByaWdvcmVzZW5kZXouY29
+	tIiwidGVtcGxhdGVfaWQiOiJ0ZW1wbGF0ZV80ODQxNjU2ODc0NTMyNDEyMSIsInJ
+	jcHRfbWV0YSI6eyJhcHBfaWQiOiJ1eGN6NmVheCIsImJpbmRpbmciOiIxMDAiLCJ
+	1c2VyX2lkIjoiNTdmNTEzMzg4MTU0MGQyMTBmYjgxMmJlIiwiaW50ZXJjb21fbWV
+	zc2FnZV9pZCI6IjI2MzYyNTY5IiwiY29udmVyc2F0aW9uX2lkIjoiNjQ5MzMzNDM
+	2NCJ9LCJmcmllbmRseV9mcm9tIjoib2xhLmtvaHV0QGdpdHRlci0yLm1haWwuaW5
+	0ZXJjb20uaW8iLCJyY3B0X3RhZ3MiOlsgXSwic3ViYWNjb3VudF9pZCI6IjAiLCJ
+	nIjoiMTAwIiwidGVuYW50X2lkIjoiaW50ZXJjb20iLCJtZXNzYWdlX2lkIjoiMDA
+	wMjRhYzYxMDU4YTE3OTc4ZTAiLCJiIjoiaXBfNTIuMjcuMjU1LjE5NyJ9
+To: rresendez@rigoresendez.com
+List-Unsubscribe: <mailto:unsubscribe+6493334364_57f5133881540d210fb812be@unsubscribes.intercom-mail.com>,
+ <https://uxcz6eax.intercom-mail.com/unsubscribe?app_id=uxcz6eax&conversation_id=6493334364&user_id=57f5133881540d210fb812be>
+X-Auto-Response-Suppress: OOF, AutoReply
+MIME-Version: 1.0
+X-Mailgun-Tag: user-custom
+Reply-To: ola.kohut@gitter-2.mail.intercom.io
+X-Intercom-Bin: 100
+Subject: Communities Picked For You!
+Message-ID: <84ef7077-d5be62ba-1477494345-6493334364@mail.intercom.io>
+X-Mailgun-Track-Clicks: no
+From: "Ola from Gitter" <ola.kohut@gitter-2.mail.intercom.io>
+X-Mailgun-Track-Opens: no
+X-Mailgun-Variables: {"intercom_message_id":26362569,"user_id":"57f5133881540d210fb812be","conversation_id":"6493334364","app_id":"uxcz6eax"}
+Date: Wed, 26 Oct 2016 15:05:45 +0000
+Content-Type: multipart/alternative; boundary="_----rGQq0IbpvpGeDjsSNhfNOw===_47/0E-31137-A46C0185"
+
+--_----rGQq0IbpvpGeDjsSNhfNOw===_47/0E-31137-A46C0185
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,=C2=A0 =0A We've made it easier to discover channels on Gitter. Ou=
+r new Discovery section features the best frontend, Ruby, Scala, Javascript=
+, devops, mobile, data science, and many more channels. Check them out!=0A=
+=0A
+--_----rGQq0IbpvpGeDjsSNhfNOw===_47/0E-31137-A46C0185
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>=0A<html style=3D"border: 0; font-size: normal; font-style: =
+normal; font-variant: normal; font-weight: normal; line-height: normal; mar=
+gin: 0; padding: 0; vertical-align: baseline">=0A<head>=0A<meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=0A<meta name=3D"v=
+iewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0">=0A<meta nam=
+e=3D"format-detection" content=3D"telephone=3Dno">=0A<style type=3D"text/cs=
+s">=0A/* reset.css */=0Ahtml,body,div,span,applet,object,iframe,h1,h2,h3,h4=
+,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img=
+,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,=
+ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,t=
+d,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup=
+,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;paddin=
+g:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,as=
+ide,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display=
+:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}bl=
+ockquote:before,blockquote:after,q:before,q:after{content:'';content:none}t=
+able{border-collapse:collapse;border-spacing:0}=0A=0Abody {=0A  background-=
+color: #f0f0f0;=0A  color: #aaa8a8;=0A  padding: 40px;=0A  font-family: Hel=
+vetica, Verdana, sans-serif;=0A  font-weight: 300;=0A  font-size: 16px;=0A =
+ line-height: 22px;=0A}=0A@media screen and (max-width: 480px) {=0A  body {=
+=0A    padding: 14px;=0A  }=0A}=0A.canvas {=0A  background-color: #fff;=0A =
+ box-shadow: 0 0 3px #ddd;=0A  max-width: 595px;=0A  margin: 0 auto;=0A}=0A=
+.canvas:before {=0A  content: '';=0A  display: block;=0A  height: 5px;=0A =
+ border: 1px solid #162e34;=0A  background-color: #162e34;=0A  border-radiu=
+s: 2px;=0A  box-shadow: inset 0 1px 0 #162e34;=0A}=0A.area {=0A  padding: 3=
+0px;=0A  padding-bottom: 15px;=0A}=0A.logo-wrap {=0A  padding: 30px;=0A  pa=
+dding-bottom: 15px;=0A  width: 100%;=0A  padding: 50px 0;=0A  box-sizing: b=
+order-box;=0A  text-align: center;=0A}=0A.logo-wrap img {=0A  max-width: 10=
+0%;=0A  height: auto;=0A  display: inline-block;=0A}=0A.area,=0A.logo-wrap =
+{=0A  border-bottom: 1px solid #eee;=0A}=0A.welcome,=0A.kthnksbye {=0A  tex=
+t-align: center;=0A}=0A.columns {=0A  text-align: center;=0A}=0A.columns im=
+g {=0A  display: inline-block;=0A  width: 100%;=0A  height: auto;=0A  max-w=
+idth: 260px;=0A  margin-bottom: 2em;=0A}=0A.footer {=0A  background-color: =
+#fbfbfb;=0A  width: 100%;=0A  height: 69px;=0A}=0A.footer td {=0A  vertical=
+-align: middle;=0A  text-align: center;=0A  color: #434343;=0A  font-size: =
+12px;=0A}=0A.footer td.social {=0A  width: 60%;=0A  line-height: 20px;=0A}=
+=0A.footer td.social a {=0A  color: #00aced;=0A  font-weight: bold;=0A  tex=
+t-decoration: none;=0A}=0A.footer td.social img {=0A  vertical-align: middl=
+e;=0A}=0A.footer td.subscription {=0A  width: 40%;=0A  border-left: 1px sol=
+id #f0f0f0;=0A  padding: 2em;=0A}=0A.footer td.subscription a {=0A  color: =
+#434343;=0A  text-decoration: underline;=0A}=0Ah1 {=0A  font-weight: bold;=
+=0A  font-size: 30px;=0A  line-height: 1.5;=0A  margin-bottom: 0.25em;=0A  =
+color: #ec1c66;=0A}=0Ah2 {=0A  font-weight: bold;=0A  color: #484848;=0A  m=
+argin-bottom: 0.5em;=0A}=0Ap {=0A  max-width: 26em;=0A  margin: 0 auto 1em =
+auto;=0A}=0Aa {=0A  color: #ec1c66;=0A  text-decoration: underline;=0A}=0A.=
+button {=0A  font-weight: normal;=0A  text-decoration: none;=0A  text-trans=
+form: uppercase;=0A  font-size: 13px;=0A  border: 1px solid #ea9448;=0A  co=
+lor: #ea9448=0A  border-radius: 8px;=0A  padding: 0.5em;=0A  width: 140px;=
+=0A  box-sizing: border-box;=0A  -moz-box-sizing: border-box;=0A  display: =
+inline-block;=0A  text-align: center;=0A}=0A.explore-button {=0A  font-weig=
+ht: normal;=0A  text-decoration: none;=0A  text-transform: uppercase;=0A  f=
+ont-size: 13px;=0A  background-color: #F2F0ED;=0A  color: #ec1c66;=0A  bord=
+er-radius: 8px;=0A  padding: 0.5em;=0A  width: 140px;=0A  box-sizing: borde=
+r-box;=0A  -moz-box-sizing: border-box;=0A  display: inline-block;=0A  text=
+-align: center;=0A}=0A.explore-table {=0A  display: inline-block=0A}=0A=0A<=
+/style>=0A<style>.intercom-align-right {=0A  text-align: right !important;=
+=0A}=0A.intercom-align-center {=0A  text-align: center !important;=0A}=0A.i=
+ntercom-align-left {=0A  text-align: left !important;=0A}=0A/* Over-ride fo=
+r RTL */=0A.right-to-left .intercom-align-right{=0A  text-align: left !impo=
+rtant;=0A}=0A.right-to-left .intercom-align-left{=0A  text-align: right !im=
+portant;=0A}=0A.right-to-left .intercom-align-left {=0A  text-align:right !=
+important;=0A}=0A.right-to-left li {=0A  text-align:right !important;=0A  d=
+irection: rtl;=0A}=0A.right-to-left .intercom-align-left img,=0A.right-to-l=
+eft .intercom-align-left .intercom-h2b-button {=0A  margin-left: 0 !importa=
+nt;=0A}=0A.intercom-attachment,=0A.intercom-attachments,=0A.intercom-attach=
+ments td,=0A.intercom-attachments th,=0A.intercom-attachments tr,=0A.interc=
+om-attachments tbody,=0A.intercom-attachments .icon,=0A.intercom-attachment=
+s .icon img {=0A  border: none !important;=0A  box-shadow: none !important;=
+=0A  padding: 0 !important;=0A  margin: 0 !important;=0A}=0A.intercom-attac=
+hments {=0A  margin: 10px 0 !important;=0A}=0A.intercom-attachments .icon,=
+=0A.intercom-attachments .icon img {=0A  width: 16px !important;=0A  height=
+: 16px !important;=0A}=0A.intercom-attachments .icon {=0A  padding-right: 5=
+px !important;=0A}=0A.intercom-attachment {=0A  display: inline-block !impo=
+rtant;=0A  margin-bottom: 5px !important;=0A}=0A=0A.intercom-interblocks-co=
+ntent-card {=0A  width: 334px !important;=0A  max-height: 136px !important;=
+=0A  max-width: 100% !important;=0A  overflow: hidden !important;=0A  borde=
+r-radius: 20px !important;=0A  font-size: 16px !important;=0A  border: 1px =
+solid #e0e0e0 !important;=0A}=0A=0A.intercom-interblocks-link,=0A.intercom-=
+interblocks-article-card {=0A  text-decoration: none !important;=0A}=0A=0A.=
+intercom-interblocks-article-icon {=0A  width: 22.5% !important;=0A  height=
+: 136px !important;=0A  float: left !important;=0A  background-color: #fafa=
+fa !important;=0A  background-image: url('https://static.intercom-mail.com/=
+assets/article_book-1a595be287f73c0d02f548f513bfc831.png') !important;=0A  =
+background-repeat: no-repeat !important;=0A  background-size: 32px !importa=
+nt;=0A  background-position: center !important;=0A}=0A=0A.intercom-interblo=
+cks-article-text {=0A  width: 77.5% !important;=0A  float: right !important=
+;=0A  background-color: #fff !important;=0A}=0A=0A.intercom-interblocks-lin=
+k-title,=0A.intercom-interblocks-article-title {=0A  color: #519dd4 !import=
+ant;=0A  margin: 16px 18px 12px !important;=0A  line-height: 1.3em !importa=
+nt;=0A  overflow: hidden !important;=0A}=0A=0A.intercom-interblocks-link-de=
+scription,=0A.intercom-interblocks-article-body {=0A  margin: 0 18px 12px !=
+important;=0A  font-size: 14px !important;=0A  color: #65757c !important;=
+=0A  line-height: 1.3em !important;=0A}=0A=0A.intercom-interblocks-link-aut=
+hor,=0A.intercom-interblocks-article-author {=0A  margin: 10px 15px !import=
+ant;=0A  height: 24px !important;=0A  line-height: normal !important;=0A}=
+=0A=0A.intercom-interblocks-link-author-avatar,=0A.intercom-interblocks-art=
+icle-author-avatar {=0A  width: 16px !important;=0A  height: 16px !importan=
+t;=0A  display: inline-block !important;=0A  vertical-align: middle !import=
+ant;=0A  float: left;=0A  margin-right: 5px;=0A}=0A=0A.intercom-interblocks=
+-link-author-avatar-image,=0A.intercom-interblocks-article-author-avatar-im=
+age {=0A  width: 16px !important;=0A  height: 16px !important;=0A  border-r=
+adius: 50% !important;=0A  margin: 0 !important;=0A  vertical-align: top !i=
+mportant;=0A  font-size: 12px !important;=0A}=0A=0A.intercom-interblocks-li=
+nk-author-name,=0A.intercom-interblocks-article-author-name {=0A  color: #7=
+4848b !important;=0A  margin: 0 0 0 5px !important;=0A  font-size: 12px !im=
+portant;=0A  font-weight: 500 !important;=0A  overflow: hidden !important;=
+=0A}=0A=0A.intercom-interblocks-article-written-by {=0A  color: #8897a4 !im=
+portant;=0A  margin: 1px 0 0 5px !important;=0A  font-size: 12px !important=
+;=0A  overflow: hidden !important;=0A  vertical-align: middle !important;=
+=0A  float: left !important;=0A}=0A</style>=0A</head>=0A<body style=3D"back=
+ground: #f0f0f0; border: 0; color: #aaa8a8; font: 300 16px/22px Helvetica, =
+Verdana, sans-serif; margin: 0; padding: 40px; vertical-align: baseline" bg=
+color=3D"#f0f0f0">=0A<style type=3D"text/css">=0Abody {=0Amargin: 0; paddin=
+g: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline;=
+=0A}=0Aimg {=0Amargin: 0; padding: 0; border: 0; font-size: 100%; font: inh=
+erit; vertical-align: baseline;=0A}=0Abody {=0Aline-height: 1;=0A}=0Abody {=
+=0Abackground-color: #f0f0f0; color: #aaa8a8; padding: 40px; font-family: H=
+elvetica, Verdana, sans-serif; font-weight: 300; font-size: 16px; line-heig=
+ht: 22px;=0A}=0A</style>=0A<div class=3D"canvas" style=3D"background: #fff;=
+ border: 0; box-shadow: 0 0 3px #ddd; font-size: normal; font-style: normal=
+; font-variant: normal; font-weight: normal; line-height: normal; margin: 0=
+ auto; max-width: 595px; padding: 0; vertical-align: baseline">=0A<div clas=
+s=3D"logo-wrap" style=3D"border-bottom-color: #eee; border-bottom-style: so=
+lid; border-width: 0 0 1px; box-sizing: border-box; font-size: normal; font=
+-style: normal; font-variant: normal; font-weight: normal; line-height: nor=
+mal; margin: 0; padding: 50px 0; text-align: center; vertical-align: baseli=
+ne; width: 100%" align=3D"center">=0A  <div class=3D"logo" style=3D"border:=
+ 0; font-size: normal; font-style: normal; font-variant: normal; font-weigh=
+t: normal; line-height: normal; margin: 0; padding: 0; vertical-align: base=
+line">=0A    <img src=3D"https://gitter.im/_s/l/images/logo/logo-64.png" wi=
+dth=3D"135" height=3D"32" alt=3D"" style=3D"border: 0; display: inline-bloc=
+k; font-size: normal; font-style: normal; font-variant: normal; font-weight=
+: normal; height: auto; line-height: normal; margin: 0; max-width: 100%; pa=
+dding: 0; vertical-align: baseline">=0A  </div>=0A</div>=0A<div class=3D"ar=
+ea welcome" style=3D"border-bottom-color: #eee; border-bottom-style: solid;=
+ border-width: 0 0 1px; font-size: normal; font-style: normal; font-variant=
+: normal; font-weight: normal; line-height: normal; margin: 0; padding: 30p=
+x 30px 15px; text-align: center; vertical-align: baseline" align=3D"center"=
+>=0A<p class=3D"intercom-align-left" style=3D"border: 0; font-size: normal;=
+ font-style: normal; font-variant: normal; font-weight: normal; line-height=
+: normal; margin: 0 auto 1em; max-width: 26em; padding: 0; text-align: left=
+ !important; vertical-align: baseline" align=3D"left">Hi there,=C2=A0</p>=
+=0A<p class=3D"intercom-align-left" style=3D"border: 0; font-size: normal; =
+font-style: normal; font-variant: normal; font-weight: normal; line-height:=
+ normal; margin: 0 auto 1em; max-width: 26em; padding: 0; text-align: left =
+!important; vertical-align: baseline" align=3D"left">We've made it easier t=
+o discover channels on Gitter. Our new <a href=3D"https://via.intercom-mail=
+-100.com/e=3Fob=3DBwQPy%2BFijhl5kAwfoyO8xnPddRunu622XDLXLcu2sng%3D&h=3D7ab4=
+0104027291972624d79afd7273a9ffccbe12-6493334364" target=3D"_blank" style=3D=
+"border: 0; color: #ec1c66; font-size: normal; font-style: normal; font-var=
+iant: normal; font-weight: normal; line-height: normal; margin: 0; padding:=
+ 0; text-decoration: underline; vertical-align: baseline">Discovery</a> sec=
+tion features the best frontend, Ruby, Scala, Javascript, devops, mobile, d=
+ata science, and many more channels. Check them out!</p>=0A</div>=0A<div cl=
+ass=3D"area columns" style=3D"border-bottom-color: #eee; border-bottom-styl=
+e: solid; border-width: 0 0 1px; font-size: normal; font-style: normal; fon=
+t-variant: normal; font-weight: normal; line-height: normal; margin: 0; pad=
+ding: 30px 30px 15px; text-align: center; vertical-align: baseline" align=
+=3D"center">=0A <table class=3D"explore-table" style=3D"border: 0; border-c=
+ollapse: collapse; border-spacing: 0; display: inline-block; font-size: nor=
+mal; font-style: normal; font-variant: normal; font-weight: normal; line-he=
+ight: normal; margin: 0; padding: 0; vertical-align: baseline">=0A   <tr st=
+yle=3D"border: 0; font-size: normal; font-style: normal; font-variant: norm=
+al; font-weight: normal; line-height: normal; margin: 0; padding: 0; vertic=
+al-align: baseline">=0A     <td style=3D"border: 0; font-size: normal; font=
+-style: normal; font-variant: normal; font-weight: normal; line-height: nor=
+mal; margin: 0; padding: 8px; vertical-align: baseline" valign=3D"baseline"=
+><a href=3D"https://via.intercom-mail-100.com/e=3Fob=3DyrSCkxS9qLAUGdm1YJYe=
+IahUxj45xi9XkJZJsEa5ofAh0YyHIcVyuLeLnsmdFAfl&h=3D38fb5e6eea66c84156069020db=
+f9bfd4701dbeda-6493334364" class=3D"explore-button" style=3D"-moz-box-sizin=
+g: border-box; background: #F2F0ED; border: 0; border-radius: 8px; box-sizi=
+ng: border-box; color: #ec1c66; display: inline-block; font-size: 13px; fon=
+t-style: normal; font-variant: normal; font-weight: normal; line-height: no=
+rmal; margin: 0; padding: 0.5em; text-align: center; text-decoration: none;=
+ text-transform: uppercase; vertical-align: baseline; width: 140px">Javascr=
+ipt</a></td>=0A     <td style=3D"border: 0; font-size: normal; font-style: =
+normal; font-variant: normal; font-weight: normal; line-height: normal; mar=
+gin: 0; padding: 8px; vertical-align: baseline" valign=3D"baseline"><a href=
+=3D"https://via.intercom-mail-100.com/e=3Fob=3DvNxlwUVYnYU%2F%2B%2F0p6sfnbp=
+tYwl%2Foy8m8QtmzCKN9GJEt%2BgRMZndbJh%2B8rvOhocNc&h=3D9f09dfcf25316cb1337c38=
+9571c01199a895cef4-6493334364" class=3D"explore-button" style=3D"-moz-box-s=
+izing: border-box; background: #F2F0ED; border: 0; border-radius: 8px; box-=
+sizing: border-box; color: #ec1c66; display: inline-block; font-size: 13px;=
+ font-style: normal; font-variant: normal; font-weight: normal; line-height=
+: normal; margin: 0; padding: 0.5em; text-align: center; text-decoration: n=
+one; text-transform: uppercase; vertical-align: baseline; width: 140px">Mob=
+ile</a></td>=0A=0A=0A   </tr>=0A   <tr style=3D"border: 0; font-size: norma=
+l; font-style: normal; font-variant: normal; font-weight: normal; line-heig=
+ht: normal; margin: 0; padding: 0; vertical-align: baseline">=0A     <td st=
+yle=3D"border: 0; font-size: normal; font-style: normal; font-variant: norm=
+al; font-weight: normal; line-height: normal; margin: 0; padding: 8px; vert=
+ical-align: baseline" valign=3D"baseline"><a href=3D"https://via.intercom-m=
+ail-100.com/e=3Fob=3DEMh2vT8MKSD9nLk4%2FwYvzUkUIq%2BIkHLbBuBLyq6%2BVM%2FxpS=
+W5M%2BgldfV%2BCJmFkirA&h=3D9144125424a7f6014696b3ce30ddb15aea939b65-6493334=
+364" class=3D"explore-button" style=3D"-moz-box-sizing: border-box; backgro=
+und: #F2F0ED; border: 0; border-radius: 8px; box-sizing: border-box; color:=
+ #ec1c66; display: inline-block; font-size: 13px; font-style: normal; font-=
+variant: normal; font-weight: normal; line-height: normal; margin: 0; paddi=
+ng: 0.5em; text-align: center; text-decoration: none; text-transform: upper=
+case; vertical-align: baseline; width: 140px">Swift</a></td>=0A     <td sty=
+le=3D"border: 0; font-size: normal; font-style: normal; font-variant: norma=
+l; font-weight: normal; line-height: normal; margin: 0; padding: 8px; verti=
+cal-align: baseline" valign=3D"baseline"><a href=3D"https://via.intercom-ma=
+il-100.com/e=3Fob=3DKWXHyQpRiB%2FJ1Wjqwpwxs2djdp5pmCXC3HAyJ14hMZo467akMb5zV=
+PrDvk3%2FbGUN&h=3Dbfa72641ae1521293b3503866dde0aaf43413a83-6493334364" clas=
+s=3D"explore-button" style=3D"-moz-box-sizing: border-box; background: #F2F=
+0ED; border: 0; border-radius: 8px; box-sizing: border-box; color: #ec1c66;=
+ display: inline-block; font-size: 13px; font-style: normal; font-variant: =
+normal; font-weight: normal; line-height: normal; margin: 0; padding: 0.5em=
+; text-align: center; text-decoration: none; text-transform: uppercase; ver=
+tical-align: baseline; width: 140px">CSS</a></td>=0A=0A   </tr>=0A<tr style=
+=3D"border: 0; font-size: normal; font-style: normal; font-variant: normal;=
+ font-weight: normal; line-height: normal; margin: 0; padding: 0; vertical-=
+align: baseline">=0A     <td style=3D"border: 0; font-size: normal; font-st=
+yle: normal; font-variant: normal; font-weight: normal; line-height: normal=
+; margin: 0; padding: 8px; vertical-align: baseline" valign=3D"baseline"><a=
+ href=3D"https://via.intercom-mail-100.com/e=3Fob=3DNgRLH0pui3NCcBhx3FeTDZE=
+28DDyCrHYiIMMzVqxgOZkwk%2FtbhEQKnuYpshRAVcE&h=3D6441628ee02f61cb95adc8e8065=
+825ff73066f6c-6493334364" class=3D"explore-button" style=3D"-moz-box-sizing=
+: border-box; background: #F2F0ED; border: 0; border-radius: 8px; box-sizin=
+g: border-box; color: #ec1c66; display: inline-block; font-size: 13px; font=
+-style: normal; font-variant: normal; font-weight: normal; line-height: nor=
+mal; margin: 0; padding: 0.5em; text-align: center; text-decoration: none; =
+text-transform: uppercase; vertical-align: baseline; width: 140px">Go</a></=
+td>=0A     <td style=3D"border: 0; font-size: normal; font-style: normal; f=
+ont-variant: normal; font-weight: normal; line-height: normal; margin: 0; p=
+adding: 8px; vertical-align: baseline" valign=3D"baseline"><a href=3D"https=
+://via.intercom-mail-100.com/e=3Fob=3DGL0EH5mIKJLNuT0TA2uaeaxDvAQdYU0J%2BYu=
+%2BWAqOGEhfv0Vtu1QIAneDRsfos1Fx0s2ENvm6%2FjdFerdeva9F7A%3D%3D&h=3D280509f8f=
+f43865dd718e9468a05b1b23a3eb033-6493334364" class=3D"explore-button" style=
+=3D"-moz-box-sizing: border-box; background: #F2F0ED; border: 0; border-rad=
+ius: 8px; box-sizing: border-box; color: #ec1c66; display: inline-block; fo=
+nt-size: 13px; font-style: normal; font-variant: normal; font-weight: norma=
+l; line-height: normal; margin: 0; padding: 0.5em; text-align: center; text=
+-decoration: none; text-transform: uppercase; vertical-align: baseline; wid=
+th: 140px">Data Science</a></td>=0A =0A   </tr>=0A<tr style=3D"border: 0; f=
+ont-size: normal; font-style: normal; font-variant: normal; font-weight: no=
+rmal; line-height: normal; margin: 0; padding: 0; vertical-align: baseline"=
+>=0A     <td style=3D"border: 0; font-size: normal; font-style: normal; fon=
+t-variant: normal; font-weight: normal; line-height: normal; margin: 0; pad=
+ding: 8px; vertical-align: baseline" valign=3D"baseline"><a href=3D"https:/=
+/via.intercom-mail-100.com/e=3Fob=3Da1x6PWHt5HUHzshZj0YOFWk8Xljqn%2BvnUtN4H=
+VoA3VNXnGWFYT2zik3xpp4p%2FqHa&h=3D2ff47e169dd1b5a82c920697f3b755a00c2d4775-=
+6493334364" class=3D"explore-button" style=3D"-moz-box-sizing: border-box; =
+background: #F2F0ED; border: 0; border-radius: 8px; box-sizing: border-box;=
+ color: #ec1c66; display: inline-block; font-size: 13px; font-style: normal=
+; font-variant: normal; font-weight: normal; line-height: normal; margin: 0=
+; padding: 0.5em; text-align: center; text-decoration: none; text-transform=
+: uppercase; vertical-align: baseline; width: 140px">Ruby</a></td>=0A     <=
+td style=3D"border: 0; font-size: normal; font-style: normal; font-variant:=
+ normal; font-weight: normal; line-height: normal; margin: 0; padding: 8px;=
+ vertical-align: baseline" valign=3D"baseline"><a href=3D"https://via.inter=
+com-mail-100.com/e=3Fob=3DH8wJ71XT8WhxagRgR0PR3BF5pbTfWVJxt9dmyQVKmqpkiJC6s=
+ERCh0%2Bw5Seujr5k&h=3D21eef7e39a50490f552b935ebebc0fcd825ef1d4-6493334364" =
+class=3D"explore-button" style=3D"-moz-box-sizing: border-box; background: =
+#F2F0ED; border: 0; border-radius: 8px; box-sizing: border-box; color: #ec1=
+c66; display: inline-block; font-size: 13px; font-style: normal; font-varia=
+nt: normal; font-weight: normal; line-height: normal; margin: 0; padding: 0=
+.5em; text-align: center; text-decoration: none; text-transform: uppercase=
+; vertical-align: baseline; width: 140px">Scala</a></td>=0A =0A   </tr>=0A =
+<tr style=3D"border: 0; font-size: normal; font-style: normal; font-variant=
+: normal; font-weight: normal; line-height: normal; margin: 0; padding: 0; =
+vertical-align: baseline">=0A     <td style=3D"border: 0; font-size: normal=
+; font-style: normal; font-variant: normal; font-weight: normal; line-heigh=
+t: normal; margin: 0; padding: 8px; vertical-align: baseline" valign=3D"bas=
+eline"><a href=3D"https://via.intercom-mail-100.com/e=3Fob=3DxbqWQLQLXpV1Rv=
+7Y1pgEKMkyRc9WEh%2Foz%2BHjDkStEOCAl2oOjT7kiMl0gmLGi6Dj&h=3Deec57ba93e2ecfcc=
+5037df587faa41e09c2689ff-6493334364" class=3D"explore-button" style=3D"-moz=
+-box-sizing: border-box; background: #F2F0ED; border: 0; border-radius: 8px=
+; box-sizing: border-box; color: #ec1c66; display: inline-block; font-size:=
+ 13px; font-style: normal; font-variant: normal; font-weight: normal; line-=
+height: normal; margin: 0; padding: 0.5em; text-align: center; text-decorat=
+ion: none; text-transform: uppercase; vertical-align: baseline; width: 140p=
+x">Node</a></td>=0A     <td style=3D"border: 0; font-size: normal; font-sty=
+le: normal; font-variant: normal; font-weight: normal; line-height: normal;=
+ margin: 0; padding: 8px; vertical-align: baseline" valign=3D"baseline"><a =
+href=3D"https://via.intercom-mail-100.com/e=3Fob=3DPFeLah9jSSDmSF%2F06r9%2B=
+mhzlqev1tG7mn%2BpdbnUnuN2RvGGeu4o5yO4Q2lEHn5gN&h=3Dd00da81d7d8a4bf03076deb7=
+2dd674ef424bd55c-6493334364" class=3D"explore-button" style=3D"-moz-box-siz=
+ing: border-box; background: #F2F0ED; border: 0; border-radius: 8px; box-si=
+zing: border-box; color: #ec1c66; display: inline-block; font-size: 13px; f=
+ont-style: normal; font-variant: normal; font-weight: normal; line-height: =
+normal; margin: 0; padding: 0.5em; text-align: center; text-decoration: non=
+e; text-transform: uppercase; vertical-align: baseline; width: 140px">Angul=
+ar</a></td>=0A=0A   </tr>=0A=0A<tr style=3D"border: 0; font-size: normal; f=
+ont-style: normal; font-variant: normal; font-weight: normal; line-height: =
+normal; margin: 0; padding: 0; vertical-align: baseline">=0A <td style=3D"b=
+order: 0; font-size: normal; font-style: normal; font-variant: normal; font=
+-weight: normal; line-height: normal; margin: 0; padding: 8px; vertical-ali=
+gn: baseline" valign=3D"baseline"><a href=3D"https://via.intercom-mail-100.=
+com/e=3Fob=3DHivxh0CaFNNWCPY11pl1W4gkAiE%2Bh33Ggp2eghfj%2F7175zEUN3MQwveys9=
+qWiexb&h=3D0e39c3e77120b6dd9c3e38e31b148c3133f30f21-6493334364" class=3D"ex=
+plore-button" style=3D"-moz-box-sizing: border-box; background: #F2F0ED; bo=
+rder: 0; border-radius: 8px; box-sizing: border-box; color: #ec1c66; displa=
+y: inline-block; font-size: 13px; font-style: normal; font-variant: normal;=
+ font-weight: normal; line-height: normal; margin: 0; padding: 0.5em; text-=
+align: center; text-decoration: none; text-transform: uppercase; vertical-a=
+lign: baseline; width: 140px">Frontend</a></td>=0A=0A=0A <td style=3D"borde=
+r: 0; font-size: normal; font-style: normal; font-variant: normal; font-wei=
+ght: normal; line-height: normal; margin: 0; padding: 8px; vertical-align: =
+baseline" valign=3D"baseline"><a href=3D"https://via.intercom-mail-100.com/=
+e=3Fob=3DQyG9iBqYeIAcomhFawBGqAN7iwDDQL6Zu5lxbq0CMyD16MQfr6tuJg6AbzH1Em62&h=
+=3Da634807358de9b2c7ef974a4bc76f7c940b214c3-6493334364" class=3D"explore-bu=
+tton" style=3D"-moz-box-sizing: border-box; background: #F2F0ED; border: 0;=
+ border-radius: 8px; box-sizing: border-box; color: #ec1c66; display: inlin=
+e-block; font-size: 13px; font-style: normal; font-variant: normal; font-we=
+ight: normal; line-height: normal; margin: 0; padding: 0.5em; text-align: c=
+enter; text-decoration: none; text-transform: uppercase; vertical-align: ba=
+seline; width: 140px">Django</a></td>=0A=0A</tr>=0A=0A<tr style=3D"border: =
+0; font-size: normal; font-style: normal; font-variant: normal; font-weight=
+: normal; line-height: normal; margin: 0; padding: 0; vertical-align: basel=
+ine">=0A<td style=3D"border: 0; font-size: normal; font-style: normal; font=
+-variant: normal; font-weight: normal; line-height: normal; margin: 0; padd=
+ing: 8px; vertical-align: baseline" valign=3D"baseline"><a href=3D"https://=
+via.intercom-mail-100.com/e=3Fob=3DRY4p%2BSZRx%2B1Ex3NF0fFXms7GW8Tiuo2fVYyp=
+yDOB8%2BYvI5CNJfC7HS3uStpD1lLa&h=3D2bb93c5113d78ce289f962a4cab0116c57889ea3=
+-6493334364" class=3D"explore-button" style=3D"-moz-box-sizing: border-box;=
+ background: #F2F0ED; border: 0; border-radius: 8px; box-sizing: border-box=
+; color: #ec1c66; display: inline-block; font-size: 13px; font-style: norma=
+l; font-variant: normal; font-weight: normal; line-height: normal; margin: =
+0; padding: 0.5em; text-align: center; text-decoration: none; text-transfor=
+m: uppercase; vertical-align: baseline; width: 140px">DevOps</a></td>=0A=0A=
+=0A <td style=3D"border: 0; font-size: normal; font-style: normal; font-var=
+iant: normal; font-weight: normal; line-height: normal; margin: 0; padding:=
+ 8px; vertical-align: baseline" valign=3D"baseline"><a href=3D"https://via.=
+intercom-mail-100.com/e=3Fob=3DZZK44zpRvXurg6atfW9zFCrwnBxohg%2FWRKpyjRqi3G=
+D9kQHxl5yGGo8XO9iq%2FTQI&h=3D67b7f0260416844ce7b5cfcfcf0f77f4e45dc3b4-64933=
+34364" class=3D"explore-button" style=3D"-moz-box-sizing: border-box; backg=
+round: #F2F0ED; border: 0; border-radius: 8px; box-sizing: border-box; colo=
+r: #ec1c66; display: inline-block; font-size: 13px; font-style: normal; fon=
+t-variant: normal; font-weight: normal; line-height: normal; margin: 0; pad=
+ding: 0.5em; text-align: center; text-decoration: none; text-transform: upp=
+ercase; vertical-align: baseline; width: 140px">Haskell</a></td>=0A=0A</tr>=
+=0A=0A=0A </table>=0A=0A</div>=0A<div class=3D"area kthnksbye" style=3D"bor=
+der-bottom-color: #eee; border-bottom-style: solid; border-width: 0 0 1px; =
+font-size: normal; font-style: normal; font-variant: normal; font-weight: n=
+ormal; line-height: normal; margin: 0; padding: 30px 30px 15px; text-align:=
+ center; vertical-align: baseline" align=3D"center">=0A<p style=3D"border: =
+0; font-size: normal; font-style: normal; font-variant: normal; font-weight=
+: normal; line-height: normal; margin: 0 auto 1em; max-width: 26em; padding=
+: 0; vertical-align: baseline">Come say hi in <a href=3D"https://via.interc=
+om-mail-100.com/e=3Fob=3DxtE6DvABoJ7qc5od%2BNFckLpXChoRPAscaB9762evmlZOYTJS=
+a9WObKkvjA6g2BPb&h=3Ddc423fe1048e3eebaf10c2c0f88db1719b352a3e-6493334364" s=
+tyle=3D"border: 0; color: #ec1c66; font-size: normal; font-style: normal; f=
+ont-variant: normal; font-weight: normal; line-height: normal; margin: 0; p=
+adding: 0; text-decoration: underline; vertical-align: baseline">gitterHQ/g=
+itter</a> and let us know how we can improve or just have a friendly chat.<=
+/p>=0A</div>=0A<table class=3D"footer" style=3D"background: #fbfbfb; border=
+: 0; border-collapse: collapse; border-spacing: 0; font-size: normal; font-=
+style: normal; font-variant: normal; font-weight: normal; height: 69px; lin=
+e-height: normal; margin: 0; padding: 0; vertical-align: baseline; width: 1=
+00%" bgcolor=3D"#fbfbfb">=0A<tbody style=3D"border: 0; font-size: normal; f=
+ont-style: normal; font-variant: normal; font-weight: normal; line-height: =
+normal; margin: 0; padding: 0; vertical-align: baseline">=0A<tr style=3D"bo=
+rder: 0; font-size: normal; font-style: normal; font-variant: normal; font-=
+weight: normal; line-height: normal; margin: 0; padding: 0; vertical-align:=
+ baseline">=0A    <td class=3D"social" style=3D"border: 0; color: #434343; =
+font-size: 12px; font-style: normal; font-variant: normal; font-weight: nor=
+mal; line-height: 20px; margin: 0; padding: 0; text-align: center; vertical=
+-align: middle; width: 60%" align=3D"center" valign=3D"middle">=0A        F=
+ollow us: <a href=3D"https://via.intercom-mail-100.com/e=3Fob=3DIdrRLaXuoc6=
+tL8kB6uZyPGRYCaciP4jpf5ssuPrHZD4%3D&h=3D2051bbb1f461f2984280be7f9dbed40a867=
+cb364-6493334364" class=3D"twitter" style=3D"border: 0; color: #00aced; fon=
+t-size: normal; font-style: normal; font-variant: normal; font-weight: bold=
+; line-height: normal; margin: 0; padding: 0; text-decoration: none; vertic=
+al-align: baseline"><img src=3D"https://gitter.im/_s/l/images/intercom/twit=
+ter-icon-40.png" width=3D"20" height=3D"20" style=3D"border: 0; font-size: =
+normal; font-style: normal; font-variant: normal; font-weight: normal; line=
+-height: normal; margin: 0; padding: 0; vertical-align: middle"> Twitter</a=
+> =C2=A0=0A    </td>=0A    <td class=3D"subscription" style=3D"border-left-=
+color: #f0f0f0; border-left-style: solid; border-width: 0 0 0 1px; color: #=
+434343; font-size: 12px; font-style: normal; font-variant: normal; font-wei=
+ght: normal; line-height: normal; margin: 0; padding: 2em; text-align: cent=
+er; vertical-align: middle; width: 40%" align=3D"center" valign=3D"middle">=
+=0A      <a href=3D"https://uxcz6eax.intercom-mail.com/unsubscribe=3Fapp_id=
+=3Duxcz6eax&conversation_id=3D6493334364&user_id=3D57f5133881540d210fb812be=
+" style=3D"border: 0; color: #434343; font-size: normal; font-style: normal=
+; font-variant: normal; font-weight: normal; line-height: normal; margin: 0=
+; padding: 0; text-decoration: underline; vertical-align: baseline">Unsubsc=
+ribe from our emails</a>=0A    </td>=0A</tr>=0A</tbody>=0A</table>=0A</div>=
+=0A<img src=3D"https://via.intercom-mail-100.com/o=3Fh=3De475adcbe81ddab128=
+5e3b749bb0ae4cbb7c55e0-6493334364" width=3D"1" height=3D"1" style=3D"displa=
+y: block;" alt=3D"intercom">=0A</body>=0A</html>=0A
+--_----rGQq0IbpvpGeDjsSNhfNOw===_47/0E-31137-A46C0185--
+

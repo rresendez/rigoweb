@@ -1,0 +1,285 @@
+Return-path: <01000155c6cbfc54-a43beac0-6a0d-4656-a5f9-5ed15499f832-000000@amazonses.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 07 Jul 2016 15:19:05 -0400
+Received: from a9-67.smtp-out.amazonses.com ([54.240.9.67]:56113)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <01000155c6cbfc54-a43beac0-6a0d-4656-a5f9-5ed15499f832-000000@amazonses.com>)
+	id 1bLEpF-000tv3-LA
+	for rresendez@rigoresendez.com; Thu, 07 Jul 2016 15:19:05 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1467919105;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=92Jw725Rlqz0M3D0b5YuRNmuKfgAFqd/TLN/ErNpL4w=;
+	b=cTKkuE1nB3NMRiO+kgqHLAumkSz5fLR6zsr1DH+9CsEnilpFGZYOd9/w2/FNfbM+
+	aIJoWBkZQVOcw9Mjujuns6UaxJvz4E68ehxTHyiCOo93GGcpod7MgRstihVbufmng6V
+	fjLdKHKKpdTaS8x96e7Xvlo6LTh7vy52+4HdM0ew=
+Content-Type: multipart/alternative;
+ boundary="===============6226845150843782159=="
+MIME-Version: 1.0
+Subject: The PythonAnywhere newsletter, July 2016
+From: support@pythonanywhere.com
+To: rresendez@rigoresendez.com
+Date: Thu, 7 Jul 2016 19:18:25 +0000
+Message-ID: <01000155c6cbfc54-a43beac0-6a0d-4656-a5f9-5ed15499f832-000000@email.amazonses.com>
+X-SES-Outgoing: 2016.07.07-54.240.9.67
+Feedback-ID: 1.us-east-1.aqqnUrZmkJIrlKHtYGlEE4aeMYQu5NC3dm604Ru5da8=:AmazonSES
+
+--===============6226845150843782159==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+The PythonAnywhere newsletter, July 2016
+========================================
+
+A very warm summer greeting from PythonAnywhere!  Here's the latest on what we're doing and what we've done.
+
+
+The PythonAnywhere API (first steps)
+-------------------------------------
+
+For a while, people have been asking us for an API to control PythonAnywhere functions from scripts.  We've just made the very first steps in that direction... it's definitely not ready for prime-time yet, but if you're keen to take a look, get in touch, and we'll switch it on for you.  Currently the API allows you to do stuff to your web apps, namely:
+
+* create a new web app
+* reload a web app
+* update webapp settings: virtualenv, static files.
+
+The API may well change in the future, so don't build anything mission-critical based on it -- but if you want to be able to give feedback and shape version 1.0, then now's the time to try it out.
+
+
+micro:bit
+---------
+
+The micro:bit is a tiny computer created by a project run by the BBC here in the UK, to help kids learn how to code rather than being passive consumers of media.  It can run on a battery and has Bluetooth, MicroUSB, and an embedded ARM processor.  Free ones are being sent to every child in year 7 (12 year-olds) in the UK, but you can also buy them.  They're a great tool for learning Internet-of-Things coding.
+
+Due to the sterling efforts of [Nicholas Tollervey](http://ntoll.org/article/story-micropython-on-microbit) (UK Python guru, computing-in-education expert, and all-round nice guy) and Damien George (creator of MicroPython and also super-nice), one of the languages supported on the micro:bit is Python :-)   We're very proud to be the hosts of the Python portion of the official online IDE for the micro:bit.
+
+
+The inside scoop from our forums
+--------------------------------
+
+* Are you a teacher, or do you want to embed consoles in your blog posts with code examples so that your readers can try them out?  [Harry recommends Gist consoles](https://www.pythonanywhere.com/forums/topic/5203/)
+* Interested in hosting multiple domains with the same codebase?   You don't need multiple copies of your code.  [This forum thread explains how to set things up using Django](https://www.pythonanywhere.com/forums/topic/5279/).
+* Some hints on how to do [automated offsite backups of your MySQL databases](https://www.pythonanywhere.com/forums/topic/119/#id_post_22721) on PythonAnywhere from R. Cooke.
+
+
+New modules
+-----------
+
+Although [you can install Python packages on PythonAnywhere yourself](https://help.pythonanywhere.com/pages/InstallingNewModules), we like to make sure that we have plenty of [batteries included](https://www.pythonanywhere.com/batteries_included/).
+
+There's some big news coming in this area soon, but for now we just have a few useful new modules to report.
+
+We've added some Linux system packages so that you can access them from bash consoles:
+
+* asciidoc: an ASCII format for writing stuff.  A bit like Markdown.
+* octave: a free MatLab clone.
+* tcsh: an extension of csh.
+
+And some Python packages:
+
+* django-object-tools v1.9 for Python 2.7, 3.3, 3.4, and 3.5.
+* mimerender v0.6.0 for Pythons 2.7, 3.3, 3.4, and 3.5.
+* tensorflow v0.8.0 for Python 2.7, and v0.9.0 for Python 3.4 and 3.4.
+* praw v3.1.0 for Python 2.7, 3.3 and 3.4, and 3.5.0 for Python 3.5.
+* Flask-Login v0.3.2 for Python 3.3, 3.4 and 3.5
+* elaphe v0.6.0 for Python 2.7
+
+
+
+New whitelisted sites
+---------------------
+
+Paying PythonAnywhere customers get unrestricted Internet access, but if you're a
+free PythonAnywhere user, you may have hit problems when writing
+code that tries to access sites elsewhere on the Internet. We have to restrict you
+to sites on [a whitelist](https://www.pythonanywhere.com/whitelist/)
+to stop hackers from creating dummy accounts to hide their identities when breaking
+into other people's websites.
+
+But we really do encourage you to suggest new sites that should be on the whitelist.
+Our rule is, if it's got an official public API, which means that the site's
+owners are encouraging automated access to their server, then we'll whitelist it.
+
+Here are some sites we've added since our last newsletter:
+
+* api.coinsecure.in: the API for an Indian bitcoin exchange.
+* api.datamuse.com: designed to help people create and communicate more effectively.
+* api.hitbtc.com: "the most advanced Bitcoin exchange", or at least that's what they say.
+* api.predictious.com: a prediction marketplace.  Not betting, no siree.
+* api.ipify.org: a simple API to get your pulic IP address.
+* api.meh.com: a very silly daily deal site.
+* api.mymemory.translated.net: translations by humans, for humans.
+* api.pinnacle.com: online betting.  Kind of like a prediction marketplace, but more regulated.
+* api.robinhood.com: free stock trading. (We think they mean commission-free, you still have to pay for the shares.  Boo.)
+* api.sendgrid.com: send email.
+* berlin.de: information from the Berlin government.
+* btcvol.info: tracks the volatility of Bitcoin prices in US dollars.
+* cbr.ru: the Russian Central Bank.
+* wheniwork.com: scheduling hours for hourly workers.
+* ecb.europa.eu: the European Central Bank.
+* eklima.met.no: free access to weather- and climate data from the Norwegian Meteorological Institute.
+* googledrive.com: we think you know what this is.
+* ipinfo.io: another API for your IP address
+* ops.epo.org: access the European Patent Office's raw data.
+* swift.org: download and install Swift packages.  The programming language, not Taylor.
+* twitrss.me: get your Twitter feed in your RSS reader, where it's meant to be.
+* wservice.viabicing.cat: information on Barcelona's bike-sharing scheme.
+* www.deviantart.com: much less terrifying than it sounds.
+* www.virustotal.com: analyse suspicous files and URLs and compare to known malware.
+* www.yr.no: more Norwegian weather.
+
+
+
+And that's it
+-------------
+
+Thanks for reading our newsletter!  Tune in the same time next month (ish) for more news from PythonAnywhere.
+
+PS If you no longer wish to receive email from us, you can use this link to
+unsubscribe:
+https://www.pythonanywhere.com/unsubscribe?email=rresendez%40rigoresendez.com&n=ab79f106797243be3496ee3d122e059a
+
+--
+PythonAnywhere: Develop and host Python from your browser
+https://www.pythonanywhere.com/
+
+A product from PythonAnywhere LLP
+17a Clerkenwell Road, London EC1M 5RD, UK
+VAT No.: GB 893 5643 79
+Registered in England and Wales as company number OC378414.
+Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK
+
+
+--===============6226845150843782159==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+    <meta charset="utf-8">
+    <style type="text/css">
+    body {
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-size: 12pt;
+}
+
+h1 {
+    color: #139FD7;
+}
+
+h2 {
+    margin-top: 2em;
+    border-bottom: solid 1px #139FD7;
+}
+
+a {
+    color: #139FD7;
+}
+
+    </style>
+    </head>
+
+    <body>
+    <h1>The PythonAnywhere newsletter, July 2016</h1>
+<p>A very warm summer greeting from PythonAnywhere!  Here's the latest on what we're doing and what we've done.</p>
+<h2>The PythonAnywhere API (first steps)</h2>
+<p>For a while, people have been asking us for an API to control PythonAnywhere functions from scripts.  We've just made the very first steps in that direction... it's definitely not ready for prime-time yet, but if you're keen to take a look, get in touch, and we'll switch it on for you.  Currently the API allows you to do stuff to your web apps, namely:</p>
+<ul>
+<li>create a new web app</li>
+<li>reload a web app</li>
+<li>update webapp settings: virtualenv, static files.</li>
+</ul>
+<p>The API may well change in the future, so don't build anything mission-critical based on it -- but if you want to be able to give feedback and shape version 1.0, then now's the time to try it out.</p>
+<h2>micro:bit</h2>
+<p>The micro:bit is a tiny computer created by a project run by the BBC here in the UK, to help kids learn how to code rather than being passive consumers of media.  It can run on a battery and has Bluetooth, MicroUSB, and an embedded ARM processor.  Free ones are being sent to every child in year 7 (12 year-olds) in the UK, but you can also buy them.  They're a great tool for learning Internet-of-Things coding.</p>
+<p>Due to the sterling efforts of <a href="http://ntoll.org/article/story-micropython-on-microbit">Nicholas Tollervey</a> (UK Python guru, computing-in-education expert, and all-round nice guy) and Damien George (creator of MicroPython and also super-nice), one of the languages supported on the micro:bit is Python :-)   We're very proud to be the hosts of the Python portion of the official online IDE for the micro:bit.</p>
+<h2>The inside scoop from our forums</h2>
+<ul>
+<li>Are you a teacher, or do you want to embed consoles in your blog posts with code examples so that your readers can try them out?  <a href="https://www.pythonanywhere.com/forums/topic/5203/">Harry recommends Gist consoles</a></li>
+<li>Interested in hosting multiple domains with the same codebase?   You don't need multiple copies of your code.  <a href="https://www.pythonanywhere.com/forums/topic/5279/">This forum thread explains how to set things up using Django</a>.</li>
+<li>Some hints on how to do <a href="https://www.pythonanywhere.com/forums/topic/119/#id_post_22721">automated offsite backups of your MySQL databases</a> on PythonAnywhere from R. Cooke.</li>
+</ul>
+<h2>New modules</h2>
+<p>Although <a href="https://help.pythonanywhere.com/pages/InstallingNewModules">you can install Python packages on PythonAnywhere yourself</a>, we like to make sure that we have plenty of <a href="https://www.pythonanywhere.com/batteries_included/">batteries included</a>.</p>
+<p>There's some big news coming in this area soon, but for now we just have a few useful new modules to report.</p>
+<p>We've added some Linux system packages so that you can access them from bash consoles:</p>
+<ul>
+<li>asciidoc: an ASCII format for writing stuff.  A bit like Markdown.</li>
+<li>octave: a free MatLab clone.</li>
+<li>tcsh: an extension of csh.</li>
+</ul>
+<p>And some Python packages:</p>
+<ul>
+<li>django-object-tools v1.9 for Python 2.7, 3.3, 3.4, and 3.5.</li>
+<li>mimerender v0.6.0 for Pythons 2.7, 3.3, 3.4, and 3.5.</li>
+<li>tensorflow v0.8.0 for Python 2.7, and v0.9.0 for Python 3.4 and 3.4.</li>
+<li>praw v3.1.0 for Python 2.7, 3.3 and 3.4, and 3.5.0 for Python 3.5.</li>
+<li>Flask-Login v0.3.2 for Python 3.3, 3.4 and 3.5</li>
+<li>elaphe v0.6.0 for Python 2.7</li>
+</ul>
+<h2>New whitelisted sites</h2>
+<p>Paying PythonAnywhere customers get unrestricted Internet access, but if you're a
+free PythonAnywhere user, you may have hit problems when writing
+code that tries to access sites elsewhere on the Internet. We have to restrict you
+to sites on <a href="https://www.pythonanywhere.com/whitelist/">a whitelist</a>
+to stop hackers from creating dummy accounts to hide their identities when breaking
+into other people's websites.</p>
+<p>But we really do encourage you to suggest new sites that should be on the whitelist.
+Our rule is, if it's got an official public API, which means that the site's
+owners are encouraging automated access to their server, then we'll whitelist it.</p>
+<p>Here are some sites we've added since our last newsletter:</p>
+<ul>
+<li>api.coinsecure.in: the API for an Indian bitcoin exchange.</li>
+<li>api.datamuse.com: designed to help people create and communicate more effectively.</li>
+<li>api.hitbtc.com: "the most advanced Bitcoin exchange", or at least that's what they say.</li>
+<li>api.predictious.com: a prediction marketplace.  Not betting, no siree.</li>
+<li>api.ipify.org: a simple API to get your pulic IP address.</li>
+<li>api.meh.com: a very silly daily deal site.</li>
+<li>api.mymemory.translated.net: translations by humans, for humans.</li>
+<li>api.pinnacle.com: online betting.  Kind of like a prediction marketplace, but more regulated.</li>
+<li>api.robinhood.com: free stock trading. (We think they mean commission-free, you still have to pay for the shares.  Boo.)</li>
+<li>api.sendgrid.com: send email.</li>
+<li>berlin.de: information from the Berlin government.</li>
+<li>btcvol.info: tracks the volatility of Bitcoin prices in US dollars.</li>
+<li>cbr.ru: the Russian Central Bank.</li>
+<li>wheniwork.com: scheduling hours for hourly workers.</li>
+<li>ecb.europa.eu: the European Central Bank.</li>
+<li>eklima.met.no: free access to weather- and climate data from the Norwegian Meteorological Institute.</li>
+<li>googledrive.com: we think you know what this is.</li>
+<li>ipinfo.io: another API for your IP address</li>
+<li>ops.epo.org: access the European Patent Office's raw data.</li>
+<li>swift.org: download and install Swift packages.  The programming language, not Taylor.</li>
+<li>twitrss.me: get your Twitter feed in your RSS reader, where it's meant to be.</li>
+<li>wservice.viabicing.cat: information on Barcelona's bike-sharing scheme.</li>
+<li>www.deviantart.com: much less terrifying than it sounds.</li>
+<li>www.virustotal.com: analyse suspicous files and URLs and compare to known malware.</li>
+<li>www.yr.no: more Norwegian weather.</li>
+</ul>
+<h2>And that's it</h2>
+<p>Thanks for reading our newsletter!  Tune in the same time next month (ish) for more news from PythonAnywhere.</p>
+    </body>
+    </html>
+    
+<p><em>If you no longer wish to receive email from us, you can
+<a href="https://www.pythonanywhere.com/unsubscribe?email=rresendez%40rigoresendez.com&amp;n=ab79f106797243be3496ee3d122e059a">click here</a>
+to be immediately unsubscribed.</em></p>
+<p><p style="color: grey">
+    PythonAnywhere: Develop and host Python from your browser<br/>
+    <a href="http://www.pythonanywhere.com/">http://www.pythonanywhere.com/</a><br/>
+    <br/>
+    A product from PythonAnywhere LLP<br/>
+    17a Clerkenwell Road, London EC1M 5RD, UK<br/>
+    VAT No.: GB 893 5643 79<br/>
+    Registered in England and Wales as company number OC378414.<br/>
+    Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK<br/>
+</p></p>
+
+--===============6226845150843782159==--

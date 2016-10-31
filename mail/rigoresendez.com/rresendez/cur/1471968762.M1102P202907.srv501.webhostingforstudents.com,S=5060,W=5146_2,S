@@ -1,0 +1,86 @@
+Return-Path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id mRwFAPp1vFebGAMATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 23 Aug 2016 12:12:42 -0400
+Return-path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 23 Aug 2016 12:12:42 -0400
+Received: from o1.em2.juke.ly ([198.21.7.97]:52535)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>)
+	id 1bcEJc-000r2A-Gh
+	for rresendez@rigoresendez.com; Tue, 23 Aug 2016 12:12:41 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=juke.ly; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject; 
+	s=s1; bh=QSaMQU08lT8hwm7qanEULbnoP0U=; b=EHTtxl6HN3lV88pfXGONZ15
+	qKx0M7VLbhRBC6PSggd/bGYYnL4GJqzFYolivY4yxOu3mWOO6qmiCiFVAhNXkG3k
+	j1fijwM+pl71sMT28ll4MqmGeyN847FE9Deef/dTG4iKCiotq+/EWiKOmkosgj75
+	575wXWf8QUPsygSpn0IE=
+Received: by filter0817p1mdw1.sendgrid.net with SMTP id filter0817p1mdw1.14600.57BC75C833
+        2016-08-23 16:11:52.53608677 +0000 UTC
+Received: from MjY4Nzk4OA (ec2-54-204-11-44.compute-1.amazonaws.com [54.204.11.44])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with HTTP id gmg21CJhR9WJ0yDTYdoh-g
+	Tue, 23 Aug 2016 16:11:52.399 +0000 (UTC)
+content-transfer-encoding: quoted-printable
+content-type: text/html; charset="UTF-8"
+Date: Tue, 23 Aug 2016 16:11:52 +0000
+From: "Jukely" <hi@juke.ly>
+Mime-Version: 1.0
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+Message-ID: <gmg21CJhR9WJ0yDTYdoh-g@ismtpd0002p1iad1.sendgrid.net>
+Subject: Flume for members
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgZ8YlcLGTiGuy/t8md56ilS0NZtj+6XKWcL4m
+ +LuZG6Wp7WxVcaSksWmsZWpDKelDrRLpnCC3YpJgnT7uQN8kpo9CUVyDOsg7PiUfyT2HBws3GFPFXt
+ HqfNaEqlCgRSc/VxWsHP6fqbpxEg5I/AxkPsxWMo8iL3Sbu8ph1QL0gEog==
+X-SG-ID: JXLFV886U2X2LCg5937Kgc50Sqoi3Cz0oKoUIipHi8I=
+
+=0D
+<p>Hi!</p>=0D
+=0D
+<p>One of the most forward thinking electronic music producers of our time,=
+ Flume, is in town this weekend and we've got the hookup for our members.</=
+p>=0D
+=0D
+<p>The show is at The Forest Hills Stadium (Sat 8/27, doors 5pm, show 5:30p=
+m). You may <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZb=
+OHWoNYK5TBcD-2FAYn4QvKCxmARPE8YUTEc6k1ETgb5EbeDCiWAAczcZsL4j6e-2FAhrHHLKePL=
+9nFm3fch4jZCy2LttKsYENDky-2FnCsJakomsAUwrPzk3yNqEqk8dV10tbh5zjx2dp83WZP3fVj=
+1Dn5XUArkjPMnymi12Eu9l69jB6hd1YN_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa35=
+1hvYuvYAprqoN6uKR3I-2BQYVfIjl8Jc4vYQ3gyWclO3GrIWV3mr-2FbXpHtMC0Oy2ctxicOaLW=
+BIHXFatf-2FlVsz7RnopGhRQA2vQ7fo3hGYmkUPkSCEHytr-2BIwQTijklqTSWji-2FNFyLZ9z9=
+zbBa63UqiOpHfNT4m-2FnnSJwkqPzMHQwV8g8XGEuy2N1ZfB3PQ3EFY7Iq3xzriC8svB-2FwbUO=
+Smuke49YqiiYCQV4D15NlJaSK-2FI3Q-3D-3D">subscribe here</a> to get access or =
+if you're not ready to be a member yet, you should <a href=3D"http://track.=
+juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNakaNAQsibW23mz6uzN-2F-2BxPaHMde=
+lmrcZ3U4SsivSK-2BG8P-2BOUp3evko4PtUX9Xma64jNKXj4EotjuI9F15bdrqI-3D_xb69N2IW=
+j9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYuvYAprqoN6uKR3I-2BQYVfIjl8Jc4vYQ3gyWc=
+lO3GrIWVyAxGOvwmXMXWhZ2LIUeLRenv3URAYUKlY9SjVH9sOzBXseoMhiHqBFxPiVSTYGMMO7J=
+PlBFDqtB4wIkJL4aUbNi9yvZANHsczmdQ0bvyQAQa4vDiaXn5q5ohlMhDfkkJ-2BO2RW531bm5e=
+PgmaXdGtmy-2FUtyr1rjH3nNK40BG4LWj62xQTNtumIMiyxuQsKlAeA-3D-3D">get your tic=
+kets now</a> as it's expected to sell out shortly.</p>=0D
+=0D
+<p>Team Jukely</p>=0D
+=0D
+<p>P.S.: Forest Hills Stadium is accessible via the E, R, F and M trains, a=
+nd is one stop from Penn Station on the Long Island Rail Road.</p>=0D
+=0D
+<p>---<br />=0D
+<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNZaTE-2B=
+FP-2FtRzN1umYnV-2BTnWVMTZussQkR1rwt2IIKvG5JM-2BGZ5BIG9GGqqVgMp3gSteCEa0PTrX=
+avAaTz6oZqPqWHWQ7c-2F41YG3f829E3GuffrWSSijji-2FEsOlFeBM49xUIIiV6rGvQo5snwNu=
+xdV0Q-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYuvYAprqoN6uKR3I-2BQY=
+VfIjl8Jc4vYQ3gyWclO3GrIWVzxBtAgDIOSxXrgQBr9s785U0Cslmhx9vuHIblZF3st-2F6vZx-=
+2BpPDYkscZgCDwDvbxN6GB95cFTygCkuLEgZxiXyKR23VLSGB-2FDX1bz4302CzIlNsrGsmDEFJ=
+P8Pi2Qd9nFpMlU95Esw2t0k-2B3f-2Bqq98dy15Okr0758qDToerrBxTj5ry3ZZxEZslUTKHhWW=
+lyA-3D-3D">Opt out</a> of these recommendation emails.</p><img src=3D"http:=
+//track.juke.ly/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+YuvYAprqoN6uKR3I-2BQYVfIjl8Jc4vYQ3gyWclO3GrIWV4HeL4EzZCXvXhRDXMe6Fa7k3KCB45=
+UN-2FmUUpNIPxYLcGkkUYxOeKu9bl-2BY9RqqUKThwbJ3EBpXRFEWUqddzCLcTRvOQSfye592k-=
+2FD7yvJZRS463A9zIuTUfXy0eHRfLEz4QjQQbBqg5LxHyR7cBDZ-2FjHIfWwXA34-2FLuc4VPOn=
+gIzU-2F89egzYun7wIwkq1KxgQ-3D-3D" alt=3D"" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;"/>

@@ -1,0 +1,254 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id UUCTIl5G01doew4ATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 09 Sep 2016 19:31:42 -0400
+Return-path: <mailer@infusionmail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 09 Sep 2016 19:31:42 -0400
+Received: from mta-c-24-36.infusionmail.com ([208.76.24.36]:46944)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1biVGo-003yoH-74
+	for rresendez@rigoresendez.com; Fri, 09 Sep 2016 19:31:42 -0400
+DKIM-Signature: v=1; a=rsa-sha1; d=infusionmail.com; s=dkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@infusionmail.com; t=1473463861;
+	h=From:Sender:Subject:Date:To:MIME-Version:Content-Type;
+	bh=XquBEaUQ6n1VD5XD0qw5XfMCN30=;
+	b=WLjVDpZ53tFdInSZmCc7gt7kh9Uu5I4z9HeVJlpHTHlOqvCnlMQ/2GSPzFWnv2ae
+	pDxCjPHCYoBRXUs1vcP5ovzO7PY4UoUWgrpKSKnPFiNAfoYlAASbO8xim2xe97Wu
+	jAiAYexZBJM8Rii76qVEu7sRKo/16isZDNzeA1+Lj0Q=;
+Pool-Debug: rg241 value
+Pool-Name: default_value
+x-sieve: enabled
+Pool-Version: 2
+Received: from [10.0.0.231] ([10.0.0.231:42966] helo=buzzsaw)
+	by phxme1 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id B6/B1-59351-53643D75; Fri, 09 Sep 2016 19:31:01 -0400
+Date: Fri, 9 Sep 2016 19:31:00 -0400 (EDT)
+From: Trevor Page <trevor@craftycodr.com>
+Sender: mailer@infusionmail.com
+To: rresendez@rigoresendez.com
+Message-ID: <891003223.1573881473463860564.JavaMail.tomcat@buzzsaw>
+Subject: [Warning] It's now or never on Coders Campus
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_157718_1049751140.1473463860562"
+X-MailSentId: 285757
+X-campaignid: infusion_rg241285757
+Feedback-ID: rg241:rg241_285757:value
+X-BatchId: 51563
+X-InfApp: rg241
+X-InfContact: 95887
+X-InfSent: 3124733
+X-inf-package: value
+X-inf-uflags: SO
+X-inf-iflags: SO
+List-Unsubscribe: <https://rg241.infusionsoft.com/app/optOut/noConfirm/3124733/71a2667d11d21815>
+
+------=_Part_157718_1049751140.1473463860562
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://rg241.infusionsoft.com/app/hostedEmail/3124733/71a2667d11d21815
+
+If you no longer wish to receive our emails, click the link below:
+
+https://rg241.infusionsoft.com/app/optOut/8/1cd03abc1d6796a3/3124733/71a2667d11d21815
+
+Crafty Codr Inc. 551B Old Abbey Court Waterloo, Ontario N2K 3V3 Canada
+
+
+
+Delivered By Infusionsoft
+https://crm.infusionsoft.com/go/infs/footer_rg241/text
+
+
+------=_Part_157718_1049751140.1473463860562
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML>
+<html>
+<head>
+</head><body>
+<div id="mainContent" style="text-align: left;">
+<table cellpadding="10" cellspacing="0" style="background-color: rgb(255,255,255); width: 100%; height: 100%;">
+<tbody>
+<tr>
+<td valign="top">
+<table align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" style="width: 600px;">
+<tbody>
+<tr>
+<td sectionid="preheader" style="text-align: left; margin: 0; padding: 10px 0; border: none; white-space: normal; line-height: normal;">
+<div>
+<div>
+<a href="http://dfl2.us/link/2435/89099b/?em=Contact.Email&amp;couponcode=[couponcodeplaceholder]" shape="rect" style="color: rgb(6,69,173);" width="400"><img alt="Turn images on to see the animation" border="0" src="https://dfimage.com/email-image/2435/89099b/?em=Contact.Email&amp;couponcode=[couponcodeplaceholder]" style="margin: 0; padding: 8px; background: none; border: none; white-space: normal; line-height: normal; max-width: 100%; height: auto; border-width: 1px; border-style: solid; border-color: rgb(255,255,255); display: block; text-align: center; font-size: 18px;" width="400" /></a>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#FFFFFF" cellpadding="20" cellspacing="0" style="width: 600px; background-color: rgb(255,255,255);">
+<tbody>
+<tr>
+<td sectionid="body" style="text-align: left; margin: 0; padding: 20px; border: none; white-space: normal; line-height: normal; background-color: rgb(255,255,255);" valign="top">
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; color: rgb(0,0,0); font-size: 12px; font-family: arial;">
+<div contentid="paragraph" style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; color: rgb(0,0,0); font-size: 12px; font-family: arial;">
+<div style="overflow: visible;">
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">This is the last email you'll get from me regarding the deal on Coders Campus for 40% off for life.</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">The coupon code is expiring in a few hours and when it does, you'll be stuck paying full price.</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">Ewwwww, full price.</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">Anyway, I won't keep you distracted any more, just wanted to say my piece on the subject and make sure you were fully aware of the situation.</span>
+</div>
+<div style="overflow: visible;">
+&nbsp;
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">So, if you want to get instant and full access to: </span>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li>
+<span style="font-size: 12pt;">Every course I've ever made</span>
+</li>
+<li>
+<span style="font-size: 12pt;">Every course I'll ever make</span>
+</li>
+<li>
+<span style="font-size: 12pt;">Forums where you can get programming help directly from me</span>
+</li>
+<li>
+<span style="font-size: 12pt;">Access to tests and assignments</span>
+</li>
+<li>
+<span style="font-size: 12pt;">Downloadable weekly webinars (without having to sign up and attend)</span>
+</li>
+</ul>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">Then you know what to do</span>
+</p>
+</div>
+<div style="overflow: visible;">
+<div style="overflow: visible;">
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+&nbsp;
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<strong><span style="font-size: 12pt;"><a href="https://rg241.infusionsoft.com/app/linkClick/4857/36aeae7bcf5d1f1e/3124733/71a2667d11d21815" nottracked="false" shape="rect" style="color: rgb(6,69,173);">Click Here to Start Learning</a></span></strong>
+</p>
+</div>
+</div>
+<div style="overflow: visible;">
+&nbsp;
+</div>
+<div style="overflow: visible;">
+&nbsp;
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">And don't forget to use the coupon code CODING to save 40%</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">These tutorials will launch you down the path to either begin your career as a real &quot;paid&quot; programmer, or help get you a raise/promotion in your current programming career.</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">You'll be glad you did it.</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">And hey, if you aren't happy with where things are going, I'll happily give you your money back. Just email me within 60 days and say &quot;I want a refund&quot; and poof! The money will go back into your account, no hard feelings.</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;"><strong><a href="https://rg241.infusionsoft.com/app/linkClick/4859/be8737f3c70d7665/3124733/71a2667d11d21815" nottracked="false" shape="rect" style="color: rgb(6,69,173);">Level Up Your Programming with Coders Campus Today</a></strong> 
+<br clear="none" />
+</span>
+</div>
+<div style="overflow: visible;">
+&nbsp;
+</div>
+<div style="overflow: visible;">
+&nbsp;
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td sectionid="footer" style="text-align: left; margin: 0; padding: 20px; border: none; white-space: normal; line-height: normal; background-color: rgb(255,255,255);" valign="top">
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; color: rgb(0,0,0); font-size: 10px; font-family: verdana;">
+<div contentid="paragraph" style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; color: rgb(0,0,0); font-size: 10px; font-family: verdana;">
+<div>
+If you no longer wish to receive our emails, click the link below: 
+<br clear="none" />
+<a href="https://rg241.infusionsoft.com/app/linkClick/4855/72d32b781e340248/3124733/71a2667d11d21815" shape="rect" style="color: rgb(6,69,173); font-size: 11px; font-family: arial;">Unsubscribe</a>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; color: rgb(0,0,0); font-size: 10px; font-family: verdana;">
+Crafty Codr Inc. 551B Old Abbey Court Waterloo, Ontario N2K 3V3 Canada
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<img height="1" width="1" style="display: block;" src="https://rg241.infusionsoft.com/app/emailOpened/3124733/51563"><br><br><div id="branding" style="text-align:right;display:block"><a href="https://crm.infusionsoft.com/go/infs/footer_rg241/html" target="_blank"><img border="0" src="https://infusionmedia.s3.amazonaws.com/app/template/delivered_white.png"></a></div></body>
+</html>
+------=_Part_157718_1049751140.1473463860562--
+

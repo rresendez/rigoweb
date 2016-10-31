@@ -1,0 +1,238 @@
+Return-Path: <writemypaper11@gmail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id D3EuAP2RAViLDQgATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 14 Oct 2016 22:18:37 -0400
+Return-path: <writemypaper11@gmail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 14 Oct 2016 22:18:37 -0400
+Received: from mail-pf0-f193.google.com ([209.85.192.193]:33809)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <writemypaper11@gmail.com>)
+	id 1bvEYW-002D8M-Gm
+	for rresendez@rigoresendez.com; Fri, 14 Oct 2016 22:18:36 -0400
+Received: by mail-pf0-f193.google.com with SMTP id 128so8257287pfz.1
+        for <rresendez@rigoresendez.com>; Fri, 14 Oct 2016 19:18:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:mime-version:to:from:subject:date:importance:in-reply-to
+         :references;
+        bh=tSokIBenNRgU9iiURbrHt/8ACPQ63zBz2HYPq3LubKE=;
+        b=Kwf9dCI4DxjcL1X58NdN39ZvmXOH/KJ/JCRnWMRFdZLL0H+HcJePryOJ2V8YdD+HCi
+         B+hIWJRGTHnUhq0BUm6glgr+noOkhbTKQxQp91I10Qwo4MOLiWiMIAlDIPtcRoRtI974
+         U6dn5/+UkrBA7UcZmc1qfH9G+JuEVCoxWRz3k1bxWmc4wOVbYuzI5l3zObmKhX+MsOKz
+         X5JFy8cnqjU+KniV9hJYZt56rU2QXVIHFSi8PFXFbHPM4rjx2I18ImXMoIkVAh6/wOkl
+         LIvimsLbEGovcd42I8NzBXToeyOHMpkv55KDDNigskBH1kqBWkSYTymdGVuXSU6dpE2V
+         EooA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :importance:in-reply-to:references;
+        bh=tSokIBenNRgU9iiURbrHt/8ACPQ63zBz2HYPq3LubKE=;
+        b=F4inZqs8bHzUT/r3wtRIAAxgkopHF5LPaOTfYVSCPf3SGkL7wNKULoNONRh5jqhhaU
+         aKFQ1d5XJzNjrvjY21h2vS7027nWj8mBmxaK3YkxxaWaJ3csowpVJkH5nSKyW23d+tui
+         SfOAy+nqPvFNCRtEXWgYhgYXywe+yItPHHxOWK28miLP2oQ3i3rDT0nWBeDzWHwdETs8
+         ouC2eG4urOEByc/p5vzWY5xK4oTtpXFLyZC7MhFoiUXIhFUWqxI1XG8CJYo9AFwTxMvh
+         rlT/7+FpTXtKeQjbX7QbqDF7NV59yBCtFSlt/F3jAmVLffGn4NzPGewntjTs7E74kEnD
+         pziQ==
+X-Gm-Message-State: AA6/9RlUNzZFGsOjhknKCQOWk5no4ylxFzULvA1jwz1FR0GXePRK3ecutNorzY9ujtn5NQ==
+X-Received: by 10.99.112.72 with SMTP id a8mr18785274pgn.43.1476497874933;
+        Fri, 14 Oct 2016 19:17:54 -0700 (PDT)
+Received: from ?IPv6:2405:204:9086:5c97:958b:b472:c156:b504? ([2405:204:9086:5c97:958b:b472:c156:b504])
+        by smtp.gmail.com with ESMTPSA id yi2sm30407475pab.17.2016.10.14.19.17.52
+        for <rresendez@rigoresendez.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 14 Oct 2016 19:17:54 -0700 (PDT)
+Message-ID: <580191d2.82a3420a.8b9be.00b4@mx.google.com>
+MIME-Version: 1.0
+To: "rresendez@rigoresendez.com" <rresendez@rigoresendez.com>
+From: <writemypaper11@gmail.com>
+Subject: Your Search for Academic Paper Writing and editing Ends here
+Date: Sat, 15 Oct 2016 07:47:53 +0530
+Importance: normal
+X-Priority: 3
+In-Reply-To: <58019124.911b620a.b7e54.4ae9@mx.google.com>
+References:
+ <CAAqujWTQ0xCnOcp2a8VMOi1z3TTBfW1M+9r+zaCWNGHKWV3x9w@mail.gmail.com>
+ <57e0a01f.c8d9620a.52795.2bb3@mx.google.com>
+ <57f595af.8fdc620a.2e848.00f7@mx.google.com>
+ <57f5ca74.458d620a.2991f.45a9@mx.google.com>
+ <57f69f9a.cf18620a.4feee.5e2e@mx.google.com>
+ <57f6acd1.8f1a620a.50bb5.6b8f@mx.google.com>
+ <57f6aeb7.0110620a.e2452.6ed6@mx.google.com>
+ <5800a05d.9d99620a.2ab1f.82e5@mx.google.com>
+ <5800a33b.c3fe420a.a1db3.3e96@mx.google.com>
+ <5800a406.8249420a.49156.47da@mx.google.com>
+ <58011d79.b1a9420a.f9ed5.a4b0@mx.google.com>
+ <58011dbe.015d620a.b6ef2.a0f6@mx.google.com>
+ <58018930.83d8620a.b0907.f255@mx.google.com>
+ <580190d7.4902620a.dc5e.0212@mx.google.com>
+ <58019124.911b620a.b7e54.4ae9@mx.google.com>
+Content-Type: multipart/alternative;
+	boundary="_A3FDA740-4875-4404-9043-F8337D42E83B_"
+
+--_A3FDA740-4875-4404-9043-F8337D42E83B_
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="utf-8"
+
+DQpIZWxsbw0KV2UgYXJlIGEgdGVhbSBvZiBwcm9mZXNzaW9uYWwgd3JpdGVycywgZXhwZXJ0cyBp
+bsKgYWNhZGVtaWMgd3JpdGluZyxtYXRocywgc3RhdHMsIFNQU1MsYWxnZWJyYSBhY2NvdW50cyxj
+b250ZW50IHdyaXRpbmcsIHJlc3VtZSB3cml0aW5nLCBwcm9vZiByZWFkaW5nLCBidXNpbmVzcyBw
+bGFucywgcG93ZXIgcG9pbnQgcHJlc2VudGF0aW9ucyxyZXNlYXJjaCBwYXBlcnMsIGVkaXRpbmcs
+IGFkbWlzc2lvbiBlc3NheXMsIHRoZXNpcyBhbmQgZGlzc2VydGF0aW9uc8KgaW4gQVBBLCBNTEEs
+IENISUNBR08vIFRVUkFCSUFOLCBBTUEgYW5kIEhBUlZBUkQgYXQgYXR0cmFjdGl2ZSByYXRlcyBy
+YW5naW5nIGZyb23CoCQxMCDCoHRvICQxNSBwZXIgZG91YmxlIHNwYWNlZCBwYWdlLCBkZXBlbmRp
+bmcgdXBvbiB0aGUgbmVlZCBhbmQgdGhlIHR1cm5hcm91bmQgdGltZS4gV2UgYWxzbyBoYW5kbGUg
+b25saW5lIGNsYXNzZXMgb2YgYWxsIHN1YmplY3RzIG9uIGJlaGFsZiBvZiB0aGUgc3R1ZGVudHMg
+YXQgYWZmb3JkYWJsZSBwcmljZSByYW5naW5nIGZyb20gJDc1IHRvICQxMjAgcGVyIHdlZWsuIFdl
+IHByb3ZpZGUgcXVhbGl0eSB3b3JrIGJlZm9yZSB0aW1lIGFsd2F5cy4NCk91ciBTcGVjaWFsdGll
+czoNCuKAosKgwqDCoMKgwqDCoMKgwqDCoFdlbGwgcmVzZWFyY2hlZCBtYXRlcmlhbA0K4oCiwqDC
+oMKgwqDCoMKgwqDCoMKgUHJvZmVzc2lvbmFsbHkgd3JpdHRlbg0K4oCiwqDCoMKgwqDCoMKgwqDC
+oMKgQXNzdXJhbmNlIG9mIGdldHRpbmcgaGlnaGVyIGdyYWRlcw0K4oCiwqDCoMKgwqDCoMKgwqDC
+oMKgMjQgWCA3IHN1cHBvcnQNCuKAosKgwqDCoMKgwqDCoMKgwqDCoFR1cm5pdGluIEFwcHJvdmVk
+DQrigKLCoMKgwqDCoMKgwqDCoMKgwqBQcm9wZXJseSBSZWZlcnJlZA0K4oCiwqDCoMKgwqDCoMKg
+wqDCoMKgQXNzdXJhbmNlIG9mIFByaXZhY3kNCuKAosKgwqDCoMKgwqDCoMKgwqDCoMKgMTAwJSBQ
+bGFnaWFyaXNtIEZyZWUNCldlIHdpbGwgYmUgZ3JhdGVmdWwgdG8gaGVscCB5b3Ugb3V0IGluIGFu
+eSB3YXkgd2UgY2FuLiBQcm92aWRlIHVzIGFuIG9wcG9ydHVuaXR5IHRvIHdvcmsgZm9yIHlvdSBh
+bmQgdG8gcHJvdmlkZSB5b3UgcXVhbGl0eSB3b3JrIGF0IHVuYmVhdGFibGUgcHJpY2UuDQpXYWl0
+aW5nIGZvciBhIHJlcGx5IGZyb20geW91ciBzaWRlLg0KRm9yIGFueSBhc3Npc3RhbmNlIHdyaXRl
+IHRvOiB3cml0ZW15cGFwZXIxMUBnbWFpbC5jb20NCsKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKg
+IMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIMKgIFdoYXRzYXBwIG1lIG9u
+wqA5MTktMjc0LTI5NDINCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoN
+Cg0KDQo=
+
+--_A3FDA740-4875-4404-9043-F8337D42E83B_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta ht=
+tp-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta name=
+=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DEN-IN link=3Dblue vlink=3D"#954F72"><div cla=
+ss=3DWordSection1><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoN=
+ormal><span style=3D'font-size:12.0pt;font-family:"Times New Roman",serif'>=
+Hello</span><o:p></o:p></p><p class=3DMsoNormal style=3D'line-height:19.2pt=
+'><span style=3D'font-size:12.0pt;font-family:"Times New Roman",serif'>We a=
+re a team of professional writers, experts in&nbsp;<span style=3D'backgroun=
+d:yellow'>academic writing,</span></span><span lang=3DEN-US style=3D'font-s=
+ize:12.0pt;font-family:"Times New Roman",serif;background:yellow'>maths, st=
+ats, SPSS,algebra </span><span style=3D'font-size:12.0pt;font-family:"Times=
+ New Roman",serif;background:yellow'>accounts,content writing, resume writi=
+ng, proof reading, business plans, power point presentations,research paper=
+s, editing, admission essays, thesis and dissertations</span><span style=3D=
+'font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;in APA, MLA, C=
+HICAGO/ TURABIAN, AMA and HARVARD at attractive rates ranging from&nbsp;<sp=
+an style=3D'background:yellow'>$</span></span><span lang=3DEN-US style=3D'f=
+ont-size:12.0pt;font-family:"Times New Roman",serif;background:yellow'>10 <=
+/span><span style=3D'font-size:12.0pt;font-family:"Times New Roman",serif;b=
+ackground:yellow'>&nbsp;to $15 per double spaced page</span><span style=3D'=
+font-size:12.0pt;font-family:"Times New Roman",serif'>, depending upon the =
+need and the turnaround time. We also handle online classes of all subjects=
+ on behalf of the students at affordable price ranging from<span style=3D'b=
+ackground:yellow'> <span style=3D'color:black'>$75 to $120 per week</span><=
+/span>. We provide quality work before time always.</span><o:p></o:p></p><p=
+ class=3DMsoNormal style=3D'line-height:19.2pt'><span style=3D'font-size:12=
+.0pt;font-family:"Times New Roman",serif'>Our Specialties:</span><o:p></o:p=
+></p><p style=3D'line-height:19.2pt'><span style=3D'font-family:Symbol'>=C2=
+=B7</span><span style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;</span>Well researched material<span style=3D'font-siz=
+e:9.5pt'><o:p></o:p></span></p><p style=3D'line-height:19.2pt'><span style=
+=3D'font-family:Symbol'>=C2=B7</span><span style=3D'font-size:7.0pt'>&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Professionally writt=
+en<span style=3D'font-size:9.5pt'><o:p></o:p></span></p><p style=3D'line-he=
+ight:19.2pt'><span style=3D'font-family:Symbol'>=C2=B7</span><span style=3D=
+'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</s=
+pan>Assurance of getting higher grades<span style=3D'font-size:9.5pt'><o:p>=
+</o:p></span></p><p style=3D'line-height:19.2pt'><span style=3D'font-family=
+:Symbol'>=C2=B7</span><span style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>24 X 7 support<span style=3D'font-s=
+ize:9.5pt'><o:p></o:p></span></p><p style=3D'line-height:19.2pt'><span styl=
+e=3D'font-family:Symbol'>=C2=B7</span><span style=3D'font-size:7.0pt'>&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Turnitin Approved<s=
+pan style=3D'font-size:9.5pt'><o:p></o:p></span></p><p style=3D'line-height=
+:19.2pt'><span style=3D'font-family:Symbol'>=C2=B7</span><span style=3D'fon=
+t-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>=
+Properly Referred<span style=3D'font-size:9.5pt'><o:p></o:p></span></p><p s=
+tyle=3D'line-height:19.2pt'><span style=3D'font-family:Symbol'>=C2=B7</span=
+><span style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;</span>Assurance of Privacy<span style=3D'font-size:9.5pt'><o:p=
+></o:p></span></p><p style=3D'line-height:19.2pt'><span style=3D'font-famil=
+y:Symbol'>=C2=B7</span><span style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;100% Plagiarism Free<span st=
+yle=3D'font-size:9.5pt'><o:p></o:p></span></p><p class=3DMsoNormal style=3D=
+'line-height:19.2pt'><span style=3D'font-size:12.0pt;font-family:"Times New=
+ Roman",serif'>We will be grateful to help you out in any way we can. Provi=
+de us an opportunity to work for you and to provide you quality work at unb=
+eatable price.</span><o:p></o:p></p><p class=3DMsoNormal style=3D'line-heig=
+ht:19.2pt'><span style=3D'font-size:12.0pt;font-family:"Times New Roman",se=
+rif'>Waiting for a reply from your side.</span><o:p></o:p></p><p class=3DMs=
+oNormal style=3D'line-height:19.2pt'><span style=3D'font-size:12.0pt;font-f=
+amily:"Times New Roman",serif'>For any assistance write to: <a href=3D"mail=
+to:writemypaper11@gmail.com" target=3D"_blank">writemypaper11@gmail.com</a>=
+</span><o:p></o:p></p><p class=3DMsoNormal style=3D'line-height:19.2pt'>&nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; Whatsapp me on&nbsp;<b>919-274-2942</b><o:p></o:p></p><p class=3DMs=
+oNormal><span style=3D'font-size:9.5pt;font-family:"Times New Roman",serif'=
+><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:=
+9.5pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p c=
+lass=3DMsoNormal><span style=3D'font-size:9.5pt;font-family:"Times New Roma=
+n",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span style=3D'f=
+ont-size:9.5pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span=
+></p><p class=3DMsoNormal><span style=3D'font-size:9.5pt;font-family:"Times=
+ New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span s=
+tyle=3D'font-size:9.5pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o=
+:p></span></p><p class=3DMsoNormal><span style=3D'font-size:9.5pt;font-fami=
+ly:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNorma=
+l><span style=3D'font-size:9.5pt;font-family:"Times New Roman",serif'><o:p>=
+&nbsp;</o:p></span></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=
+=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p=
+><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;=
+</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o=
+:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMso=
+Normal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p cl=
+ass=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p>=
+</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nb=
+sp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>=
+
+--_A3FDA740-4875-4404-9043-F8337D42E83B_--
+

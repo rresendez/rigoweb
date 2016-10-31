@@ -1,0 +1,375 @@
+Return-Path: <newsletter-rresendez=rigoresendez.com@123greetings.info>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id HzJoEZ8uBFhshQYATAh+fg
+	for <rresendez@rigoresendez.com>; Sun, 16 Oct 2016 21:51:27 -0400
+Return-path: <newsletter-rresendez=rigoresendez.com@123greetings.info>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sun, 16 Oct 2016 21:51:27 -0400
+Received: from nlserv108.123greetings.info ([72.232.143.43]:44742)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <newsletter-rresendez=rigoresendez.com@123greetings.info>)
+	id 1bvx5K-001n5B-Pz
+	for rresendez@rigoresendez.com; Sun, 16 Oct 2016 21:51:27 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=newsl; d=123greetings.info;
+ h=Date:From:Content-Type:MIME-Version:List-Unsubscribe:Message-Id:To:Subject; i=newsletter@123greetings.info;
+ bh=F8ecykANrQyvPz9DBsuWv8XXYFo=;
+ b=qK2ydQKIoTm5aDBWULfrHCDiKPqNkhZAW6jfU0vvkizrAw6Yt5txQW0aPTKC7z1fXiXHKG7Igwfk
+   RRslpuBHPylkDAP4kKs6vcZ632AfW5U/rpF/9rTotYJg1n/qqPJZtggA1lb2AZtLcX/Ixo+i/Hgn
+   CDR5PlnH2iTH/ZwzDJQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=newsl; d=123greetings.info;
+ b=mZ2qGmTRI/9sOVSOPu1II5Rn63+ayoiYkJOjG/M2viqzhIAuppVE70DnQMNPPxUMruWq/CcIaPB+
+   2dRDeXPsE+h4zbyZNf/Lka2M87C2FY5gjKlkkr2OBOa9bBcBOH85YrYJb0Fm75ebGTMx6s+PaDwV
+   M3ChDYufzxre/1/T6gA=;
+Received: by nlserv108.123greetings.info id h0gn9u23nr0c for <rresendez@rigoresendez.com>; Sun, 16 Oct 2016 18:50:44 -0700 (envelope-from <newsletter-rresendez=rigoresendez.com@123greetings.info>)
+X-IADB-IP: [72.232.143.43]
+X-IADB-IP-REVERSE: [43.143.232.72]
+X-IADB-URL: http://www.isipp.com/iadb.php
+Date: Sun, 16 Oct 2016 18:50:44 -0700
+From: 123Greetings <newsletter@123greetings.info> 
+Content-Type: text/html; charset='UTF-8'  
+MIME-Version: 1.0 
+List-Unsubscribe: <mailto:abuse@123greetings.info>, <http://www.y1hc8.com/cgi-bin/remove.pl?email=rresendez@rigoresendez.com&type=nl021080201602> 
+Precedence: bulk 
+Message-Id: <192851584.nl021080201602.newsletter@123greetings.info> 
+To: rresendez@rigoresendez.com
+Subject: Happy Boss's Day! 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+table table {
+width: 640px !important;
+}
+table table table{width:100% !important;}
+table table div + div + div + table{width:auto !important;}
+table table div + div + div + table div{
+width: 50% !important;
+float: left !important;
+}
+table table div + div + div + table div table {
+padding:0 0 20px 0 !important;
+}
+table div + div + div + div + div + div + div + div + div + div + div + div + div table {
+padding-bottom:0 !important;
+}
+table div + div + div + div + div + div + div + div + div + div{width:100% !important;}
+table table div + div + div + table + div + table div{width:50% !important; display:inline !important; float:left !important}
+table table div + div + div + table + div + table div + div{width:50% !important; display:inline !important; float:left !important}
+table table div + div + div + table + div + table + table div{width:50% !important; display:inline !important; float:left !important}
+table table div + div + div + table + div + table + table div + div{width:50% !important; display:inline !important; float:left !important}
+table table div + div + div + table + div + table + div{width:100% !important; display:block !important;}
+
+table table div + div + div + table + div + table + table + div table table table{float:left !important; width:47% !important; display:inline !important;}
+table table div + div + div + table + div + table + table + div table table table + table{float:left !important; width:53% !important; display:inline !important;}
+
+@media (max-width: 630px) {
+table table {
+width: 96% !important;
+}
+table table table {
+width: 100% !important;
+}
+table table div + div + div + table div table {
+padding:2% 5% !important;
+}
+table table div + div + div + table{width:100% !important;}
+table table div + div + div + table  div{
+width: 100% !important;
+float: none !important;
+display:block !important;
+}
+table table div + div + div + table  div table{
+width: 100% !important;
+padding:2% 5% !important;
+}
+table table div + div + div + table  div + div{
+width: 100% !important;
+float: none !important;
+display:block !important;
+}
+table table div + div + div + table  div + div table{
+width: 100% !important;
+padding:2% 5% !important;
+}
+table table div + div + div + table  div + div + div{
+width: 100% !important;
+float: none !important;
+display:block !important;
+}
+table table div + div + div + table  div + div + div table{
+width: 100% !important;
+padding:2% 5% !important;
+}
+table table div + div + div + table  div + div + div + div{
+width: 100% !important;
+float: none !important;
+display:block !important;
+}
+table table div + div + div + table  div + div + div + div table{
+width: 100% !important;
+padding:2% 5% !important;
+}
+table table div + div + div + table  div + div + div + div + div{
+width: 100% !important;
+float: none !important;
+display:block !important;
+}
+table table div + div + div + table  div + div + div + div + div table{
+width: 100% !important;
+padding:2% 5% !important;
+}
+table table div + div + div + table  div + div + div + div + div + div{
+width: 100% !important;
+float: none !important;
+display:block !important;
+}
+table table div + div + div + table  div + div + div + div + div + div table{
+width: 100% !important;
+padding:2% 5% !important;
+}
+table table div + div{width:100% !important;}
+table table div + div table{width:100% !important;}
+table table div + div + div + table + div{width:100% !important;}
+table table div + div + div + table + div table{width:100% !important;}
+table table div + div + div + table + div + div{width:100% !important;}
+table table div + div + div + table + div + div table{width:100% !important;}
+table table div + div + div + table + div + div + div{width:100% !important;}
+table table div + div + div + table + div + div + div table{width:100% !important;}
+table table div + div + div + table + div + div + div + div{width:100% !important;}
+table table div + div + div + table + div + div + div + div table{width:100% !important;}
+table table div + div + div + table + div + div + div + div + div{width:100% !important;}
+table table div + div + div + table + div + div + div + div + div table{width:100% !important;}
+table table div + div + div + table + div + table div{width:100% !important; display:block !important; float:none !important}
+table table div + div + div + table + div + table div + div{width:100% !important; display:block !important; float:none !important}
+table table div + div + div + table + div + table + table div{width:100% !important; display:block !important; float:none !important}
+table table div + div + div + table + div + table + table div + div{width:100% !important; display:block !important; float:none !important}
+
+table table div + div + div + table + div + table + table + div table table table{float:none !important; width:100% !important; display:block !important;}
+table table div + div + div + table + div + table + table + div table table table + table{float:none !important; width:100% !important; display:block !important;}
+
+h1, p{font-size:0.9em !important;}
+img{width:100%;}
+}
+</style>
+</head>
+
+<body>
+<table cellpadding="0" cellspacing="0" style="width: 100%; border-collapse:collapse; border-spacing:0">
+<tr>
+<td>
+<table width="640" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto; background:#fff; width:96%;"> 
+  <tr>
+    <td>
+	<div>
+	<table cellpadding="0" cellspacing="0" border="0" style="border-left:solid 1px #333333; border-right:solid 1px #333333; border-top:solid 1px #333333; border-collapse:collapse; border-spacing:0; width:100%"><tr><td>
+	<img src="http://img.y1hc8.com/images/123G_10112016/header.gif" border="0" usemap="#Map" style="width:100%; display:block;" hidefocus="true" />
+      <map name="Map" id="Map" style="padding:0; margin:0;">
+        <area shape="rect" coords="1,2,226,147" href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85405&uid=192851584" hidefocus="true" title="123Greetings.com, Free Greetings for the Planet" />
+      <area shape="poly" coords="189,1,656,-4,658,352,-3,349,-5,147,226,146,225,2" href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85406&uid=192851584" hidefocus="true" title="Send Happy Boss's Day Greetings!" />
+      </map>
+	  </td></tr></table></div>
+	  <div>
+	  <table cellpadding="0" cellspacing="0" border="0" style="border-left:solid 1px #333333; border-right:solid 1px #333333; width:100%; border-collapse:collapse; border-spacing:0"><tr><td>
+	  <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:1.2em; background:#eb562b; margin:0; padding:8px 0; color:#FFFFFF; text-align:center; font-weight:bold;">Happy Boss's Day!</h1>
+	  </td></tr></table>
+	  </div>
+	  <div style="background:#ffeae2;">
+	  <table cellpadding="0" cellspacing="0" border="0" style="border-left:solid 1px #333333; border-right:solid 1px #333333; width:100%; border-collapse:collapse; border-spacing:0"><tr><td><p style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#5f0615; margin:0; padding:10px 23px; text-align:justify; line-height:22px;">On 17th of October,  <a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85407&uid=192851584" title="Send Boss's Day Greetings!" style="text-decoration:none; font-weight:bold; color:#5f0615">Boss's Day</a> is celebrated in workplaces in the United States. It's an opportunity to acknowledge the ones who lead and take on the responsibility of driving their teams. It is a day to show you're grateful. Success depends on your relationships and a strong relationship depends on your capacity for generous and genuine appreciation. So seize the day friends and send a warm greeting to your leaders.</p>
+	  <p style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#5f0615; margin:0; padding:10px 23px; text-align:justify; line-height:22px; font-weight:bold;">Cheers to you on this special day!</p>
+	  </td></tr></table>
+	  </div>
+	  <table cellpadding="0" cellspacing="0" border="0" style="border-left:solid 1px #333333; border-right:solid 1px #333333; width:100%;"><tr><td>
+	  <div>
+	  <table border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#ffeae2; text-align:center; padding:10px; border-collapse:collapse; border-spacing:0">
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85408&uid=192851584" title="For An Awesome Boss!"><img src="http://img.y1hc8.com/images/123G_10112016/heading1.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85409&uid=192851584" title="Send Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/card1.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85410&uid=192851584" title="Send Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/send_btn1.png" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+              </table>
+	  </div>
+	  <div>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#ffeae2; text-align:center; border-collapse:collapse; border-spacing:0">
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85411&uid=192851584" title="Extraordinary Woman Boss!"><img src="http://img.y1hc8.com/images/123G_10112016/heading2.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85412&uid=192851584" title="Send Women Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/card2.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85413&uid=192851584" title="Send Women Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/send_btn2.png" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+              </table>
+	  </div>
+	  <div>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#ffeae2; text-align:center; border-collapse:collapse; border-spacing:0; padding-bottom:10px;">
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85414&uid=192851584" title="Coffee And Cake For Boss's Day!"><img src="http://img.y1hc8.com/images/123G_10112016/heading3.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85415&uid=192851584" title="Send Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/card3.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85416&uid=192851584" title="Send Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/send_btn3.png" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+              </table>
+	  </div>
+	  <div>
+	  <table border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#ffeae2; text-align:center; border-collapse:collapse; border-spacing:0; padding-bottom:10px;">
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85417&uid=192851584" title="Boss, You Make A Big Difference!"><img src="http://img.y1hc8.com/images/123G_10112016/heading4.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85418&uid=192851584" title="Send Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/card4.gif" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85419&uid=192851584" title="Send Boss's Day Card!"><img src="http://img.y1hc8.com/images/123G_10112016/send_btn4.png" border="0" style="width:90%; display:block;" /></a></td>
+                </tr>
+              </table>
+	  </div>
+	  	  
+	  </td></tr></table>
+<div style="background:#ffeae2; text-align:center;">
+<table cellpadding="0" cellspacing="0" border="0" style="border-right:1px solid #333333; border-left:1px solid #333333; text-align:center; width:100%; border-collapse:collapse; border-spacing:0"><tr><td style="text-align:center; padding:5px 0;">
+<img src="http://img.y1hc8.com/images/123G_10112016/more.jpg" border="0" style="width:auto !important;" />
+</td></tr></table>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" style="border-right:1px solid #333333; border-left:1px solid #333333; width:100%">
+<tr>
+<td>
+<div class="footer_button" style="text-align:center; background:#ce8f78; width:100%; padding:10px 0; border:solid 1px #910f23; border-width:1px 0; margin-bottom:10px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%">
+  <tr>
+    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85420&uid=192851584"  hidefocus="true" title="Send Best Wishes!" style="font-family:Arial, Helvetica, sans-serif; color:#2a0d06; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">Happy Boss's Day</a></td>
+    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85421&uid=192851584"  hidefocus="true" title="Send Boss's Day Card To Her!" style="font-family:Arial, Helvetica, sans-serif; color:#2a0d06; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">Women Boss</a></td>
+  </tr>
+</table>
+</div>
+<div class="footer_button" style="text-align:center; background:#ce8f78; width:100%; padding:10px 0; border:solid 1px #910f23; border-width:1px 0; margin-bottom:10px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;">
+  <tr>
+    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85422&uid=192851584"  hidefocus="true" title="Share Fun Ecards!" style="font-family:Arial, Helvetica, sans-serif; color:#2a0d06; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">Fun </a></td>
+	    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85423&uid=192851584"  hidefocus="true" title="Send Inspiring Ecards!" style="font-family:Arial, Helvetica, sans-serif; color:#2a0d06; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">You Inspire Me </a></td>
+
+    </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+
+<table cellpadding="0" cellspacing="0" border="0" style="border-right:1px solid #333333; border-left:1px solid #333333; width:100%;">
+<tr>
+<td>
+<div class="footer_button" style="text-align:center; background:#713526; width:100%; padding:10px 0; border:solid 1px #000000; border-width:1px 0; margin-bottom:10px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85424&uid=192851584"  hidefocus="true" title="Send Halloween Cards!" style="font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">Halloween</a></td>
+    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85425&uid=192851584"  hidefocus="true" title="Send Chocolate Day Cards!" style="font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">Chocolate Day </a></td>
+  </tr>
+</table>
+</div>
+<div class="footer_button" style="text-align:center; background:#713526; width:100%; padding:10px 0; border:solid 1px #000000; border-width:1px 0; margin-bottom:10px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85426&uid=192851584"  hidefocus="true" title="Send Autumn Cards!" style="font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">Autumn</a></td>
+	    <td align="center"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85427&uid=192851584"  hidefocus="true" title="Send Diwali Wishes!" style="font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size:13px; text-decoration:none; text-transform:uppercase; font-weight:bold;">Diwali</a></td>
+    </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+
+<div>
+  <table border="0" cellspacing="0" cellpadding="0" style="border-right:1px solid #333333; border-left:1px solid #333333; border-bottom:1px solid #333333; width:100%; border-collapse:collapse; border-spacing:0">
+    <tr>
+      <td style="padding:10px; border-top:solid 1px #2b5088; border-bottom:solid 1px #999999"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;">
+                <tr>
+                  <td align="right" valign="middle"><p style="font-family:Arial, Helvetica, sans-serif; font-size:14px; text-align:center; color:#2b5088; margin-right:20px; font-weight:bold;">123Greetings Mobile App</p></td>
+                  <td align="center"></td>
+                </tr>
+                <tr>
+                  <td><p style="font-family:Arial, Helvetica, sans-serif; font-size:14px; text-align:justify; color:#2b5088; margin-right:20px;"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85428&uid=192851584" hidefocus="true" title="Download 123Greetings Mobile App"><img src="http://img.y1hc8.com/images/123G_10112016/download_btn.jpg" border="0" hidefocus="true" style="width:auto !important; vertical-align:middle" /></a> <span style="font-size:18px; margin:0 13px;">OR</span> Scan</p></td>
+                  <td align="center"><img src="http://img.y1hc8.com/images/123G_10112016/qr_code.jpg" alt="Scan &amp; Download 123Greetings Mobile App" title="Scan &amp; Download 123Greetings Mobile App"></td>
+                </tr>
+              </table>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><p style="font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:left; color:#333333; padding:4px 0 5px 5px;">Mobile Website: <a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85429&uid=192851584" style="font-weight:bold; text-decoration:underline; color:#0000FF" title="m.123greetings.com">m.123greetings.com</a></p></td>
+                  </tr>
+                  <tr>
+                    <td><p style="padding:5px; vertical-align:middle; font-family:Arial, Helvetica, sans-serif; font-size:0.750em; color:#333333; font-weight:bold">Follow us on: <span style="margin-right:6px; margin-left:6px;"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85430&uid=192851584" hidefocus="true" title="Facebook"><img src="http://img.y1hc8.com/images/123G_10112016/fb_icon.jpg" border="0" hidefocus="true" style="width:auto !important; vertical-align:middle" /></a></span><span style="margin-right:6px;"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85431&uid=192851584" hidefocus="true" title="Twitter"><img src="http://img.y1hc8.com/images/123G_10112016/twitter_icon.jpg" border="0" hidefocus="true" style="width:auto !important; vertical-align:middle" /></a></span><span style="margin-right:6px;"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85432&uid=192851584" hidefocus="true" title="Google+"><img src="http://img.y1hc8.com/images/123G_10112016/plus_icon.jpg" border="0" hidefocus="true" style="width:auto !important; vertical-align:middle" /></a></span><span style="margin-right:6px;"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85433&uid=192851584" hidefocus="true" title="Pinterest"><img src="http://img.y1hc8.com/images/123G_10112016/pin_incon.jpg" border="0" hidefocus="true" style="width:auto !important; vertical-align:middle" /></a></span><span style="margin-right:6px;"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85434&uid=192851584" hidefocus="true" title="Tumblr"><img src="http://img.y1hc8.com/images/123G_10112016/tumbler_icon.jpg" border="0" hidefocus="true" style="width:auto !important; vertical-align:middle" /></a></span><span style="margin-right:6px;"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85435&uid=192851584" hidefocus="true" title="Instagram"><img src="http://img.y1hc8.com/images/123G_10112016/instagram_icon.jpg" border="0" hidefocus="true" style="width:auto !important; vertical-align:middle" /></a></span></p></td>
+                  </tr>
+              </table></td>
+          </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td><table style="width:100% !important; vertical-align:top" align="center" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="2" align="center" valign="top" class="content" style="padding:10px;font-family:Arial, Helvetica, sans-serif; font-size: 12px; mso-line-height-rule: exactly; font-weight: 400; background:#FFFFFF; border-top:solid 1px #999999;"><ul style="list-style:none; margin:0 0 0 10px; padding:0; text-align:left;">
+                <li style="margin:7px 0;">To read Bob's regular story <a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85436&uid=192851584" style="text-decoration:none;">Click here</a> or <a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85437&uid=192851584" style="text-decoration:none;">Share with friends</a></li>
+              <li style="margin:7px 0;">You are subscribed as <a style="text-decoration:none; border-bottom:1px dashed #000000;font-weight:bold;" href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85438&uid=192851584">rresendez@rigoresendez.com</a>. To unsubscribe please visit <a style="text-decoration:none; border-bottom:1px dashed #000000; font-weight:bold;" href="http://www.y1hc8.com/cgi-bin/remove.pl?email=rresendez@rigoresendez.com&amp;type=nl021080201602">here</a>.</li>
+              <li style="margin:7px 0;">You may also Opt-out by replying to this mail with &quot;Unsub&quot; in the Subject line.</li>
+            </ul></td>
+          </tr>
+          <tr>
+            <td valign="middle" class="content" style="font-family: Times New Roman, serif; font-size: 12px; mso-line-height-rule: exactly; font-weight: 400; background:#FFFFFF; border:solid 1px #999999; border-width:1px 0 0 0"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100% !important; display:inline-table !important">
+                <tr>
+                  <td width="80%" height="126" valign="top" style="padding:10px 0 0 5px; text-align:center; color:#000000; background:#FFFFFF; font-size:12px; font-family:Arial, Helvetica, sans-serif; text-align:left; width:80% !important"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85439&uid=192851584" style="color:#000000; font-weight:bold">Privacy Policy</a> | <a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85440&uid=192851584" style="color:#000000; font-weight:bold">Help</a><br>
+                      <br>
+                      <p style="margin:0;padding:5px 0;text-align:left; font-size:12px; font-weight:bold; width:100%">Copyright &copy; 123Greetings. All rights reserved.<br>
+                        123greetings.com, Inc.,<br/>
+                        1674 Broadway, Suite 403,<br/>
+                        New York, NY 10019.</p></td>
+                  <td width="20%" align="center" valign="middle" style="width:20%"><a href="http://www.y1hc8.com/cgi-bin/click.pl?cid=nl021080201602&lid=85441&uid=192851584"><img src="http://img.y1hc8.com/images/123G_10112016/certified-shield.jpg" style="width:100% !important;" border="0" alt="" /></a></td>
+                </tr>
+            </table></td>
+          </tr>
+      </table></td>
+    </tr>
+  </table>
+</div>
+</td>
+  </tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+<img src="http://www.y1hc8.com/cgi-bin/open.pl?cid=nl021080201602&uid=192851584" alt="" height="1" width="1">
+</html>

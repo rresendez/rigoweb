@@ -1,0 +1,362 @@
+Return-Path: <BwBEWwoBVwJsAAIEVAQGBQFfCFcNBFAKAzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQJTDw@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id sUfEDE+k0FejNAwATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 07 Sep 2016 19:35:43 -0400
+Return-path: <BwBEWwoBVwJsAAIEVAQGBQFfCFcNBFAKAzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQJTDw@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 07 Sep 2016 19:35:43 -0400
+Received: from mta-dock-front-30.bluestatedigital.com ([69.25.202.114]:41856)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsAAIEVAQGBQFfCFcNBFAKAzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQJTDw@bounce.bluestatedigital.com>)
+	id 1bhmNa-003M3c-T1
+	for rresendez@rigoresendez.com; Wed, 07 Sep 2016 19:35:43 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.224])
+	by mta-dock-front-30.bluestatedigital.com (Postfix) with ESMTP id 3sV0F14Wv5zqSJ9
+	for <rresendez@rigoresendez.com>; Wed,  7 Sep 2016 23:35:01 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=bounce.bluestatedigital.com; s=bsdkey; t=1473291301;
+	bh=/syM4Qoj087tLanunjFVMH+/ryb4GAx/DctQKg784YY=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=ScQS6tPMSM+5BDuPPrPAx7WBllvMTQhXqhHFUAGV81Cs+jhi/K5WNW6sZgSO2mL7K
+	 YlNFLLxaNjTIBoOwx9so1vCvbUa6Lqc5AnAi6lxvhc56BBmQJdSXgj6elitVPWkP0X
+	 dznrrqdzVZ3i1S7cg7xmxSfV3LZqjYpJNUrdwKaI=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Wed, 7 Sep 2016 23:35:01 +0000
+Date: Wed, 7 Sep 2016 23:35:01 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: "OurRevolution.com" <info@ourrevolution.com>
+Reply-to: info@ourrevolution.com
+Subject: Bernie Sanders: "fight this dangerous pipeline"
+Message-ID: <7bb009827dd4cb7b842eeef228b73f52@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 321ea5dbf8e9359a
+X-rpcampaign: rp_177472
+X-maillist-guid: BwBEWwoBVwJsAAIEVAQGBQFfCFcNBFAKAzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQJTDw
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsAAIEVAQGBQFfCFcNBFAKAzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQJTDw@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_7bb009827dd4cb7b842eeef228b73f52"
+
+
+--b1_7bb009827dd4cb7b842eeef228b73f52
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto -
+
+Something shocking happened this weekend to the Lakota and Sioux activists =
+in North Dakota who have been protesting a pipeline for fracked oil. The =
+private security firm hired by the pipeline company attacked the activists =
+with dogs and pepper spray.
+
+This oil company is trying to build a pipeline for fracked oil all the way =
+from North Dakota to Illinois. It would carry some of the dirtiest oil on =
+the planet and present a tremendous threat to our planet's fight against =
+climate change. It's called the Dakota Access pipeline, and it must be =
+stopped.
+
+Using dog and pepper spray against peaceful activists is a dangerous and =
+unacceptable escalation by a company that is apparently desperate to build =
+its $3.6 billion pipeline for fracked oil. We must stand with those =
+fighting the Dakota Access pipeline and stop it from being built.
+
+Add your name to say you oppose the construction of this fracked oil =
+pipeline.
+
+https://go.berniesanders.com/page/s/stop-the-dakota-access-pipeline
+
+
+Activists led by Native American tribal nations are fighting the pipeline =
+with both grassroots activism and legal tools. Bernie Sanders even issued =
+this call to action to support their work:
+
+"Like the Keystone XL pipeline, which I opposed since day one, the Dakota =
+Access fracked oil pipeline will transport some of the dirtiest fuel on =
+the planet. Regardless of the court's decision, the Dakota Access pipeline =
+must be stopped. As a nation, our job is to break our addiction to fossil =
+fuels, not increase our dependence on oil. I join with the Standing Rock =
+Sioux Tribe and the many tribal nations fighting this dangerous pipeline."
+
+Because the pipeline would go through their land, the Standing Rock Sioux =
+tribe and other nations have been leading prayer protests for months. =
+Other activists in the way of the pipeline have fought the oil company =
+too.
+
+But it's incumbent on all of us to stand up to this pipeline. For the =
+tribal nations who would have their lands endangered, for the farmers and =
+residents who would have their water threatened, and for all of us who =
+need to fight the effects of climate change.
+
+When people stand together, we can defeat the greed of the biggest fossil =
+fuel companies. That's what the activists from North Dakota to Illinois =
+are proving, and they need us to stand with them.
+
+Say you stand with activists who oppose the Dakota Access pipeline for =
+fracked oil. Add your name now and help stop this pipeline.
+
+https://go.berniesanders.com/page/s/stop-the-dakota-access-pipeline
+
+When we all stand up to big corporations who want to profit off of climate =
+change, we can win. Thanks for taking action.
+
+In solidarity,
+
+Jeff Weaver
+Our Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+=20
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Our Revolution
+
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE. OUR REVOLUTION IS =
+A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION ARE NOT =
+DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX PURPOSES.
+(not the billionaires)
+
+603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to Our =
+Revolution here: https://secure.actblue.com/contribute/page/ourrevolution?=
+refcode=3Demail_footer.
+
+
+--b1_7bb009827dd4cb7b842eeef228b73f52
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+         div{
+         font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+         font-weight: 400;
+         font-size: 17px;
+         line-height:140%;
+         color: #364350;
+         }
+         a{
+         color: #147FD7;
+         }
+         .express-lane-links .link{
+         margin: 0;
+         }
+         .express-lane-links .link a{
+         font-family: sans-serif;
+         font-size: 18px;
+         background-color: #147FD7;
+         border-top: 1px solid #1e88e0;
+         border-bottom: 2px solid #0e72c4;
+         width: 290px;
+         margin: 12px auto;
+         border-radius: 4px;
+         text-align: center;
+         color: white;
+         text-decoration: none;
+         padding: 12px 5px;
+         font-weight:700;
+         display: block;
+         text-transform: uppercase;
+         letter-spacing: 0.075em;
+         }
+         .express-lane-links .link a:hover{
+         background-color: #1e88e0;
+         }
+         .express-lane-links .link.other a{
+         font-size: 17px;
+         }
+      </style></head><body><h1 style=3D"text-align: center; padding: 25px =
+0 20px 0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Our Revolution" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Our%20Revolution/OurRev-Logo=
+-160827-335px.png"></h1>
+   <!--[if mso]>
+   <center>
+      <table>
+         <tr>
+            <td width=3D"600">
+               <![endif]-->
+               <div style=3D"max-width: 600px; margin: 0 auto;"><center>
+	<div style=3D"width:95%; background-color:#eeeeee; border: 1px; =
+border-color:#cccccc; font-size:17px; line-height:140%; padding:15px;">
+		Private security guards for a company building a pipeline for fracked =
+oil used dogs and pepper spray on Native American activists this weekend. =
+We must stand with these activists who are fighting the Dakota Access =
+pipeline.<br><br><strong>Will you add your name to stop this =
+pipeline?</strong>
+		<p align=3D"center" style=3D"font-family:Arial; font-size:17px; =
+line-height:140%;">
+			<strong><a href=3D"https://go.berniesanders.com/page/s/stop-the-dakota-=
+access-pipeline?source=3Dem160907-sub-a" style=3D"font-family: sans-serif; =
+font-size: 18px; background-color: #00355f; border-top: 1px solid #00355f; =
+border-bottom: 2px solid #00355f; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://go.b=
+erniesanders.com/page/s/stop-the-dakota-access-pipeline?source=3Dem160907-=
+sub-a">I AGREE!<br>
+			Stop this Pipeline &raquo;</a></strong></p>
+	</div>
+</center>
+<p style=3D"font-size:17px; line-height:140%;">
+	Rigoberto -</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Something shocking happened this weekend to the Lakota and Sioux =
+activists in North Dakota who have been protesting a pipeline for fracked =
+oil. <strong>The private security firm hired by the pipeline company =
+attacked the activists with dogs and pepper spray.</strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	This oil company is trying to build a pipeline for fracked oil all the =
+way from North Dakota to Illinois. It would carry some of the dirtiest oil =
+on the planet and present a tremendous threat to our planet's fight =
+against climate change. It's called the Dakota Access pipeline, and it =
+must be stopped.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Using dogs and pepper spray against peaceful activists is a dangerous and =
+unacceptable escalation by a company that is apparently desperate to build =
+its $3.6 billion pipeline for fracked oil. <strong>We must stand with =
+those fighting the Dakota Access pipeline and stop it from being =
+built.</strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"https://go.berniesanders.com/page/s/stop-the-dakota-access-pip=
+eline?source=3Dem160907-sub-a" style=3D"text-decoration:underline;" =
+title=3D"https://go.berniesanders.com/page/s/stop-the-dakota-access-pipeli=
+ne?source=3Dem160907-sub-a"><strong>Add your name to say you oppose the =
+construction of this fracked oil pipeline.</strong></a></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Activists led by Native American tribal nations are fighting the pipeline =
+with both grassroots activism and legal tools. <strong>Bernie Sanders even =
+issued this call to action to support their work:</strong></p>
+<blockquote style=3D"font-size:17px; line-height:140%;">
+	"Like the Keystone XL pipeline, which I opposed since day one, the Dakota =
+Access fracked oil pipeline will transport some of the dirtiest fuel on =
+the planet. Regardless of the court&rsquo;s decision, the Dakota Access =
+pipeline must be stopped. As a nation, our job is to break our addiction =
+to fossil fuels, not increase our dependence on oil. I join with the =
+Standing Rock Sioux Tribe and the many tribal nations fighting this =
+dangerous pipeline."</blockquote>
+<p style=3D"font-size:17px; line-height:140%;">
+	Because the pipeline would go through their land, the Standing Rock Sioux =
+tribe and other nations have been leading prayer protests for months. =
+Other activists in the way of the pipeline have fought the oil company =
+too.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<strong>But it's incumbent on all of us to stand up to this =
+pipeline.</strong> For the tribal nations who would have their lands =
+endangered, for the farmers and residents who would have their water =
+threatened, and for all of us who need to fight the effects of climate =
+change.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	When people stand together, we can defeat the greed of the biggest fossil =
+fuel companies. That's what the activists from North Dakota to Illinois =
+are proving, and they need us to stand with them.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"https://go.berniesanders.com/page/s/stop-the-dakota-access-pip=
+eline?source=3Dem160907-sub-a" style=3D"text-decoration:underline;" =
+title=3D"https://go.berniesanders.com/page/s/stop-the-dakota-access-pipeli=
+ne?source=3Dem160907-sub-a"><strong>Say you stand with activists who =
+oppose the Dakota Access pipeline for fracked oil. Add your name now and =
+help stop this pipeline.</strong></a></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	When we all stand up to big corporations who want to profit off of =
+climate change, we can win. Thanks for taking action.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Jeff Weaver<br>
+	Our Revolution</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><strong><a href=3D"https://secure.actblue.com/contribute/page/dak=
+ota-petition?refcode=3Dem160907-dakota-button" style=3D"font-family: =
+sans-serif; font-size: 18px; background-color: #E9514F; border-top: 1px =
+solid #E9514F; border-bottom: 2px solid #E9514F; width: 275px; margin: =
+12px auto; border-radius: 4px; text-align: center; color: white; =
+text-decoration: none; padding: 12px 5px 11px; font-weight:700; display: =
+block; text-transform: uppercase; letter-spacing: 0.075em;" =
+title=3D"https://secure.actblue.com/contribute/page/dakota-petition?refcod=
+e=3Dem160907-dakota-button">Contribute</a></strong><br><br><br><br><br><br=
+><br><br><br><br><br><br><br><br><br>
+	&nbsp;</strong></p>
+<p>
+	<strong>&nbsp;</strong></p>
+<br><br><br><br><br><br><br><br><br><br><br></div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px; font-size: 12px; max-width:400px;">PAID FOR BY OUR REVOLUTION<br><br>
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE.<br><br>OUR =
+REVOLUTION IS A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION =
+ARE NOT DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX =
+PURPOSES.</p>
+                  <p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb06b5/43b7f9e2/34faa0ad=
+/6201076f/660423543/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_7bb009827dd4cb7b842eeef228b73f52--
+
+

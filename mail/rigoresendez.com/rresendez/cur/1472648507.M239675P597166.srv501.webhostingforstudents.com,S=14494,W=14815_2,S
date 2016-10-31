@@ -1,0 +1,321 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id zuYyDjvVxleuHAkATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 31 Aug 2016 09:01:47 -0400
+Return-path: <mailer@infusionmail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 31 Aug 2016 09:01:47 -0400
+Received: from mta-c-24-40.infusionmail.com ([208.76.24.40]:11018)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1bf59G-002VFV-LJ
+	for rresendez@rigoresendez.com; Wed, 31 Aug 2016 09:01:47 -0400
+DKIM-Signature: v=1; a=rsa-sha1; d=infusionmail.com; s=dkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@infusionmail.com; t=1472648465;
+	h=From:Sender:Subject:Date:To:MIME-Version:Content-Type;
+	bh=ExyjVcY4uxfQF1mS7e4waufUsYk=;
+	b=CcPfjrvAJfQV3NsOLlEl65SlPm3f2nGWznK3vrjbB6P99VfdYEbKCNt3YYRdrILA
+	vYhKiXtAINepJF3nvs0WLth7bm/eyj2mD3NLCqsf1X8bxxSog7mA5DNvWn6o+fBd
+	T/cCLOSsasHNVyfPjiw6NXldpmYJs6s4j4XXRUOpHSA=;
+Pool-Debug: rg241 value
+Pool-Name: default_value
+x-sieve: enabled
+Pool-Version: 2
+Received: from [10.0.0.231] ([10.0.0.231:40070] helo=buzzsaw)
+	by phxme2 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 48/E0-31794-115D6C75; Wed, 31 Aug 2016 09:01:05 -0400
+Date: Wed, 31 Aug 2016 09:01:02 -0400 (EDT)
+From: Trevor Page <trevor@craftycodr.com>
+Sender: mailer@infusionmail.com
+To: rresendez@rigoresendez.com
+Message-ID: <945443948.286681472648462286.JavaMail.tomcat@buzzsaw>
+Subject: You hear about this?
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_28665_1187890172.1472648462273"
+X-MailSentId: 277223
+X-campaignid: infusion_rg241277223
+Feedback-ID: rg241:rg241_277223:value
+X-BatchId: 50205
+X-InfApp: rg241
+X-InfContact: 95887
+X-InfSent: 3095501
+X-inf-package: value
+X-inf-uflags: SO
+X-inf-iflags: SO
+List-Unsubscribe: <https://rg241.infusionsoft.com/app/optOut/noConfirm/3095501/af8566a3b27db8b1>
+
+------=_Part_28665_1187890172.1472648462273
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://rg241.infusionsoft.com/app/hostedEmail/3095501/af8566a3b27db8b1
+
+If you no longer wish to receive our emails, click the link below:
+
+https://rg241.infusionsoft.com/app/optOut/8/1cd03abc1d6796a3/3095501/af8566a3b27db8b1
+
+Crafty Codr Inc. E-1660 Fischer Hallman Rd Kitchener, Ontario N2R 0C6 Canada
+
+
+
+Delivered By Infusionsoft
+https://crm.infusionsoft.com/go/infs/footer_rg241/text
+
+
+------=_Part_28665_1187890172.1472648462273
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML>
+<html>
+<head>
+</head><body>
+<div id="mainContent" style="text-align: left;">
+<table cellpadding="10" cellspacing="0" style="background-color: rgb(255,255,255); width: 100%; height: 100%;">
+<tbody>
+<tr>
+<td valign="top">
+<table align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" style="width: 600px;">
+<tbody>
+<tr>
+<td sectionid="preheader" style="text-align: left; margin: 0; padding: 10px 0; border: none; white-space: normal; line-height: normal;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#FFFFFF" cellpadding="20" cellspacing="0" style="width: 600px; background-color: rgb(255,255,255);">
+<tbody>
+<tr>
+<td sectionid="body" style="text-align: left; margin: 0; padding: 20px; border: none; white-space: normal; line-height: normal; background-color: rgb(255,255,255);" valign="top">
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 12px; font-family: arial; color: rgb(0,0,0);">
+<div contentid="paragraph" style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 12px; font-family: arial; color: rgb(0,0,0);">
+<div style="overflow: visible;">
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">Hi there,</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;"></span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">Thanks again for signing up for the Java webinar on how to quickly build and launch a web application using Java.</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">I hope you learned something new and are feeling all warm and fuzzy on the inside!</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">I get a kick out of discovering and teaching new technologies that make our lives easier as programmers.</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;"></span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">Oh and if you missed it, at the end of the webinar I introduced a brand new option for those of you who want even MORE help with programming.</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;"></span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">I'm opening up the doors to something I call &quot;<strong><a href="https://rg241.infusionsoft.com/app/linkClick/3094/6095324f601147ad/3095501/af8566a3b27db8b1" nottracked="false" shape="rect" style="color: rgb(6,69,173);">Coders Campus</a></strong>", it includes and INSANE amount of knowledge, tools and resources that includes the following:</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;"></span>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li>
+&nbsp;<span style="font-size: 12pt;">Full Access to <strong>all the courses I&rsquo;ve ever made and will ever make</strong></span>
+</li>
+</ul>
+<div style="overflow: visible;">
+<ul>
+<li>
+<span data-mce-mark="1" style="font-size: 12pt;">That&rsquo;s courses on <strong>Java, JavaScript, Databases &amp; SQL, Spring Framework, Hibernate, Spring Security, Unit testing, HTML / CSS</strong>, etc.</span>
+</li>
+</ul>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li>
+<span data-mce-mark="1" style="font-size: 12pt;">Access to all the <strong>assignments and tests</strong> I&rsquo;ve released with said courses to help you actually absorb what you&rsquo;re learning</span>
+</li>
+</ul>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li>
+<span data-mce-mark="1" style="font-size: 12pt;">Access to the <strong>forums </strong>where you can get help directly from me</span>
+</li>
+</ul>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li>
+<span data-mce-mark="1" style="font-size: 12pt;"><span data-mce-mark="1" style="text-decoration: underline;">Weekly videos</span> on <strong>how to solve real world projects</strong> so you&rsquo;ll be a pro when tackling your own projects and assignments</span>
+</li>
+</ul>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li>
+<span data-mce-mark="1" style="font-size: 12pt;">Plus I&rsquo;ll be uploading <strong>new FULL courses</strong> on a regular basis, like:</span>
+</li>
+</ul>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>
+<span data-mce-mark="1" style="font-size: 12pt;">JQuery, Ajax, AOP, Data structures, algorithms, interview questions, RESTFUL APIs, etc.</span>
+</li>
+</ul>
+</li>
+</ul>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">This is the most comprehensive learning package I've ever put together.</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+&nbsp;
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+&nbsp;
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">It's currently being launched at $97/month, but because you signed up for my webinar I'm offering a <strong>40% discount</strong> to anyone who joins before the timer below hits zero.</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+&nbsp;
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<a href="http://dfl2.us/link/2435/89099b/?em=Contact.Email&amp;couponcode=[couponcodeplaceholder]" shape="rect" style="color: rgb(6,69,173);" width="400"><img alt="Turn images on to see the animation" border="0" src="https://dfimage.com/email-image/2435/89099b/?em=Contact.Email&amp;couponcode=[couponcodeplaceholder]" style="margin: 0; padding: 8px; background: none; border: none; white-space: normal; line-height: normal; max-width: 100%; height: auto; border-width: 1px; border-style: solid; border-color: rgb(255,255,255); display: block; text-align: center; font-size: 18px;" width="400" /></a>
+</div>
+</div>
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 12px; font-family: arial; color: rgb(0,0,0);">
+<div contentid="paragraph" style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 12px; font-family: arial; color: rgb(0,0,0);">
+<div style="overflow: visible;">
+<div style="overflow: visible;">
+<div style="overflow: visible;">
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;"><a href="https://rg241.infusionsoft.com/app/linkClick/3096/1fab991de79413c1/3095501/af8566a3b27db8b1" nottracked="false" shape="rect" style="color: rgb(6,69,173);">Just use coupon code 'CODING' on the checkout page</a>&nbsp;to claim your 40% discount. That's 'CODING' without the quotes and you'll save 40% for&nbsp;life.</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">So if you're currently looking to start a career as a programmer, or if you're already working as a programmer but want to add another programming language to your belt... this is what you have been waiting for.</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">I will provide you with all the tools, training and real world projects you'll need to get up and running with creating web applications in Java, FAST!</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span style="font-size: 12pt;"><strong><span data-mce-mark="1" style=""><a href="https://rg241.infusionsoft.com/app/linkClick/3098/906468132b725079/3095501/af8566a3b27db8b1" nottracked="false" shape="rect" style="color: rgb(6,69,173);">Click Here to Start Learning</a></span></strong></span>
+</p>
+</div>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">And don't forget to use the coupon code CODING to save 40%</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td sectionid="footer" style="text-align: left; margin: 0; padding: 20px; border: none; white-space: normal; line-height: normal; background-color: rgb(255,255,255);" valign="top">
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 10px; font-family: verdana; color: rgb(0,0,0);">
+<div contentid="paragraph" style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 10px; font-family: verdana; color: rgb(0,0,0);">
+<div>
+If you no longer wish to receive our emails, click the link below: 
+<br clear="none" />
+<a href="https://rg241.infusionsoft.com/app/linkClick/3092/2d7d8da3a3e91110/3095501/af8566a3b27db8b1" shape="rect" style="font-size: 11px; font-family: arial; color: rgb(6,69,173);">Unsubscribe</a>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 10px; font-family: verdana; color: rgb(0,0,0);">
+Crafty Codr Inc. E-1660 Fischer Hallman Rd Kitchener, Ontario N2R 0C6 Canada
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<img height="1" width="1" style="display: block;" src="https://rg241.infusionsoft.com/app/emailOpened/3095501/50205"><br><br><div id="branding" style="text-align:right;display:block"><a href="https://crm.infusionsoft.com/go/infs/footer_rg241/html" target="_blank"><img border="0" src="https://infusionmedia.s3.amazonaws.com/app/template/delivered_white.png"></a></div></body>
+</html>
+------=_Part_28665_1187890172.1472648462273--
+

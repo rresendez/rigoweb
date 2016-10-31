@@ -1,0 +1,352 @@
+Return-Path: <BwBEWwoBVwJsUgQMAFcLWFRbCVMBAFwFVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWAQ@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id SYHSIrGZDljOsgIATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 24 Oct 2016 19:30:57 -0400
+Return-path: <BwBEWwoBVwJsUgQMAFcLWFRbCVMBAFwFVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWAQ@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 24 Oct 2016 19:30:57 -0400
+Received: from mta-dock-front-18.bluestatedigital.com ([69.25.202.73]:45927)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsUgQMAFcLWFRbCVMBAFwFVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWAQ@bounce.bluestatedigital.com>)
+	id 1byohl-000k99-Bq
+	for rresendez@rigoresendez.com; Mon, 24 Oct 2016 19:30:57 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.95])
+	by mta-dock-front-18.bluestatedigital.com (Postfix) with ESMTP id 3t2svr5ftYz12Mw7
+	for <rresendez@rigoresendez.com>; Mon, 24 Oct 2016 23:30:16 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ourrevolution.com;
+	s=ourrevolution; t=1477351816;
+	bh=8boDuPW10SZiCsoTgAYAH/Z0sXqj3Gg97W//jswYv48=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=zTQr4AK+lmkPoQqlp8eF97e/Z1ery+qkm2/qrdbT3ducpJ47uwA2DRrgx2+YBZ8X5
+	 O2u9GFvX/bMCMIVgOydmAuJ1mwHN9BdY6dST7xHNcxZ0iY7oxq6t5RW84B10w4zL9K
+	 vJMUHF9YWBmtaTHV2bJPqO9AEa5940HcGFK6/eDE=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Mon, 24 Oct 2016 23:30:16 +0000
+Date: Mon, 24 Oct 2016 23:30:16 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: "OurRevolution.com" <info@ourrevolution.com>
+Reply-to: info@ourrevolution.com
+Subject: Texas: voting for the political revolution
+Message-ID: <4e485b22b3eaba06fa1d6529ac42e982@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: a4912897b9a57965
+X-rpcampaign: rp_177769
+X-maillist-guid: BwBEWwoBVwJsUgQMAFcLWFRbCVMBAFwFVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWAQ
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsUgQMAFcLWFRbCVMBAFwFVzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWAQ@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_4e485b22b3eaba06fa1d6529ac42e982"
+
+
+--b1_4e485b22b3eaba06fa1d6529ac42e982
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto,
+
+There's so much at stake for our country in November. Our Revolution has =
+endorsed candidates and ballot measures up and down the ballot in almost =
+every state, and in many cases they are facing fierce competition from =
+powerful establishment and corporate interests. Now is the time to stand =
+together on these important fights!
+
+
+We've endorsed candidates in Texas. While you may not be able to vote for =
+all the priorities endorsed by Our Revolution, it's important for you to =
+know that we're working to make Texas more progressive.
+
+
+This starts with you committing to vote in the election. Early voting is =
+already underway in Texas, and you can vote early until November 4. =
+Otherwise you can vote on Election Day on Tuesday, November 8.
+
+Are you in? Let us know you plan to vote.
+
+COMMIT TO VOTE =C2=BB https://go.ourrevolution.com/page/s/commit-to-vote-e=
+arly?source=3Dem161021-pt
+
+
+Our Revolution endorsements in Texas:
+
+Jared Cates for Nacogdoches County Commissioner
+Inspired by his mother's battle with cancer, Jared has been passionately =
+advocating for marijuana reform, other civil liberty issues including race =
+and gender equality, marriage equality, and women's health. Jared is =
+dedicated to revitalize the local economy and community through resilient =
+economic development principles, a focus on local businesses, community =
+involvement, and a determination to leave a better environment for future =
+generations.
+
+Julie Nitsch for Austin Community College Board of Trustees
+Inspired by her volunteer work for the Bernie 2016 campaign, Julie wants =
+to continue the political revolution by fighting to provide students and =
+teachers with the quality education they deserve. Additionally, Julie =
+wants to provide a health center and affordable childcare options to =
+students, improve access to public transportation, and ensure educators =
+have a living wage and healthcare benefits.
+
+
+This is Our Revolution, and we will only bring about the change we need in =
+our country if all of us are deeply involved. That's why today we're =
+asking you to commit to vote in this election.
+
+COMMIT TO VOTE =C2=BB https://go.ourrevolution.com/page/s/commit-to-vote-e=
+arly?source=3Dem161021-pt
+
+It's going to take a movement united if we're going to build the =
+progressive, compassionate and equitable country we so believe in. We look =
+forward to continuing this important work with you.
+
+In solidarity,
+
+The Team at Our Revolution
+
+=20
+
+
+
+=20
+
+=20
+
+=20
+
+
+
+
+
+
+
+
+
+
+-----
+PAID FOR BY OUR REVOLUTION
+603 2ND ST, NE
+WASHINGTON, DC, 20002
+
+Not authorized by any candidate or candidate committee. Our Revolution is =
+a 501(c)(4) organization. Donations to Our Revolution are not deductible =
+as charitable contributions for Federal income tax purposes. All donations =
+are made to support Our Revolution=E2=80=99s general mission and are not =
+designated for any specific activity.
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to Our =
+Revolution here: https://secure.actblue.com/contribute/page/ourrevolution?=
+refcode=3Demail_footer.
+
+
+--b1_4e485b22b3eaba06fa1d6529ac42e982
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+         div{
+         font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+         font-weight: 400;
+         font-size: 17px;
+         line-height:140%;
+         color: #364350;
+         }
+         a{
+         color: #147FD7;
+         }
+         .express-lane-links .link{
+         margin: 0;
+         }
+         .express-lane-links .link a{
+         font-family: sans-serif;
+         font-size: 18px;
+         background-color: #147FD7;
+         border-top: 1px solid #1e88e0;
+         border-bottom: 2px solid #0e72c4;
+         width: 290px;
+         margin: 12px auto;
+         border-radius: 4px;
+         text-align: center;
+         color: white;
+         text-decoration: none;
+         padding: 12px 5px;
+         font-weight:700;
+         display: block;
+         text-transform: uppercase;
+         letter-spacing: 0.075em;
+         }
+         .express-lane-links .link a:hover{
+         background-color: #1e88e0;
+         }
+         .express-lane-links .link.other a{
+         font-size: 17px;
+         }
+      </style></head><body><h1 style=3D"text-align: center; padding: 25px =
+0 20px 0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Our Revolution" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Our%20Revolution/OurRev-Logo=
+-160827-335px.png"></h1>
+   <!--[if mso]>
+   <center>
+      <table>
+         <tr>
+            <td width=3D"600">
+               <![endif]-->
+               <div style=3D"max-width: 600px; margin: 0 auto;"><p =
+style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Rigoberto,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	There's so much at stake for our country in November. Our Revolution has =
+endorsed candidates and ballot measures up and down the ballot in almost =
+every state, and in many cases they are facing fierce competition from =
+powerful establishment and corporate interests. Now is the time to stand =
+together on these important fights!</p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We've endorsed candidates in Texas. While you may not be able to vote for =
+all the priorities endorsed by Our Revolution, it's important for you to =
+know that we're working to make Texas more progressive.</p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	This starts with you committing to vote in the election. <strong>Early =
+voting is already underway in Texas, and you can vote early until November =
+4.</strong> Otherwise you can vote on Election Day on Tuesday, November =
+8.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://go.ourrevolution.com/page/s/commit-to-vote-early?sourc=
+e=3Dem161024" style=3D"text-decoration:underline;" title=3D"https://go.our=
+revolution.com/page/s/commit-to-vote-early?source=3Dem161024"><strong>Are =
+you in? Let us know you plan to vote.</strong></a></p>
+<p style=3D"font-family: Arial; font-size: 17px; line-height: 140%; =
+margin:0;">
+	<strong><a href=3D"https://go.ourrevolution.com/page/s/commit-to-vote-ear=
+ly?source=3Dem161024" style=3D"font-family: sans-serif; font-size: 18px; =
+background-color: #147FD7; border-top: 1px solid #1e88e0; border-bottom: =
+2px solid #0e72c4; width: 275px; margin: 12px auto; border-radius: 4px; =
+text-align: center; color: white; text-decoration: none; padding: 12px 5px =
+11px; font-weight:700; display: block; text-transform: uppercase; =
+letter-spacing: 0.075em;" title=3D"https://go.ourrevolution.com/page/s/com=
+mit-to-vote-early?source=3Dem161024">Commit to Vote =
+&raquo;</a></strong></p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Our Revolution endorsements in Texas:</p>
+<p align=3D"center" style=3D"font-family: Arial; font-size: 20px; =
+line-height: 140%; margin:0;">
+	<strong><font color=3D"#147fd7">Jared Cates for Nacogdoches County =
+Commissioner</font></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Inspired by his mother&rsquo;s battle with cancer, Jared has been =
+passionately advocating for marijuana reform, other civil liberty issues =
+including race and gender equality, marriage equality, and women&rsquo;s =
+health. Jared is dedicated to revitalize the local economy and community =
+through resilient economic development principles, a focus on local =
+businesses, community involvement, and a determination to leave a better =
+environment for future generations.</p>
+<p align=3D"center" style=3D"font-family: Arial; font-size: 20px; =
+line-height: 140%; margin:0;">
+	<strong><font color=3D"#147fd7">Julie Nitsch for Austin Community College =
+Board of Trustees</font></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Inspired by her volunteer work for the Bernie 2016 campaign, Julie wants =
+to continue the political revolution by fighting to provide students and =
+teachers with the quality education they deserve. Additionally, Julie =
+wants to provide a health center and affordable childcare options to =
+students, improve access to public transportation, and ensure educators =
+have a living wage and healthcare benefits.</p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	This is Our Revolution, and we will only bring about the change we need =
+in our country if all of us are deeply involved. That's why today we're =
+asking you to commit to vote in this election.</p>
+<p>
+	</p>
+<p style=3D"font-family: Arial; font-size: 17px; line-height: 140%; =
+margin:0;">
+	<strong><a href=3D"https://go.ourrevolution.com/page/s/commit-to-vote-ear=
+ly?source=3Dem161024" style=3D"font-family: sans-serif; font-size: 18px; =
+background-color: #147FD7; border-top: 1px solid #1e88e0; border-bottom: =
+2px solid #0e72c4; width: 275px; margin: 12px auto; border-radius: 4px; =
+text-align: center; color: white; text-decoration: none; padding: 12px 5px =
+11px; font-weight:700; display: block; text-transform: uppercase; =
+letter-spacing: 0.075em;" title=3D"https://go.ourrevolution.com/page/s/com=
+mit-to-vote-early?source=3Dem161024">Commit to Vote =
+&raquo;</a></strong></p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	It&rsquo;s going to take a movement united if we&rsquo;re going to build =
+the progressive, compassionate and equitable country we so believe in. We =
+look forward to continuing this important work with you.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	The Team at Our Revolution</p>
+<p>
+	<strong>&nbsp;</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>&nbsp;</strong></p>
+<p>
+	<strong>&nbsp;</strong></p>
+<p>
+	<strong>&nbsp;</strong></p>
+<p>
+	<br><br><br><br><br><br><br><br><br>
+	&nbsp;</p> </div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px; font-size: 12px; max-width:400px;">PAID FOR BY OUR REVOLUTION<br>
+603 2ND ST, NE<br>
+WASHINGTON, DC, 20002<br><br>
+Not authorized by any candidate or candidate committee. Our Revolution is =
+a 501(c)(4) organization. Donations to Our Revolution are not deductible =
+as charitable contributions for Federal income tax purposes. All donations =
+are made to support Our Revolution&rsquo;s general mission and are not =
+designated for any specific activity.</p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">603 2nd St NE, Washington, DC 20002 </p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb0805/43b7f9e2/2ec1cae5=
+/6200cc10/2620304648/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_4e485b22b3eaba06fa1d6529ac42e982--
+
+

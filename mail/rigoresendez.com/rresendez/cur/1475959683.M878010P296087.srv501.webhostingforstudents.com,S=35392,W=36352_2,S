@@ -1,0 +1,960 @@
+Return-Path: <alert@indeed.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id z0RBNINb+VeXhAQATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 08 Oct 2016 16:48:03 -0400
+Return-path: <alert@indeed.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 08 Oct 2016 16:48:03 -0400
+Received: from mail87.indeed.com ([198.58.75.87]:42703)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <alert@indeed.com>)
+	id 1bsyXL-001Ewu-FF
+	for rresendez@rigoresendez.com; Sat, 08 Oct 2016 16:48:03 -0400
+Received: from aus-post3 (unknown [10.1.0.172])
+	by mail87.indeed.com (Postfix) with ESMTP id A1A4F2AD21
+	for <rresendez@rigoresendez.com>; Sat,  8 Oct 2016 15:47:23 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1475959643;
+	s=default; d=indeed.com; i=@indeed.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=auRI0U0AoMFeRfj8vUjj8494fImRVXE+oZoS+dfUanY=;
+	b=X90YiLR6T5OknfrrkDoJL5wq+ZMan+EirCFyMZ2SRfJDpuPTbrppskROhXB8EgVH
+	yDtEhpOM1theEUP8jXkEe7zQrc17y8qkpnoaU0CzS5zobFvJfW5wz4UHYPwZMgOOGE/
+	Y3B4ibHJW8M6ASd3PnCRhbKqJH8mpUB8uD8K5+Kw=
+From: Indeed Company Alert <alert@indeed.com>
+Reply-To: Indeed Company Alert <alert@indeed.com>
+To: rresendez@rigoresendez.com
+Message-ID: <1auj0oprd052u4gk.1475959642534.Railgunner@aus-rail3>
+Subject: Amazon.com Company Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_111487766_520587266.1475959643545"
+Date: Sat,  8 Oct 2016 15:47:23 -0500 (CDT)
+
+------=_Part_111487766_520587266.1475959643545
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title>IndeedJobAlert_email</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0" />
+<style type=3D"text/css">
+a{
+outline:none;
+color:#00c;
+text-decoration:underline;
+}
+a:hover{text-decoration:none !important;}
+a[x-apple-data-detectors]{color:inherit !important; text-decoration:none !i=
+mportant;}
+.active:hover{opacity:0.8;}
+.active{
+-webkit-transition:all 0.3s ease;
+-moz-transition:all 0.3s ease;
+-ms-transition:all 0.3s ease;
+transition:all 0.3s ease;
+}
+.header-image {
+background: no-repeat center center;
+width: 510px;
+height: 102px;
+background-size: cover;
+overflow: hidden;
+vertical-align: middle;
+}
+.link a:hover{text-decoration: underline !important;}
+.no-adr span{
+border: none !important;
+color: #000 !important;
+}
+a img{border:none;}
+table td{mso-line-height-rule:exactly;}
+.ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b, .E=
+xternalClass br, .ExternalClass p, .ExternalClass div{line-height:inherit;}
+@media only screen and (max-width:500px) {
+/* default style */
+table[class=3D"flexible"]{width:100% !important;}
+table[class=3D"table-center"]{float:none !important; margin:0 auto !importa=
+nt; width:auto !important;}
+*[class=3D"hide"]{display:none !important; width:0 !important; height:0 !im=
+portant; padding:0 !important; font-size:0 !important; line-height:0 !impor=
+tant;}
+span[class~=3D"db"]{display:block !important;}
+td[class=3D"img-flex"] img{width:100% !important; height:auto !important;}
+td[class=3D"aligncenter"]{text-align:center !important;}
+tr[class=3D"table-holder"]{display:table !important; width:100% !important;=
+}
+th[class=3D"tcap"]{display:table-caption !important; width:100% !important;=
+}
+th[class=3D"thead"]{display:table-header-group !important; width:100% !impo=
+rtant;}
+th[class=3D"trow"]{display:table-row !important; width:100% !important;}
+th[class=3D"tfoot"]{display:table-footer-group !important; width:100% !impo=
+rtant;}
+th[class=3D"flex"]{display:block !important; width:100% !important;}
+/* custom style */
+td[class=3D"content"]{padding: 25px 15px !important;}
+}
+@media only screen and (max-width: 800px) {
+.show-when-mobile {
+display: block!important;
+max-height: none!important;
+}
+.hide-when-mobile {
+display: none!important;
+}
+/* Hide job description if screen width smaller than 800px */
+*[class].job-info-snippet {
+display: none!important;
+}
+}
+*[class].image_ad_desktop {
+max-width: 464px;
+height: auto;
+}
+</style>
+</head>
+<body style=3D"margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text=
+-size-adjust:100%;" bgcolor=3D"#f2f2f2">
+<div style=3D"font-family:Arial,sans-serif;direction:ltr">
+<table style=3D"min-width:320px;" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" bgcolor=3D"#f2f2f2">
+<tr>
+<td style=3D"padding: 0 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table style=3D"width: 100%;">
+<tr>
+<td>
+<center>
+<table style=3D"width: 510px; margin: 0 auto; text-align: left;">
+<tr>
+<td>
+<![endif]-->
+<table class=3D"flexible" align=3D"center" style=3D"margin:0 auto;max-width=
+:510px; border-spacing: 0 0;" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"center" style=3D"padding: 32px 0;">
+<a href=3Dhttp://www.indeed.com/?from=3Dcompanyalert,arcsredesigntst1 targe=
+t=3D"_blank" style=3D"text-decoration:none;"><img src=3D"http://tophat-cms-=
+prod.s3.amazonaws.com/wp-content/uploads/2016/02/18221139/logo9.png" style=
+=3D"vertical-align:top; width: 137px; height: 36px; font:bold 36px/36px Hel=
+veticaNeue, Helvetica, Arial, sans-serif;; color:#2164f3;" alt=3D"indeed" w=
+idth=3D"137" height=3D"36" /></a>
+</td>
+</tr>
+<tr><td class=3D"content" bgcolor=3D"#ffffff" style=3D"padding: 20px 20px;"=
+>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"left" style=3D"height: 50px; width: 50px; ">
+<a href=3Dhttp://www.indeed.com/cmp/Amazon.com?from=3Dcompanyalert,arcsrede=
+signtst1&campaignid=3Dcompanyalert,arcsredesigntst1 target=3D"_blank" style=
+=3D"text-decoration:none;">
+<img src=3Dhttps://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/63561ffc5dd0=
+066d6d752de859fc7856 style=3D"vertical-align:middle;" width=3D"50" height=
+=3D"50" />
+</a>
+</td>
+<td><table>
+<tr><td style=3D"width:100%; padding-left:8px;">
+<a href=3D"http://www.indeed.com/cmp/Amazon.com?from=3Dcompanyalert,arcsred=
+esigntst1&campaignid=3Dcompanyalert,arcsredesigntst1" target=3D"_blank" sty=
+le=3D"text-decoration:none; color: #00c;">
+<span class=3D"sg-paragraph-large" style=3D"font:bold 16px/19px HelveticaNe=
+ue, Helvetica, Arial, sans-serif; font-weight: 700; color: #000000;">
+Amazon.com
+</span>
+</a>
+</td></tr>
+<tr><td>
+<a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?c=
+ampaignid=3Dcmpalertreviews,companyalert,arcsredesigntst1&caclick=3DallRevi=
+ewsc&from=3Dcompanyalert,arcsredesigntst1" style=3D"white-space:nowrap;floa=
+t:left;">
+<span style=3D"min-height:15px;display:block; width:86px; background:url(ht=
+tp://www.indeed.com/images/cmp/star_lg.png) repeat 0 32px; margin: 0 0.25em=
+;"><span style=3D"min-height:15px;display:block; background:url(http://www.=
+indeed.com/images/cmp/star_lg.png) repeat 0 16px;width:63.6px;"><!-- --></s=
+pan></span></a>
+<a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?c=
+ampaignid=3Dcmpalertreviews,companyalert,arcsredesigntst1&caclick=3DallRevi=
+ewsc&from=3Dcompanyalert,arcsredesigntst1" style=3D"color:#77C; cursor:poin=
+ter; text-decoration:underline; white-space:nowrap; font-size:13px; color:#=
+635fc0;">9,541 reviews</a>
+</td></tr>
+</table></td>
+</tr>
+</table>
+</td></tr>
+<tr height=3D10px></tr>
+<!-- content -->
+<tr><td class=3D"content" bgcolor=3D"#ffffff" style=3D"padding: 25px 19px;"=
+>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading2" align=3D"center" style=3D"font:23px/28px Helvetic=
+aNeue, Helvetica, Arial, sans-serif;; color:#f60; padding: 0 0 24px; border=
+-bottom: 1px solid #c9c9c9;">
+487 new jobs found
+</td>
+</tr>
+<!-- block jobs list -->
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Df380dbedc5395d77&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3D8i0xAbEkuWUhy6dasPEQkXw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Df380dbedc539=
+5d77&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3D8i0xAbEkuWUhy6dasPEQkXw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Studio Manager</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon.com dedc LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- Charlotte, NC
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Amazon Product Imaging builds the world=E2=80=99s best online shopping expe=
+rience through photography, video, graphic design, and usability design ena=
+bling millions of...
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 3
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Dce321440c0a2afbb&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3Dv7_ZQyGHijdq7ng-cswbFHw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Dce321440c0a2=
+afbb&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3Dv7_ZQyGHijdq7ng-cswbFHw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Recruiting Coordinator, Amazon Web Services</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon Corporate LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- New York, NY
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Providing follow-up correspondence to candidates on recruiting status via p=
+hone and email. The RC is an integral partner in managing recruiting activi=
+ties and...
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 3
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Dd37b084b4df55057&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DqZbEW5CIRtWoBiKCtAKLFnw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Dd37b084b4df5=
+5057&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DqZbEW5CIRtWoBiKCtAKLFnw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Logistics Specialist</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon.com.kydc LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- Houston, TX
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Bachelor degree in computer science, or logistics management related fields=
+ is preferred. Maintain the accuracy and integrity of the Sort Center trail=
+er yard...
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 7
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Dd9addd23a58833b6&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DPAaURojKT6ZqONm8Ax8BWHw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Dd9addd23a588=
+33b6&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DPAaURojKT6ZqONm8Ax8BWHw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Part-Time Prime Now Associate</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon HVH
+</span>
+<span class=3D"sg-paragraph-large db">
+- Raleigh, NC
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Reliable transportation &amp; a drivers=E2=80=99 license if you are interes=
+ted in driving. You can select your own hours and set your own schedule (su=
+bject to business...
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 7
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Ddfe48b49366e3b21&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DnVfIWW7nYZMtYGLLYvAMTHw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Ddfe48b49366e=
+3b21&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DnVfIWW7nYZMtYGLLYvAMTHw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Fulfillment Associate</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon
+</span>
+<span class=3D"sg-paragraph-large db">
+- Fort Worth, TX
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+That is, as long as you thrive in a fast-moving environment, don=E2=80=99t =
+mind working with and around moving mechanical parts, and are okay with a l=
+ittle noise....
+</td>
+</tr>
+<tr>
+<td class=3D"easy-apply-footer" style=3D"font:13px/18px HelveticaNeue, Helv=
+etica, Arial, sans-serif; color:#f60;">
+Easily apply
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 2
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Df00c3f8f817b093e&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DFKySy2NCPt7zS3qu5k9w5nw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Df00c3f8f817b=
+093e&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DFKySy2NCPt7zS3qu5k9w5nw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Career Ambassador</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon Corporate LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- Seattle, WA
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Advise without directing, allowing others to realize their own answers and =
+solution and own their choices....
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 5
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3D5c149f82a20a2229&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DuXuodet8lKfk109nykoqIHw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3D5c149f82a20a=
+2229&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DuXuodet8lKfk109nykoqIHw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Non-Inventory Shipping & Receiving Associate</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon Corporate LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- Seattle, WA
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Export Control License. We're looking for an outstanding Inbound/Outbound S=
+hipping and Receiving Associate to administer the flow of goods including s=
+upplies,...
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 6
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3D50c98af5c22e0dd2&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DgCnzoiHhTMQWunrLJLCTYHw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3D50c98af5c22e=
+0dd2&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DgCnzoiHhTMQWunrLJLCTYHw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Seasonal Process Assistant</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon.com dedc LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- Moreno Valley, CA
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+An awareness and willingness to use OE tools and techniques. Continued meet=
+ing or exceeding of department performance goals....
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 6
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Dab22cc675355810d&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DWjRP17YOjrNXHzTlrPdpl3w6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Dab22cc675355=
+810d&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DWjRP17YOjrNXHzTlrPdpl3w6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Investigation Specialist</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon Corporate LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- Seattle, WA
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Assist with the definition and design of improvements to software (tools), =
+creation of standard operating procedures and processes for Amazon's Fulfil=
+lment...
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 3
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9c9;"=
+>
+<a style=3D"text-decoration:none;" target=3D"_blank" href=3D"http://www.ind=
+eed.com/rc/clk?jk=3Dc033771215858743&from=3Dcompanyalert%2Carcsredesigntst1=
+&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=
+=3DIVfp0CltCVEpHOpKTrwdMXw6vq2hnJ7bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=
+=3D5759eee8e4b07e8cbc036164">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading4">
+<a target=3D"_blank" href=3D"http://www.indeed.com/rc/clk?jk=3Dc03377121585=
+8743&from=3Dcompanyalert%2Carcsredesigntst1&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-H=
+qDHe-rYmUANLRKfeEp8yTysD1M7JotfFoK9bdb&rd=3DIVfp0CltCVEpHOpKTrwdMXw6vq2hnJ7=
+bz-IF2TKOFws&tk=3D1auj0pm6305341lp&alid=3D5759eee8e4b07e8cbc036164" style=
+=3D"text-decoration:none; font:bold 16px/20px HelveticaNeue, Helvetica, Ari=
+al, sans-serif;; color:#00c; padding: 0 0 5px;"
+>Amazon Retail Sales Associate - Santa Clara, CA</a>
+</td>
+</tr>
+<tr>
+<td style=3D"font:15px/18px HelveticaNeue, Helvetica, Arial, sans-serif; co=
+lor:#6f6f6f; padding: 0 0 4px;"
+>
+<span class=3D"sg-paragraph-large" style=3D"color: #000;"
+>
+Amazon Corporate LLC
+</span>
+<span class=3D"sg-paragraph-large db">
+- Santa Clara, CA
+</span>
+</td>
+</tr>
+<tr>
+<td class=3D"job-info-snippet" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#000; padding: 0 0 3px;">
+Develop and execute product demonstration programs, device workshops and sp=
+ecial events for a retail setting....
+</td>
+</tr>
+<tr>
+<td class=3D"post-date-footer" style=3D"font:13px/18px HelveticaNeue, Helve=
+tica, Arial, sans-serif; color:#999;"
+>
+Oct 4
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<!-- block-btn button to view all jobs -->
+<tr><td style=3D"padding: 24px 0 0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td style=3D"padding: 0 0 15px;">
+<table class=3D"flexible" width=3D"300" align=3D"center" style=3D"margin: 0=
+ auto; max-width: 300px;" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td class=3D"active" bgcolor=3D"#2f5cd8" align=3D"center" style=3D"font=
+:bold 15px/16px HelveticaNeue, Helvetica, Arial, sans-serif;; color:#fff; b=
+order: 1px solid #1642bb; background: #2f5cd8 url(https://subscriptions.ind=
+eed.com/static/images/ja/btn-bg.png) repeat-x; border-radius:4px; text-shad=
+ow: 0 -1px 0 #0f2299; -webkit-box-shadow: 0 0 4px 1px rgba(204,204,204,1); =
+box-shadow: 0 0 4px 1px rgba(204,204,204,1); mso-padding-alt: 12px 10px;">
+<a href=3D" http://www.indeed.com/jobs?q=3Dcompany%3A%22Amazon.com%22&l=3D&=
+from=3Dcompanyalert,arcsredesigntst1&fr=3Dt&of=3D1&utm_source=3Djobseeker_e=
+mails&utm_medium=3Demail&utm_campaign=3Djob_alerts&hl=3Den
+" style=3D"text-decoration:none; color: #fff; display: block; padding: 12px=
+ 10px;"
+target=3D"_blank">View All Jobs</a>
+</td></tr>
+</table>
+</td></tr>
+<tr><td align=3D"center" class=3D"sg-paragraph-normal link" style=3D"font:1=
+3px/18px HelveticaNeue, Helvetica, Arial, sans-serif;; color:#000; ">
+View jobs:
+<a href=3D" http://www.indeed.com/jobs?q=3Dcompany%3A%22Amazon.com%22&l=3D&=
+fromage=3D1&from=3Dcompanyalert,arcsredesigntst1&fr=3Db&of=3D1&utm_source=
+=3Djobseeker_emails&utm_medium=3Demail&utm_campaign=3Djob_alerts&hl=3Den
+" target=3D"_blank" style=3D"text-decoration:none; color: #00c;"
+>since yesterday</a>
+<span class=3D"desktop"> - </span>
+<a href=3D" http://www.indeed.com/jobs?q=3Dcompany%3A%22Amazon.com%22&l=3D&=
+fromage=3D7&from=3Dcompanyalert,arcsredesigntst1&fr=3Db&of=3D1&utm_source=
+=3Djobseeker_emails&utm_medium=3Demail&utm_campaign=3Djob_alerts&hl=3Den
+" target=3D"_blank" style=3D"text-decoration:none; color: #00c;"
+>for last 7 days</a>
+</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+<tr height=3D10px></tr>
+<tr>
+<td class=3D"content" bgcolor=3D"#ffffff" style=3D"padding: 25px 19px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-heading2" align=3D"center" style=3D"font:23px/28px Helvetic=
+aNeue, Helvetica, Arial, sans-serif;; color:#f60; padding: 0 0 24px; border=
+-bottom: 1px solid #c9c9c9;">
+New reviews for Amazon.com
+</td>
+</tr>
+<!-- block jobs list -->
+<tr><td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9=
+c9;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-s=
+pacing: 0 8px;">
+<tr><td>
+<a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?i=
+d=3Defb30c9d30c4d481&campaignid=3Dcmpalertreviews,companyalert,arcsredesign=
+tst1&caclick=3Dreviewc&from=3Dcompanyalert,arcsredesigntst1&alid=3D5759eee8=
+e4b07e8cbc036164&tk=3D1auj0oprd052u4gk" style=3D"white-space:nowrap;float:l=
+eft">
+<span style=3D"min-height:15px;display:block; width:86px; background:url(ht=
+tp://www.indeed.com/images/cmp/star_lg.png) repeat 0 32px; margin: 0 0.25em=
+;"><span style=3D"min-height:15px;display:block; background:url(http://www.=
+indeed.com/images/cmp/star_lg.png) repeat 0 16px;width:68.8px;"><!-- --></s=
+pan></span></a>
+<span class=3D"sg-heading4" style=3D"margin-left: 10px;">
+<a target=3D"_blank" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?i=
+d=3Defb30c9d30c4d481&campaignid=3Dcmpalertreviews,companyalert,arcsredesign=
+tst1&caclick=3Dreviewc&from=3Dcompanyalert,arcsredesigntst1&alid=3D5759eee8=
+e4b07e8cbc036164&tk=3D1auj0oprd052u4gk" style=3D"text-decoration:none; font=
+:bold 16px/20px HelveticaNeue, Helvetica, Arial, sans-serif;; color:#00c; p=
+adding: 0 0 5px;"
+>Seasonal</a>
+</span>
+</td></tr>
+<tr style=3D"padding-top: 10px;"><td class=3D"review_subtitle" style=3D"col=
+or: #000; font-size: 13px; margin-top: 20x; font-weight: 400;">
+<span class=3D"reviewer">Warehouse Associate</span>
+(Former Employee)
+Indianapolis, IN
+<span class=3D"dtreviewed"> - October 07, 2016</span>
+</td></tr>
+</table>
+</td></tr>
+<tr><td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9=
+c9;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-s=
+pacing: 0 8px;">
+<tr><td>
+<a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?i=
+d=3De92382d0695d22ef&campaignid=3Dcmpalertreviews,companyalert,arcsredesign=
+tst1&caclick=3Dreviewc&from=3Dcompanyalert,arcsredesigntst1&alid=3D5759eee8=
+e4b07e8cbc036164&tk=3D1auj0oprd052u4gk" style=3D"white-space:nowrap;float:l=
+eft">
+<span style=3D"min-height:15px;display:block; width:86px; background:url(ht=
+tp://www.indeed.com/images/cmp/star_lg.png) repeat 0 32px; margin: 0 0.25em=
+;"><span style=3D"min-height:15px;display:block; background:url(http://www.=
+indeed.com/images/cmp/star_lg.png) repeat 0 16px;width:51.6px;"><!-- --></s=
+pan></span></a>
+<span class=3D"sg-heading4" style=3D"margin-left: 10px;">
+<a target=3D"_blank" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?i=
+d=3De92382d0695d22ef&campaignid=3Dcmpalertreviews,companyalert,arcsredesign=
+tst1&caclick=3Dreviewc&from=3Dcompanyalert,arcsredesigntst1&alid=3D5759eee8=
+e4b07e8cbc036164&tk=3D1auj0oprd052u4gk" style=3D"text-decoration:none; font=
+:bold 16px/20px HelveticaNeue, Helvetica, Arial, sans-serif;; color:#00c; p=
+adding: 0 0 5px;"
+>Management</a>
+</span>
+</td></tr>
+<tr style=3D"padding-top: 10px;"><td class=3D"review_subtitle" style=3D"col=
+or: #000; font-size: 13px; margin-top: 20x; font-weight: 400;">
+<span class=3D"reviewer">Pack Ambassador</span>
+(Current Employee)
+Fort Worth, TX
+<span class=3D"dtreviewed"> - October 07, 2016</span>
+</td></tr>
+</table>
+</td></tr>
+<tr><td style=3D"padding: 10px 5px 10px 5px; border-bottom: 1px solid #c9c9=
+c9;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-s=
+pacing: 0 8px;">
+<tr><td>
+<a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?i=
+d=3D087b6c9e4c2b89d6&campaignid=3Dcmpalertreviews,companyalert,arcsredesign=
+tst1&caclick=3Dreviewc&from=3Dcompanyalert,arcsredesigntst1&alid=3D5759eee8=
+e4b07e8cbc036164&tk=3D1auj0oprd052u4gk" style=3D"white-space:nowrap;float:l=
+eft">
+<span style=3D"min-height:15px;display:block; width:86px; background:url(ht=
+tp://www.indeed.com/images/cmp/star_lg.png) repeat 0 32px; margin: 0 0.25em=
+;"><span style=3D"min-height:15px;display:block; background:url(http://www.=
+indeed.com/images/cmp/star_lg.png) repeat 0 16px;width:86px;"><!-- --></spa=
+n></span></a>
+<span class=3D"sg-heading4" style=3D"margin-left: 10px;">
+<a target=3D"_blank" href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?i=
+d=3D087b6c9e4c2b89d6&campaignid=3Dcmpalertreviews,companyalert,arcsredesign=
+tst1&caclick=3Dreviewc&from=3Dcompanyalert,arcsredesigntst1&alid=3D5759eee8=
+e4b07e8cbc036164&tk=3D1auj0oprd052u4gk" style=3D"text-decoration:none; font=
+:bold 16px/20px HelveticaNeue, Helvetica, Arial, sans-serif;; color:#00c; p=
+adding: 0 0 5px;"
+>Great Place to work! Do it again in a heartbeat.</a>
+</span>
+</td></tr>
+<tr style=3D"padding-top: 10px;"><td class=3D"review_subtitle" style=3D"col=
+or: #000; font-size: 13px; margin-top: 20x; font-weight: 400;">
+<span class=3D"reviewer">At Home Customer Service Representative</span>
+(Former Employee)
+Chilhowie, VA
+<span class=3D"dtreviewed"> - October 07, 2016</span>
+</td></tr>
+</table>
+</td></tr>
+<!-- block-btn button to view all reviews -->
+<tr><td style=3D"padding: 24px 0 0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td style=3D"padding: 0 0 15px;">
+<table class=3D"flexible" width=3D"300" align=3D"center" style=3D"margin: 0=
+ auto; max-width: 300px;" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td class=3D"active" bgcolor=3D"#2f5cd8" align=3D"center" style=3D"font=
+:bold 15px/16px HelveticaNeue, Helvetica, Arial, sans-serif;; color:#fff; b=
+order: 1px solid #1642bb; background: #2f5cd8 url(https://subscriptions.ind=
+eed.com/static/images/ja/btn-bg.png) repeat-x; border-radius:4px; text-shad=
+ow: 0 -1px 0 #0f2299; -webkit-box-shadow: 0 0 4px 1px rgba(204,204,204,1); =
+box-shadow: 0 0 4px 1px rgba(204,204,204,1); mso-padding-alt: 12px 10px;">
+<a href=3D"http://www.indeed.com/cmp/Amazon.com/reviews?campaignid=3Dcmpale=
+rtreviews,companyalert,arcsredesigntst1&caclick=3DallReviewsc&from=3Dcompan=
+yalert,arcsredesigntst1" style=3D"text-decoration:none; color: #fff; displa=
+y: block; padding: 12px 10px;"
+target=3D"_blank"> View all reviews
+</a>
+</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table>
+</td>
+</tr>
+<!-- footer -->
+<tr>
+<td style=3D"padding: 27px 15px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"sg-paragraph-small link no-adr" align=3D"center" style=3D"font=
+:11px/16px HelveticaNeue, Helvetica, Arial, sans-serif;; color:#000; paddin=
+g: 0 0 10px;">
+<a href=3D"http://www.indeed.com?from=3Dcompanyalert%2Carcsredesigntst1"><f=
+ont color=3D"#2164f3"><b>Indeed</b></font></a> - one search. all jobs. | 64=
+33 Champion Grandview Way, Building 1, Austin, TX 78750
+</td>
+</tr>
+<tr>
+<td class=3D"sg-paragraph-small cancel link" align=3D"center" style=3D"font=
+:11px/16px HelveticaNeue, Helvetica, Arial, sans-serif; color:#000;">
+If you no longer wish to receive these types of emails you may <a href=3D"h=
+ttps://subscriptions.indeed.com/alerts/cancel?subId=3D5759eee8e4b07e8cbc036=
+164&token=3DCkBcDFZAVMG-zPXfeLkOVTQlA5rK7InKUkFYgVlMeu7hULGSAoTYVUAfhvnlrIg=
+zp9YI3579gT17ONbXzMDRTTjkEiCFFBCmZ_YEh8pd6FnyGOteW1IdOfqRtnf1iI-0SqaPfRoQdr=
+y8INFh7y-3ZDevl51QcA%3D%3D&co=3DUS&hl=3Den&tmtk=3D1auj0oprd052u4gk&rgtk=3D1=
+auj0pm6305341lp&from=3Dja" target=3D"_blank" style=3D"text-decoration:none;=
+ color: #00c;">unsubscribe</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<img src=3D"http://www.indeed.com/imgping?type=3Dja&tk=3D1auj0oprd052u4gk&a=
+luidhash=3D5759eee8e4b07e8cbc036164" height=3D"1" width=3D"1">
+</div>
+</body>
+</html>
+------=_Part_111487766_520587266.1475959643545--

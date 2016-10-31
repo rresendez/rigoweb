@@ -1,0 +1,101 @@
+Return-Path: <bounce-post-gkRKDbOC5hGtU0yEKaEAUw@craigslist.org>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id OYg7LIgU51ewPAAATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 24 Sep 2016 20:04:24 -0400
+Return-path: <bounce-post-gkRKDbOC5hGtU0yEKaEAUw@craigslist.org>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 24 Sep 2016 20:04:24 -0400
+Received: from mxo2a.craigslist.org ([208.82.237.97]:46278 helo=outbound.ashburn.craigslist.org)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-post-gkRKDbOC5hGtU0yEKaEAUw@craigslist.org>)
+	id 1bnwvg-0003zY-D5
+	for rresendez@rigoresendez.com; Sat, 24 Sep 2016 20:04:24 -0400
+Received: outbound
+DKIM-Filter: OpenDKIM Filter v2.10.3 outbound.ashburn.craigslist.org C1D527F1A1
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=craigslist.org;
+	s=20160601-165758-eemjccqt; t=1474761823;
+	bh=otZimLO543jRe7srWvQE6je9XdKwM+4bN/vFFI4X3/M=;
+	h=From:To:Subject:Date:From;
+	b=u4cBk0AIefTH7G4IoxiI2UZZoxeCH2+n4IRK96XTtF377oxWXvFweGS9GaHa7oq+6
+	 RMt5/LvEdG5stxS1mOr9PnrzXXP7VMyNwatVY/NbNVltAbGhaWu8MVr85gf8tVi3bM
+	 y/pNUFRYUOPEES3gF7u1jBcR7B/+W1XtPZD7hpTk=
+Received: outbound
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.502 (Entity 5.502)
+From: "craigslist - automated message, do not reply" <robot@craigslist.org>
+To: rresendez@rigoresendez.com
+Subject: POST/EDIT/DELETE: Vaccinated cat (pets)
+Date: Sun, 25 Sep 2016 00:03:43 +0000 (GMT)
+X-CL-Originating-Ip: 24.243.100.162
+Content-Type: multipart/alternative; boundary="----------=_1474761823-29008-4"
+Content-Transfer-Encoding: binary
+
+This is a multi-part message in MIME format...
+
+------------=_1474761823-29008-4
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.502 (Entity 5.502)
+
+
+IMPORTANT - FURTHER ACTION IS REQUIRED TO COMPLETE YOUR REQUEST !!!
+
+FOLLOW THE WEB ADDRESS BELOW TO:
+
+  PUBLISH YOUR AD
+  EDIT (OR CONFIRM AN EDIT TO) YOUR AD
+  VERIFY YOUR EMAIL ADDRESS
+  DELETE YOUR AD
+
+If not clickable, please copy and paste the address to your browser:
+
+THIS LINK IS A PASSWORD.  DO NOT SHARE IT - anyone who has a copy of
+this link can edit or delete your posting.
+
+https://post.craigslist.org/u/gkRKDbOC5hGtU0yEKaEAUw/fa89b
+
+PLEASE KEEP THIS EMAIL - you may need it to manage your posting!
+
+Your posting will expire off the site 45 days after it was created.
+
+
+Thanks for using craigslist!
+
+------------=_1474761823-29008-4
+Content-Type: text/html
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.502 (Entity 5.502)
+
+<html><body>
+<font color="red">IMPORTANT - FURTHER ACTION IS REQUIRED TO COMPLETE YOUR REQUEST !!!</font><br>
+<br>
+FOLLOW THE WEB ADDRESS BELOW TO:<br>
+<ul>
+  <li>PUBLISH YOUR AD
+  <li>EDIT (OR CONFIRM AN EDIT TO) YOUR AD
+  <li>VERIFY YOUR EMAIL ADDRESS
+  <li>DELETE YOUR AD
+</ul>
+If not clickable, please copy and paste the address to your browser:<br>
+<br>
+<font color="red">THIS LINK IS A PASSWORD.  DO NOT SHARE IT</font> - anyone who has a copy of this link can edit or delete your posting.<br>
+<br>
+<a href="https://post.craigslist.org/u/gkRKDbOC5hGtU0yEKaEAUw/fa89b">https://post.craigslist.org/u/gkRKDbOC5hGtU0yEKaEAUw/fa89b</a><br>
+<br>
+<font color="red">PLEASE KEEP THIS EMAIL</font> - you may need it to manage your posting!<br>
+<br>
+Your posting will expire off the site 45 days after it was created.
+<br><br>
+
+Thanks for using craigslist!
+<br>
+</body>
+</html>
+
+------------=_1474761823-29008-4--

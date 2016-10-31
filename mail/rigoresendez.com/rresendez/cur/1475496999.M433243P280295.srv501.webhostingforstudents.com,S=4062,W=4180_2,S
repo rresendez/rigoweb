@@ -1,0 +1,118 @@
+Return-Path: <bounce-flag@craigslist.org>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id kQHIGSdM8lfnRgQATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 03 Oct 2016 08:16:39 -0400
+Return-path: <bounce-flag@craigslist.org>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 03 Oct 2016 08:16:39 -0400
+Received: from mxo4a.craigslist.org ([208.82.237.99]:47322 helo=outbound.ashburn.craigslist.org)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-flag@craigslist.org>)
+	id 1br2Ag-001B4g-Vg
+	for rresendez@rigoresendez.com; Mon, 03 Oct 2016 08:16:39 -0400
+Received: outbound
+DKIM-Filter: OpenDKIM Filter v2.10.3 outbound.ashburn.craigslist.org 60E26B62B9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=craigslist.org;
+	s=20160601-165758-eemjccqt; t=1475496958;
+	bh=TcGKQtOaLaVLPm7EcpjudAgnPYNvfsKm0KLjYG5/ZJg=;
+	h=From:To:Subject:Date:From;
+	b=IzNpxcYY8UK8TYoJyxDXaDhQCShKpao3ZQDBsQrYn7aCmZJnqX2YFiHJ2hoaumFL7
+	 /exePf5Mdalr9MzRY5YtsPhSiYW8WDQ2dWQPxjJwQ4Cy90vzYObtedMM4R7Q11fMn/
+	 u1eT0R6R1xkJxHULTPrlKyifNAGMvJMFLCwdi03c=
+Received: outbound
+MIME-Version: 1.0
+Content-Transfer-Encoding: binary
+Content-Type: multipart/alternative; boundary="_----------=_1475496958161780"
+X-Mailer: MIME::Lite 3.028 (F2.82; T1.31; A2.08; B3.13; Q3.13)
+From: "craigslist - automated message, do not reply" <robot@craigslist.org>
+To: rresendez@rigoresendez.com
+Subject:  flagged & removed: 5797776384 (pets) Vaccinated cat
+Date: Mon,  3 Oct 2016 12:15:58 +0000 (GMT)
+
+This is a multi-part message in MIME format.
+
+--_----------=_1475496958161780
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+
+
+This posting has been flagged for removal.
+
+Please be sure to comply with posted guidelines and the CL TOU:
+
+//www.craigslist.org/about/terms.of.use
+//www.craigslist.org/about/terms.of.use
+
+Information on flagging and community moderation is available:
+
+//www.craigslist.org/about/help/flags_and_community_moderation
+//www.craigslist.org/about/help/flags_and_community_moderation
+
+Advice from CL users about flagging can be found in flag help forum:
+
+https://forums.craigslist.org/?forumID=3D3
+https://forums.craigslist.org/?forumID=3D3.
+
+Sorry for the inconvenience, and thanks for your understanding.
+
+
+---------------------------------------------------------------------------=
+---
+
+
+Date:
+PostID:5797776384
+Title:() Vaccinated cat
+
+I am an international student and have to move soon. Instead of freeing
+ my cat I rather find her a home she is completly vaccinated and I have
+the paper work , carry case and litter box.
+
+--_----------=_1475496958161780
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+
+<html><body>
+<p><font color=3D"red">This posting has been flagged for removal.</font></p>
+
+<p>Please be sure to comply with posted guidelines and the CL TOU:</p>
+
+<p><a href=3D"//www.craigslist.org/about/terms.of.use">//www.craigslist.org=
+/about/terms.of.use</a></p>
+
+<p>Information on flagging and community moderation is available:
+
+<p><a href=3D"//www.craigslist.org/about/help/flags_and_community_moderatio=
+n">//www.craigslist.org/about/help/flags_and_community_moderation</a></p>
+
+<p>Advice from CL users about flagging can be found in flag help forum:
+
+<a href=3D"https://forums.craigslist.org/?forumID=3D3">https://forums.craig=
+slist.org/?forumID=3D3</a>.
+
+<p>Sorry for the inconvenience, and thanks for your understanding.</p>
+
+<pre>
+---------------------------------------------------------------------------=
+---
+<small>
+
+Date:
+PostID:5797776384
+Title:() Vaccinated cat
+
+I am an international student and have to move soon. Instead of freeing  my=
+ cat I rather find her a home she is completly vaccinated and I have the pa=
+per work , carry case and litter box.
+</small>
+
+</pre>
+</body>
+</html>
+
+--_----------=_1475496958161780--
+

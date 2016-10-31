@@ -1,0 +1,875 @@
+Return-Path: <bounces+2943270-8673-rresendez=rigoresendez.com@mail.announce.fiverr.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id mbJ/Jrj+BliezggATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 19 Oct 2016 01:03:52 -0400
+Return-path: <bounces+2943270-8673-rresendez=rigoresendez.com@mail.announce.fiverr.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 19 Oct 2016 01:03:52 -0400
+Received: from o111.mail.announce.fiverr.com ([167.89.95.39]:56630)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2943270-8673-rresendez=rigoresendez.com@mail.announce.fiverr.com>)
+	id 1bwj2e-002Q7h-9Q
+	for rresendez@rigoresendez.com; Wed, 19 Oct 2016 01:03:52 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=announce.fiverr.com; 
+	h=content-type:from:mime-version:reply-to:subject:to; s=s1; 
+	bh=6f2uIxYUyW1j+9vCyBOOTomDTWM=; b=19zcRMcXRzR1lgQkKb/ZdDZ45rLgO
+	cZmTxMa4Wtfz1jm3+NNU+YCRatYFTeR48GHOBDTKTiV0bWmHEV7UrTQIcUzFEQlb
+	5tV/WietXrhdbthXfBgOHkwoAvbUTKMPJIyJBXxXBKVZ5as7w+uwuJrpixF9V1Eq
+	hebaGY6VExYdRY=
+Received: by filter0858p1mdw1.sendgrid.net with SMTP id filter0858p1mdw1-311-5806FE6C-49
+        2016-10-19 05:02:36.933395834 +0000 UTC
+Received: from Mjk0MzI3MA (ec2-54-174-185-185.compute-1.amazonaws.com [54.174.185.185])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with HTTP id nhxZ2ngaQ8S_XTnhdZPHpw
+	for <no-reply@appboy.com>; Wed, 19 Oct 2016 05:02:36.985 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=3e8ae099a9a81c3dd6f4b21af5ce92a905c16fc03c5a237d109598de5cb0
+Date: Wed, 19 Oct 2016 05:02:36 +0000
+From: "Fiverr" <no-reply@fiverr.com>
+Mime-Version: 1.0
+Reply-to: no-reply@fiverr.com
+Subject: Post a Request & we'll do the rest!
+To: rresendez@rigoresendez.com
+Message-ID: <nhxZ2ngaQ8S_XTnhdZPHpw@ismtpd0002p1iad1.sendgrid.net>
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgaUfjgWq5tLrk1VAo2U1FIPtAOVYagPpLDfR+
+ /mTm9aD95pVxRNazBWU2dNStS65bwXYCLVlrhGtf2YWa9xJ/K2iijsk29au2R2oBmAVkZeTkMaMzg3
+ 1UsaSUh/zSET15sVivbW+d+ndXy5OYTMMCKdro6S+0uYTRdCfAWSqdTTzLozDbu9kKzyd2XXweLcbJ
+ g=
+X-SG-ID: YH5d4/1v5/Fxu07BGLsJZ8bhCxOMCrEL+NMIwEzW6jUfkAFib+5UBhTLZpzUzZ3mHG2AV2syMiZCKS
+ Tor0Snp+Z45PrOQAz+jOTvHit1rRozJJSD5t14/2nBaFnlPsYBelbcWeOhcTmsLVMQo98uKj1QRRmI
+ YpWBAWIfdwixeiW74UK4b4VTMoo1CDVp33yFtKvKHUESuPcg1ns0e9iSNYZvsp13SnB3xhH79Lmax3
+ PFztCpBwdxE/R/D+jjp2zR
+
+--3e8ae099a9a81c3dd6f4b21af5ce92a905c16fc03c5a237d109598de5cb0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+SL HERE
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6bo=
+ETrpX6G-2FEbYtiDHT60hwIShC4wkPbmc6O6ON4mGznWyXMMAALyGttiNKyEDuKi-2BoaPcLvw6=
+6PcDixrFCiZmdzKW-2FV1foF6RAXOJyY6WZGRJmJyXS4HMov5PEFdQ-3D-3D_xb69N2IWj9cpa7=
+VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkL=
+gX1KriNSpfXlW9QbFLjtsM847QqhN7emQANbmTDtw3065DfGdNFA6fkFPfV65X-2FG70PmWqJZg=
+bJal-2BYRpbZacSE0hId9xE6acblhcFBzRYee9MLpVVCBvie2f4I535h6LflPf4GaRCLjhd0blq=
+X7rde6FX0XhOjhMYEr4rLDhl5uTqkdq9n0dyZ5Jf71t5wMxzc75ZZJ7JEUxUFnyS-2BVWUcA0-2=
+B-2FrGmdvmIiwmy5mV6w7Cy6gGzbdDeRceytm359IaDE4UFYTkb6mGT62KEnXxbskX1Llmg3Qjl=
+xSbVqQ-2F6onog7uTizuRZQpNKWfaXojbpffC9QImzxU3bz2IYg0lstYA0ppdVz4tlMf-2F9HEx=
+1ESVaYoDR5QYa7nE4irk4DMw-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS9F4RyI=
+DNWOf9KM97ZVd1dF-2BiruAoRM9aeORICA8jFqFQy8jRmT-2ByQEtW7Blwwl5bclC-2FQRADRJB=
+wcgtYi9MwLoc-2BWkN0KTFFtPkVcYbaTDsrKLooVoMgDFY3z3Ur7MYWPuYWkS9Wx8TIBLCAcM2d=
+1A8kj3pS8RKNqHSMK5DLFJu_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6=
+jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLhlKB9gBeS2Xh0j64mzzrTVcNUTHmLBRuqkokf=
+GdRKjW2CVqQJI6ywk1NhwLIR09RKrIAIpp3HyAMR3ntoi4SpfsslSrMGfKETKke7qPzcRpRSaax=
+9yE9xKuTwXlv-2BIDSX2tk9EoG-2Bpaeb2xHi3fICLM2RcAXCyM1l7afcXij-2BUW0kbXvFkbvj=
+Mx5FJfDsNkZaORzQ76CB-2BiUVXrJc53EpqDnIfApm72IWCqKmu-2F8CYgVXeXKl3HqyQ10JxKq=
+AeRW9Hp9xjoLK-2F7kbE4vpQNUYAReqVI0TaR-2BoS99zc-2BS-2BWzW1D4d-2FPgWrp6YsJZuP=
+VSJIASB7CI7iJ3MhBtSMcyRnmiSn6ZQ7h53koyULBI1CfiDOp-2Ba-2BSBBFKKQwiFCoDCxg-3D=
+-3D
+=C2=A0
+Hey rresendez,
+=C2=A0
+Too busy to browse through thousands of services? No worries, help is on th=
+e way! All you need to do is post a request and we=E2=80=99ll handle the re=
+st. Get any digital service and be on your way! It=E2=80=99s that easy. Sim=
+ply:
+=C2=A0
+1. Ask for what you want done
+2. Set your delivery time, budget, etc.
+3. Receive offers from sellers in inbox
+=C2=A0
+That=E2=80=99s it!
+So, what are you waiting for?
+=C2=A0
+=C2=A0Post a Request=C2=A0
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS9F4RyI=
+DNWOf9KM97ZVd1dF-2BiruAoRM9aeORICA8jFqFQy8jRmT-2ByQEtW7Blwwl5bclC-2FQRADRJB=
+wcgtYi9MwLoc-2BWkN0KTFFtPkVcYbaTDsrKLooVoMgDFY3z3Ur7MYWPuYWkS9Wx8TIBLCAcM2d=
+1BVPk5kxwVk5u0BF6kQLpWG_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6=
+jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLpv623NVOhFsrI5Q7BDtUpBJ33KYe8j-2B82vR=
+mAX5zWgSPj1nTi50TtrnzaPvoMpEgB18grDnfo8mKBAsUua6eJNbTIwWbIshAtEhcdeWP7I0WsW=
+MWhEZlnPzSg5SfzK4TYwEnn9qTg1DwGXmmyUyD3cCM-2F3Cx6xPCsCtYyzY0zR64s3fh7zGHT32=
+WYx9DJJcv2GvSLEYKdDII4a3yim4y4-2BQ7WHT22OAsOLG1SOLJEZrNuPE4dk-2BuatdSBzhGbv=
+84oVCW3JW0BGy35gtHOSHK5yUnTK8vaaha3aKsokGg6E7ZDjtIBLUaEyueCT7mhvSqv4IHMhfa9=
+qmpUnPi-2FOXgLASvwat-2BngFRyXA3ZcyUR5LG4-2FwQ1-2BNcIYtozuGDi0yFw-3D-3D
+=C2=A0
+Good luck,
+The Fiverr Team
+=C2=A0
+=C2=A0
+All the Gigs you need, all in your pocket
+=C2=A0
+=C2=A0
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS5ID7ex=
+RzjRVtWj5KsOSUJZL2Vovq26Rhw1hUVNfjrJ20d1J3hpCShSl-2FkXu-2FStQAkNpRLGkTea-2B=
+vTM2BTG5XtDMND-2B8oFBsHJ6fzoxjZ6t-2B7COTuhdpeRz9P2Zl1HwN2i-2BwTmJVidZuf9khD=
+rllikI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFA=
+itbiXQPrExst3SeOpK7V8CkLkQl1M5U3cA4cJFnccan576Ux-2FbHgtG1ohhwMY4K3lGJ546Myx=
+ZM-2FKabNJxw0AbSVODRtacjKqg7JJMZ0DECJqJG6b1Ay7BSrRJMibr-2F7VXTBR6DHD0OwuWQx=
+y2A28nd5OBeb6YyeERDbiLsBIQCvrRfCoKpS-2BIGK6AVtXoQaTgvYRPPNKnobGuvop4RgMew0S=
+IdbX9NUhoXzoLUf-2BFXz-2BFcLsuof-2BPL1IOKJQdJ8yVM1VXircyK2WzNbpzVq2ZqjLWpr10=
+ChhqSFsK16od1wQ8BgJIIugqvQ2MOipBUdD-2Bwo6cbSDyqmvoAwSGOmw7NtDpMBGobZXJl68So=
+WKggQODrGWMXMmbMBr6XxULRXHHcUYllIglK9e9kTMSeuClzmw-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSwWEimV=
+azWZCp-2FmmhACxy-2BXefkt3zKM-2B1p-2FzQL8b0VJeE9012eQAppJaJqPz7kdY4t-2BFy1Yv=
+ERZ3GTXIF8FMwWK-2F1LYrHtJ2AwlKBvijqkt8OjEMvF-2BAyVKFmUY-2FGOckNkRixOWx2eIqs=
+zHCzhd6qZsF-2FCzDF28ap1g0rYnlQ4b8_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa3=
+51hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLixjo6CFMKh9cd1nJe51tQOVY8Nd=
+S0zWxE8D4gvvrrcMWoWqM5Ozz94UVq4wmEHtCzeBK1h2acRfrGuI6Nig5dVXrlMHfahqArl-2B7=
+JQ50OenqU3f4tgjw8l9NbJRCspua5yCose4oUx2JHVxuPo9nCSpb7gQIShP1Gb5gs20Cf0V4UUd=
+3VVsqH5mYfQurZ5oM-2F4WcXLZubaQyrGiQMxNINtCUXqQlZEj1hKzEtdZDmDFPGPTPijC2wNCO=
+Sd5Q4dydFP8lRF6-2Fg-2Bsn7dkIO1VzGShppDv8UVHFz5QZRTj11asn2GZd-2FUHxzpcWDPiZJ=
+w17dQ0VlgqrbZu2DWTwMKgyw-2F2vD-2BlIj-2FjnJ-2BIYPZW-2BqZ1LB3sY5-2BSxhAXIt5U7=
+brefg-3D-3D
+=C2=A0
+=C2=A0
+=C2=A0
+Love Fiverr? Connect with us!
+=C2=A0
+=C2=A0
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1-2FU6=
+V3T5Z8cl6sVd2LmyMRlVa8EowE7qZBmmk-2FJjrSn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1=
+b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLjEx4UsyYSpt4RGFVJXS=
+6XwubwQf3i2GLmpJw0-2FpWa3hH-2BIYwIQz9KnKJrGMJjYkgGTPlV-2B-2FhqrkNfb9jU6BQib=
+tBvhARBpv76ZiFPMLPBziy9tkZ-2BEIvkHxXtwG9VmNEDsrg2NVw-2Fva0b6TQHccInMq7NFahz=
+LGeH3666-2Ft0NLQhEQml1asYtDgwHMqoD2Qth0x-2F-2FH2yDjsRdst3nbgeAqo8Cen2taDfDy=
+Ovf9dHKFt5zODAusGf68AN9Smg4YwpLqnJGXOnXN5144fUbdrSnWvvHm82DfMVESBlOkmwdkIGM=
+95gqUYa-2F-2Ffhr6Ghv5Mu3GesuBfVee5gyMfBzj9i86t-2B5iWkKeYPoHue0-2B3wlt-2F8WD=
+BVu9ahOBjv0ZYPbIsFg-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS8gb0r6=
+oMlQ4a4WQVWZ3mDFz6eqHS5pHGr0B5T-2Fsl6cs_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-=
+2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLpghWJND9YSGQSxc3TYB52=
+ukIEeW6ZQf7160sQqzT-2BUAebtXL-2FRQnTdcy7adoVEVNb2qKhZYsVDrSmKSyPPZQQ6pgIs4o=
+7cwlLgCwwWDDubLMdglTMlf-2B5JTNq6kq8y9oJqU2clC-2BtCpdYQesCvWcsOjTVrYyLecBhhf=
+thJx-2BSPA-2ByRFCVE0qlLadk5mxA-2FgBmw-2BCAXMXNSuaBO0-2BrfMgcvUzhSe0Gmz-2F83=
+yKHj0bpJehTkBs0rF4-2FzKA1cgUoZixWVqWew-2F05fNnoiOEfcaTfML1xYlp5X8cijfvSoAOy=
+iVzqzdLRA8ht4y2fbPJ5lwHrObQG02b8XYmDPtgCum13VBySrIrVYHoB3m-2FO2YNBDThJBh83-=
+2BKXR1X1GcJavsVRw-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3Dn1w3wTUEUQaHcZWvzoqa8dHLRbH=
+tddtK6Qqo82Kc3knJQJsvIZ6kGSWPrx2bImHz_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2B=
+ZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLlJI-2FeB7u6U3kzv-2BaD2w=
+HF8hUGTROQ-2BAAXTxIDhrA26oxynbE-2FbxarqaxwYsQ-2FnOKL3Mp2W6M83Lv1ghUgnsizUW-=
+2Fd70L7u84PyXdldfGfYlMoIykZV-2B2Y2AV6K9ElKySR2RI3e-2BENlJIZJE5GHXXHd4jzVMaE=
+BR1HQgVf-2BKw3VpgLp4qA81fD1b2h7jQBk1uWNg4-2Fw-2FObtHzBVt089re6lPUQyda7oO2K7=
+WtddgK6yaUZREv3uqlYHpcZA0uMe9490LEHi47M26-2Fav3yUwKmPN-2BiA6rw-2BLq0UW1HZoP=
+JUoKEX6oqPo2eyqrwxCCWjsxOg8ftqUyB9ffNAccmAoOPxM4JSqj8lENn-2BHsdx0Z24AROiRf8=
+3Wea2SRfk4CJO-2Fxkw-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DTBWBtyiatXktgh-2BBJwulu4Dtp=
+FlaWTkoYwID-2Bb6ueenV26qXhkPRmS0EGY8Q0oTOrc9Og2TZf0Tu1aR9FU1U3Q-3D-3D_xb69N=
+2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3Se=
+OpK7V8CkLgBB6xP6Q9nnNc5EHxZVUnO9LNBf4GWroTt0vSoyyc1sMjJk3iBWVe8KLv-2FPXfeYB=
+aejeiJJBRBGbCcB5dtcBTDCT8VJ7IyCHQZYQwBIJs0ciT1Nhb4D7Axil6TKBdg8HA8OQerfy9ZO=
+0q87Udc9aSIuE08PGmeM5rR8NoszA5d4edkYkRAQFO8wEE8ss35IgL9yW8c-2FB5plw-2BY3hO4=
+GjgihmVC2D7ieh0l9XwqwlRLDqRjIxJCgLD-2F-2FRPITMR36SGIlNpOLBgDSqd9FujYadIE20Q=
+QRoJvpa-2F8Fci-2FAhNI0i6QA7S79gsFIjG2vdyj7eEJhaOMd93ncanbZue7PLiYxPVweBOwjE=
+i689eu1UMGvXE8ik1VQ7jWIVt8ZkdURyw-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3D88D1B49n1Re2vVY9pN-2BMuF473=
+oF1M2EI-2BWUAJgPDRIFxq68C3UGmZ6oVKF-2FQgENV_xb69N2IWj9cpa7VY1jz2n0Hql-2Btcg=
+Q1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLkQyTdW-2BsCGcLPv8=
+Ye8RrqiiOMQd2DiTOH7furonFgMmhO7c6Wg42-2BjepL7oi9K9LKinwhxreZBq4h66PNB7MjB94=
+jdSHNx-2Fy2ewy0PBqIxUCFPZHv8axval8Sk1peJdPEAFl-2BDxIwlfeDJ20EOgIaIpliUGBZ78=
+6wTmZi-2B5qhcLTzDMb87ye6VaoVrbnwLzJ4TcCJxQESSZMX1yuzNAw0mCiaiWqUuvbydqfLdjy=
+R67JpKpDO9XkgUFhekpoz02HVrQfhhLm-2BZHyB4cU49e3kaMVm1UPYnStRNuF-2BDTc-2Bp0LM=
+6LggEqFb4JfyxgT22F73Q7MLl7v-2BrDPxFAFyvHtLn7GTSF-2BCXBpo3bLgZip2cKYfpndsBXT=
+iwt-2FhbagWTiOw-3D-3D
+=C2=A0
+Privacy Policy
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9y=
+EDg8vfS7mL5C99TwpIda0PPIhZz9ceuy0iTOQO3_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-=
+2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLsB0rnHgiV3pyHdFK50S5a=
+hIgHLEtYzmMzEQ1pg-2BuN5B262g0AbWeNR-2FPU-2FFqnYI7zm2OfUnyAWT6IpLv3lQ1uULPjO=
+0rRoxFeJkRKFw0aSBEDuStiJAX6cIziNgqQHgCROXDBgonp3-2B1-2BsVa7xdkablyboZhCVzGS=
+o-2Bgye9-2FbaooMu7vuaaGJuCB31AZ5GWZn6q4mh8Y4VDHUUUhI9CL-2B2huGqtB1D-2FuqeoF=
+7tMlofzmrS7rTgCcqZUi1seAzEEgS6iwkfC5d9z4jxlNPm0yU4mtp9Y3xw3Gob7sFUofqmmD3XK=
+CHE64cdqrq0ON6ByC8JkhTbzAiCRu4v6C-2BGXr-2FDoiUZjXQL12jHncykeovw8pk1NKEJjR9A=
+159JGDNNucg-3D-3D
+|
+Support
+http://links.announce.fiverr.com/wf/click?upn=3DL8x0Hlj9fZFahi1BLwFf4owdnh2=
+yQHeQsaZAVAdkiCteNFfkwUmp2pPTqYNDBLYL_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2B=
+ZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLgpcgd5XL-2Bau0ILKjCuPv5=
+n9EDYgpkGY-2BLekO6fHsURKQ7Jm3SaSdzk6HgfFcjIMjRy5yOPUdHpLTf7FzPCcjZqUMs-2BNc=
+pgSBYLnHLW8ti4IHrJXX2B1pJYg63dPeaUgzGNYMBYD-2BQCwtJLLK1WsRhkGLhh6CcGELv6JnU=
+JX4saBBpROui4Wh9nrYMoy9PCqSBpGSxpwUmZQQtfjiL0VDivwGNXMAjaeNkO0m8XTuW8MAIc-2=
+F6-2Fzsqulj-2BOBkhFAYCl9kB67Gx3SImVqSqWFB1gYVev8RAcKFPrArtZ5HKDDgdAIY36y4GW=
+LLJJCgN97y655r1-2ByZFhGHLu1uup6Hi8lCPHDw6hvv-2BYOOVYwyejZMeSGG42NWrGLA0dDxt=
+Tqs1A-3D-3D
+=C2=A0|
+Invite a Friend
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS986sa2=
+x8IkEMpw1LI8M-2FSChot1r19se2btV3hyTCbyyCGow5-2F26L6nck3Q8zz-2BIQMv17fVQFwig=
+lq2Zd-2BbURREJ1fUxahg5M4zzGQBx-2BarT9JyiyeaXF32-2BGFzDH9suCg-3D-3D_xb69N2IW=
+j9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK=
+7V8CkLkuAkFxhbbiYairzpj-2FSRTlUrTUtiDIOwUNrbVng4tdtzHgr8K6Njr5-2BCG39ELeO5G=
+JAV-2B-2FtzLn7uulAR1hnX6yQMj6WOajhKxI7VxY3-2FoltROkwEXHlMo9mTw6oAF4BTdOSuhI=
+12LgjBcb73-2FkpD37cMLehD-2F2ODppJLrwo5g9Bo2b3HWNui9-2Fm2yeJ3ngrg2-2BWoyvO9B=
+03Hudqzvyvqaq2Omvvkxpw3fIE-2B4lBUx64bChDX36v0ulvl9GN53A7EaoiFymzxZHcdDlK39T=
+mKG29uq0Tdcqv7Qtv26lvwNn3oVFKniTZVtsJ4dZdgW3fhKR-2Bi8OXifaRlJhgIQRbWfg-2Fw9=
+9s7ycAbne24EEhui3AYLqntxC0o1E0zzPKwru-2FTw-3D-3D
+This email was sent to you by Fiverr, Inc. You are receiving this email bec=
+ause you signed up for Fiverr.=C2=A0
+If you wish to unsubscribe from all future emails, please click
+here
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSz8lBS5=
+pwGGUsJ40-2BmQtIVU0d6Z3tyYvR6UsjwqN-2BJrdEvY-2BwUJjGPRphpv32IRrYV55wrsAHz-2=
+Bron2d-2B-2FlE3CUCLx-2BC9iT6dn-2BT-2FSHiARvGURvtqYm3h6u-2BtUj-2FR7YP07YjsVQ=
+CVKZnTvbbpc7Tq7DUfIhudoCL0hRyoyrmxBUlBOPFnCLOAKW-2FthkKXPH92b8fz4Mb8hyXBaLE=
+o3HlNLs-2BOgNxGv8zGf0yLi8PT31lXsXLPRg7iqVqIHdCQnglan2LaBZmQp1-2FVCiSUpwj31x=
+7UwAPLTUDvFev54ouCEo-2B_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6=
+jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLgqE1j3E4tc0YebeyflVWAxnuUIIiB5GxW2fQz=
+Xn2wVDhCZcBksbZLaVBILUcl9FHqJVZwtOIT-2F2pGapqcOF3EMhjqrDBGLjV6-2FjIGXhHJyQ8=
+9qQcZpK3mRw2GisL87WDKBQOqovLFz6h4bevWhEhsfH6qMKZpRk-2B5J2pY-2FkMEG1-2FKjbFu=
+hk-2BraFccNhe2OO-2Bj5jKzDiM9zz-2FgPNYsSIPuI7LaxkHEk8Wr39FnMaPbQhBq-2FDODit3=
+Gz4tzprLj-2BhWZf8m7fxm-2BnUoWG-2BZiwjvTTg-2BKMrYY6fL28d4uk2TYsJbWTOxLuLh7eE=
+2s4PU3mqg42TsC-2F37DtUkuXFc0JHQtdOCh8dRG6fSj5rTPM7u9Oqi1bg6buXdeTaQcfOVDXy2=
+Q-3D-3D
+Fiverr, Inc. | 401 Broadway, Suite 1600 | New York, NY 10013, USA
+=C2=A0=
+
+--3e8ae099a9a81c3dd6f4b21af5ce92a905c16fc03c5a237d109598de5cb0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+	<title>SL HERE</title>
+=09
+</head>
+<body leftmargin=3D"0" marginheight=3D"0" marginwidth=3D"0" style=3D"-webki=
+t-font-smoothing: antialiased; background: #1f1f1f; font-family: 'Helvetica=
+ Light', 'Helvetica', Arial,; margin: 0; padding: 0; width: 100%" topmargin=
+=3D"0" bgcolor=3D"#1f1f1f"><style type=3D"text/css">
+.ReadMsgBody {
+width: 100%; background-color: #ffffff;
+}
+.ExternalClass {
+width: 100%; background-color: #ffffff;
+}
+body {
+width: 100%; background-color: #1f1f1f; margin: 0; padding: 0; -webkit-font=
+-smoothing: antialiased; font-family: Helvetica Light, Helvetica, Arial, sa=
+ns-serif;
+}
+@media only screen and (min-width: 640px) {
+  body .gigImage {
+    min-height: 119px !important; max-height: 119px !important;
+  }
+}
+@media only screen and (max-width: 640px) {
+  body {
+    background-color: #ffffff !important;
+  }
+  body .deviceWidth {
+    width: 440px !important; padding: 0;
+  }
+  body .center {
+    text-align: center !important;
+  }
+  body .gigImage {
+    min-height: 78px !important; max-height: 78px !important;
+  }
+}
+@media only screen and (min-width:480px) and (max-width: 639px) {
+  body {
+    background-color: #ffffff !important;
+  }
+  body .gigPadding {
+    display: none !important;
+  }
+  body .imagePadding {
+    padding: 0 0 0 0 !important;
+  }
+  body .gigImage {
+    min-height: none !important; max-height: none !important;
+  }
+}
+@media only screen and (max-width: 479px) {
+  body {
+    background-color: #ffffff !important;
+  }
+  body .deviceWidth {
+    width: 280px !important; padding: 0;
+  }
+  body .center {
+    text-align: center !important;
+  }
+  body .gigPadding {
+    display: none !important;
+  }
+  body .imagePadding {
+    padding: 0 0 0 0 !important;
+  }
+  body .gigImage {
+    min-height: none !important; max-height: none !important;
+  }
+}
+</style>
+<!-- Wrapper -->
+<div style=3D"background: #1f1f1f; width: 100%">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"background: #eeeeee; border-collapse: collapse" width=3D"100%" bgcol=
+or=3D"#eeeeee">
+	<tbody>
+		<tr>
+			<td>
+<!-- Start Header-->
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"deviceWidth" style=3D"background: #1f1f1f; border-collapse: colla=
+pse" width=3D"650" bgcolor=3D"#1f1f1f">
+				<tbody>
+					<tr>
+<!-- LOGO -->
+						<td style=3D"background: #1f1f1f; padding: 10px 20px; width: 100%" wi=
+dth=3D"100%" bgcolor=3D"#1f1f1f"><a href=3D"http://links.announce.fiverr.co=
+m/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6boETrpX6G-2FEbYtiDHT60hwIShC4wkPb=
+mc6O6ON4mGznWyXMMAALyGttiNKyEDuKi-2BoaPcLvw66PcDixrFCiZmdzKW-2FV1foF6RAXOJy=
+Y6WZGRJmJyXS4HMov5PEFdQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+Ytmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLoP-2Ft-2FsVrrr6CHGt4CQPUheHGlC0=
+bmqKeNtiP6SOGV4a5E29zT0R4JGGW-2B5iN3aWcYX-2B3RzoQMoHKGGZum9gONMzZWAisHnv21G=
+76a2VC9g-2Fw0VVl3HTcq1inxOnFZSTp-2BVctokn4cvAuHjq66cx2n0FEpDA27md8jLVKhLMCH=
+MpQ6kVQ4ChsJvocL1sZPzIYNoDjOWPVlDZQuBJvM5BVK5z-2F6KA7BBTaKjuDgAoDRVSEan9GJv=
+MY-2BgdeCZI5U1sYVkUXEXh3TLfTNf15ytNFplJOzRgRXd6Db4Tj4EME8r-2BPbv24Xy5y630IT=
+VAyN9zEIOBu8NZcPnu0zLld9ldsMlnYzg-2FrNO3cv3knSw8CXtMhcg14mNCuWoiAAjiMHHdSg-=
+3D-3D"><img align=3D"left" alt=3D"" border=3D"0" src=3D"https://d7l5bbi2x5x=
+o4.cloudfront.net/cloud_files/1303/original/logo-dark.jpg?1416241690" /></a=
+></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Header -->
+</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<table align=3D"center" bgcolor=3D"eeeeee" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse">
+	<tbody>
+		<tr>
+			<td bgcolor=3D"#eeeeee" valign=3D"top" width=3D"100%">
+<!-- MAIN IMAGE -->
+			<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"border-collapse: collap=
+se; margin: 0 auto" width=3D"650">
+<!-- IMAGE -->
+				<tbody>
+					<tr>
+						<td bgcolor=3D"#ffffff" style=3D"padding: 0" valign=3D"top"><a href=
+=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS9F=
+4RyIDNWOf9KM97ZVd1dF-2BiruAoRM9aeORICA8jFqFQy8jRmT-2ByQEtW7Blwwl5bclC-2FQRA=
+DRJBwcgtYi9MwLoc-2BWkN0KTFFtPkVcYbaTDsrKLooVoMgDFY3z3Ur7MYWPuYWkS9Wx8TIBLCA=
+cM2d1A8kj3pS8RKNqHSMK5DLFJu_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYt=
+mou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLsCLhnDDYqiViRWpgV0R4QfGqQsRT62Uew=
+kJ6pR1ooSyrdPsUarFQKpk4TW2GEgj-2FFARqLdyjRLqeL3SF5j834rIAQu7S8N4ZbrpGc8UMX5=
+BM-2Bpv4BOa3OuM6TA7CIPdrm03vlD1dGPdUrxJO1yeYQzxfvkwgLmx3horLXEkKx4RrFVWSRtA=
+Q27J38Ty-2F4-2BDMru3SfFueMGQPMcl9F2X6OhbnDUtabBCuPJBO653ak-2B2xs67gftXgIKUx=
+CDJ4-2B3MQVzHPfZKVLS6ZaPoO-2F1llepk0om-2FKlKBPd5l4jEJzxO3X9Xp2CZtTVK5F7VDEM=
+fJErD91nWsUzC3jRpyPJUj6-2BvIKr6S64QbeBemM8dpUPRPnhCYGSysLtt93RVF0ZbVcA-3D-3=
+D"><img alt=3D"" border=3D"0" class=3D"deviceWidth" src=3D"https://gallery.=
+mailchimp.com/e271c966703e72a2f760a2499/images/899c2f3e-f2e1-4b6a-a7ee-f8fe=
+4d97b87b.gif" style=3D"display: block" width=3D"650" /></a></td>
+					</tr>
+					<!-- WHITE SPACING -->
+					<tr>
+						<td bgcolor=3D"#ffffff" height=3D"20" valign=3D"top" width=3D"650">=
+=C2=A0</td>
+					</tr>
+					<!-- Introduction -->
+					<tr>
+						<td bgcolor=3D"#ffffff" class=3D"devicewidth" style=3D"color: #000000=
+; font-family: 'Helvetica Light', 'Helvetica', Arial, sans-serif; font-size=
+: 24px; font-weight: normal; line-height: 32px; text-align: center; vertica=
+l-align: top" width=3D"650" align=3D"center" valign=3D"top"><b>Hey rresende=
+z,</b></td>
+					</tr>
+					<!-- SPACER -->
+					<tr>
+						<td align=3D"center" bgcolor=3D"#ffffff" height=3D"5" valign=3D"top">=
+=C2=A0</td>
+					</tr>
+					<!-- SubHeader -->
+					<tr>
+						<td bgcolor=3D"#ffffff" style=3D"color: #35343a; font-family: Arial, =
+Helvetica, sans-serif; font-size: 16px; line-height: 22px; padding: 0px 30p=
+x; text-align: center" width=3D"580" align=3D"center">Too busy to browse th=
+rough thousands of services? No worries, help is on the way! All you need t=
+o do is post a request and we=E2=80=99ll handle the rest. Get any digital s=
+ervice and be on your way! It=E2=80=99s that easy. Simply:</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- White devider -->
+
+			<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"border-collapse: collap=
+se; margin: 0 auto">
+				<tbody>
+					<tr>
+						<td align=3D"center" bgcolor=3D"#ffffff" height=3D"30" valign=3D"top"=
+ width=3D"650">=C2=A0</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- ROW OF ICONS -->
+
+			<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"border-collapse: collap=
+se; margin: 0 auto" width=3D"650">
+				<tbody>
+					<tr>
+						<td class=3D"three-column" style=3D"font-size: 0; padding-bottom: 10p=
+x; padding-top: 10px; text-align: center" align=3D"center">
+<!-- ICON # 1 -->
+						<div class=3D"column" style=3D"display: inline-block; max-width: 200p=
+x; vertical-align: top; width: 100%">
+						<table width=3D"100%" style=3D"border-collapse: collapse">
+							<tbody>
+								<tr>
+									<td class=3D"inner">
+									<table class=3D"contents" style=3D"border-collapse: collapse; font=
+-size: 14px; text-align: center">
+										<tbody>
+											<tr>
+												<td><img alt=3D"" src=3D"https://gallery.mailchimp.com/e271c966=
+703e72a2f760a2499/images/063a363c-38bc-4bde-92ad-54c2aa5da626.png" width=3D=
+"180" style=3D"height: auto; max-width: 180px; width: 100%" /></td>
+											</tr>
+											<tr>
+												<td style=3D"color: #35343a; font-family: Arial, Helvetica, san=
+s-serif; font-size: 16px; font-weight: normal; line-height: 24px; padding: =
+10px 10%; text-align: center; vertical-align: top" align=3D"center" valign=
+=3D"top">1. Ask for what you want done</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!-- ICON # 2 -->
+
+						<div class=3D"column" style=3D"display: inline-block; max-width: 200p=
+x; vertical-align: top; width: 100%">
+						<table width=3D"100%" style=3D"border-collapse: collapse">
+							<tbody>
+								<tr>
+									<td class=3D"inner">
+									<table class=3D"contents" style=3D"border-collapse: collapse; font=
+-size: 14px; text-align: center">
+										<tbody>
+											<tr>
+												<td><img alt=3D"" src=3D"https://gallery.mailchimp.com/e271c966=
+703e72a2f760a2499/images/91610bc2-8fba-4d00-a39d-4b028e70fa7c.png" width=3D=
+"180" style=3D"height: auto; max-width: 180px; width: 100%" /></td>
+											</tr>
+											<tr>
+												<td style=3D"color: #35343a; font-family: Arial, Helvetica, san=
+s-serif; font-size: 16px; font-weight: normal; line-height: 24px; padding: =
+10px 10%; text-align: center; vertical-align: top" align=3D"center" valign=
+=3D"top">2. Set your delivery time, budget, etc.</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						<!-- ICON # 3 -->
+
+						<div class=3D"column" style=3D"display: inline-block; max-width: 200p=
+x; vertical-align: top; width: 100%">
+						<table width=3D"100%" style=3D"border-collapse: collapse">
+							<tbody>
+								<tr>
+									<td class=3D"inner">
+									<table class=3D"contents" style=3D"border-collapse: collapse; font=
+-size: 14px; text-align: center">
+										<tbody>
+											<tr>
+												<td><img alt=3D"" src=3D"https://gallery.mailchimp.com/e271c966=
+703e72a2f760a2499/images/1a25bd19-4e71-4eb3-ba14-3cd32481bebc.png" width=3D=
+"180" style=3D"height: auto; max-width: 180px; width: 100%" /></td>
+											</tr>
+											<tr>
+												<td style=3D"color: #35343a; font-family: Arial, Helvetica, san=
+s-serif; font-size: 16px; font-weight: normal; line-height: 24px; padding: =
+10px 10%; text-align: center; vertical-align: top" align=3D"center" valign=
+=3D"top">3. Receive offers from sellers in inbox</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- CATEGORY SECTION TITLE -->
+
+			<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"border-collapse: collap=
+se; margin: 0 auto" width=3D"650">
+<!-- Spacer -->
+				<tbody>
+					<tr>
+						<td align=3D"center" bgcolor=3D"#ffffff" height=3D"30" valign=3D"top"=
+ width=3D"650">=C2=A0</td>
+					</tr>
+					<!-- SubHeader -->
+					<tr>
+						<td bgcolor=3D"#ffffff" style=3D"color: #35343a; font-family: Arial, =
+Helvetica, sans-serif; font-size: 16px; line-height: 20px; padding: 0px 30p=
+x; text-align: center" width=3D"580" align=3D"center">That=E2=80=99s it!<br=
+ />
+						So, what are you waiting for?</td>
+					</tr>
+					<!-- Spacer -->
+					<tr>
+						<td align=3D"center" bgcolor=3D"#ffffff" height=3D"30" valign=3D"top"=
+ width=3D"650">=C2=A0</td>
+					</tr>
+					<!-- CTA -->
+					<tr>
+						<td align=3D"center" bgcolor=3D"#ffffff" width=3D"650">
+						<table cellpadding=3D"0" cellspacing=3D"0" height=3D"25" width=3D"250=
+" style=3D"border-collapse: collapse">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#1ab037" height=3D"43" style=3D"-m=
+oz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px"><a h=
+ref=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqIL=
+S9F4RyIDNWOf9KM97ZVd1dF-2BiruAoRM9aeORICA8jFqFQy8jRmT-2ByQEtW7Blwwl5bclC-2F=
+QRADRJBwcgtYi9MwLoc-2BWkN0KTFFtPkVcYbaTDsrKLooVoMgDFY3z3Ur7MYWPuYWkS9Wx8TIB=
+LCAcM2d1BVPk5kxwVk5u0BF6kQLpWG_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351h=
+vYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLreXIwKWlHPDU7-2B6bGXQdXXeQe3Da=
+bUHsPTRv628m-2FxxCUE7f8AvgeEuM1xdbvpj7wk-2BbU4yU9xCPIX1puXWHGMUIS2T4uzUxMP8=
+eHmq5QT4ynyvE9xIAQWruunFMmJCXlpUFn-2FGaOw2RBrm1LAQxkUpVCLB6u5iPdUwse79iJ-2B=
+Z-2FV-2BgtpoH5BO3-2F-2FCWALe9xzQoNALfv-2F9AwJu3j-2BU3jgVnKHNfBoYqpGOMp5T9KK=
+H7eOQBlpEokfmGDIfN5-2BtLxXUQP8OggQGTJKnC6J5UblNIxOzQwC-2BZ9ShjEj2PnFbtEvH2T=
+XSYpvOjjWjtOrXxclRu9FhFA6Y-2BB72uj2rjd7t75WKp8zrRPPuN-2F08d6Nd7F6DBXauhX30-=
+2Bq9gkubm6Fg-3D-3D" name=3D"CTA" style=3D"color: #ffffff; display: inline-b=
+lock; font-family: helvetica,Arial; font-size: 18px; font-weight: bold; lin=
+e-height: 38px; text-align: center; text-decoration: none; width: 250px" ta=
+rget=3D"_blank" id=3D"CTA">=C2=A0Post a Request=C2=A0</a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<!-- Spacer -->
+					<tr>
+						<td align=3D"center" bgcolor=3D"#ffffff" height=3D"30" valign=3D"top"=
+ width=3D"650">=C2=A0</td>
+					</tr>
+					<!-- SUB LIST TEXT -->
+					<tr>
+						<td bgcolor=3D"#ffffff" style=3D"color: #35343a; font-family: Arial, =
+Helvetica, sans-serif; font-size: 16px; line-height: 22px; padding: 0px 30p=
+x; text-align: center" width=3D"580" align=3D"center">Good luck,<br />
+						<b>The Fiverr Team</b>
+</td>
+					</tr>
+					<!-- Spacer -->
+					<tr>
+						<td align=3D"center" bgcolor=3D"#ffffff" height=3D"30" valign=3D"top"=
+ width=3D"650">=C2=A0</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- APP BUTTONS-->
+
+			<table align=3D"center" bgcolor=3D"#313131" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"border-collapse: collap=
+se; margin: 0 auto" width=3D"650">
+				<tbody>
+					<tr>
+						<td style=3D"padding: 0px 0px 7px">
+						<table align=3D"middle" bgcolor=3D"#313131" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"background: #313131=
+; border-collapse: collapse" width=3D"100%">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#313131" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"20">=C2=A0</td>
+									<td align=3D"center" style=3D"background: #313131; color: #fff; fo=
+nt-family: Helvetica Light', 'Helvetica', Arial, sans-serif; font-size: 16p=
+x; padding: 10px 0:; text-align: center; text-decoration: none" bgcolor=3D"=
+#313131">
+									<div style=3D"color: #ffffff; font-size: 20px; margin: auto; paddi=
+ng-top: 10px">All the Gigs you need, all in your pocket</div>
+									</td>
+									<td bgcolor=3D"#313131" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"20">=C2=A0</td>
+								</tr>
+								<tr>
+									<td bgcolor=3D"#313131" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"10%">=C2=A0</td>
+									<td align=3D"left" class=3D"center" style=3D"padding: 10px" valign=
+=3D"top" width=3D"80%">
+									<p style=3D"margin: 0; mso-table-lspace: 0; mso-table-rspace: 0; t=
+ext-align: center" align=3D"center"><a href=3D"http://links.announce.fiverr=
+.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS5ID7exRzjRVtWj5KsOSUJZL2Vovq26Rhw1=
+hUVNfjrJ20d1J3hpCShSl-2FkXu-2FStQAkNpRLGkTea-2BvTM2BTG5XtDMND-2B8oFBsHJ6fzo=
+xjZ6t-2B7COTuhdpeRz9P2Zl1HwN2i-2BwTmJVidZuf9khDrllikI-3D_xb69N2IWj9cpa7VY1j=
+z2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLmIvA=
+lX1ohFdGrb6SEapx-2Ff1-2Byan6khMgV1LXfoYxDA7LgpNpNlYV3NKIqBzFZIlcZv-2Flk-2BV=
+M8iwZihEVWcMqt6WshXyTQv7-2FoCau8l9n-2BJDLFSDeETrowIXKcYyINmmzBqEYvJ3LwwSnQR=
+-2Byc3zqPfsyXumaRNSkULmHvlbw8W5UhXOUKHsSbO3cFnv7rHmzbwZ4WeVCvzo8zeDUPuwd-2B=
+-2Bixx3u0BkQ8N-2FO-2BKaclI-2FqBdQd4Ig6f4ksH8bqGi5PhVA6UJG3c-2B-2FHeJDLujiUd=
+fC5nCmYmZYUvBnsy0kHYc5i6rIDM6x91pxb-2FVnvicZNSDtx7EiWjzAVLcFyTHtRR0BBUJPwQp=
+kIzALAQhhCcog4DZUyyHX5VOKPwoL-2FzvpEAg-3D-3D" style=3D"color: #313131; text=
+-decoration: none"><img align=3D"middle" border=3D"0" src=3D"https://d7l5bb=
+i2x5xo4.cloudfront.net/cloud_files/1293/original/appstorebig.png?1416241389=
+" style=3D"margin: 5px; max-width: 203px; width: 100%" width=3D"203" /></a>=
+<a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1H=
+CqILSwWEimVazWZCp-2FmmhACxy-2BXefkt3zKM-2B1p-2FzQL8b0VJeE9012eQAppJaJqPz7kd=
+Y4t-2BFy1YvERZ3GTXIF8FMwWK-2F1LYrHtJ2AwlKBvijqkt8OjEMvF-2BAyVKFmUY-2FGOckNk=
+RixOWx2eIqszHCzhd6qZsF-2FCzDF28ap1g0rYnlQ4b8_xb69N2IWj9cpa7VY1jz2n0Hql-2Btc=
+gQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLt1r3fEOc9AemMa3K=
+slBv9Gu-2F1TPU6os-2F-2BD589YYupfrDxBUdGrSN1Fu9g07Ok8JUuuP8EnPEOXZS-2F2WcMVZ=
+yUQq9X8nlWbufropX5RvTwczG9NJy4IjZErPsWVX8Aof-2FdKydeuA-2Bwii0KicDyRFXVQU6pH=
+f5oKkuJ2YyyeogZkTm5vguYyMB6BxyTOILVqWZdHJS2-2B4k0VtuSEraMDCDtXbmmmTADG1EQ5Y=
+Uq0vGsd2wZUBG80klWITRbqOdv8r5ANFJhCmeQn9zTdjbMWRUdv3IsFfCDrHQK-2F6e2NfOB6bK=
+E8hyCMpZh0Ei0xSudx4G7SGhn8DlFkMKUTMxkNCl-2Bab6mmg6SC1VZC1bWnZOFAq3hGsIBZ4Y6=
+UGEz414OFqIw-3D-3D" style=3D"color: #313131"><img align=3D"middle" border=
+=3D"0" src=3D"https://d7l5bbi2x5xo4.cloudfront.net/cloud_files/1294/origina=
+l/gplaybig.png?1416241429" style=3D"margin: 5px; max-width: 203px; width: 1=
+00%" width=3D"203" /></a></p>
+									</td>
+									<td bgcolor=3D"#313131" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"10%">=C2=A0</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- SOCIAL BUTTONS -->
+
+			<div class=3D"deviceWidth" style=3D"background: #1f1f1f; margin: 0 auto;=
+ width: 650px">
+			<div style=3D"background: #1f1f1f; width: 100%">=C2=A0</div>
+
+			<table align=3D"center" bgcolor=3D"#1f1f1f" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"border-collapse: collap=
+se; margin: 0 auto" width=3D"650">
+				<tbody>
+					<tr>
+						<td style=3D"padding: 10px 0px 15px">
+						<table align=3D"middle" bgcolor=3D"#1f1f1f" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"deviceWidth" style=3D"background: #1f1f1f=
+; border-collapse: collapse" width=3D"100%">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#1f1f1f" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"20">=C2=A0</td>
+									<td align=3D"center" style=3D"background: #1f1f1f; color: #fff; fo=
+nt-family: Helvetica Light', 'Helvetica', Arial, sans-serif; padding: 10px =
+0:; text-align: center; text-decoration: none" bgcolor=3D"#1f1f1f">
+									<div style=3D"color: #ffffff; font-size: 20px; margin: auto; paddi=
+ng-top: 10px">Love Fiverr? Connect with us!</div>
+									</td>
+									<td bgcolor=3D"#1f1f1f" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"20">=C2=A0</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table align=3D"center" bgcolor=3D"#1f1f1f" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"center deviceWidth" style=3D"background: =
+#1f1f1f; border-collapse: collapse" width=3D"100%">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#1f1f1f" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"20">=C2=A0</td>
+									<td align=3D"center" class=3D"center" style=3D"background: #1f1f1f=
+; padding: 10px; text-align: center" bgcolor=3D"#1f1f1f">
+<a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1H=
+CqILS1-2FU6V3T5Z8cl6sVd2LmyMRlVa8EowE7qZBmmk-2FJjrSn_xb69N2IWj9cpa7VY1jz2n0=
+Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLh3pJoonY=
+iAHorUGW2kZaD1phH-2B-2B-2BDGpeEQ8DXe55n-2BoNb7YZbhql5SBOA5sNypGf0woTFaU1TgO=
+4E9JhTEZbB03mUR2q0wy5KIwQCqUsJR1ebGMFRfoDVeZ6-2FcXc4rXZ7QHZxWIzcREk51DygU56=
+oSU16PTAMV5O4uPyQcgcDq3FnI6HtmfcOXyZEWoD8erGDZa3-2FLaCtp7lY9VlNuY0uaIZ39R5n=
+1E3OMJdVS2FlDvjbWJ73MIrHKzv-2BOTmRqq1-2FMAZvGL-2BC8Q7qbkU-2Bct1jMle-2FRUkXH=
+9JWlWOEqf91NgOXmFo-2BUQ-2BWnnmkgTAU0Z7RvWxunv0-2FMaBvWn3n96y-2FV60q3P2GstK8=
+TIibzUOcaFytNo1HjeHIYOB159uSd-2BSw-3D-3D" style=3D"display: inline-block; m=
+argin: 2px"><img border=3D"0" height=3D"30" src=3D"https://d7l5bbi2x5xo4.cl=
+oudfront.net/cloud_files/1177/original/Twitter.png?1410867398" width=3D"30"=
+ /></a> <a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQA=
+bXkfrE1HCqILS8gb0r6oMlQ4a4WQVWZ3mDFz6eqHS5pHGr0B5T-2Fsl6cs_xb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLqW=
+Xvy6ro9PreIDbIV3Vk3felL290J4SMx3WghVlSgk7xowJ6lYpidWzOTl0ipvqzCAw65dFnNhkee=
+jxGTFJVaeTldXEGUAfO8OogibwijNvZUGyXWdfSiU9y49x1YlgCr-2B7xwtcilD-2Frdb2BeO5e=
+0nCh41jMu4ufQsPctA82VQKTUQ6xOoHMuUXqQMIqeJ-2B-2BHLN-2BlGSXAgZczer-2BjzllKEW=
+VwWuXtr8uBkoZF-2F6TRjUkCuGvLQHtVbX-2FkPZ4-2FPRc9sNx-2B1sbHzFi5pnHJpu-2FcxHi=
+r-2BiPBCT0E9dpFORMeKwqBESqgvDMAX13UhWwICdqu0r85JLA43A2BHg8sZLc5Uh0qIgTtsONq=
+VWl8iYjO9FgMuiTdUrsElpNfU24A-2FXRw-3D-3D" style=3D"display: inline-block; m=
+argin: 2px"> <img border=3D"0" height=3D"30" src=3D"https://d7l5bbi2x5xo4.c=
+loudfront.net/cloud_files/1178/original/Facebook.png?1410867447" width=3D"3=
+0" /></a> <a href=3D"http://links.announce.fiverr.com/wf/click?upn=3Dn1w3wT=
+UEUQaHcZWvzoqa8dHLRbHtddtK6Qqo82Kc3knJQJsvIZ6kGSWPrx2bImHz_xb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLq-=
+2BNcUd33wB1lYKNd3lzRjdB8UGbrkZX9BS218owY1r4t7-2BWs3PBJRzUH9uih6foHEOyzvtJpX=
+ivqhiIJvpPrvXjQj4lwH2-2BGRQ1sDkGuA9CBgzqUgnVej630MEGFO1Saw9A-2FhlvOiOW3ry4c=
+zoxor9Mudb3Df5Piznp1VhRRlv7vEYOVzylgKySDLL11NK1x5IXiWsrAF-2FvcEHmoJNg52WiKB=
+T-2Fr9adKyyUfn9sLNKLOwdtvjtT9ozOmJfYL-2Bl3A7p8Gzs2BEK0JUvGwsYTSbCYa9hQI6k6T=
+Owvv8hY7KN-2F9A2yDR27QGtOh76SU1BTV8linXbAxYebN0cbWUqRIL2bH3jTciJRUUVwR7n5F0=
+iXr297vzZxEdDxlsnlrTnoCg-3D-3D" style=3D"display: inline-block; margin: 2px=
+"> <img border=3D"0" height=3D"30" src=3D"https://d7l5bbi2x5xo4.cloudfront.=
+net/cloud_files/1179/original/pinterest.png?1410867485" width=3D"30" /></a>=
+ <a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DTBWBtyiatXktgh-=
+2BBJwulu4DtpFlaWTkoYwID-2Bb6ueenV26qXhkPRmS0EGY8Q0oTOrc9Og2TZf0Tu1aR9FU1U3Q=
+-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitb=
+iXQPrExst3SeOpK7V8CkLvCPy1dFtdftXK6WuqC5GB2sp5UFkamrjss-2BhvTgBEVe4lJFACy8i=
+Mq2bsxS0XTqAQEUsYovZe1Xi69WPIa8KrNsSoBnMzsuN-2BgIshsK0c6XITy7pE6DXlapereEo6=
+axmh8-2BEiWkzkpvVdj-2FT4d0slNKy5eMiGHoEdpWJB5ZvVMpN4xzuHoLJoYOYZCtIoiNb9z5Q=
+9DXzjjcH1xUvaZDHNpXZ1Gz3BatGm5guZ73rkQTN1uS683dxp1cRBdgjolj88IXR-2B5cA9NfO1=
+iuRMhx0K5J4bTW4NOVogNp1aTbto-2F-2B8YUwoh8WsmBAqAU0MXAknaWPH0yWLPFLwQTnx3rmb=
+KVrSDxeC4b-2BZrme3AHHU3L-2B1EJd6XG-2F4dQRl-2BjGMgfJhA-3D-3D" style=3D"displ=
+ay: inline-block; margin: 2px"> <img border=3D"0" height=3D"30" src=3D"http=
+s://d7l5bbi2x5xo4.cloudfront.net/cloud_files/1180/original/in.png?141086752=
+3" width=3D"30" /></a> <a href=3D"http://links.announce.fiverr.com/wf/click=
+?upn=3D88D1B49n1Re2vVY9pN-2BMuF473oF1M2EI-2BWUAJgPDRIFxq68C3UGmZ6oVKF-2FQgE=
+NV_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQP=
+rExst3SeOpK7V8CkLjXjsEb0j8A7x0Pq-2B3TkXWGIFbUNV8U3-2BONNJdXo8EQdvCOM-2BsOrk=
+COFMPyEb6mWsjUDLqrh8009je6QXFJD7BeG8FsDBfxsJ-2FtQc2AWpbEuw-2Bg7fdD8p51FojKh=
+g5r-2By1SvsBl7AI5hezJlzboAzGahnOHBv84sWSYuLwI-2Ba5ehHmUC6dp7j5G6DafDUDkXaGc=
+fEu-2B7q0WcEb2i8AJxoOUhReiPzmz1CKEQe-2B70t3xEmpO21L-2BvZcGNJq6Nbwk9LOeHs-2F=
+5gnHMCMy22lNcmzT0XlUGbo6AejbIbWqZOUBJ0j0JDRX08Oqvzgvjmd7pnE4k592cz3aH15m5ld=
+3x69UVUMN-2Fxv2e0AV2iU70mx3Ds8JBdqIHfRcItHzyFXT-2FCfg-3D-3D" style=3D"displ=
+ay: inline-block; margin: 2px"> <img border=3D"0" height=3D"30" src=3D"http=
+s://d7l5bbi2x5xo4.cloudfront.net/cloud_files/1181/original/Instagram.png?14=
+10867566" width=3D"30" /></a>
+</td>
+									<td bgcolor=3D"#1f1f1f" style=3D"font-size: 1px; line-height: 1px"=
+ width=3D"20">=C2=A0</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			<!-- FOOTER TEXT AREA -->
+
+			<table align=3D"center" bgcolor=3D"#eeeeee" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse">
+				<tbody>
+					<tr>
+						<td>
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"deviceWidth" style=3D"border-collapse: collapse; margin: 0 aut=
+o" width=3D"650">
+							<tbody>
+								<tr>
+									<td>
+									<p style=3D"color: #818181; font-family: 'Helvetica Light', 'Helve=
+tica', Arial, sans-serif; font-size: 12px; line-height: 1.5; padding-top: 5=
+px; text-align: center" align=3D"center">
+</p><table style=3D"border-collapse: collapse; text-align: center; width: 1=
+00%">
+	<tbody>
+		<tr>
+			<td style=3D"color: #535353; font-size: 10px; line-height: 16px; padding=
+-bottom: 20px; text-align: center" align=3D"center"><span style=3D"font-siz=
+e: 12px"><span style=3D"font-family: arial,helvetica neue,helvetica,sans-se=
+rif"><a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXk=
+frE1HCqILS-2Be9yEDg8vfS7mL5C99TwpIda0PPIhZz9ceuy0iTOQO3_xb69N2IWj9cpa7VY1jz=
+2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLmiwU-=
+2FSriut4u-2BZ8EPO2fkXqYBaCnC-2BIz-2FMYnjZjoTlDI4WzDHus5tlHFf-2F81-2FtIoWGrG=
+tT4LNTAdNqMCMLD98N1EuFKmP-2BjGRf8kwi0LIpuMj95YgUBpkaiqtAp61AKMrCL0N6ZYd2veh=
+pEk2gY-2FJJ4fUypZLttDnZf2-2F18PntIFtglp3VmGbiYtMM9JCkKf2xY-2B1HN8t4Y92Qen68=
+CCFXEOBnIFiJVbMtNe8wMKCVW-2FoQUz0wquKUn6j7eoJZ-2FYafkBcCMunNrVLVFIQ-2FhvfqQ=
+UTtIpSJQ2J49WWt0GIbFYDI0jXpXoIpVuoxLBM5qbsVQ5XQx-2Fnz2gTFAZD9p07Zw1bsLSMHRr=
+tfZdmUyr72Cyegor-2FLRZeMTihkMmsJktA-3D-3D" style=3D"color: #00698c; text-de=
+coration: none">Privacy Policy</a> | <a href=3D"http://links.announce.fiver=
+r.com/wf/click?upn=3DL8x0Hlj9fZFahi1BLwFf4owdnh2yQHeQsaZAVAdkiCteNFfkwUmp2p=
+PTqYNDBLYL_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpF=
+AitbiXQPrExst3SeOpK7V8CkLvOGMs9-2B8moPFGWxr3wKePZAZ-2FcKm6LR8ROQ4CRbylCp3ol=
+-2F67qQhU7mzE-2FuYajuf7CzUffjMDbR98dTC26d7V0ff6wo-2F4GIx5htFtWUn2a1681dZ3eF=
+QdioRyY91hGXjw3Gb-2BG64HGiO0k4ZaA7ptLWJiUzSGylZFLR-2FDk1-2Bj1ct71CY5axVs5a2=
+dSY0-2BCtw5EO0WNPXEQ0rAdwR3dt3GUz8aggR83jmpSB9jJ4pem3YaQGafME-2FuBNL6dYM-2F=
+L6pRAzxqD8P7jt7TKdXABa3-2FElQ-2FoVNUIh-2F-2BEJnXvYtxtbMBfz8hXvgW92GF2vlA-2B=
+6oLv57v6Xj8CfvVLpROkdnerqlDfVKKtUoNHTGvmhPnLbSqnNnZBdsqjrrA7WZCzcyA-3D-3D" =
+style=3D"color: #00698c; text-decoration: none">Support</a>=C2=A0| <a href=
+=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS98=
+6sa2x8IkEMpw1LI8M-2FSChot1r19se2btV3hyTCbyyCGow5-2F26L6nck3Q8zz-2BIQMv17fVQ=
+Fwiglq2Zd-2BbURREJ1fUxahg5M4zzGQBx-2BarT9JyiyeaXF32-2BGFzDH9suCg-3D-3D_xb69=
+N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3S=
+eOpK7V8CkLthz9lGOi4QmmNPp1s7xjKd-2Fjb4HJIlBXaba-2FCSuiceMWcwJgJLKG6Ql84HGax=
+rRYlP1JyT745-2BpjMOGBIqKxLWUlMXV7HxyhZAKqJPa-2F3L2IhDrhCTJGYYcF-2Bz6jEJuVRC=
+LFlfOWd-2F95RSCHpKPp1oZL05Vwq1utDpmQuxV6oNjJFXUS2LcrqXTaeyshuuFAMaYvwQEr1iF=
+tBB7gJK9CrXGuM5J8NfmvDiWGbXjLNRR7xsWwrE-2BFwQ6JJYsKUTf3UoKv7VcCzmFjG0KWxSxO=
+XUoEQ-2F5ZvzSv50z-2B5ZZAI9gV-2FA4h-2FWtfLC7Oat12HDtSZKrNaM3C-2FTro2g0E7p4-2=
+BfxOQc3sE0i41Ph0W2z4u7na8tfIOhnrgTk4zNNx8zav7g-3D-3D" style=3D"color: #0069=
+8c; text-decoration: none">Invite a Friend</a><br />
+			This email was sent to you by Fiverr, Inc. You are receiving this email =
+because you signed up for Fiverr.=C2=A0<br />
+			If you wish to unsubscribe from all future emails, please click <a href=
+=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSz8=
+lBS5pwGGUsJ40-2BmQtIVU0d6Z3tyYvR6UsjwqN-2BJrdEvY-2BwUJjGPRphpv32IRrYV55wrsA=
+Hz-2Bron2d-2B-2FlE3CUCLx-2BC9iT6dn-2BT-2FSHiARvGURvtqYm3h6u-2BtUj-2FR7YP07Y=
+jsVQCVKZnTvbbpc7Tq7DUfIhudoCL0hRyoyrmxBUlBOPFnCLOAKW-2FthkKXPH92b8fz4Mb8hyX=
+BaLEo3HlNLs-2BOgNxGv8zGf0yLi8PT31lXsXLPRg7iqVqIHdCQnglan2LaBZmQp1-2FVCiSUpw=
+j31x7UwAPLTUDvFev54ouCEo-2B_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYt=
+mou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLrAS0oDZZXQN9J7DK5xOte2DTnj169vdmW=
+GosWM0dWPXNtTNUbV7riC-2BjohOIj5-2FUlgEi04Ir3cujiPvEJvNIpGY1zMladmIpuWdWfZ7I=
+OG5GeMJTacP9tXHmC0RD1aXlPlsX-2BLuF2CHKg8BP6Rp6HgnC25JtwU1nGHbH3Y9Wi6WTr3hlf=
+FJkvE4ZnxLD6uLClaZbs5cjxPQxl-2FFzHKToieT2kE3VlZ2iEHaGUQpcScEvJeu7shHpcsTmKJ=
+rU4jMf8VxPhekcYszV2AM61uaXmWpnCrrq4zn30cz7YhvIptlyK1dgIoKHIgyVT9gOrN2-2FNFq=
+GoGIn8waFQFmz2nVJNr-2B2A21I6XT9XwtYam1Ruej9c2QmA0jY0yhonFeyZIWvw-3D-3D" sty=
+le=3D"color: #9D9D9D">here</a><br />
+			<br />
+			Fiverr, Inc. | 401 Broadway, Suite 1600 | New York, NY 10013, USA</span>=
+</span></td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+=C2=A0
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- End Wrapper -->
+
+<img src=3D"http://links.announce.fiverr.com/wf/open?upn=3Dxb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtmou6jOmWVKSSUUQpFAitbiXQPrExst3SeOpK7V8CkLtN=
+jwEJyA6n-2Bw5kVXPXIQ3r4-2FLhHFZAQFk5-2BItCQMee5qFecBYAlRiQavYqSEOdBymshQ2Fl=
+1il2249JwzsBB-2FgdUxn-2B2BGeHfeopHnzlu39LMy1-2FC2GE2b8WZFt-2BDRsxueg8O6hJ2B=
+QS5kJrMijicg5ZFNO1eQ4gpXM39v0l5oSRzs3i8k-2F0C3UXuUL01CvqklMhzlNlTGUeZWDtuRt=
+e46EJuZNvDoCMAh9od2Bm9XcyNFKjERltQSAQdEkBX1l0z5A39Lv8YHhrcTU3FEDlrYZZzJjCGP=
+BRGG42rd7V6nDi2rCCBriS4OFCWjxlTN6a-2FzA7D6EnR0GU-2BHQzZjCQHzemzJNlYoxxF3LVC=
+cnpKdfFGSZKBmcIpRItZ5hWFtzYQ-3D-3D" alt=3D"" width=3D"1" height=3D"1" borde=
+r=3D"0" style=3D"height:1px !important;width:1px !important;border-width:0 =
+!important;margin-top:0 !important;margin-bottom:0 !important;margin-right:=
+0 !important;margin-left:0 !important;padding-top:0 !important;padding-bott=
+om:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+--3e8ae099a9a81c3dd6f4b21af5ce92a905c16fc03c5a237d109598de5cb0--

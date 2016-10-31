@@ -1,0 +1,156 @@
+Return-Path: <msprvs1=17100arscCXjL=bounces-17534@bounce.codepen.io>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id /0ksMR6NB1gSJgAATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 19 Oct 2016 11:11:26 -0400
+Return-path: <msprvs1=17100arscCXjL=bounces-17534@bounce.codepen.io>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 19 Oct 2016 11:11:26 -0400
+Received: from mta414a.sparkpostmail.com ([52.39.255.131]:53210)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <msprvs1=17100arscCXjL=bounces-17534@bounce.codepen.io>)
+	id 1bwsWc-0002QM-JT
+	for rresendez@rigoresendez.com; Wed, 19 Oct 2016 11:11:26 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=codepen.io;
+	s=scph0416; t=1476889845; i=@codepen.io;
+	bh=uPzhj6sPhMISzn3bZwOArqAjUcNYompC3DxwOAvlsmQ=;
+	h=To:Date:Reply-To:Subject:From:List-Unsubscribe:List-Id;
+	b=IPRM7rcHkNzvZWDHhGEEMFLbBCUSgo7P9OOKPOnaqZc6sRfyYzcbyBxOmgGcxOR8O
+	 xcIasqWk+M5qnsUwBZ+EJmjxlMy94YofF4pvRpOwMiOwK2MsJY7r8YfXLwMDGuZ82N
+	 2kDofWon/Oxbu80pvXHN5nbmMiJlAbDtXM9QYx+Y=
+X-MSFBL: kKYj2vBp983fR0Uffhu8/UgmyLIP6gLwYMYLed+Zuqk=|eyJpcF9wb29sIjoiaXB
+	fcG9vbDEiLCJyIjoicnJlc2VuZGV6QHJpZ29yZXNlbmRlei5jb20iLCJjdXN0b21
+	lcl9pZCI6IjE3NTM0Iiwic2VuZGluZ19pcCI6IjUyLjM5LjI1NS4xMzEiLCJtZXN
+	zYWdlX2lkIjoiMDAwNWY1OGMwNzU4YTY1ZDVlYWMiLCJnIjoiMTc1MzQ6aXBfcG9
+	vbDEiLCJ0cmFuc21pc3Npb25faWQiOiIxMDI0NTkzODEzNjkxNjY5NjAiLCJ0ZW5
+	hbnRfaWQiOiJzcGMiLCJmcmllbmRseV9mcm9tIjoic3VwcG9ydEBjb2RlcGVuLml
+	vIiwicmNwdF90YWdzIjpbIF0sInN1YmFjY291bnRfaWQiOiIwIiwicmNwdF9tZXR
+	hIjp7fSwidGVtcGxhdGVfaWQiOiJ0ZW1wbGF0ZV8xMDI0NTkzODEzNjkxNjY5NjA
+	iLCJiIjoiaXBfNTIuMzkuMjU1LjEzMSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiw
+	iaXBfcG9vbF9yYXciOiJpcF9wb29sMSJ9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+To: rresendez@rigoresendez.com
+Message-ID: <E5.CA.23974.5FC87085@momentum5.platform1.us-west-2.aws.cl.messagesystems.com>
+Date: Wed, 19 Oct 2016 15:10:45 +0000
+MIME-Version: 1.0
+Reply-To: CodePen <support@codepen.io>
+Subject: Welcome to CodePen, Rigoberto !
+From: CodePen <support@codepen.io>
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:kH_67FvgIEML_DIdwDwGg0goF-B2YwzmRhEtUVOVK6s~|eyAicmNwdF90byI6ICJycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbSIsICJyY3B0X21ldGEiOiAie30iLCAicmNwdF90YWdzIjogIlsgXSIsICJ0ZW5hbnRfaWQiOiAic3BjIiwgInRlbXBsYXRlX2lkIjogInRlbXBsYXRlXzEwMjQ1OTM4MTM2OTE2Njk2MCIsICJ0cmFuc21pc3Npb25faWQiOiAiMTAyNDU5MzgxMzY5MTY2OTYwIiwgInNlbmRpbmdfaXAiOiAiNTIuMzkuMjU1LjEzMSIsICJ0ZW1wbGF0ZV92ZXJzaW9uIjogIjAiLCAibWFpbGZyb20iOiAibXNwcnZzMT0xNzEwMGFyc2NDWGpMPWJvdW5jZXMtMTc1MzRAYm91bmNlLmNvZGVwZW4uaW8iLCAiaXBfcG9vbCI6ICJpcF9wb29sMSIsICJpcF9wb29sX3JhdyI6ICJpcF9wb29sMSIsICJjdXN0b21lcl9pZCI6ICIxNzUzNCIsICJtZXNzYWdlX2lkIjogIjAwMDVmNThjMDc1OGE2NWQ1ZWFjIiwgImZyaWVuZGx5X2Zyb20iOiAic3VwcG9ydEBjb2RlcGVuLmlvIiwgInN1YmFjY291bnRfaWQiOiAiMCIgfQ~~>
+List-Id: <spc-17534-0>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">=0A<html xmlns=3D"http://www.w3.org/1999/=
+xhtml" xmlns=3D"http://www.w3.org/1999/xhtml">=0A=0A<head>=0A=0A  <meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />=0A  <met=
+a name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0" /=
+>=0A=0A  <title>CodePen Email</title>=0A=0A  =0A=0A</head>=0A=0A<body style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background:=
+ #C7C7C7; font: 13px/1.4 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, sa=
+ns-serif; margin: 0; padding: 10px 0 0; width: 100% !important" bgcolor=3D"=
+#C7C7C7"><style type=3D"text/css">=0Abody {=0Awidth: 100% !important; -webk=
+it-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: =
+0; font: 13px/1.4 "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-seri=
+f;=0A}=0Aimg {=0Aoutline: none; text-decoration: none; -ms-interpolation-mo=
+de: bicubic;=0A}=0A@media (max-width: 500px) {=0A  .email-header {=0A    di=
+splay: block;=0A  }=0A  .email-header td {=0A    display: block;=0A  }=0A  =
+.email-header tr {=0A    display: block;=0A  }=0A  .email-header thead {=
+=0A    display: block;=0A  }=0A  .email-header tbody {=0A    display: block=
+;=0A  }=0A}=0A</style>=0A=0A  <table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" align=3D"center" style=3D"background: white; border-collapse: co=
+llapse; border: 2px solid #b5b5b5; margin: 0 auto; max-width: 600px; min-wi=
+dth: 320px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" bgcolor=3D"white"=
+>=0A=0A    <tr>=0A=0A      <td style=3D"background: black; border-collapse:=
+ collapse; color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode=
+', Verdana, sans-serif; font-size: 13px; padding: 20px 30px 10px" bgcolor=
+=3D"black">=0A=0A        <table style=3D"width: 100%" class=3D"email-header=
+">=0A          <tr>=0A            <td style=3D"border-collapse: collapse; c=
+olor: #878787; font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana=
+, sans-serif; font-size: 13px">=0A              <h1 style=3D"color: white; =
+font-family: Sans-Serif; font-size: 22px; line-height: 1.4; margin: 0 0 10p=
+x">=0A                =0A  Welcome to CodePen, Rigoberto !=0A=0A=0A        =
+      </h1>=0A              <p style=3D"color: #878787; font-family: 'Lucid=
+a Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: 13px">=0A=
+                =0A  =E2=80=9CWhen patterns are broken, new worlds emerge.=
+=E2=80=9D=0A  <br />=0A  =E2=80=95 Tuli Kupferberg=0A=0A=0A              </=
+p>=0A            </td>=0A            <td style=3D"border-collapse: collapse=
+; color: #878787; font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verd=
+ana, sans-serif; font-size: 13px; padding-left: 20px; vertical-align: top; =
+width: 50px" valign=3D"top">=0A              <img src=3D"https://s3-us-west=
+-2.amazonaws.com/s.cdpn.io/t-1/logo-white-badge.png" alt=3D"CodePen" style=
+=3D"-ms-interpolation-mode: bicubic; height: 50px; margin: 0; opacity: 0.5;=
+ outline: none; text-decoration: none; width: 50px" />=0A            </td>=
+=0A          </tr>=0A        </table>=0A      </td>=0A    </tr>=0A=0A    <t=
+r>=0A      <td style=3D"border-collapse: collapse; color: #878787; font-fam=
+ily: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size=
+: 13px; padding: 10px 35px">=0A        =0A  <p style=3D"color: #878787; fon=
+t-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font=
+-size: 13px">Here's a few quick links for you:</p>=0A=0A  <ul style=3D"padd=
+ing: 0 0 0 10px">=0A    <li>=0A      <a href=3D"http://mailer.codepen.io/f/=
+a/UozzXImn23I2euemDZpjPw~~/AABEfgA~/RgRZ6hH1P0EIAWwCQ7ZqXHBXA3NwY1gEAAAAAFk=
+IaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWMB1imXV6sUhpycmVzZW5kZX=
+pAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEHGh0dHA6Ly9jb2RlcGVuLmlvL3JyZXNlbmRlei9HA=
+nt9" style=3D"color: #30A9F4; text-decoration: none">=0A        Your Profil=
+e=0A      </a>=0A    </li>=0A    <li>=0A      <a href=3D"http://mailer.code=
+pen.io/f/a/_P3UwCxT56VsZDbFGedpJQ~~/AABEfgA~/RgRZ6hH1P0EIAWwCQ7ZqXHBXA3NwY1=
+gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWMB1imXV6sUhpyc=
+mVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEFmh0dHA6Ly9jb2RlcGVuLmlvL3Blbi9H=
+Ant9" style=3D"color: #30A9F4; text-decoration: none">=0A        Create a N=
+ew Pen=0A      </a>=0A    </li>=0A    <li>=0A      <a href=3D"http://mailer=
+.codepen.io/f/a/CMfOM0i18X_62V8kZA0tzw~~/AABEfgA~/RgRZ6hH1P0EIAWwCQ7ZqXHBX=
+A3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWMB1imXV6=
+sUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEGmh0dHA6Ly9jb2RlcGVuLmlvL3=
+BvcHVsYXIvRwJ7fQ~~" style=3D"color: #30A9F4; text-decoration: none">=0A    =
+    Popular Pens=0A      </a>=0A    </li>=0A  </ul>=0A=0A  <p style=3D"colo=
+r: #878787; font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, s=
+ans-serif; font-size: 13px">If you want to learn more about CodePen, here a=
+re some things to check out:</p>=0A=0A  <ul style=3D"padding: 0 0 0 10px">=
+=0A    <li>=0A      <a href=3D"http://mailer.codepen.io/f/a/Y_HjCnxTexgq0nj=
+F03lqyw~~/AABEfgA~/RgRZ6hH1P0EIAWwCQ7ZqXHBXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlw=
+X3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWMB1imXV6sUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV=
+6LmNvbQlRBAAAAABEJWh0dHA6Ly9ibG9nLmNvZGVwZW4uaW8vZG9jdW1lbnRhdGlvbi9HAnt9" =
+style=3D"color: #30A9F4; text-decoration: none">=0A        Documentation=0A=
+      </a>=0A    </li>=0A    <li>=0A      <a href=3D"http://mailer.codepen.=
+io/f/a/VRprKjl8JG6Uy7_5YSD5YA~~/AABEfgA~/RgRZ6hH1P0EIAWwCQ7ZqXHBXA3NwY1gEAA=
+AAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWMB1imXV6sUhpycmVzZ=
+W5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEOmh0dHA6Ly9jc3MtdHJpY2tzLmNvbS92aWRl=
+by1zY3JlZW5jYXN0cy8xMTItdXNpbmctY29kZXBlbi9HAnt9" style=3D"color: #30A9F4; =
+text-decoration: none">=0A        Screencast on Using CodePen=0A      </a>=
+=0A    </li>=0A  </ul>=0A=0A  <p style=3D"color: #878787; font-family: 'Luc=
+ida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: 13px">W=
+e hope you have fun playing with CodePen! If you have any trouble...</p>=0A=
+=0A  <ul style=3D"padding: 0 0 0 10px">=0A    <li>=0A      <a href=3D"http:=
+//mailer.codepen.io/f/a/GOUVp-1-E-Y0JyauH4WOig~~/AABEfgA~/RgRZ6hH1P0EIAWwCQ=
+7ZqXHBXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWM=
+B1imXV6sUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEGmh0dHA6Ly9jb2RlcGV=
+uLmlvL3N1cHBvcnQvRwJ7fQ~~" style=3D"color: #30A9F4; text-decoration: none">=
+=0A        Support=0A      </a>=0A    </li>=0A  </ul>=0A=0A=0A      </td>=
+=0A    </tr> =0A    =0A    <tr>=0A      =0A    <td style=3D"background: #ee=
+e; border-collapse: collapse; color: #777; font: 11px/1.4 'Lucida Grande','=
+Lucida Sans Unicode', Tahoma, sans-serif; padding: 10px 20px; text-align: c=
+enter" align=3D"center" bgcolor=3D"#eee">=0A      You can adjust your <a hr=
+ef=3D"http://mailer.codepen.io/f/a/zM15JtliAodQiniXbWDJKg~~/AABEfgA~/RgRZ6h=
+H1P0EIAWwCQ7ZqXHBXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuM=
+TMxQgoABfWMB1imXV6sUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEMmh0dHA6=
+Ly9jb2RlcGVuLmlvL3JyZXNlbmRlei9zZXR0aW5ncyNub3RpZmljYXRpb25zRwJ7fQ~~" style=
+=3D"color: #777; text-decoration: underline">email preferences</a> any time=
+. Or, <a href=3D"http://mailer.codepen.io/f/a/pQuBcOTWDc5-u-dEL3n3TQ~~/AAB=
+EfgA~/RgRZ6hH1P0EIAWwCQ7ZqXHBXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01M=
+i4zOS4yNTUuMTMxQgoABfWMB1imXV6sUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAA=
+AABEo2h0dHA6Ly9jb2RlcGVuLmlvL29wdG91dC9RbFpNWWpZd1FuQmFZMGhpSzJWdFJHODRla2x=
+WVFU0M1IxazRlRTVvT1dGUlFVVk9XbXc0WTFKb1l6MHRMWGRJTVcxeFEzaDRXbVZqWjBVelZrMW=
+5hMlpaTVZFOVBRPT0tLTEzMDFiYjdjMTc1NzE0NDZjMzUxNDRkZDc0ZWE4N2Q5MjhiM2VkYjRHA=
+nt9" style=3D"color: #777; text-decoration: underline">instantly opt out</a=
+> of all emails.<br />Need help with anything=3F Hit up <a style=3D"color: =
+#777; text-decoration: underline" href=3D"http://mailer.codepen.io/f/a/GOUV=
+p-1-E-Y0JyauH4WOig~~/AABEfgA~/RgRZ6hH1P0EIAWwCQ7ZqXHBXA3NwY1gEAAAAAFkIaXBfc=
+G9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWMB1imXV6sUhpycmVzZW5kZXpAcmln=
+b3Jlc2VuZGV6LmNvbQlRBAAAAABEGmh0dHA6Ly9jb2RlcGVuLmlvL3N1cHBvcnQvRwJ7fQ~~">s=
+upport</a>.=0A=0A    </td>=0A=0A=0A    </tr>=0A=0A  </table>=0A=0A=0D=0A<im=
+g border=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"http://mailer.codep=
+en.io/q/kGrB_m-82pQmVU6e9GKv3Q~~/AABEfgA~/RgRZ6hH1PkEIAWwCQ7ZqXHBXA3NwY1gEA=
+AAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABfWMB1imXV6sUhpycmVz=
+ZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABHAnt9">=0D=0A</body>=0A=0A</html>=0A
+

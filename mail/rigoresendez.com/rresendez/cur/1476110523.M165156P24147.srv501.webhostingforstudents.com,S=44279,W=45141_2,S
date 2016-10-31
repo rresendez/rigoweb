@@ -1,0 +1,862 @@
+Return-Path: <news@goldandsilver.apmex.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id QQHJCbuo+1dTXgAATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 10 Oct 2016 10:42:03 -0400
+Return-path: <news@goldandsilver.apmex.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 10 Oct 2016 10:42:03 -0400
+Received: from omp.goldandsilver.apmex.com ([199.7.204.176]:41966)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <news@goldandsilver.apmex.com>)
+	id 1btbmE-0006Jm-Nl
+	for rresendez@rigoresendez.com; Mon, 10 Oct 2016 10:42:03 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=apmex; d=goldandsilver.apmex.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:Message-ID; i=news@goldandsilver.apmex.com;
+ bh=PwACBOwGdSXN4piUO1IepqSH9TY=;
+ b=Qj84IKIiIQfY1ncB+rVCIA7lQJn7XxMFDryTXwf5f9pZa5VF69b3+Gi04kQ3DxpGLNvvUiVZj0d7
+   zSeSB/rBjKW6QLlR9FdYpLcgV5kIRUsgmc9uWPNEYlG3DKIlAkJ/QksYjnJXBMq8DYzFi4BdMToU
+   VgzNVsW7Yk9dPQZ95PY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=apmex; d=goldandsilver.apmex.com;
+ b=Zio/AvdizXK1x3Um9SvFrhrq4aDKXPeOZ/jQSnOzImrI9NhdxLAK6zv/jY7dzVOz1vsiO+wtT0kI
+   pU/fNpX1v6oy+1Y/AaMXp3W4Pmf+o3H4MAmM9T4ma3eomc68/KfhbrkvkDON0j5iE5JVa24ooq5I
+   nHQVVnmIFRyNIOVfQaA=;
+Received: by omp.goldandsilver.apmex.com id hvekbk1hd74l for <rresendez@rigoresendez.com>; Mon, 10 Oct 2016 07:41:21 -0700 (envelope-from <news@goldandsilver.apmex.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 10 Oct 2016 07:41:21 -0700
+To: rresendez@rigoresendez.com
+From: "APMEX News" <news@goldandsilver.apmex.com>
+Reply-To: "APMEX News" <reply@goldandsilver.apmex.com>
+Subject: New 2017 Silver Kookaburras are now available to order!
+Feedback-ID: 53131:440805:oraclersys
+X-sgxh1: jjLkLgKLFxjpnhjLkLgKLFQJhu
+X-rext: 5.interact5.Ene4RyUr1tMP0SzlqxjAgYGaF4EFzviNzW-w6HAsz2FdgHzqORocjPA
+X-cid: apmex.3043805
+Message-ID: <0.0.55.516.1D223045E41D17A.0@omp.goldandsilver.apmex.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html style=3D=22font-family: Arial, Helvetica, sans-serif; margin: 0; padd=
+ing: 0;=22 xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+   <meta content=3D=22width=3Ddevice-width=22 name=3D=22viewport=22 />
+   <meta content=3D=22text/html; charset=3Dutf-8=22 http-equiv=3D=22Content=
+-Type=22 />
+   <title>2017 Silver Kookaburras are now available from APMEX=21</title>
+   <style type=3D=22text/css=22>=40media (max-width: 600px) =7B
+
+h1 =7B
+	font-size: 22px =21important;
+=7D
+=2Emain-heading =7B
+	font-size: 22px =21important;
+=7D
+=2Eheadline-text =7B
+	font-size: 14px =21important;
+=7D
+=2Epromo-text =7B
+	font-size: 14px =21important;
+=7D
+=2Econtainer =7B
+    width: 100% =21important;=20
+    padding: 15px;;
+  =7D
+=2Econtent =7B
+    padding: 15px =21important;
+  =7D
+=2Elogo-container =7B
+    width: 35%;
+  =7D
+=2Estack =7B
+	  display: block;
+	  width: 99% =21important;
+	  max-width: 600px;
+  =7D
+=2Ebutton =7B
+	  width:100% =21important;
+	  font-size: 14px =21important;
+  =7D
+=2Eheader-blue =7B
+	 height: 75px =21important;
+	 width: 100% =21important;
+ =7D
+=2Eheader-nav =7B
+	 font-size: 14px =21important;
+	 text-align: right =21important;
+	 padding: 10px 0px 10px 25px =21important;
+ =7D
+ =2Eheader-image =7B
+	width: 75% =21important;
+=7D
+=2Eheader-nav-table =7B
+	width: 100% =21important;
+=7D
+=2Efull
+=7B
+	max-width: 600px =21important;
+	margin-bottom: 35px =21important;
+=7D=20
+=2Efull-flag
+=7B
+	max-width: 100% =21important;
+=7D=20
+=2Eproduct-image =7B
+	max-width: 100% =21important;
+=7D
+=2Ebanner-image =7B
+	width: 100% =21important;
+	height: auto =21important;
+=7D
+
+=2Eflag-image =7B
+	width: 75% =21important;
+	height: auto =21important;
+=7D
+=2Ecell-small-space =7B
+	height: 25px;
+=7D
+=2Esection-header =7B
+	text-align: center =21important;
+	font-size: 28px =21important;
+	margin-bottom: 25px =21important;
+	padding-bottom: 10px =21important;
+	width: 100% =21important;
+	max-width: 600px;
+/*	background-color: =2324a186 =21important;
+	color: =23FFFFFF =21important;
+*/
+=2Efooter-grey=7B
+	width: 100% =21important;
+=7D=09
+=09
+=7D
+
+
+=7D
+=40media (max-width: 430px) =7B
+
+ =2Eheader-nav =7B
+	 font-size: 10px =21important;
+	 padding: 10px =21important;
+	 text-align: right =21important;
+	=20
+ =7D
+=7D
+   </style>
+</head>
+<=21-- Version 082216 -->
+<body bgcolor=3D=22=23FFFFFF=22 style=3D=22font-family: Arial, Helvetica, s=
+ans-serif; -webkit-font-smoothing: antialiased; text-size-adjust: none; hei=
+ght: 100%; color: rgb(51, 51, 51); margin: 0px; padding: 0px; width: 100%;=
+=22><=21-- SCHEMA DATA START -->
+<div itemscope=3D=22=22 itemtype=3D=22http://schema=2Eorg/EmailMessage=22>
+<div itemprop=3D=22publisher=22 itemscope=3D=22=22 itemtype=3D=22http://sch=
+ema=2Eorg/Organization=22>
+</div>
+</div>
+
+<div itemprop=3D=22about=22 itemscope=3D=22=22 itemtype=3D=22http://schema=
+=2Eorg/Offer=22>
+</div>
+<=21-- SCHEMA DATA END --><=21-- HEADER START -->
+
+<table align=3D=22center=22 bgcolor=3D=22=23002539=22 class=3D=22header-blu=
+e=22 height=3D=22100=22 style=3D=22font-family: Arial, Helvetica, sans-seri=
+f; display: table; border-collapse: separate; -webkit-border-horizontal-spa=
+cing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0 auto; p=
+adding: 0; =22>
+   <tbody>
+      <tr>
+         <td>
+         <table align=3D=22center=22 bgcolor=3D=22=23002539=22 class=3D=22h=
+eader-nav-table=22 style=3D=22font-family: Arial, Helvetica, sans-serif; di=
+splay: table; border-collapse: separate; -webkit-border-horizontal-spacing:=
+ 0; -webkit-border-vertical-spacing: 0; width: 600px; margin: 0 auto; paddi=
+ng: 0; =22>
+            <tbody>
+               <tr style=3D=22font-family: Arial, Helvetica, sans-serif; ma=
+rgin: 0; padding: 0;=22>
+                  <td align=3D=22left=22 style=3D=22font-family: Arial, Hel=
+vetica, sans-serif; text-align: left; display: block =21important; max-widt=
+h: 600px; clear: both =21important; margin: 0 auto; padding: 5px; mso-paddi=
+ng-alt: 55px; mso-padding: 55px;=22>
+                  <table style=3D=22font-family: Arial, Helvetica, sans-ser=
+if; display: table; border-collapse: separate; -webkit-border-horizontal-sp=
+acing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; paddi=
+ng: 0;=22>
+                     <tbody>
+                        <tr height=3D=222=22>
+                           <td align=3D=22center=22 class=3D=22textContent=
+=22 colspan=3D=222=22>
+                           <div style=3D=22display: none; font-family:Helve=
+tica,Arial,sans-serif;font-size:1px;color:=23002539;text-align:center;=22>
+                           <p>Order any 2017 Silver Kookaburra and be autom=
+atically entered to win a trip to Australia=21
+                           </p>
+                           </div>
+                           </td>
+                        </tr>
+                        <tr style=3D=22font-family: Arial, Helvetica, sans-=
+serif; margin: 0; padding: 0;=22>
+                           <td align=3D=22left=22 class=3D=22logo-container=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: left;=
+ margin: 0; padding: 0;=22 valign=3D=22middle=22 width=3D=2225%=22><a href=
+=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJ=
+lYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSW=
+TTURY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4C=
+vnamrhbihi=2E=22 target=3D=22_blank=22><img class=3D=22logo=22 src=3D=22htt=
+p://www=2Eapmex=2Ecom/Resources/Banners/2015/Footers/Transactional/img/apme=
+x_email_logo=2Epng=22 style=3D=22font-family: Arial, Helvetica, sans-serif;=
+ max-width: 166px; width: 100%; margin: 0; padding: 0;=22 /> </a></td>
+                           <=21-- THIS IS THE 3 NAV LINKS -->
+                           <td align=3D=22right=22 style=3D=22font-family: =
+Arial, Helvetica, sans-serif; text-align: right; margin: 0; padding: 0;=22 =
+valign=3D=22middle=22>
+                           <p class=3D=22header-nav=22 style=3D=22font-fami=
+ly: Arial, Helvetica, sans-serif; color: =23fff; text-decoration: none ; fo=
+nt-size: 14px; margin: 0; padding: 0;display: inline-block; font-weight: bo=
+ld;=22><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc=
+2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJ=
+ry6VXtpKX%3DSWTTUWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G=
+jJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; color: =23ffffff; text-decoration: none ; font-size: 14px; margin=
+: 0; padding: 0;display: inline-block;=22 target=3D=22_blank=22>Gold</a> <s=
+pan style=3D=22color:=23FFFFFF;=22>&nbsp;=7C&nbsp;</span> <a href=3D=22http=
+s://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3=
+jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTUCY&amp;=
+_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=
+=2E=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23ffff=
+ff; text-decoration: none; font-size: 14px; margin: 0; padding: 0;display: =
+inline-block;=22 target=3D=22_blank=22>Silver</a> <span style=3D=22color:=
+=23FFFFFF;=22>&nbsp;=7C&nbsp;</span> <a href=3D=22https://goldandsilver=2Ea=
+pmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzg=
+WGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTWCY&amp;_ei_=3DEq2tf9zs59idfP=
+O1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22fon=
+t-family: Arial, Helvetica, sans-serif; color: =23ffffff; text-decoration: =
+none; font-size: 14px; margin: 0; padding: 0;display: inline-block;=22 targ=
+et=3D=22_blank=22>Education</a>
+                           </p>
+                           </td>
+                           <=21-- END OF THREE NAV LINKS --><=21-- JUST PHO=
+NE NUMBER=20
+											<td align=3D=22left=22 style=3D=22font-family: Arial, Helvetica,=
+ sans-serif; text-align: right; margin: 0; padding: 0;=22 valign=3D=22middl=
+e=22;>
+												<h3>
+													<a href=3D=22tel:+18003759006=22 style=3D=22font-family: Arial=
+, Helvetica, sans-serif; color: =23fff; text-decoration: none ; font-size: =
+14px; margin: 0; padding: 0;display: inline-block;=22>Call Us At 800=2E375=
+=2E9006</a>
+	                							</h3>
+                							</td>
+                							-->
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- HEADER END --><=21-- MAIN CONTENT START -->
+
+<table align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 cla=
+ss=3D=22stack=22 style=3D=22font-family: Arial, Helvetica, sans-serif; disp=
+lay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0=
+; -webkit-border-vertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=
+=3D=22600=22>
+   <tbody><=21-- LARGE PROMO BANNER AND CTA START -->
+      <tr style=3D=22font-family: Arial, Helvetica, sans-serif; margin: 0; =
+padding: 0;=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stac=
+k=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: left=
+; display: block =21important; width: 600px; clear: both =21important; marg=
+in: 0 auto; padding: 5px;=22>
+         <table style=3D=22font-family: Arial, Helvetica, sans-serif; displ=
+ay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0;=
+ -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+            <tbody>
+               <tr><=21-- PRODUCT ONE START -->
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; font-weight: normal =21important; font-family=
+: Helvetica,Arial,sans-serif =21important;=22 width=3D=22600=22><a href=3D=
+=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQ=
+GgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTY=
+CY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvna=
+mrhbihi=2E=22 target=3D=22_blank=22><img alt=3D=222017 Silver Kookaburras=
+=22 class=3D=22banner-image=22 height=3D=22311=22 src=3D=22http://www=2Eima=
+ges-apmex=2Ecom/images/Banners/2016/October/10-10/email_banner=2Ejpg=22 sty=
+le=3D=22display:block;=22 title=3D=222017 Silver Kookaburras=22 width=3D=22=
+600=22 /> </a>
+
+                  <table align=3D=22center=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 class=3D=22full=22 style=3D=22border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal =21import=
+ant;=22 width=3D=22100%=22>
+                     <tbody>
+                        <tr>
+                        </tr>
+                        <tr>
+                           <td align=3D=22center=22 class=3D=22cell-small-s=
+pace=22 height=3D=2210=22 style=3D=22mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-we=
+ight: normal =21important; font-family: Helvetica,Arial,sans-serif =21impor=
+tant; max-width: 225px;=22 valign=3D=22top=22 width=3D=22225=22><=21-- BANN=
+ER COMMENT START -->
+                           <p class=3D=22promo-text=22 style=3D=22font-fami=
+ly: Arial, Helvetica, sans-serif; line-height: 1=2E1; color: =23002539; fon=
+t-size: 22px; margin: 15px 0 15px; padding: 0;=22>Purchase the new 2017 Sil=
+ver Kookaburras to be entered to win the Escape to Australia Sweepstakes=21
+                           </p>
+                           <=21-- BANNER COMMENT END --></td>
+                        </tr>
+                        <tr><=21-- RED CTA BUTTON
+												<td valign=3D=22middle=22 align=3D=22center=22 class=3D=22butto=
+n=22 width=3D=22125=22 height=3D=2230=22 style=3D=22background: Linear-grad=
+ient(=23FBB574, =23F98D29); background-color:=23F98D29; font-size: 18px; pa=
+dding:10px; margin-top:15px; margin-bottom: 15px; max-width: 125px; border-=
+radius: 5px;
+													mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px;=
+ =22>
+													<a style=3D=22font-family: Arial, Helvetica, sans-serif; color=
+:=23ffffff; font-weight: bold; text-decoration: none; display:block; =22 hr=
+ef=3D=22http://www=2Eapmex=2Ecom/category/90593/2017-perth-mint-silver-kook=
+aburras=22 target=3D=22_blank=22>
+														SHOP NOW</a>
+												</td>
+												-->
+                           <td align=3D=22center=22 class=3D=22button=22 he=
+ight=3D=2230=22 style=3D=22background: Linear-gradient(=23F12D2D, =23C30000=
+); background-color:=23C30000; font-size: 18px; padding:10px; margin-top:15=
+px; margin-bottom: 15px; max-width: 125px; border-radius: 5px;
+													mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px;=
+ =22 valign=3D=22middle=22 width=3D=22125=22><a href=3D=22https://goldandsi=
+lver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzf=
+r6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTYCY&amp;_ei_=3DEq2tf9=
+zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=
+=3D=22font-family: Arial, Helvetica, sans-serif; color:=23ffffff; font-weig=
+ht: bold; text-decoration: none; display:block; =22 target=3D=22_blank=22>P=
+RE-ORDER</a></td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+      <=21-- LARGE PROMO BANNER AND CTA END --><=21-- PRODUCT ROW - TWO PRO=
+DUCT START -->
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22sect=
+ion-header=22 height=3D=2235=22 style=3D=22font-family: Arial, Helvetica, s=
+ans-serif; border-top: =2324A186 solid 2px; text-align: center; display: bl=
+ock =21important; width: 600px; clear: both =21important;
+				padding: 10px 0px 0px 0px; margin: 25px 0px 0px 0px;mso-padding-alt: 10=
+px 0px 0px 0px; mso-padding: 10px 0px 0px 0px;=22 valign=3D=22middle=22><sp=
+an class=3D=22section-header=22 style=3D=22color:=2324A186; font-weight: bo=
+ld; font-size: 22px;=22>Featured Kookaburras</span></td>
+      </tr>
+      <tr style=3D=22font-family: Arial, Helvetica, sans-serif; margin: 0; =
+padding: 0;=22>
+         <td align=3D=22left=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stack=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: left;=
+ display: block =21important; width: 600px; clear: both =21important; margi=
+n: 0 auto; padding: 5px;=22>
+         <table style=3D=22font-family: Arial, Helvetica, sans-serif; displ=
+ay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0;=
+ -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+            <tbody>
+               <tr><=21-- PRODUCT ONE START -->
+                  <td align=3D=22left=22 class=3D=22stack=22 style=3D=22mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; font-weight: normal =21important; font-family: =
+Helvetica,Arial,sans-serif =21important;=22 width=3D=22275=22>
+                  <table align=3D=22center=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 class=3D=22full=22 style=3D=22border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal =21import=
+ant;=22 width=3D=22100%=22>
+                     <tbody>
+                        <tr>
+                           <td align=3D=22center=22 style=3D=22cursor: hand=
+; text-align: center; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal =
+=21important;font-family: Helvetica,Arial,sans-serif =21important; width: 2=
+50px;=22><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0G=
+zc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0=
+hJry6VXtpKX%3DSWTTBRY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo=
+8GjJL8m62nSErW4Cvnamrhbihi=2E=22 target=3D=22_blank=22><img alt=3D=222017 1=
+ kilo Silver Kookaburras=22 class=3D=22product-image=22 src=3D=22http://www=
+=2Eimages-apmex=2Ecom/images/Catalog%20Images/Products/102675_Slab=2Ejpg?&w=
+idth=3D300&height=3D300=22 style=3D=22height: auto; width: 100%; max-width:=
+225px; font-family: Arial, Helvetica, sans-serif; margin: 0 0 12px 0; paddi=
+ng: 0;=22 title=3D=222017 1 kilo Silver Kookaburras=22 width=3D=22100%=22 /=
+> </a></td>
+                        </tr>
+                        <tr>
+                           <td align=3D=22center=22 height=3D=2220=22 style=
+=3D=22mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; font-weight: normal =21important; font=
+-family: Helvetica,Arial,sans-serif =21important; max-width: 225px;=22 vali=
+gn=3D=22top=22 width=3D=22225=22></td>
+                        </tr>
+                        <tr>
+                           <td align=3D=22center=22 class=3D=22cell-small-s=
+pace=22 height=3D=2250=22 style=3D=22mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-we=
+ight: normal =21important; font-family: Helvetica,Arial,sans-serif =21impor=
+tant; max-width: 225px;=22 valign=3D=22top=22 width=3D=22225=22>
+                           <h1 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; line-height: 1=2E1; color: =23878787; font-weight: bold; font-siz=
+e: 18px; margin: 0 0 10px 0; padding: 0;=22>2017 1 kilo Silver Kookaburras
+                           </h1>
+                           </td>
+                        </tr>
+                        <tr><=21-- ORANGE CTA BUTTON -->
+                           <td align=3D=22center=22 class=3D=22button=22 he=
+ight=3D=2230=22 style=3D=22background: Linear-gradient(=23FBB574, =23F98D29=
+); background-color:=23F98D29; font-size: 18px; padding:10px; margin-top:15=
+px; margin-bottom: 15px; max-width: 125px; border-radius: 5px;
+														mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px=
+; =22 valign=3D=22middle=22 width=3D=22125=22><a href=3D=22https://goldands=
+ilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbz=
+fr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTBRY&amp;_ei_=3DEq2tf=
+9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=
+=3D=22font-family: Arial, Helvetica, sans-serif; color:=23ffffff; font-weig=
+ht: bold; text-decoration: none; display:block; =22 target=3D=22_blank=22>B=
+UY NOW</a></td>
+                           <=21-- RED CTA BUTTON
+													<td valign=3D=22middle=22 align=3D=22center=22 class=3D=22butt=
+on=22 width=3D=22125=22 height=3D=2230=22 style=3D=22background: Linear-gra=
+dient(=23F12D2D, =23C30000); background-color:=23C30000; font-size: 18px; p=
+adding:10px; margin-top:15px; margin-bottom: 15px; max-width: 125px; border=
+-radius: 5px;
+														mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px=
+; =22>
+														<a style=3D=22font-family: Arial, Helvetica, sans-serif; colo=
+r:=23ffffff; font-weight: bold; text-decoration: none; display:block; =22 h=
+ref=3D=22=23=23=23 PRODUCT PAGE URL =23=23=23=22 target=3D=22_blank=22>
+														VIEW PRODUCT</a>
+													</td>
+													-->
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+                  <=21-- PRODUCT ONE END --><=21-- BUTTON SPACER -->
+                  <td class=3D=22stack=22></td>
+                  <=21-- END BUTTON SPACER --><=21-- PRODUCT TWO START -->
+                  <td align=3D=22left=22 class=3D=22stack=22 style=3D=22mar=
+gin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%; font-weight: normal =21importan=
+t; font-family: Helvetica,Arial,sans-serif =21important;=22 width=3D=22275=
+=22>
+                  <table align=3D=22center=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 class=3D=22full=22 style=3D=22position: re=
+lative; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weig=
+ht: normal =21important;=22 width=3D=22100%=22>
+                     <tbody>
+                        <tr>
+                           <td align=3D=22center=22 style=3D=22cursor: hand=
+; text-align: center; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal =
+=21important;font-family: Helvetica,Arial,sans-serif =21important; width: 2=
+50px;=22><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0G=
+zc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0=
+hJry6VXtpKX%3DSWTTBCY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo=
+8GjJL8m62nSErW4Cvnamrhbihi=2E=22 target=3D=22_blank=22><img alt=3D=222017 S=
+ilver Kookaburras=22 class=3D=22product-image=22 src=3D=22http://www=2Eimag=
+es-apmex=2Ecom/images/Banners/2016/October/10-10/email_image=2Ejpg?&width=
+=3D300&height=3D300=22 style=3D=22height: auto; width: 100%; max-width: 225=
+px; font-family: Arial, Helvetica, sans-serif; margin: 0 0 12px 0; padding:=
+ 0;=22 title=3D=222017 Silver Kookaburras=22 width=3D=22100%=22 /> </a></td>
+                        </tr>
+                        <tr>
+                           <td align=3D=22center=22 height=3D=2220=22 style=
+=3D=22mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; font-weight: normal =21important; font=
+-family: Helvetica,Arial,sans-serif =21important; max-width: 225px;=22 vali=
+gn=3D=22top=22 width=3D=22225=22></td>
+                        </tr>
+                        <tr>
+                           <td align=3D=22center=22 class=3D=22cell-small-s=
+pace=22 height=3D=2250=22 style=3D=22mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-we=
+ight: normal =21important; font-family: Helvetica,Arial,sans-serif =21impor=
+tant; max-width: 225px;=22 valign=3D=22top=22 width=3D=22225=22>
+                           <h1 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; line-height: 1=2E1; color: =23878787; font-weight: bold; font-siz=
+e: 18px; margin: 0 0 10px 0; padding: 0;=22>2017 1 oz Silver Kookaburras
+                           </h1>
+                           </td>
+                        </tr>
+                        <tr><=21-- ORANGE CTA BUTTON -->
+                           <td align=3D=22center=22 class=3D=22button=22 he=
+ight=3D=2230=22 style=3D=22background: Linear-gradient(=23FBB574, =23F98D29=
+); background-color:=23F98D29; font-size: 18px; padding:10px; margin-top:15=
+px; margin-bottom: 15px; max-width: 125px; border-radius: 5px;
+														mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px=
+; =22 valign=3D=22middle=22 width=3D=22125=22><a href=3D=22https://goldands=
+ilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbz=
+fr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTBCY&amp;_ei_=3DEq2tf=
+9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=
+=3D=22font-family: Arial, Helvetica, sans-serif; color:=23ffffff; font-weig=
+ht: bold; text-decoration: none; display:block; =22 target=3D=22_blank=22>B=
+UY NOW</a></td>
+                           <=21-- RED CTA BUTTON
+													<td valign=3D=22middle=22 align=3D=22center=22 class=3D=22butt=
+on=22 width=3D=22125=22 height=3D=2230=22 style=3D=22background: Linear-gra=
+dient(=23F12D2D, =23C30000); background-color:=23C30000; font-size: 18px; p=
+adding:10px; margin-top:15px; margin-bottom: 15px; max-width: 125px; border=
+-radius: 5px;
+														mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px=
+; =22>
+														<a style=3D=22font-family: Arial, Helvetica, sans-serif; colo=
+r:=23ffffff; font-weight: bold; text-decoration: none; display:block; =22 h=
+ref=3D=22=23=23=23 PRODUCT PAGE URL =23=23=23=22 target=3D=22_blank=22>
+														VIEW PRODUCT</a>
+													</td>
+													-->
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+                  <=21-- PRODUCT TWO END -->
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+      <=21-- PRODUCT ROW - TWO PRODUCTS END --><=21-- EMAIL FOOTER START --=
+><=21-- ADDITIONAL TEXT INFORMATION START -->
+   </tbody>
+</table>
+
+<table align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stack=22 s=
+tyle=3D=22font-family: Arial, Helvetica, sans-serif; display: table; border=
+-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-border-v=
+ertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=3D=22600=22>
+   <tbody>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 style=3D=22font-family: Arial, Helvetica,=
+ sans-serif; text-align: left; display: block =21important; max-width: 600p=
+x; clear: both =21important; margin: 0 auto; padding: 5px;=22>
+         <table align=3D=22center=22 class=3D=22stack=22 style=3D=22font-fa=
+mily: Arial, Helvetica, sans-serif; display: table; border-collapse: separa=
+te; -webkit-border-horizontal-spacing: 0; -webkit-border-vertical-spacing: =
+0; margin: 0; padding: 0;=22 width=3D=22600=22>
+            <tbody>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td height=3D=225=22></td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=
+=3D=22section-header=22 height=3D=2235=22 style=3D=22font-family: Arial, He=
+lvetica, sans-serif; border-top: =2324A186 solid 2px; text-align: center; d=
+isplay: block =21important; width: 600px; clear: both =21important;
+								padding: 0px ; margin: 0px ;mso-padding-alt: 10px 0px 0px 0px; mso-=
+padding: 10px 0px 0px 0px;=22 valign=3D=22middle=22></td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22text-align: center;font-=
+weight: normal;font-size: 14px;=22>
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22f=
+ont-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0;=22 valign=
+=3D=22top=22>
+                  <h2 align=3D=22center=22 style=3D=22text-align: center; c=
+olor: =23002539; font-family: Arial, Helvetica, sans-serif; line-height: 1=
+=2E6;  font-size: 14px; font-weight: normal; margin: 0 0 15px 0; padding: 0=
+px 0px 0px 0px;=22>APMEX offers <a href=3D=22https://goldandsilver=2Eapmex=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzg=
+FNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTCWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc=
+_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22font-si=
+ze: 14px; text-align: center; color:=23f98d29;=22 target=3D=22_blank=22>fre=
+e shipping</a> on all domestic orders of =2499 or more=2E
+                  </h2>
+                  </td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=
+=3D=22section-header=22 height=3D=2235=22 style=3D=22font-family: Arial, He=
+lvetica, sans-serif; border-bottom: =2324A186 solid 2px; text-align: center=
+; display: block =21important; width: 600px; clear: both =21important;
+								padding: 0px; margin: 0px; mso-padding-alt: 0px 0px 10px 0px; mso-p=
+adding: 0px 0px 10px 0px;=22 valign=3D=22middle=22></td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td height=3D=2215=22></td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- ADDITIONAL TEXT INFORMATION END --><=21-- SMALL PROMO BANNER AND GHO=
+ST CTA START -->
+
+<table style=3D=22font-family: Arial, Helvetica, sans-serif; display: table=
+; border-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-=
+border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+   <tbody>
+      <tr>
+         <td align=3D=22left=22 class=3D=22stack=22 style=3D=22mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%; font-weight: normal =21important; font-family: Helvetica=
+,Arial,sans-serif =21important;=22 width=3D=22600=22>
+         <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 class=3D=22full=22 style=3D=22border-collapse: colla=
+pse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; font-weight: normal =21important;=22 wi=
+dth=3D=22100%=22>
+            <tbody>
+               <tr>
+                  <td align=3D=22center=22><a href=3D=22https://goldandsilv=
+er=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6=
+n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTDTY&amp;_ei_=3DEq2tf9zs=
+59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 target=
+=3D=22_blank=22><img alt=3D=22You could win: 2016 Escape to Australia=22 cl=
+ass=3D=22banner-image=22 height=3D=22145=22 src=3D=22http://www=2Eimages-ap=
+mex=2Ecom/images/Banners/2016/October/10-10/email_footer=2Ejpg=22 style=3D=
+=22display:block;=22 title=3D=22You could win: 2016 Escape to Australia=22 =
+width=3D=22600=22 /> </a></td>
+               </tr>
+               <tr>
+                  <td></td>
+               </tr>
+               <=21-- <tr>
+											<td valign=3D=22middle=22 align=3D=22center=22 class=3D=22button=
+=22 width=3D=22125=22 height=3D=2220=22 style=3D=22background-color:=230000=
+00; font-size: 12px; padding:10px; margin-top:15px; margin-bottom: 15px; ma=
+x-width: 125px; border-radius: 5px; border: =23F98D29 solid 1px;
+												mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px; =
+=22>
+													<a style=3D=22font-family: Arial, Helvetica, sans-serif; color=
+:=23F98D29; font-weight: bold; text-decoration: none; display:block; =22 hr=
+ef=3D=22=23=23=23 PRODUCT PAGE URL =23=23=23=22 target=3D=22_blank=22>
+												SHOP NOW</a>
+											</td>
+										</tr> -->
+            </tbody>
+         </table>
+
+         <table style=3D=22font-family: Arial, Helvetica, sans-serif; displ=
+ay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0;=
+ -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+            <tbody>
+               <tr>
+                  <td align=3D=22center=22 colspan=3D=222=22 valign=3D=22to=
+p=22 width=3D=22100%=22></td>
+               </tr>
+               <tr align=3D=22center=22><=21-- ORANGE GHOST CTA BUTTON=20
+															<td class=3D=22button=22 align=3D=22center=22 width=3D=22100=
+%=22 style=3D=22cursor: hand; background-color:=23FFFFFF; font-size: 14px; =
+padding:10px; margin-top:15px; margin-bottom: 15px; width: 100%; border-rad=
+ius: 5px; border: =23f98d29 solid 1px;  mso-padding-alt: 5px; mso-padding: =
+5px; mso-cellspacing: 15px;=22>
+																<a href=3D=22=23=23=23 GHOST CTA URL =23=23=22 target=3D=22=
+_blank=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color:=23F9=
+8D29; text-decoration: none; display:block;=22>
+																	LEARN MORE</a>
+															</td> --><=21-- RED GHOST CTA=20
+															<td class=3D=22button=22 align=3D=22center=22 width=3D=22100=
+%=22 style=3D=22cursor: hand; background-color:=23FFFFFF; font-size: 14px; =
+padding:10px; margin-top:15px; margin-bottom: 15px; width: 100%; border-rad=
+ius: 5px; border: =23C30000 solid 1px;  mso-padding-alt: 5px; mso-padding: =
+5px; mso-cellspacing: 15px;=22>
+																<a href=3D=22=23=23=23 GHOST CTA URL =23=23=22 target=3D=22=
+_blank=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color:=23C3=
+0000; text-decoration: none; display:block;=22>
+																	LEARN MORE</a>
+															-->
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<br />
+<=21-- SMALL PROMO BANNER AND GHOST CTA END -->
+<table align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stack=22 s=
+tyle=3D=22font-family: Arial, Helvetica, sans-serif; display: table; border=
+-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-border-v=
+ertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=3D=22600=22>
+   <tbody>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 style=3D=22font-family: Arial, Helvetica,=
+ sans-serif; text-align: left; display: block =21important; max-width: 600p=
+x; clear: both =21important; margin: 0 auto; padding: 5px;=22>&nbsp;
+         <table align=3D=22center=22 class=3D=22stack=22 style=3D=22font-fa=
+mily: Arial, Helvetica, sans-serif; display: table; border-collapse: separa=
+te; -webkit-border-horizontal-spacing: 0; -webkit-border-vertical-spacing: =
+0; margin: 0; padding: 0;=22 width=3D=22600=22>
+            <tbody>
+               <tr align=3D=22center=22 style=3D=22text-align: center;font-=
+weight: normal;font-size: 14px;=22>
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22f=
+ont-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0;=22><a href=
+=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJ=
+lYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSW=
+TTDAY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4C=
+vnamrhbihi=2E=22 style=3D=22text-decoration:none =21important;display:inlin=
+e-block;font-family: Arial, Helvetica, sans-serif; color: =23FFFFFF; margin=
+: 0; padding: 0;=22 target=3D=22_blank=22><img alt=3D=22Follow Us on Twitte=
+r=22 src=3D=22http://www=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFoot=
+ers/twitter-icon=2Epng=22 style=3D=22font-family: Arial, Helvetica, sans-se=
+rif; width: 100%; margin: 0; padding: 0;=22 title=3D=22Follow Us on Twitter=
+=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D=22https://goldandsilver=
+=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5=
+EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTURAY&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=
+=22text-decoration:none =21important;display:inline-block;font-family: Aria=
+l, Helvetica, sans-serif; color: =23FFFFFF; margin: 0; padding: 0;=22 targe=
+t=3D=22_blank=22> <img alt=3D=22Find Us on Facebook=22 src=3D=22http://www=
+=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFooters/facebook-icon=2Epng=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; width: 100%; marg=
+in: 0; padding: 0;=22 title=3D=22Find Us on Facebook=22 /></a>&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTz=
+gKnaFzbw0hJry6VXtpKX%3DSWTUSAY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8Mfg=
+XN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22text-decoration:none =
+=21important;display:inline-block;font-family: Arial, Helvetica, sans-serif=
+; color: =23FFFFFF; margin: 0; padding: 0;=22 target=3D=22_blank=22> <img a=
+lt=3D=22Watch Us on YouTube=22 src=3D=22http://www=2Eimages-apmex=2Ecom/ima=
+ges/Banners/2016/EmailFooters/youtube-icon=2Epng=22 style=3D=22font-family:=
+ Arial, Helvetica, sans-serif; width: 100%; margin: 0; padding: 0;=22 title=
+=3D=22Watch Us on YouTube=22 /></a>
+
+                  <h6 align=3D=22center=22 style=3D=22text-align: center; c=
+olor: =23666666; font-family: Arial, Helvetica, sans-serif; line-height: 1=
+=2E4; font-weight: 500; font-size: 13px;
+									margin: 0 0 0px 0px; padding: 10px 0px 0px 0px;=22><span style=3D=
+=22font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size:=
+ 16px; text-transform: uppercase;=22>APMEX, INC=2E</span><br />
+                  226 Dean A McGee Ave=2E<br />
+                  Oklahoma City, OK 73102
+                  </h6>
+                  &nbsp;
+
+                  <h6 align=3D=22center=22 style=3D=22text-align: center; c=
+olor: =23666666; font-family: Arial, Helvetica, sans-serif; line-height: 1=
+=2E6; font-size: 10px; font-weight: normal; margin: 0 0 15px 0; padding: 10=
+px 0px 0px 0px;=22>Our Account Managers are available toll free at (800) 37=
+5-9006, Mondays through Thursdays from 8 a=2Em=2E to 8 p=2Em=2E and Fridays=
+ from 8 a=2Em=2E to 6 p=2Em=2E (ET)=2E At APMEX, our integrity is as tangib=
+le as the products we buy and sell=2E Visit <a href=3D=22https://goldandsil=
+ver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr=
+6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTUTCY&amp;_ei_=3DEq2tf9z=
+s59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=
+=3D=22font-size: 10px; text-align: center; color:=23f98d29;=22 target=3D=22=
+_blank=22>Why APMEX</a> and learn more=21
+                  </h6>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+<table align=3D=22center=22 bgcolor=3D=22=23D1D1D1=22 class=3D=22header-blu=
+e=22 height=3D=2250=22 style=3D=22font-family: Arial, Helvetica, sans-serif=
+; display: table; border-collapse: separate; -webkit-border-horizontal-spac=
+ing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0 auto; pa=
+dding: 0; =22>
+   <tbody>
+      <tr>
+         <td>
+         <table align=3D=22center=22 bgcolor=3D=22=23D1D1D1=22 class=3D=22h=
+eader-nav-table=22 style=3D=22font-family: Arial, Helvetica, sans-serif; di=
+splay: table; border-collapse: separate; -webkit-border-horizontal-spacing:=
+ 0; -webkit-border-vertical-spacing: 0; width: 600px; margin: 0 auto; paddi=
+ng: 0; =22>
+            <tbody>
+               <tr style=3D=22font-family: Arial, Helvetica, sans-serif; ma=
+rgin: 0; padding: 0;=22>
+                  <td></td>
+                  <td>
+                  <p align=3D=22center=22 style=3D=22color: =23828282; font=
+-size: 13px; line-height: 1=2E23em; text-align: center; font-family: Arial,=
+ Helvetica, sans-serif; font-weight: normal; padding: 0;=22><br />
+                  <strong><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4q=
+OAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTUUCY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqc=
+y76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22text-decoratio=
+n:none; color:=23828282=22 target=3D=22_blank=22>View Web Version</a> =7C <=
+a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQp=
+glLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpK=
+X%3DSWTUWWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62n=
+SErW4Cvnamrhbihi=2E=22 style=3D=22text-decoration:none; color:=23828282=22 =
+target=3D=22_blank=22>Privacy Policy</a> =7C <a href=3D=22https://goldandsi=
+lver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzf=
+r6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTUYAY&amp;_ei_=3DEq2tf9=
+zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=
+=3D=22text-decoration:none; color:=23828282=22 target=3D=22_blank=22>FAQs</=
+a> =7C <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc=
+2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJ=
+ry6VXtpKX%3DSWTUAWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G=
+jJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22text-decoration:none; color:=2382=
+8282=22 target=3D=22_blank=22>Contact Us</a></strong><br />
+                  <br />
+                  Copyright &copy; 2016 <a href=3D=22https://goldandsilver=
+=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5=
+EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXtpKX%3DSWTTURY&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=
+=22text-decoration:none;color:=23828282;=22 target=3D=22_blank=22><span sty=
+le=3D=22color:=23828282;=22>APMEX, Inc</span></a>=2E All&nbsp;rights&nbsp;r=
+eserved=2E<br />
+                  <br />
+                  If you no longer want emails from APMEX,<br />
+                  you can <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/=
+pub/optout?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNp=
+vF4qOAa6kFTzgKnaFzbw0hJry6&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWNRdDiai44pXmCsS=
+pFc2cxJVjYDW1sV2Es9fw=22 style=3D=22color:=23828282;=22 target=3D=22_blank=
+=22>Unsubscribe here</a>=2E
+                  </p>
+                  <br />
+                  <br />
+                  &nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- FOOTER END --><table cellpadding=3D=220=22 cellspacing=3D=220=22 sty=
+le=3D=22border: 0px; padding: 0px; margin: 0px; position: absolute; display=
+: none; float: left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img height=3D=221=22 width=3D=221=22 style=3D =22padding: 0px 0px; =21=
+important; margin: 0px 0px; font-size: 1px; line-height: 1px;=22 src=3D=22h=
+ttps://goldandsilver=2Eapmex=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGgLW=
+0P3jSlfyR1Ftzbzfr6n5EHzgWGzgFNpvF4qOAa6kFTzgKnaFzbw0hJry6VXHkMX%3Dw&_ei_=3D=
+EolaGGF4SNMvxFF7KucKuWNRdDiai44pXmCsSpFc2cxJVjYDW1sV2Es9fw=2E=22></img>
+</td>
+</tr>
+</table></body>
+</html>
+
+

@@ -1,0 +1,82 @@
+Return-Path: <barefoo2@newserver.barefootstudent.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id CcVOFiZsCViRTwUATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 20 Oct 2016 21:15:18 -0400
+Return-path: <barefoo2@newserver.barefootstudent.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 20 Oct 2016 21:15:18 -0400
+Received: from [204.152.194.98] (port=53818 helo=newserver.barefootstudent.com)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bxOQX-001SVC-Qt
+	for rresendez@rigoresendez.com; Thu, 20 Oct 2016 21:15:18 -0400
+Received: from barefoo2 by newserver.barefootstudent.com with local (Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bxAZk-0006us-8U
+	for rresendez@rigoresendez.com; Thu, 20 Oct 2016 04:27:52 -0600
+To: rresendez@rigoresendez.com
+Subject: Your Email Alert - Barefoot Student
+From: Barefoot Student <no-reply@barefootstudent.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bond-819fbc3a10f08f0cc9c661e104064723"
+Message-Id: <E1bxAZk-0006us-8U@newserver.barefootstudent.com>
+Date: Thu, 20 Oct 2016 04:27:52 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - newserver.barefootstudent.com
+X-AntiAbuse: Original Domain - rigoresendez.com
+X-AntiAbuse: Originator/Caller UID/GID - [501 512] / [47 12]
+X-AntiAbuse: Sender Address Domain - newserver.barefootstudent.com
+X-Get-Message-Sender-Via: newserver.barefootstudent.com: authenticated_id: barefoo2/from_h
+X-Authenticated-Sender: newserver.barefootstudent.com: no-reply@barefootstudent.com
+
+--bond-819fbc3a10f08f0cc9c661e104064723
+Content-type: text/html; charset="utf-8"
+
+<html>
+	<head>
+    	<title>Your Email Alert - Barefoot Student</title>
+	</head>
+	<body>
+		<div>Barefoot Student's Weekly alert for Jobs in Austin, TX with the keywords: No keywords selected.</div>
+		<div>
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/opportunity/music_bloggers_writers_wanted_1920258829?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Music Bloggers/Writers Wanted</a></div>
+							<div class="description">Music promotion/PR company working with local and international artists looking for casual quality freelance bloggers to write music features/reviews or blog posts. We are only looking for writers who already contribute to a quality, medium or high traffic publication or blog, or can pitch features....</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/opportunity/solar_sales_trainees_flexible_schedules_we_will_work_with_your_schedule_1920258737?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Solar Sales Trainees/ Flexible Schedules / We will work with your schedule</a></div>
+							<div class="description">Premier Solar Solutions is seeking canvassing/lead generation crews. We will hire entire crew as well as individuals. We have 30 positions we are filling over the next few weeks.
+
+Get paid to clean up the planet and help homeowners save money. Work as much or as little as you want. This is a perfe...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/work_part_time_for_an_awesome_organic_food_company_1920258687?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Work part-time for an awesome organic food company!</a></div>
+							<div class="description">Position: Brand Ambassador (Food Demonstrator) at Whole Foods Market
+Compensation: $20-25/hr including commission + mileage
+
+Are you passionate about healthy eating and want to help grow an innovative organic food company?  Do you love meeting new people, being social, and building relationships?...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/organic_protein_bar_brand_ambassador_austin_1920258184?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Organic Protein Bar Brand Ambassador- Austin</a></div>
+							<div class="description">Are you a fan of organic, healthy food and looking for a flexible, part-time job opportunity? Are you also a fan of talking to strangers? Square Organics is looking for a high-energy, outgoing, active person with a passion for nutrition to represent the brand during in-store sampling engagements!
+
+...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						</div>
+		<div style="padding-top: 10px;">
+			<p>Please <a href="http://www.barefootstudent.com/user/email-alerts-unsubscribe/alertId/419292/code/1d5f1dd82d2674778ca884dfbfd4b4b1">click here</a> if you wish to modify or cancel this alert.</p>
+            <p>Max 100 results shown.</p>
+		</div>
+        <div><img src="http://www.barefootstudent.com/count_email.php?alert_id=419292&category_id=2" width="1" height="1" ></div>        
+	</body>
+</html>
+--bond-819fbc3a10f08f0cc9c661e104064723--

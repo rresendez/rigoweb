@@ -1,0 +1,101 @@
+Return-Path: <bounces+972571-651f-rresendez=rigoresendez.com@delivery.customeriomail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id eY3gLQG791efHQIATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 07 Oct 2016 11:10:57 -0400
+Return-path: <bounces+972571-651f-rresendez=rigoresendez.com@delivery.customeriomail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 07 Oct 2016 11:10:57 -0400
+Received: from o11.delivery.customeriomail.com ([167.89.32.158]:17295)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+972571-651f-rresendez=rigoresendez.com@delivery.customeriomail.com>)
+	id 1bsWnZ-000a6D-Gi
+	for rresendez@rigoresendez.com; Fri, 07 Oct 2016 11:10:57 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=hackerrank.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=XrsxpLSHETXEyCYfXNfLHsdAs3M=; b=Rpf3COUmqU4y+3YJ8F
+	ZirIWro9AyAAqX6tb0I4KqTfcBY8hfC6Cmf5NusZHsoFJ0gDD2H+NBwwMbAEXXQg
+	MPozTEVrHPoFAX9SqG1601gyY1Vw57RDZDb8MundFhDvlfv851uNq7dJlvT3gyWT
+	A+00ymiDRrmtO8oUIFzB/Kktc=
+Received: by filter0924p1mdw1.sendgrid.net with SMTP id filter0924p1mdw1.7910.57F7BAD41
+        2016-10-07 15:10:12.001041336 +0000 UTC
+Received: from delivery.customeriomail.com (ovh71.cio.host [192.95.32.67])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id AhXHgNtQSg2efbUDkDGknA
+	for <rresendez@rigoresendez.com>; Fri, 07 Oct 2016 15:10:11.911 +0000 (UTC)
+Date: Fri, 07 Oct 2016 15:10:11 +0000
+From: Vivek Ravisankar <vivek@hackerrank.com>
+To: rresendez@rigoresendez.com
+Message-ID: <57f7bad32146b_3a4f12566c8198308ca@ovh71.cio.host.mail>
+Subject: Thank you for signing up - Founder, HackerRank
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57f7bad317fa7_3a4f12566c81983054a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgZKTEEzHY/9qbIGKikcy/+GKjCDs7dtSll+BC
+ zHjXbNdD5i/mBD7TK+deGKaFagSZKr02l58AXsnwNYCI8geu4xXh3GN9S//mzmo4hd7iLWiELQ3woQ
+ n0WSa+rG+PhuTbGhhLNDeqs/GcdSMYb5Rd8V/VjZjfdJ+akTR7b7tV5vBe2qQ29+X/4ywn/8ce7vEB
+ 8=
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZtIJeMlJ4ntS9yTBKZ9l4cZSZXWJNJFqruKnDTMlAIKwalGgFKhhZEl5hq
+ +kiKNYcO8msoDxCqsx02jubq6x2U6CqTpdAl6WnArCj3xBE/EN2I8C6LDMUHMLeq95EGy5X+4d1/Y2
+ JpNPrZT6iZP3vW40oDaxW8nLXltUIcTzwiTm
+
+
+----==_mimepart_57f7bad317fa7_3a4f12566c81983054a
+Date: Fri, 07 Oct 2016 15:10:11 +0000
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-ID: <57f7bad3203ea_3a4f12566c8198306cb@ovh71.cio.host.mail>
+
+Hello,
+
+Hope you're doing fantastic! I noticed that you just signed up at
+HackerRank, and I wanted to personally thank you. I'm the
+founder/CEO and my goal is to offer the best experience possible
+to users.
+
+HackerRank is here to create a community of developers who love
+to solve programming challenges across computer science domains
+and in over 30 programming languages. We have challenges spanning
+Algorithms, Artificial Intelligence, Machine Learning, and many
+more! You'll solve a structured set of challenges that take you
+through the basics to real-world in every domain in a way that is
+fun but also helps you become the best developer you can be.
+Solve at your own pace or compete in one of our contests ( https://www.hackerrank.com/contests?utm_medium=email&utm_campaign=contests-campaign&utm_source=founder-email ).
+
+To complement that, HackerRank partners with top tech companies
+to offer exclusive jobs ( https://www.hackerrank.com/jobs?utm_medium=email&utm_campaign=jobs-campaign&utm_source=founder-email ) to our developer community. Solve a company's code challenge
+from our Jobs section and you're guaranteed a response from that
+company within five business days.
+
+Thanks again for signing up, and I'd love to hear any feedback
+you have on HackerRank (good or bad). Have an awesome day and
+happy coding!
+
+Cheers,
+Vivek
+
+----==_mimepart_57f7bad317fa7_3a4f12566c81983054a
+Date: Fri, 07 Oct 2016 15:10:11 +0000
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-ID: <57f7bad320dc9_3a4f12566c81983073d@ovh71.cio.host.mail>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Hello,</p>
+<p>Hope you're doing fantastic! I noticed that you just signed up at HackerRank, and I wanted to personally thank you. I'm the founder/CEO and my goal is to offer the best experience possible to users.</p>
+<p>HackerRank is here to create a community of developers who love to solve programming challenges across computer science domains and in over 30 programming languages. We have challenges spanning Algorithms, Artificial Intelligence, Machine Learning, and many more! You'll solve a structured set of challenges that take you through the basics to real-world in every domain in a way that is fun but also helps you become the best developer you can be. Solve at your own pace or compete in one of our <a target="_blank"
+href="http://email.hackerrank.com/e/c/eyJlbWFpbF9pZCI6Ik9UazBNem9XVVRRQ1pBQUNjd0FYRnVrakdnRlhuNVlmZ3hVM0dGZjN1c1VCWlRwbFltVTRZV0kzTVMwNFl6bGlMVEV4WlRZdE9EVXlaaTFoT1dReU56aG1aV0V3WXpRNk1URTROVEExQUE9PSIsInBvc2l0aW9uIjowLCJocmVmIjoiaHR0cHM6Ly93d3cuaGFja2VycmFuay5jb20vY29udGVzdHM_dXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249Y29udGVzdHMtY2FtcGFpZ24mdXRtX3NvdXJjZT1mb3VuZGVyLWVtYWlsIiwibGlua19pZCI6MTkzNzI5MzV9/038101407df7c048f552787579f68a245afeb4a405453bf56ddebd3ce0d8af7e">contests</a>.</p>
+<p>To complement that, HackerRank partners with top tech companies to offer <a target="_blank" href="http://email.hackerrank.com/e/c/eyJlbWFpbF9pZCI6Ik9UazBNem9XVVRRQ1pBQUNjd0FYRnVrakdnRlhuNVlmZ3hVM0dGZjN1c1VCWlRwbFltVTRZV0kzTVMwNFl6bGlMVEV4WlRZdE9EVXlaaTFoT1dReU56aG1aV0V3WXpRNk1URTROVEExQUE9PSIsInBvc2l0aW9uIjoxLCJocmVmIjoiaHR0cHM6Ly93d3cuaGFja2VycmFuay5jb20vam9icz91dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1qb2JzLWNhbXBhaWduJnV0bV9zb3VyY2U9Zm91bmRlci1lbWFpbCIsImxpbmtfaWQiOjE5MzcyOTM2fQ/226ca07971d972c307eff77eb498ec8fc12f2422b92f7e21e0501d6e66c45c81">exclusive jobs</a> to our developer community. Solve a company's code challenge from our Jobs section and you're guaranteed a response from that company within five business days.</p>
+<p>Thanks again for signing up, and I'd love to hear any feedback you have on HackerRank (good or bad). Have an awesome day and happy coding!</p>
+<p>Cheers,<br>Vivek</p>
+<img src="http://email.hackerrank.com/e/o/eyJlbWFpbF9pZCI6Ik9UazBNem9XVVRRQ1pBQUNjd0FYRnVrakdnRlhuNVlmZ3hVM0dGZjN1c1VCWlRwbFltVTRZV0kzTVMwNFl6bGlMVEV4WlRZdE9EVXlaaTFoT1dReU56aG1aV0V3WXpRNk1URTROVEExQUE9PSJ9">
+</body></html>
+
+----==_mimepart_57f7bad317fa7_3a4f12566c81983054a--

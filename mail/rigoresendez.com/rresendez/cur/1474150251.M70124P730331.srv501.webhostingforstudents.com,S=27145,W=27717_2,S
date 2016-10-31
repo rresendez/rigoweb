@@ -1,0 +1,572 @@
+Return-Path: <alert@indeed.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id YRcgBGu/3VfbJAsATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 17 Sep 2016 18:10:51 -0400
+Return-path: <alert@indeed.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 17 Sep 2016 18:10:51 -0400
+Received: from mail94.indeed.com ([198.58.75.94]:54592)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <alert@indeed.com>)
+	id 1blNov-0034DF-O4
+	for rresendez@rigoresendez.com; Sat, 17 Sep 2016 18:10:50 -0400
+Received: from aus-post3 (unknown [10.1.0.172])
+	by mail94.indeed.com (Postfix) with ESMTP id 78F70AB881
+	for <rresendez@rigoresendez.com>; Sat, 17 Sep 2016 17:10:09 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1474150209;
+	s=default; d=indeed.com; i=@indeed.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=aqUfpqwY5GpnBa1EofSOfzUh85mcOUxcPHjOq3XBfZo=;
+	b=n9x8CY9qY8oRS5MBTQ52t2r6BQ5JDuqejN9cNMAhsxAVjKga5jVbWXIE6qDFxn6E
+	9n6sz2XwjMcFyKzL1uxsnBYKV+APhzjwg12AxVFTVmjmDfJ6LFl1cZRyvJtXopdRsmY
+	Fu7Spm0jgDQYLEFY/n0LBHY4FLA/XbwXUEHiio2E=
+From: Indeed Company Alert <alert@indeed.com>
+Reply-To: Indeed Company Alert <do-not-reply@indeed.com>
+To: rresendez@rigoresendez.com
+Message-ID: <1ast3652n18l7cif.1474150209478.Railgunner@aus-rail2>
+Subject: Amazon.com Company Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_99348811_1591948580.1474150209488"
+Date: Sat, 17 Sep 2016 17:10:09 -0500 (CDT)
+
+------=_Part_99348811_1591948580.1474150209488
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<!-- Yes this is wrong (because the base for template loading is now freema=
+rker.jobsearch.
+     Freemarker strips off the .. here, but adding it makes the IDE not com=
+plain. -->
+
+
+
+
+
+
+<html xmlns=3D"http://www.w3.org/1999/html"><head>
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8=
+">
+    <meta name=3D"viewport" content=3D"width =3D device-width, initial-scal=
+e=3D1.0, maximum-scale=3D1.0, user-scalable=3Dno">
+</head>
+
+<body style=3D"background:#fff">
+<div id=3D"responsive_css_ping"></div>
+    <div style=3D"font-family:Arial,sans-serif;direction:ltr">
+
+<div style=3D"margin-left:0;margin-top:24px;margin-bottom:12px;">
+    <a href=3D"http://www.indeed.com">
+        <img src=3D"http://www.indeed.com/images/email/indeed.gif" width=3D=
+"87px" height=3D"24px" alt=3D"Indeed" style=3D"text-decoration: none; borde=
+r: 0px">
+    </a>
+</div>
+
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=
+<!-- using a table instead of CSS for email client compatibility -->
+        <tr>
+            <td valign=3D"top" style=3D"font-family:Arial,sans-serif">
+                <div style=3D"margin-bottom:0.5em; font-size:18px;" class=
+=3D"alert_title">
+                    <ui:preventAutomaticLinking>Amazon.com Company Alert</u=
+i:preventAutomaticLinking>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+    <a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/revie=
+ws?campaignid=3Dcmpalertreviews&caclick=3DallReviewsc?campaignid=3DJobAlert=
+Stars&from=3Dja&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif" styl=
+e=3D"white-space:nowrap;">
+<span style=3D"display: -moz-inline-box; display:inline-block; height: 11px=
+; line-height: 11px; width: 55px; background-image: url(http://www.indeed.c=
+om/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style=3D"display: =
+-moz-inline-box; display:inline-block; height: 11px; line-height: 11px;  ba=
+ckground-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width=
+:40.7px;"><!-- --></span></span></a>
+
+        <a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/r=
+eviews?campaignid=3Dcmpalertreviews&caclick=3DallReviewsc?campaignid=3DJobA=
+lertStars&from=3Dja&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif" =
+style=3D"color:#77C; cursor:pointer; text-decoration:underline; white-space=
+:nowrap;">9,344 reviews</a>
+
+    <hr noshade size=3D"2" style=3D"color:#ccc;background-color:#ccc;border=
+-color:#ccc">
+
+    <div id=3D"job_header" style=3D"font-size:13px; margin-bottom: 10px" cl=
+ass=3D"job_count_title">
+        <h3 style=3D"font-size:100%; margin-bottom:20px; display: block; pa=
+dding: 6px 12px; background-color: #eee; color: black !important; font-weig=
+ht: bold; text-decoration: none;width:688px;">
+            <fmt:message key=3D"jobalert_results_x_new_jobs_found">1,354 ne=
+w jobs found</h3>
+</div>
+
+<div id=3D"fake_tsjads_header" class=3D"count_jobs_separator" style=3D"bord=
+er-bottom:1px solid #ccc; margin-bottom:10px;"></div>
+
+<table id=3D"job_results" cellpadding=3D0 cellspacing=3D0 border=3D0><tr><t=
+d style=3D"width:43em;font-family:Arial,sans-serif margin-left: 10px;">
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3D70cc863c=
+fcc1e5b9&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3D8i0xAbEkuWUhy6dasPEQkXw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Part-Time Prime Now As=
+sociate</a></div>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon HVH</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">New York, NY</a>
+</font>
+</span>
+    </div>
+        <div style=3D"font-size:13px;">
+            <nobr>$13.25 an hour</nobr>
+        </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Reliable transportatio=
+n &amp; a drivers=E2=80=99 license if you are interested in driving. You ca=
+n select your own hours and set your own schedule (subject to business...</=
+div>
+    <div style=3D"font-size:13px;">
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 14</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3Dbf43b1c6=
+c6b65d53&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3Dv7_ZQyGHijdq7ng-cswbFHw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">HR Specialist</a></div=
+>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon Corporate LLC</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">New York, NY</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Advanced degree in HR,=
+ Business, or related field. Serves as a point of contact to answer questio=
+ns for employee lifecycle events (i.e.:....</div>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 12</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3Dc2346580=
+414e9ba0&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3DqZbEW5CIRtWoBiKCtAKLFnw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Shift Assistant</a></d=
+iv>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon.com dedc LLC</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Brooklyn, NY</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Ability to lead provid=
+e direction utilizing independent judgment. An awareness and willingness to=
+ use OE tools and techniques....</div>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 16</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3Df387c0ce=
+c791ac07&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3DPAaURojKT6ZqONm8Ax8BWHw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Process Assistant</a><=
+/div>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon.com.kydc LLC</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Newark, CA</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Continued meeting or e=
+xceeding of department performance goals. Providing policy follow-up, atten=
+dance tracking (duties do not extend to discipline)....</div>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 16</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3D4621c026=
+583aa0cc&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3Da557iSdFDHifE8KX3ILBwHw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Safety Specialist</a><=
+/div>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon.com.azdc LLC</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Phoenix, AZ</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Provide (or facilitate=
+ access to) immediate aid for associates, visitors, vendors, or guests that=
+ need assistance, or medical attention....</div>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 14</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3Df5a3b5a5=
+454dbd4a&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3DFKySy2NCPt7zS3qu5k9w5nw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Startup Community Repr=
+esentative</a></div>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon Web Services, Inc.</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Santa Monica, CA</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">This person will be re=
+sponsible for sourcing leads at startup events and by prospecting end-user =
+accounts as well as ensuring that all in-bound and out-bound...</div>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 16</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3D226877ea=
+ecc9643c&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3DuXuodet8lKfk109nykoqIHw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Amazon Air Program, PM=
+</a></div>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon Corporate LLC</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Seattle, WA</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Bachelor=E2=80=99s deg=
+ree in aviation, business, operations management, industrial engineering or=
+ related field. The Program Manager will be responsible to identify,...</di=
+v>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 12</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3Dee8b7f2a=
+f9703f6f&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3DgCnzoiHhTMQWunrLJLCTYHw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Data Specialist</a></d=
+iv>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon Corporate LLC</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Cambridge, MA</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Bachelor=E2=80=99s deg=
+ree in a relevant field. Demonstrates analytical, problem solving, and rese=
+arch design skills through previous work with data analysis....</div>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 12</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3D835ca4c5=
+bcc9d1aa&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3DWjRP17YOjrNXHzTlrPdpl3w6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Staffing Coordinator</=
+a></div>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon Corporate LLC</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Kenosha, WI</a>
+</font>
+</span>
+    </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">3+ years of experience=
+ in staffing or human resources administration or a related field, or equiv=
+alent years of education and related experience....</div>
+    <div style=3D"font-size:13px;">
+                <span class=3D"job_source desktop" style=3D"color: #080;;">
+                    Amazon.com
+                </span>
+                 <span class=3D"desktop"> - </span>=20
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 13</=
+a>
+</span>
+    </div>
+</div>
+<div class=3D"job tap_item" style=3D"margin-bottom:10px;">
+    <div style=3D"font-size:13px;"><a class=3D"jobtitle tap_item_link" styl=
+e=3D"font-weight: bold;" href=3D"http://www.indeed.com/rc/clk?jk=3D8198a088=
+31c45b73&from=3Dcompanyalert&qd=3DCQk2YADMoRV3Z2mISgIW_aSG-HqDHe-rYmUANLRKf=
+eE-vxuLCX-Ye75JDlPa8Wx9&rd=3Da6R44S_KuUgELf4vBJuwDnw6vq2hnJ7bz-IF2TKOFws&tk=
+=3D1ast365sp18l6a2i&alid=3D5759eee8e4b07e8cbc036164">Seller Support Associa=
+te</a></div>
+    <div style=3D"font-size:13px;" class=3D"job_company_location_wrapper">
+            <span class=3D"job_company">Amazon</span>
+                 <span class=3D"desktop"> - </span>=20
+            <span style=3D"color: #666;;"><font color=3D"#666666"><a href c=
+lass=3D"nolink" style=3D"text-decoration:none;color:inherit;cursor:default;=
+">Seattle, WA</a>
+</font>
+</span>
+    </div>
+        <div style=3D"font-size:13px;">
+            <nobr>$16.75 an hour</nobr>
+        </div>
+    <div class=3D"snippet" style=3D"font-size:13px;">Experience using a var=
+ious technical tools to complete daily work. Technical proficiency/ Working=
+ knowledge of MS Office Applications (Word, Excel, PowerPoint,...</div>
+        <div style=3D"color: #F60;; font-size:13px;">Easily apply</div>
+    <div style=3D"font-size:13px;">
+        <span class=3D"job_age" style=3D"color: #666;;"><a href class=3D"no=
+link" style=3D"text-decoration:none;color:inherit;cursor:default;">Sep 14</=
+a>
+</span>
+    </div>
+</div>
+</td></tr></table>
+
+<div id=3D"fake_bsjads_header" class=3D"text_ads_block" style=3D"border-top=
+:1px solid #ccc; padding-top:10px;"></div>
+
+<br/>
+
+<div id=3D"bot_view_jobs_bar" class=3D"tap_item" style=3D"margin-bottom:1em=
+; font-size:13px; margin-left:10px;">
+    <a id=3D"bot_view_jobs_label" style=3D"text-decoration: none; color:#00=
+0; padding-right:2px; cursor:default;" href=3D"http://www.indeed.com/jobs?q=
+=3Dcompany%3A%22Amazon.com%22&l=3D&fromage=3D1&from=3Dcompanyalert&fr=3Db&o=
+f=3D1&utm_source=3Djobseeker_emails&utm_medium=3Demail&utm_campaign=3Djob_a=
+lerts&hl=3Den
+">View jobs:</a>
+    <a id=3D"bot_view_jobs_link" href=3D"http://www.indeed.com/jobs?q=3Dcom=
+pany%3A%22Amazon.com%22&l=3D&fromage=3D1&from=3Dcompanyalert&fr=3Db&of=3D1&=
+utm_source=3Djobseeker_emails&utm_medium=3Demail&utm_campaign=3Djob_alerts&=
+hl=3Den
+">since yesterday</a> <span class=3D"desktop"> - </span>=20
+    <a class=3D"desktop" href=3D"http://www.indeed.com/jobs?q=3Dcompany%3A%=
+22Amazon.com%22&l=3D&fromage=3D7&from=3Dcompanyalert&fr=3Db&of=3D1&utm_sour=
+ce=3Djobseeker_emails&utm_medium=3Demail&utm_campaign=3Djob_alerts&hl=3Den
+">for last 7 days</a> <span class=3D"desktop"> - </span>=20
+    <a class=3D"desktop" href=3D"http://www.indeed.com/jobs?q=3Dcompany%3A%=
+22Amazon.com%22&l=3D&&from=3Dcompanyalert&fr=3Dt&of=3D1&utm_source=3Djobsee=
+ker_emails&utm_medium=3Demail&utm_campaign=3Djob_alerts&hl=3Den
+">all jobs</a>
+</div>
+
+<div id=3D"alert_reviews" style=3D"width:688px; font: 13px/1.4 Arial, sans-=
+serif; padding-bottom:25px;">
+    <h3 style=3D"font-size:100%; margin-bottom:20px; display: block; paddin=
+g: 6px 12px; background-color: #eee; color: black !important; font-weight: =
+bold; text-decoration: none;width:688px;">
+        New reviews for Amazon.com
+    </h3>
+
+    <div class=3D"review_container" style=3D"margin: 10px 10px 20px 10px;">
+    <a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/revie=
+ws?id=3Dec5e5082aa69a227&campaignid=3Dcmpalertreviews&caclick=3Dreviewc&fro=
+m=3Dcompanyalert&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif" sty=
+le=3D"white-space:nowrap;float:left">
+<span style=3D"min-height:15px;display:block; width:86px; background:url(ht=
+tp://www.indeed.com/images/cmp/star_lg.png) repeat 0 32px; margin: 0 0.25em=
+;"><span style=3D"min-height:15px;display:block;  background:url(http://www=
+.indeed.com/images/cmp/star_lg.png) repeat 0 16px;width:86px;"><!-- --></sp=
+an></span></a>
+
+        <div class=3D"review_title_compact description" style=3D"font:13px/=
+1.4 Arial, sans-serif;float: left; margin-left: 5px; width: 570px;">
+            <a href=3Dhttp://www.indeed.com/cmp/Amazon.com/reviews?id=3Dec5=
+e5082aa69a227&campaignid=3Dcmpalertreviews&caclick=3Dreviewc&from=3Dcompany=
+alert&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif>Nice people to =
+work with</a>
+        </div>
+        <div class=3D"clear" style=3D"clear:both;"><!-- --></div>
+    <div class=3D"review_subtitle" style=3D"color: #666; font-size: 12px; m=
+argin-top: 5px;">
+        <span class=3D"reviewer">Amazon prime</span>
+        (Current Employee)
+            Portland, OR
+        <span class=3D"dtreviewed"> - September 16, 2016</span>
+    </div>
+</div>
+
+    <div class=3D"review_container" style=3D"margin: 10px 10px 20px 10px;">
+    <a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/revie=
+ws?id=3Dd35e12c08f7b4466&campaignid=3Dcmpalertreviews&caclick=3Dreviewc&fro=
+m=3Dcompanyalert&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif" sty=
+le=3D"white-space:nowrap;float:left">
+<span style=3D"min-height:15px;display:block; width:86px; background:url(ht=
+tp://www.indeed.com/images/cmp/star_lg.png) repeat 0 32px; margin: 0 0.25em=
+;"><span style=3D"min-height:15px;display:block;  background:url(http://www=
+.indeed.com/images/cmp/star_lg.png) repeat 0 16px;width:86px;"><!-- --></sp=
+an></span></a>
+
+        <div class=3D"review_title_compact description" style=3D"font:13px/=
+1.4 Arial, sans-serif;float: left; margin-left: 5px; width: 570px;">
+            <a href=3Dhttp://www.indeed.com/cmp/Amazon.com/reviews?id=3Dd35=
+e12c08f7b4466&campaignid=3Dcmpalertreviews&caclick=3Dreviewc&from=3Dcompany=
+alert&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif>Amazon.com</a>
+        </div>
+        <div class=3D"clear" style=3D"clear:both;"><!-- --></div>
+    <div class=3D"review_subtitle" style=3D"color: #666; font-size: 12px; m=
+argin-top: 5px;">
+        <span class=3D"reviewer">Merchent</span>
+        (Current Employee)
+            Endicott, NY
+        <span class=3D"dtreviewed"> - September 16, 2016</span>
+    </div>
+</div>
+
+    <div class=3D"review_container" style=3D"margin: 10px 10px 20px 10px;">
+    <a class=3D"desktop" href=3D"http://www.indeed.com/cmp/Amazon.com/revie=
+ws?id=3D1d050403ced5ee39&campaignid=3Dcmpalertreviews&caclick=3Dreviewc&fro=
+m=3Dcompanyalert&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif" sty=
+le=3D"white-space:nowrap;float:left">
+<span style=3D"min-height:15px;display:block; width:86px; background:url(ht=
+tp://www.indeed.com/images/cmp/star_lg.png) repeat 0 32px; margin: 0 0.25em=
+;"><span style=3D"min-height:15px;display:block;  background:url(http://www=
+.indeed.com/images/cmp/star_lg.png) repeat 0 16px;width:34.4px;"><!-- --></=
+span></span></a>
+
+        <div class=3D"review_title_compact description" style=3D"font:13px/=
+1.4 Arial, sans-serif;float: left; margin-left: 5px; width: 570px;">
+            <a href=3Dhttp://www.indeed.com/cmp/Amazon.com/reviews?id=3D1d0=
+50403ced5ee39&campaignid=3Dcmpalertreviews&caclick=3Dreviewc&from=3Dcompany=
+alert&alid=3D5759eee8e4b07e8cbc036164&tk=3D1ast3652n18l7cif>warehouse work<=
+/a>
+        </div>
+        <div class=3D"clear" style=3D"clear:both;"><!-- --></div>
+    <div class=3D"review_subtitle" style=3D"color: #666; font-size: 12px; m=
+argin-top: 5px;">
+        <span class=3D"reviewer">Warehouse Associate</span>
+        (Former Employee)
+            Hebron, KY
+        <span class=3D"dtreviewed"> - September 16, 2016</span>
+    </div>
+</div>
+    <a href=3Dhttp://www.indeed.com/cmp/Amazon.com/reviews?campaignid=3Dcmp=
+alertreviews&caclick=3DallReviewsc style=3D"padding: 10px 10px 20px 10px;">=
+View all reviews</a>
+</div>
+
+
+<hr noshade size=3D"1" style=3D"color:#ccc;background-color:#ccc;border-col=
+or:#ccc">
+<ul id=3D"alert_actions" style=3D"margin-top:0.5em;margin-bottom:1em;margin=
+-left:1.5em;padding-left:0">
+    <li style=3D"margin-bottom:0.25em"><font size=3D"-1"><a href=3D"https:/=
+/subscriptions.indeed.com/alerts/cancel?subId=3D5759eee8e4b07e8cbc036164&to=
+ken=3DCkB-GiwyTvP2RL5yck-MMcgbtZw3yGhRJ0F3xSLFbN_8LpwddbadpW3XpH0nem2WghpGJ=
+w2S9zyDEnq-MafRplAvEiD35I14NF9M_gQyiC-mpX84Jq9UGVSUkiYbN-mpUxHNBRoQQuDjAw-h=
+b2K6czmb9lOO9g%3D%3D&co=3DUS&hl=3Den&tmtk=3D1ast3652n18l7cif&rgtk=3D1ast365=
+sp18l6a2i&from=3Dja">Cancel</a> this Company Alert</font></li>
+</ul>
+
+<hr noshade size=3D"1" style=3D"color:#ccc;background-color:#ccc;border-col=
+or:#ccc">
+<div class=3D"indeed_footer">
+    <div style=3D"margin-left:6px;padding-top:12px;font-size:10px;color:#00=
+0;">
+        <a href=3D"" class=3D"nolink" style=3D"text-decoration:none;color:i=
+nherit;cursor:default;"></a>
+        <a href=3D"http://www.indeed.com?from=3Dja"><font color=3D"#2164f3"=
+><b>Indeed</b></font></a> - one search. all jobs. | 6433 Champion Grandview=
+ Way, Building 1, Austin, TX 78750
+    </div>
+</div>
+
+</div>
+<img src=3D"http://www.indeed.com/imgping?type=3Dja&tk=3D1ast3652n18l7cif&a=
+luidhash=3D5759eee8e4b07e8cbc036164" height=3D"1" width=3D"1">
+</body></html>
+------=_Part_99348811_1591948580.1474150209488--

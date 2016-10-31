@@ -1,0 +1,1765 @@
+Return-Path: <bounces+2943270-8673-rresendez=rigoresendez.com@mail.announce.fiverr.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id CZklJaVoAFhGRggATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 14 Oct 2016 01:09:57 -0400
+Return-path: <bounces+2943270-8673-rresendez=rigoresendez.com@mail.announce.fiverr.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 14 Oct 2016 01:09:57 -0400
+Received: from o111.mail.announce.fiverr.com ([167.89.95.39]:28741)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2943270-8673-rresendez=rigoresendez.com@mail.announce.fiverr.com>)
+	id 1buukn-002H2P-8h
+	for rresendez@rigoresendez.com; Fri, 14 Oct 2016 01:09:57 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=announce.fiverr.com; 
+	h=content-type:from:mime-version:reply-to:subject:to; s=s1; 
+	bh=TQ6c2cSIlmw6RKGbzhhCj72H19c=; b=jyTthpdzzLANRxR7kRDZvOqecyo1Q
+	squ0BTANOhh0ZiKrMKKuGJEMyDqiYPo6ikzYqFSkPibm3yUbLSHJoIHZtBROoZS3
+	pUqY/rnTigVCKwA4EkLqJOLnGIF7QJa4iktGlBwQhKhahbG5rAj+N99kivtjHlt0
+	71Xg+aagMZzNU0=
+Received: by filter0633p1mdw1.sendgrid.net with SMTP id filter0633p1mdw1.8421.5800687C1B
+        2016-10-14 05:09:16.382206327 +0000 UTC
+Received: from Mjk0MzI3MA (ec2-52-71-255-240.compute-1.amazonaws.com [52.71.255.240])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with HTTP id sFFvfP7qQd2A6zPxYHb3xA
+	for <no-reply@appboy.com>; Fri, 14 Oct 2016 05:09:16.327 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=6a1a1537b12ca33d9e53d72f483fafb8d31a59cd201f1c09f20ff62c2bf5
+Date: Fri, 14 Oct 2016 05:09:16 +0000
+From: "Fiverr" <no-reply@fiverr.com>
+Mime-Version: 1.0
+Reply-to: no-reply@fiverr.com
+Subject: Welcome to Fiverr!
+To: rresendez@rigoresendez.com
+Message-ID: <sFFvfP7qQd2A6zPxYHb3xA@ismtpd0003p1iad1.sendgrid.net>
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgYjxZdfOsyXROb3uGJGwcnDsj/+oHcID4n4eA
+ 0g2O7nMDXcF4IZG8OkaWAp6TS2NeWFOtjSIcwDgLzj2ccY8NlL2KA6kzotNy6tc99i01ObBgUYKCEU
+ 3Umz75FdFEjS1OIRih53CqaOk8gnpTByJIwUZHJw6K+iU8XCmvQ7TExUmRAUB2i9xVZtG8k9+9Bb4V
+ I=
+X-SG-ID: YH5d4/1v5/Fxu07BGLsJZ8bhCxOMCrEL+NMIwEzW6jUfkAFib+5UBhTLZpzUzZ3mHG2AV2syMiZCKS
+ Tor0Snp+Z45PrOQAz+jOTvHit1rRozJJSD5t14/2nBaFnlPsYBk3vwRLzNqtgYGhTbb4oA0Yc64Eo7
+ WBTEHj7IXk+GmSDaCvTt4yBK+jD5M4dKZ+4C9rp3KZtcEPL44ugzbJ4tDNsucOjlg9ba7uk0ZSZksz
+ v7ZVsk9bhwPkoSUf7pB64u
+
+--6a1a1537b12ca33d9e53d72f483fafb8d31a59cd201f1c09f20ff62c2bf5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Welcome to Fiverr
+
+
+=20=20=20=20
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6bo=
+ETrpX6G-2FEbYtiDHT60hwIShC4wkPbmc6O6ON4mGznWyXMMAALyGttiNKyEFqWo2rhUGB4FlXr=
+52flARWAYh9lsE4aayaM6TXkbXFxHvYF-2BnHwSTiecnJ-2Fe4U9hQ-3D-3D_xb69N2IWj9cpa7=
+VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQ=
+FUZAd6Ve3nYKQ4NGi8NUxBSVpaduGWcLVqdl4Lfhk1M3zvzX-2FFmEnmIRp2OBPWbzqhZRxdS4l=
+GjVfIUjf3aqsJCPFfupnke0k7pVe5xwvzZ-2Bjw50tTG6J6vO9GYMkkGtxGFkU9sr3-2F-2BvSp=
+C4LS5dyX91jpsQ7RGb0-2BKmS7DKy6z-2FFkg7G8wxrnitc-2FuhpzCmK-2BO-2BhuNxEEZUI9g=
+80Q-2BJ8gay0CSoENWTAdMHnwtLdjs5qw90FWRzEz2nn8OIAnKA7ogGY2gTawt4zTj0Fs7y0pap=
+eFO-2BFgdH4F9T-2BZUQMHyoiKl9xrRlck1K-2Fch6I-2BsBXUQxs1D2ImRMw3sCSrZeMFmssPy=
+Yy3gv4ENB0K4EwnE3emBScTndFXcy-2BiX2LwJTUXtau3A-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6bo=
+ETrpX6G-2FEbYtiDHT60hwIShC4wkPbmc6O6ON4mGznWyXMMAALyGttiNKyEFqWo2rhUGB4FlXr=
+52flARWAYh9lsE4aayaM6TXkbXFx-2Fq4YmDleRGZnXwFjbah1uA-3D-3D_xb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFU=
+ZAd6R-2FSHlzI1vDl5H4mjErXGUw-2FZ81j20tar86Obp5iTpxZeHuxRlj3pJOo32SJIGs-2BIy=
+ctxep5pTFH7cSRUa6PxjulsbTbE0QGfHE0-2Bngbt-2FslWL7vMnHnfW51KgCEeOC0nGSVfxYWi=
+SXk-2BmEKTsApx-2FWF0QaHmNN2D3e98lBcd9r1SfSkh1mrbuFesBW3Akcdpbm5-2BE9uHbe8n5=
+Tdpkjl5lr9LkDA6fpBfqzCKvI1yzcWfs18QvO8kmq0LRSkCUUC9fGIg-2BZEClxpexyKQaODR0I=
+OZhsSDi4irw3JOt84EIEzwvUJCozkcOYSkGOo2ZQLZ8Pf6Hbo2Y6JKLN8uZMscBOMiAy0ormaaf=
+SEO6kDzAqC0fKT3EEiPh2eq-2B7V48PV1Q-3D-3D
+Hi rresendez,
+You've just become part of the largest, most affordable and easiest to use =
+marketplace for services and products!
+It's never been so easy to get it done
+Browse
+Get everything from custom websites, to fresh original content, to stunning=
+ graphics. Whether you're building a business, or just looking for somethin=
+g unique, you can find it here!
+Buy
+Just order a Gig and the seller will get right to work! We make it easy to =
+purchase from and communicate with our sellers.
+Be done with it!
+It=E2=80=99s really that simple.
+Ready to get started?
+=C2=A0Check Out the Gigs Now!=C2=A0
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6bo=
+ETrpX6G-2FEbYtiDHT60hwIShC4wkPbmc6O6ON4mGznWyXMMAALyGttiNKyEFqWo2rhUGB4FlXr=
+52flARWAYh9lsE4aayaM6TXkbXFxI62z2LHj94EBQZOCSrLIKg-3D-3D_xb69N2IWj9cpa7VY1j=
+z2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZA=
+d6SdDbpDTZsc0Zx2CEijFMTy7cUanycRqxGcjmjO2mH-2F0-2BL7kOnjCLW8qvlSfkRAJF9EHLu=
+lHPLYembO9AB7TCkOVCGDQOfL8VJrs3Gzfot7jUM8tY6-2FHsdfOC86bHRoZozSPzd-2Fe0WhSQ=
+BzRN64CTlFaPIPdUbk8G7-2FajziMi2GIj7zGK1UfaRLr9nP1XqOwXMkFc-2BUMOTMA0dbp6zj2=
+UlJZG-2BXyDgQ7vCZo1hH4I-2F-2FUiOkJT4E99SPNiWhN3uZfcYaj5VRlGQ9qmHoxoeUPP1EQj=
+Hk9p7d3o1Bl4PDexZx3pKl9e6mKx-2FVxZRV-2Ff-2FRaiXAwqOh2i66bI3sJIW-2FmFWuxJlxZ=
+wBrJWBda4I2T0mflxZNbB7vm9hFpiPrcA95sNg-3D-3D
+Do you want to start selling?
+Create your first Gig
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS9F4RyI=
+DNWOf9KM97ZVd1dF-2BiruAoRM9aeORICA8jFqFMqQ1O9OCMldwd2ClzwTPSkSOxUnWGiQkmzOI=
+EPIuJTybHuDQslo63vSUICy6iWkm2HmBNYao1wXfO59AUUINLs88dsYV-2BC3P-2B7ADPF8SSjB=
+O9YKjwP2Kuiha3jKs58vYS2tUDgnZQG33rzKse8lByA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql=
+-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6dlVoe=
+Zw7-2Ft-2BcNEueTFpETBB6BL6MPkmhjhCxVbKvRcTvO7v2EZk0P2zulQhFZ5vkjpvmfz0HMuf4=
+Fp88lZCufE4WQwn2vaqsOdVtfTuic5gD-2BpvEwm5qTn9iJnLAgXiTXnSd6I1QqaKiA6-2BwpSt=
+mv8yGqVCF9pydjtpxGGao8Ng4VmtGuRzgR7162P99LsQK78Zrv5Mv3p0XqJNkJ1RdXxPssWVNQB=
+X1myDm0dYn0CXOCw8dQv2mv7tibKCUrPpMDjCunCIRgiYqNJEMro2qUuDl0KDb4iR29sZk0crxY=
+cUkMHz8dra5hm7VnmvUHGgEVNJEy8MbwTejwkLljrvShi8NEnMhTBmhFRR59rj3WtcFqhT9ia01=
+l9VqGGQ9aKp-2Fw-3D-3D
+You Might Also Like These Gigs
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9y=
+EDg8vfS7mL5C99TwpKcSYMoZIqZlPDiA3e2nDKv8LDc-2FIrjbHKIM2m5xoDARwUQnzaO-2FC1k=
+NgngS7cdGJ-2Be3SnXN-2FXeriHSdEnXxu-2B63-2FUrC4C4EDWG91MZi0-2Fc5HJD3O-2FbmaM=
+3SBXMkQM2pv6WdVs4lBFBLj0rrLa7KTSX4OV31TLysuPTE2T2oZWyEQ-3D-3D_xb69N2IWj9cpa=
+7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPag=
+QFUZAd6WPkGVj3tFDzEi64ayJdzBd8Zlj8AH0MJu0gjnyrjfa2LlYTNgaF7Xxn04IAIW9vQjbu6=
+nk-2ByfQ628KKYESG6ytrDnKR6OJ6zlW99iQI52lkN0tNnMBY-2FenZNNJYQyTYl1Tt-2BEPueL=
+uQTSeLcMvWr7rcv2lscXV-2FwM4yobTAuRFOk-2FdOqEwWip-2Fx37SPwjhBdHDdJrwZtwpAYeb=
+DgdsnHC8iPYvE5ZzGWVWVEzVe8pGTIk7esHDmA-2Ft7-2FJpq7Q-2BkO-2FDFyw9tbdWPEm-2FA=
+uY82kDSj5AfgZ0ZEF5xmhvtynnADhKyIwXx049QMeMmZ-2FDwkRYTIr0tLbYImtYLioi3AiKM83=
+b3QZIkDLteKGjFXESEcp2ANByfxe-2Bk5hUMFMB5lfg-3D-3D
+I will=C2=A0record retro sounding live drums for your song
+patkinz
+=C2=A0=C2=A0 (65)
+Order Now
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9y=
+EDg8vfS7mL5C99TwpKcSYMoZIqZlPDiA3e2nDKv8LDc-2FIrjbHKIM2m5xoDARwUQnzaO-2FC1k=
+NgngS7cdGJ-2Be3SnXN-2FXeriHSdEnXxu-2B63-2FUrC4C4EDWG91MZi0-2Fc5HJD3O-2FbmaM=
+3SBXMkQM2pv6WdVs4lBFBLj0rrLa7KTSXepAtv7SG1Z5-2F-2Fn2zFD-2BNdDyPhXs05ryouGcA=
+iQqacbM-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2=
+FnT-2BmalpJ6AYILUoOSAPagQFUZAd6ff3KWRkDn2CGfXlgYZs-2Beg3RxUYgDEG-2FnfOIlw6i=
+nmpWBQcPrydUUX7tB9MJJu9RHKG65D8uDB2LCRIE0m4U-2BTVqC5QdUSfKYEo85th-2BHdNwuC0=
+eEyvz0amBoeXO0xWWY8Y0FsIi-2BskM1QWFKpFsi3ZloFEiMdC4biDoCXgbtj7e8iV3LuUp7Z2q=
+Joj8N-2Ft5wIe-2FRYljLsTyai2cAjvBSViy3rERsOpgz7uZyBtEdtnWlEgjvG-2B6BpRenUnOc=
+-2BACdS6dxXP2jdTbbcJewuciFZru4dFX-2FwVQFLcArwnNL38veoIAOYcYLxuxPOpZ8LQiprqb=
+SyQekax925yDzlfdkXMDQSTrfIyAV4oBOdWSdS5SkOyYb1buNNlrjPoMj3LyQ-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSwZx2Hr=
+9525zI3WISPF1zAZCX8vr1TcJN4xoNJGm3ze6dr5BnRFqDGtwyPtktENib9edOEiLah0qBxXnrB=
+QWiYqCLb52CEWCTSFe1HAdfB5O7m0jRi3Wd0Ja2kbOowinKd5zJvJHPtj1SVOLJUaqW9rz3hXC2=
+HyUTqHi5iD9J9T2l7LRWMZQfcPyie-2BVS-2FNkaw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2=
+BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6bepm892=
+glmkkO9T5hlRcovYZukOr-2Fn2uK1aGUW-2F-2Bkn5TdvJkLc9CXpVhKRonDOsGUl0a44hK2V8s=
+z3mSJ5nxHqwPKgFCDkAJstV8KkIbutj0TKyptnmdpGoTQK8UrexP0rPc5aEs7773L-2FWh5ZKsF=
+yV4Ug5ayvfLknPjk1VEHR7hzM-2BGhqE3TgJw6AgFEXqrCVWfeLq2UzUKWBGSM2CPjAyNoCKE-2=
+F2KAIX0lw0q6-2FMFWZmUtKyy8zpRPuFvnKnXsBmL7RMUV3GWJAJFk97mKvf0a6Ll9E-2B-2B0o=
+2mPDoHRAKIgo1c3Vd5zUvKBz3QlGP30TCVbvIucLlAfhnJkz8mePL7EbnGBWXsVfnogYgsVrRB8=
+78SUHUP906LTJT99w3Itw-3D-3D
+I will=C2=A0write a script for your video
+shivettes
+=C2=A0=C2=A0 (141)
+Order Now
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSwZx2Hr=
+9525zI3WISPF1zAZCX8vr1TcJN4xoNJGm3ze6dr5BnRFqDGtwyPtktENib9edOEiLah0qBxXnrB=
+QWiYqCLb52CEWCTSFe1HAdfB5O7m0jRi3Wd0Ja2kbOowinKd5zJvJHPtj1SVOLJUaqW9rz3hXC2=
+HyUTqHi5iD9J9T2Op2AT8ywNbNmPvRU3hkyzA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2Btcg=
+Q1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6SGFt4Xj8Hie=
+U9zZx-2Bz4OaGN4u5vBENdiefTwtC7E1O006zEOh-2BKI9cOjkkApI5WkwROCBgPjCv0lSaaizx=
+6bwMteTdkocQ6UZU-2FyBJ-2FrhWJ7FGWxVfW6U3Z0VCJpLeckKpaclPQmK-2FTAnowHOqFgOQm=
+ygne2bcpO7K9CfvbQKfpRwav49KAzbLrAXTuUjTecqMwhr-2B5Q0AQScXCozPuN2pBTLrf5ndiV=
+1eLMfCqaWruR0ZnixqQutJfjZCGMFB7DbF9DxeRy7vLlgpG5faD148UH8J9J0QYHN-2Bd-2Bonw=
+feHItRyQI-2BP5Bh1fLv3MsCoTPdZ8YGd4j8tg8Ik17lDiyM-2BKMkxsdPLjaMKexwBucWwdV8i=
+o6J9060LurMI7IlwJGg-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9y=
+EDg8vfS7mL5C99TwpJ-2F7ge-2FXD5CLS3otnWCWd4IrMkylkfYODgn7LhMzwkS-2FvcoDCU5GY=
+4pzgSTrcXX6z-2BRY0HrfqSg6LJuubX7oLjZeoArrBsamYhZT8-2FZ4EGZw0zhpB8X21TiA8NHm=
+u3aoNIHyc-2F0dWVvJCU4W4goYcWjwtyQeU57k648sSbas-2Buabw-3D-3D_xb69N2IWj9cpa7V=
+Y1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQF=
+UZAd6WaIHhcX2sYm-2BL9e7flfuC-2FcMF9zxNx5zKwkQm8SD9XIBocgYuR48Rliq4PHLF1mZiH=
+2zyCloFcPfjB5wExzoG5uI9AVKxHCMqeMspp5wrDUJY6DQC5pVGAEae27E-2FDtAXsAsRgjpUI1=
+WJDDKZIiNnXenjxSjit0m-2FZ06ek4PdxbdAxVE-2FJyz4Z1T1KSNGgbduLUCqTob-2BV1K79VL=
+k9QS7h5Qcw7x1Xt5Z32-2BLDfSUyg-2BxvcC8PPdhrlfcbOJANlCQaGHkd5kAUJOTHmHEH4g6TZ=
+N1M8GH3P3I0wE2LJBXp8-2B-2Bw54oNxvqT36urEg-2FG2f3NmQVsWAJv6yBf5hjhDzu7FUCgRt=
+7w2MOUv4JuW5dTTdzkUJf0D2IRzJoqygKuhuA-3D-3D
+I will=C2=A0write 300 words of unique SEO Web Content
+pownzor
+=C2=A0=C2=A0 (3597)
+Order Now
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9y=
+EDg8vfS7mL5C99TwpJ-2F7ge-2FXD5CLS3otnWCWd4IrMkylkfYODgn7LhMzwkS-2FvcoDCU5GY=
+4pzgSTrcXX6z-2BRY0HrfqSg6LJuubX7oLjZeoArrBsamYhZT8-2FZ4EGZw0zhpB8X21TiA8NHm=
+u3aoNIHyc-2F0dWVvJCU4W4goYcWjWM59w-2BkwKeQnD7N4crM1qQ-3D-3D_xb69N2IWj9cpa7V=
+Y1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQF=
+UZAd6Zok-2FaDegSiqjAG0MFwmlqnGz35aS1XjwksuaxixD4fc6YRlNU0dquOkrCXhfmL3tkMAW=
+3UuTxvZ5zfzLmTu6WhAaqgEY-2BmxV-2FyT87LQiWQF08WenXTwy49oRio7LUFeo63BQqQHuZlg=
+6Mo29QPfz6Ze4-2BS0OgQ4Ij159SzKQHisO6iNmo80iS9WafcG1BrDFRCwFqt3m-2Bwkc3xLt-2=
+FgHa2R4rv9wkf4iFg8RwJzFIXUqNEdv2QMfAdY5f5cHUm-2Bjc7OexXhcClRTWWz1g-2BhbwHY7=
+eqKpTjpgK8DZtNYjR-2B6bk81i42LCHpczhdfJNLGrw-2BENPm2YRCR7QZVcfHZeuj5WjQ8rVRV=
+W0yIwQABPSLfshptWQAkqVSEh1cXldGvkDg-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS986sa2=
+x8IkEMpw1LI8M-2FSDDDG9CqpQ6Sk1mRelbHJnO1cQOf6RMRl-2FGWZWOXQkl-2Ft-2BvX-2FKu=
+QdhlXyVOPqdXBPZgxOLZ2s61icvpqDPiZEBTKQ-2BcgL4o4xs7hcK9C77SIUPOx9xTHwWaH8EP1=
+g5KV-2Bawk-2FF5zmLlXGTKkl6RO8eRUwjLA3mprwGQgUqnY99R5w-3D-3D_xb69N2IWj9cpa7V=
+Y1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQF=
+UZAd6dujC1lOqE5xBP3HoYO-2FMx6hlSAUBwdTTgo-2F3-2BKJ7ZHeNwKfpEpPTUm2FFt-2F-2B=
+Yq-2BBRZnPVHFMSiaGKbKsAKR6OS4-2FOnueku-2B4RbTW6zZ5iQ66VxFS0CqlgdPUWOMezDC9t=
+zDM6dCNjhPlmlFZjYc6ouHzQcgeocuYPW9NYzOf4lCNsZ-2BVsytvPj-2BpzF33-2FWnMRhijDU=
+06JiAkPY2Sb1i0JB7Ct1wkPwR8KZXhe-2F6l9cQV4igzQ6isZ-2B8vyxcD3VY-2BEOamB1w-2B0=
+3sZK3OkdfHd9C3t7inKo20JFzF5KpZv798ibz-2Fk4UTAWPXvnUmtsRV50-2BA46RpIbTDpNbGF=
+2UmxzcpDmIsgPvRwr6TD-2F56Npzw6rOK89hdPqasKh1HX09r9A-3D-3D
+I will=C2=A0design a trendy brush text calligraphy logo
+remmacapagal
+=C2=A0=C2=A0 (141)
+Order Now
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS986sa2=
+x8IkEMpw1LI8M-2FSDDDG9CqpQ6Sk1mRelbHJnO1cQOf6RMRl-2FGWZWOXQkl-2Ft-2BvX-2FKu=
+QdhlXyVOPqdXBPZgxOLZ2s61icvpqDPiZEBTKQ-2BcgL4o4xs7hcK9C77SIUPOx9xTHwWaH8EP1=
+g5KV-2Bawk-2FF5zmLlXGTKkl6RO8eR1PvZD45jW1-2BQdyxgQPxWQQ-3D-3D_xb69N2IWj9cpa=
+7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPag=
+QFUZAd6cHnMwMcMBnBGDhRNn8FnEZ3kn-2Bu-2FefwFmEZeyxJ4bMO8atAMhhjdiq4hnsQV4CF8=
+OkjmfiZnuVvaxLaM5-2F0HdRN3lKbFafE5XFbhHpDo5wYTpegi-2FY-2Fj8lRW1ShMmUjq6yzWw=
+sz19kPECemWd0qdh9jAcCeEQZ-2BjAflKIQ3Fv-2B-2BM-2FOQn7xz66aWeKXyGGPbIFoOQMo5o=
+QRMsLQoqOKV-2BZAkhtT16FMsQh-2FtCQM16nX71GwhWhsptSKJX-2BLiHrJkIWzW5iv6Ny9RmW=
+khcZ5ksLBkJAbRg1x2TDaUDO8mcja0kMY1m6nfBn0dS7oSC1hwNce-2FG4UYgu39lzMw8vozHYB=
+sL6mHAlTD1hjUafZEVl6B8JkifCxnM1u3y4nykdvtvw-3D-3D
+=C2=A0
+All the Gigs you need, all in your pocket
+=C2=A0
+=C2=A0
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS5ID7ex=
+RzjRVtWj5KsOSUJZL2Vovq26Rhw1hUVNfjrJ20d1J3hpCShSl-2FkXu-2FStQAkNpRLGkTea-2B=
+vTM2BTG5XtDMND-2B8oFBsHJ6fzoxjZ6t-2B-2BoCmKvVx-2Fyb49NW0Ouh1pRbGV6gcpAjEB71=
+aiOIxyiRmMQFQ2EsGaO-2FQTl9c0V16_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351=
+hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6b3J-2FX2-2FJLUO1NKgqOmU=
+ciTiSb7xFSwZeu9cCklqyDgl7CUrsGoCtU3zhfsDrTHSb8ukRpYt6HWYFO2zw6h1zbTmyiUXh2u=
+Fi9t59RN2InAKxnBjaE1NNw0-2FHRTyQ2-2But8QEljilKCLXHOnkECLkBvEnbizxYm-2BoEKz5=
+0zwcXu-2BI-2F7zM8aUrulotSwrdlgFDB3NWyVXZn54hMzW3t4IP7MGSLm8tp08vZwC6dfHvWay=
+jZYpJpo-2BIe9HcvC3Zr21yfQ5bWRUPngCNkCbeHcpiU70xM5cwkvhEGFSJe9gAYf8NbhOWMUI9=
+hwPjW0YWEWNplldU2E7tNDedCAYJEOsfMEHEJdA2HEVoD2emkE7LH09tavbuhjVhb4gpAEPgVaW=
+qmQ-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSwWEimV=
+azWZCp-2FmmhACxy-2BXefkt3zKM-2B1p-2FzQL8b0VJeE9012eQAppJaJqPz7kdY4t-2BFy1Yv=
+ERZ3GTXIF8FMwWK-2F1LYrHtJ2AwlKBvijqkt8OjEMvF-2BAyVKFmUY-2FGOckNpwztDU93VL3V=
+4TdfHed4CdCWCVr5FVHQFBe36gKqEMr3jmsjoXXVpB7BY0J5H0jKQ-3D-3D_xb69N2IWj9cpa7V=
+Y1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQF=
+UZAd6bKvuBukpYZxflARQKiHOlgylXjH1Vuhn-2BE9uYjmnj5T0d0jcJXe1wwIs4apFC3ZTbHHo=
+DE-2BbLa0yc0JywJcZiLPZeHHUbtyehCH5IO19e33tr4cweGaFi65OqS7ZErX4jOy2yirbQC3w9=
+77oI6-2B0V5aNiAoSdHrJgon3bS6-2Fza-2BFLziWFEZbFFt4gukekEd1oeHJOnDazzoGJ7z2JF=
+M89liRHr8pRCBUj-2FKsQ2vyupOcgEjykLjY6HAGeBxFljzufxZUvsb94SOnoMi5eoG7v-2BfF4=
+7egtagx2ZXDuRhSEcXQrH20M9-2FG-2FzVFYwdFcsJ7EcT1-2BeI1Ho-2B41tZpP9J4nLkRe6Is=
+VD1oZuM7mRom54WuVLKe2xpnhCqqEN23T83OA-3D-3D
+=C2=A0
+=C2=A0
+Love Fiverr? Connect with us!
+=C2=A0
+=C2=A0
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1-2FU6=
+V3T5Z8cl6sVd2LmyMRlVa8EowE7qZBmmk-2FJjrSn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1=
+b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6bU45PDFCs47b2=
+de23WIln2Z-2F0y2gV6uA07-2B19dT6ZzjZk02uHKiEWkohR1AejU-2BM5jFiKU0gJVvxDctEOQ=
+FMfvltmDfn2FlSsEnOi5RwatGknNSkQUOQD5UZUZX16esgGvfwMxT7fGjokKzKyUViMS4Eszovm=
+SJ3w79TcfTfIyoAb8XKYhB4PYz0OhdDqbM5g1zU7FH7mTiMRw9ynrhlk6itJUPz9Wm6a6FkORe5=
+m8DvepaeCG-2FiZeq76mmS9ZiDJedSquy3kh0wWFN-2FZFYSg2WmJfEXnidfM896NopIFxHO-2F=
+29Q3NNu0pYkrsqwXC5XYVBlVYXVA7-2Fw1HrL-2BcN-2BOIIk5b948hcfOWcXbGY3xGokyDTWqI=
+-2FuHwdvZlZv0-2Buiw-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS8gb0r6=
+oMlQ4a4WQVWZ3mDFz6eqHS5pHGr0B5T-2Fsl6cs_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-=
+2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6e97mXdcOEZcCE9G=
+nkBTgL7jVO3jrkh8q0i-2F4hRXJR6-2Bxr42Wjxd6mh9L5uET7srE8b8n-2FnNnY3fXZWao-2FC=
+AA1CY22fU74xMAPozDhiWJFaznjqIute-2B-2BwYHw-2F-2B4el5ROKK8AlFEQ3UxRevJWDou4Y=
+Th6cOlymtnZL1AADRpTU-2FdCwzhKnAuphiKapPOYD2Zdp2oxrKsjMLnN-2FnwlSrHiFRs08YS2=
+E6DptCV9Od8TMhU-2B-2B6vY-2BfQ0gshmKFBHnNVfHI5HjlaeG1Va0JZDMDAfxWQaAec8CfZB4=
+MAhm0WE63kBpV-2Fa19NjqFTpAyrAOBSKj9um-2FFTN7QS-2BFhJeaV6WxTKESTChJx8Pl3xI3h=
+U-2ByDK40AZO2TMaDQOEyHinXQNyg-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3Dn1w3wTUEUQaHcZWvzoqa8dHLRbH=
+tddtK6Qqo82Kc3knJQJsvIZ6kGSWPrx2bImHz_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2B=
+ZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6etgO9n4PkAmWAWmfZ=
+dFCytqw0osClJQKQ2H8PytDYTHeKGqCNmNgwnwM8W9TT0PHPUgBg-2F-2Ba391HENP5IHppDTi6=
+4sRfv4rsp8tutzlzx-2BmH2AMjXBZ1E2p-2F1h2YJ0M3rfCeYmmGqUNztu8fcB-2BuADlXI2xhw=
+BgGROH30aAwghGkIclnz54zLm-2FjBMoC5sNmbJir5HQW0LKdIRoU6PvAdXuTzuFmaSMspK9OoV=
+pCrlPr5nxfoRssRZyF7cYVYrJpjrhMeH2199mYpF7hzt4ldfLa8zFkhWF8-2FBCCI-2FW9R2b1e=
+-2BunQ6HxKa4nMzyNiRa2YWV0-2F5F5kN4mGOpKS-2B1tO0iOD-2BE4OIbFxvCtPZ1oMnQ5yQv7=
+Df9vJ8rWgIYY1U1ag-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3DTBWBtyiatXktgh-2BBJwulu4Dtp=
+FlaWTkoYwID-2Bb6ueenV26qXhkPRmS0EGY8Q0oTOrc9Og2TZf0Tu1aR9FU1U3Q-3D-3D_xb69N=
+2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYIL=
+UoOSAPagQFUZAd6WfuAb2VCjEQsnOnnt0nahTkpSV9BaSINpLIGXQQE9A-2FnjL8hUOCHVizBsr=
+YqFVdUR981bqHECI94R-2Fg4MLlpxNwWFDGjjU-2F3-2B1Evx-2FxCwwhtnfNOYdP4FgheWHPN3=
+1rzxF8USUA0zGbNhQu-2BZv2B3H-2BPP1azFl-2BsHDB5A-2B7-2Fk-2F82MnZ2wVj3fKS9Ayh5=
+-2FX8X50NYyMitzJx4F5Au-2FXLyqZJWSlg2XqxP0H604RXhY2uiKjN2oc4vYgE-2FCH4hVU8r5=
+SwmplWLuAU7GXSxHSM-2B1ld89zB7608-2B5vD8QoDbdqq8WNk7k16-2Fj1VulA6pqDtnaChjlp=
+UPT-2FPzZCZOlM2OUmX4zAfl5CFnOwdGCR2mzLyhcbJQ6B-2BJ3IgzseLeg-2F3KQ-3D-3D
+http://links.announce.fiverr.com/wf/click?upn=3D88D1B49n1Re2vVY9pN-2BMuF473=
+oF1M2EI-2BWUAJgPDRIFxq68C3UGmZ6oVKF-2FQgENV_xb69N2IWj9cpa7VY1jz2n0Hql-2Btcg=
+Q1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6bLB1j4JNhMn=
+9jxRmPj491tPscN1wHg6vmZcA8R2NzIl08uWFPe6amXrtPH97257R13-2BrAgPmbEz38yfTp-2F=
+8K5pwFg3QDsv1ngHVsazMJ55CNAniDvaVRuTz1B3EGfaYz0tkGkaGeYVzmcZTewUg9tkhujaoS5=
+BHUDHBqewdhuBThPLedRAU5OKHwQPyThgfQUqYGmNDNEhxAmsF-2FpPEkUYA5mWenhBncZr8E19=
+MkTUKFn8BgyJfTzi04T5lZ61YhULlPliTIPzNdxVdOKB4pwfIdDdo3Hq5oW5vhHiKAyNbyBmRNn=
+VpCRM0ohqvnmthYovKZlvwHTIhFpoFCQCMwh4CoWhkOaoCz1jUM62uoLAu75iGPk9PjFs5Qogvr=
+UcfVA-3D-3D
+=C2=A0
+Privacy Policy
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9y=
+EDg8vfS7mL5C99TwpIda0PPIhZz9ceuy0iTOQO3_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-=
+2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6cZLURdeM-2Fh0ew=
+8jaaQuSXDrkWdltW50P0QTpV8Wefoe5zWtH45dlu96WOrqPfCZhqdDwtq0-2B3tYOJT77zeEbjw=
+att-2BXlO-2FQf-2FfLTPyYwB7NxJn-2FDWwnaI8OBSohaPiLg2JIloBwY-2BFtgdAfTEfARMfX=
+58l2bwGe6gDUxIgxUZc04xhD45NfZjgqQpflQp49oT5Zx4v7bmsPmwnDaBoIXbosbHKuV2VMmS4=
+4uIyb-2FjAKmnoKtrUc7GgLOTLhDREutb9CcrTs3h23baE6fSp7LlPJoA4PrUXaYRbKJkUEnBlE=
+hIl-2BzbHkbsD-2FZW7vlKAfC28kNfsWx200Mo6-2BI1sXYQpfg9jdkpe83-2Fo70-2FH9yOcPC=
+169Pr8rPOLuARAPvN8FGQ-3D-3D
+|
+Support
+http://links.announce.fiverr.com/wf/click?upn=3DL8x0Hlj9fZFahi1BLwFf4owdnh2=
+yQHeQsaZAVAdkiCteNFfkwUmp2pPTqYNDBLYL_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2B=
+ZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6ZseHYpYCkbQMJQNYd=
+0OoejC8JmKjzQXe4K-2FaKd3DfONSIEB99E04Pbx7K9yIGBrDEKDTqENxYWEV3XDwkUasU1IZTa=
+Pvi1pe-2FC4Zy9rt8sZsDlSuT0fsKSQn1V8lwcNBMEdAIXweN-2FAgDWpD4BrfQnApmFZb5zM1k=
+mxiMWQOAi-2BtH7J6oretjyZctJ-2BaYowugPIFIPFizmb2r-2BKdgZTokh4BuPO7lsQgcvgrZ3=
+dzkAV22T9LMVCdgJsEWRSYnkOm-2BwjTwx5soK7-2BaZhdZuLeBzoErw92x7FuWx9rhEZC9l3p6=
+nwUwEGIWFyvyVDc57Rb-2BLHx3WeRa5RrDOV-2FLKSuyG622mcAEAHAeSWL2XqBuAfU9hvRGVYq=
+mdOgurFwM7A6w-3D-3D
+=C2=A0|
+Invite a Friend
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS986sa2=
+x8IkEMpw1LI8M-2FSChot1r19se2btV3hyTCbyyCGow5-2F26L6nck3Q8zz-2BIQMv17fVQFwig=
+lq2Zd-2BbURREJ1fUxahg5M4zzGQBx-2BarT9JyiyeaXF32-2BGFzDH9suCg-3D-3D_xb69N2IW=
+j9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoO=
+SAPagQFUZAd6cMtWHbLFlYiy-2BF2qG-2BL1nicDVgtcri87n2BewnOwulEzTschdGSdUzhWvsB=
+xc0a3qqJNHmTiPs93JIMOOBjuhGM0r3mdOo8gyv5JgY9ihk5riETwn5LkQKkk0-2F4ZzZpq-2BW=
+cOSO8xZ-2FOk-2BTvNGeLr7s7c3aP9xp-2Fn9GD48aL-2FEHFUmlSXcybV0kgXO-2BAEgZfp1BJ=
+ZRP89XYk6BULpSEIuXBruRXn02So23qg1KonfuXIAn-2FzH9ixVabEZwgURyUTkAOdfxSq9Xewl=
+UkESwT5-2FKqW419kEEa55gF6P5f60-2F1Hii7yq5wnHBaRj3njuEpzx6Gi6zZ1DVoqB8qL71Ss=
+OkMs66NIOajPx-2FwSy6lsBGYaeKvFOrGGOj8DwIMMT1f9lQ-3D-3D
+This email was sent to you by Fiverr, Inc. You are receiving this email bec=
+ause you signed up for Fiverr.=C2=A0
+If you wish to unsubscribe from all future emails, please click
+here
+http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSz8lBS5=
+pwGGUsJ40-2BmQtIVU0d6Z3tyYvR6UsjwqN-2BJrdEvY-2BwUJjGPRphpv32IRrYV55wrsAHz-2=
+Bron2d-2B-2FlE3CX2ZWORffBc4EQNWTpYxa7HOcTctUCa6zWYQ7w-2F9FgPfY2xfxfRUHenSG9=
+6IIBJapACZ7k3dJmN9L-2FtYsj5aV0laS77URSvyIjaVvSDGsCLbSZ39ZHVAZnu2vGcCAI4E6By=
+tQ-2FFBc3g8tOFzDimitoyjH4UUB6-2BC-2ByNezj8Yi466eSSVkwHtpE4-2F1sh7DRcZ6pCsxf=
+iRV4Xt3vVvxENr-2Fe6_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fU=
+VF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6T30by0PFpgdoEZVnO-2B6hkGH9M2E3WqQfP=
+8lg-2BAe-2FbJqQxsQYpdtnu130h2IFMgNxzB1mFwq8BmxAfpDc027MCLpC1gW3BWnSnHZX7-2B=
+FRj3-2FyB5nXIDNs7NRYHerfRnIpTQFPA-2BHTdRWjDvAQhfnEns4E9i-2FRCu8Rd0Ks-2BPXUF=
+PlkqBsFDVVoEkvzVCvWuDiQjXQYS9sTGEu3vcaVN6jnrEERE1TSpjAB2FS1bN7gtmC3aGRuIkr4=
+7tubXhbQn1bAWpuzkKVNegUh-2FMg2GvUzhmGLD1xEeVadcNylnEYClN26fLGsLYKUgzmGVQdoA=
+tKcu4xn3YUtaSZSHj44EnO0SEwESKrWLkXOtSDW0j6Zbx3N7BgO6F-2Fnc9v9zM3wxZxbg-3D-3D
+Fiverr, Inc. | 401 Broadway, Suite 1600 | New York, NY 10013, USA
+=C2=A0=
+
+--6a1a1537b12ca33d9e53d72f483fafb8d31a59cd201f1c09f20ff62c2bf5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to Fiverr</title>
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+
+</head>
+<body style=3D"-webkit-font-smoothing: antialiased; -webkit-text-size-adjus=
+t: none !important; background: #eeeeee; font-family: Helvetica Light, Helv=
+etica, Arial, sans-serif; margin: 0; padding: 0; width: 100%" bgcolor=3D"#e=
+eeeee">
+<style type=3D"text/css">
+.ReadMsgBody {
+width: 100%; background-color: #ffffff;
+}
+.ExternalClass {
+width: 100%; background-color: #ffffff;
+}
+body {
+width: 100%; background-color: #eeeeee; margin: 0; padding: 0; -webkit-font=
+-smoothing: antialiased; font-family: Helvetica Light, Helvetica, Arial, sa=
+ns-serif; -webkit-text-size-adjust: none !important;
+}
+@media screen and (max-width: 525px) {
+  .wrapper {
+    width: 100% !important; max-width: 100% !important;
+  }
+  .logo img {
+    margin: 0 auto !important;
+  }
+  .mobile-hide {
+    display: none !important;
+  }
+  .img-max {
+    max-width: 100% !important; width: 100% !important; height: auto !impor=
+tant;
+  }
+  .responsive-table {
+    width: 100% !important;
+  }
+  .padding {
+    padding: 20px 5% 0px 5% !important;
+  }
+  .padding-meta {
+    padding: 30px 5% 0px 5% !important; text-align: center;
+  }
+  .no-padding {
+    padding: 0 !important;
+  }
+  .section-padding {
+    padding: 0px 15px 0px 15px !important;
+  }
+  .mobile-button-container {
+    margin: 0 auto; width: 100% !important;
+  }
+  .mobile-button {
+    padding: 15px !important; border: 0 !important; font-size: 16px !import=
+ant; display: block !important;
+  }
+}
+</style>
+=20=20=20=20
+
+=20=20=20=20
+
+<!-- Wrapper -->
+<div style=3D"background: #1f1f1f; width: 100%">
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"background: #eeeeee; border-collapse: collapse" bgcolor=3D"#eeeeee">
+    <tr>
+        <td bgcolor=3D"#eeeeee" align=3D"center">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600">
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"600">
+            <![endif]-->
+                <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" align=3D"center" style=3D"background: #1f1f1f; border-collapse:=
+ collapse; max-width: 600px" class=3D"responsive-table" bgcolor=3D"#1f1f1f">
+                        <tr>
+                            <!-- LOGO -->
+                            <td width=3D"100%" style=3D"background: #1f1f1f=
+; padding: 10px 20px; width: 100%" bgcolor=3D"#1f1f1f">
+                                <a href=3D"http://links.announce.fiverr.com=
+/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6boETrpX6G-2FEbYtiDHT60hwIShC4wkPbm=
+c6O6ON4mGznWyXMMAALyGttiNKyEFqWo2rhUGB4FlXr52flARWAYh9lsE4aayaM6TXkbXFxHvYF=
+-2BnHwSTiecnJ-2Fe4U9hQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvY=
+u9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6b6ytCaMBCoUe-2BnT7Rl-2BpL6=
+K32g1-2BLwjW9z1u6vJ1BYv3jmu1eNl8ePNMVzeFN1H-2BXcztErwweMrMg-2FJcSHc5aG2utR-=
+2FCvFOFsSs8oJPBsD49RAy3nxKfOHlfXfDGAEnZHVjLILoczC-2F0-2FDt0qQikiLkS-2B8J66X=
+L3cK0jarRwlHW-2FjQ1pvFV3JHnjSUcgKdlFYdsevto3XyVS9aS7FPk9T5YPtEcqyqUXw68iP9D=
+ImU0y2-2BDydPPAaLyRtilwDbKHoa7GZqzVVzO8cl5YtafKRzORzgYIJYAcYAmw6-2BcJrKyuOB=
+rGkN-2BJTVfs-2BsrX5cY7HiVQueYXfs7c-2B-2F8VxQ37izQAXawZSfE7gh1wfOmY03yt1-2Bv=
+4Iiyc5gE1vVJEn-2BfWw-3D-3D"><img src=3D"https://d7l5bbi2x5xo4.cloudfront.ne=
+t/cloud_files/1303/original/logo-dark.jpg?1416241690" align=3D"left" alt=3D=
+"" border=3D"0"></a>
+                            </td>
+                        </tr>
+                </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <!-- End Header -->
+            </td>
+        </tr>
+</table>
+</div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"border-collapse: collapse">
+    <tr>
+        <td bgcolor=3D"#eeeeee" align=3D"center" style=3D"padding: 0px 15px=
+" class=3D"section-padding">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600">
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"600">
+            <![endif]-->
+            <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse; max-width: =
+600px" class=3D"responsive-table">
+                <tr>
+                    <td>
+                        <!-- MAIN IMAGE -->
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"border-collapse: collapse">
+                            <tr>
+                                <td align=3D"center">
+                                    <a href=3D"http://links.announce.fiverr=
+.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6boETrpX6G-2FEbYtiDHT60hwIShC4w=
+kPbmc6O6ON4mGznWyXMMAALyGttiNKyEFqWo2rhUGB4FlXr52flARWAYh9lsE4aayaM6TXkbXFx=
+-2Fq4YmDleRGZnXwFjbah1uA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351h=
+vYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6WZ5JwRqYtzSq5Ofscu-2BDu-=
+2FSQjI-2F28P4TFum1y-2Bvr2In3Jq4gpvtTFcfnqiBgCoQvVsIuSPZgJtMscGAliCAKr9YWrfE=
+iUaGn2qocza1MFCQA-2BUrBE3IBFq62EMhOOq9b3On4I6uhqB87Myu3rM9Vc68Y4QbfTXgeqGMd=
+sNeJjmnhR63LVH0jCg2T47-2FMQehn2TQKL0JoiUlRFBbNMDUN38jMS8JMMfzdEr984rlgQmie7=
+-2Fj-2BOK1s84tHazs9uzqsjuJENpHJbwb-2FvAl-2F-2B9k53Bbc-2BwyEqGmtxhw31tOEjYTl=
+eYjGQSjbhlSmqAGldzz1UoSh4Lm55JRXnWDcAxqxVT5X17vaVOW5mQelElTMLXrG4iNzb7WwVXm=
+WUgI4eo11w-3D-3D" target=3D"_blank">
+                                        <img src=3D"https://gallery.mailchi=
+mp.com/e271c966703e72a2f760a2499/images/c684230f-2180-41f6-a605-645324c94f2=
+1.jpg" width=3D"100%" border=3D"0" alt=3D"Welcome to Fiverr" style=3D"color=
+: #666666; display: block" class=3D"img-max">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <!-- COPY -->
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse">
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 18px; =
+font-weight: bold; padding: 20px 5% 0px; text-align: left" class=3D"padding=
+">Hi rresendez,</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        </tr>
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 15px; =
+font-weight: normal; line-height: 22px; padding: 20px 5% 0px; text-align: l=
+eft" class=3D"padding">You've just become part of the largest, most afforda=
+ble and easiest to use marketplace for services and products!</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        </tr>
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"20"></td>
+                                        </tr>
+
+                                        <!-- BORDER -->=20
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"1" style=3D"padding: 0px =
+30px">
+                                                <table cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"30%" style=3D"border-collapse: collapse">
+                                                    <tr>
+                                                        <td style=3D"border=
+-top-color: #eeeeee; border-top-style: solid; border-top-width: 1px; paddin=
+g: 0px 30px"></td>
+<td>
+                                                    </td>
+</tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"15"></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 21px; =
+font-weight: bold; padding: 0px 5%; text-align: center" class=3D"padding">I=
+t's never been so easy to get it done</td>
+                                        </tr>
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"15"></td>
+                                        </tr>
+
+                                        <!-- BORDER -->=20
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"1" style=3D"padding: 0px =
+30px">
+                                                <table cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"30%" style=3D"border-collapse: collapse">
+                                                    <tr>
+                                                        <td style=3D"border=
+-top-color: #eeeeee; border-top-style: solid; border-top-width: 1px; paddin=
+g: 0px 30px"></td>
+<td>
+                                                    </td>
+</tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"15"></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- ICON #1 -->
+
+                            <tr>
+                                <td>
+                                    <!-- COPY -->
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse">
+                                        <tr>
+                                            <td style=3D"color: #000000; fo=
+nt-family: 'Helvetica Light', 'Helvetica', Arial, sans-serif; font-size: 18=
+px; font-weight: bold; line-height: 32px; padding: 0px 5%; text-align: left=
+; vertical-align: top" bgcolor=3D"#ffffff" align=3D"left" valign=3D"top">
+                                                <img valign=3D"bottom" src=
+=3D"https://gallery.mailchimp.com/e271c966703e72a2f760a2499/images/c618d1a1=
+-bad0-43dc-977b-bb17e90c7f96.jpg" alt=3D"" border=3D"0" style=3D"margin-rig=
+ht: 15px">Browse
+                                            </td>
+                                        </tr>
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"15"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style=3D"color: #000000; fo=
+nt-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: norm=
+al; line-height: 22px; padding: 0px 5% 20px; text-align: left" bgcolor=3D"#=
+ffffff" align=3D"left">
+                                                Get everything from custom =
+websites, to fresh original content, to stunning graphics. Whether you're b=
+uilding a business, or just looking for something unique, you can find it h=
+ere!
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- GRAY LINE BORDER -->
+
+                            <tr>
+                                <td width=3D"580" align=3D"center" valign=
+=3D"top" bgcolor=3D"#ffffff" height=3D"1" style=3D"padding: 0px 30px">
+                                    <table cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" style=3D"border-collapse: collapse">
+                                        <tr>
+                                            <td style=3D"border-top-color: =
+#eeeeee; border-top-style: solid; border-top-width: 1px; padding: 0px 30px"=
+></td>
+<td>
+                                        </td>
+</tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- ICON #2 -->
+
+                            <tr>
+                                <td>
+                                    <!-- COPY -->
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse">
+                                        <tr>
+                                            <td style=3D"color: #000000; fo=
+nt-family: 'Helvetica Light', 'Helvetica', Arial, sans-serif; font-size: 18=
+px; font-weight: bold; line-height: 32px; padding: 20px 5% 0px; text-align:=
+ left; vertical-align: top" bgcolor=3D"#ffffff" align=3D"left" valign=3D"to=
+p">
+                                                <img valign=3D"bottom" src=
+=3D"https://gallery.mailchimp.com/e271c966703e72a2f760a2499/images/060e88f0=
+-9559-476f-bdb8-1ebc15992226.jpg" alt=3D"" border=3D"0" style=3D"margin-rig=
+ht: 15px">Buy
+                                            </td>
+                                        </tr>
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"15"></td>
+                                        </tr>
+                                        <td style=3D"color: #000000; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: normal; =
+line-height: 22px; padding: 0px 5% 20px; text-align: left" bgcolor=3D"#ffff=
+ff" align=3D"left">
+                                            Just order a Gig and the seller=
+ will get right to work! We make it easy to purchase from and communicate w=
+ith our sellers.
+                                        </td>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- GRAY LINE BORDER -->
+
+                            <tr>
+                                <td width=3D"580" align=3D"center" valign=
+=3D"top" bgcolor=3D"#ffffff" height=3D"1" style=3D"padding: 0px 30px">
+                                    <table cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" style=3D"border-collapse: collapse">
+                                        <tr>
+                                            <td style=3D"border-top-color: =
+#eeeeee; border-top-style: solid; border-top-width: 1px; padding: 0px 30px"=
+></td>
+<td>
+                                        </td>
+</tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- ICON #3 -->
+
+                            <tr>
+                                <td>
+                                    <!-- COPY -->
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse">
+                                        <tr>
+                                            <td style=3D"color: #000000; fo=
+nt-family: 'Helvetica Light', 'Helvetica', Arial, sans-serif; font-size: 18=
+px; font-weight: bold; line-height: 32px; padding: 20px 5% 0px; text-align:=
+ left; vertical-align: top" bgcolor=3D"#ffffff" align=3D"left" valign=3D"to=
+p">
+                                                <img valign=3D"bottom" src=
+=3D"https://gallery.mailchimp.com/e271c966703e72a2f760a2499/images/f9040651=
+-2b7d-4bc5-90c4-10dda3a07a0a.jpg" alt=3D"" border=3D"0" style=3D"margin-rig=
+ht: 15px">Be done with it!
+                                            </td>
+                                        </tr>
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"15"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style=3D"color: #000000; fo=
+nt-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: norm=
+al; line-height: 22px; padding: 0px 5%; text-align: left" bgcolor=3D"#fffff=
+f" align=3D"left">
+                                                It=E2=80=99s really that si=
+mple.
+                                            </td>
+                                        </tr>
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"20"></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- GREY BOX SPACER -->
+
+                            <tr>
+                                <td width=3D"100%" align=3D"center" valign=
+=3D"top" bgcolor=3D"#eeeeee" height=3D"15"></td>
+                            </tr>
+
+                            <!-- READY TO GET STARTED SECTION -->
+
+                            <tr>
+                                <td>
+                                    <!-- COPY -->
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse">
+
+                                        <tr>
+                                            <td style=3D"color: #000000; fo=
+nt-family: arial, sans-serif; font-size: 28px; font-weight: bold; line-heig=
+ht: 32px; padding: 30px 30px 0px; text-align: center; vertical-align: top" =
+bgcolor=3D"#ffffff" align=3D"center" valign=3D"top">
+                                                Ready to get started?
+                                            </td>
+                                        </tr>
+                                        <!-- Spacer -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"20"></td>
+                                        </tr>
+
+                                        <!-- BORDER -->=20
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"1" style=3D"padding: 0px =
+30px">
+                                                <table cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"250" height=3D"46" style=3D"border-collapse: colla=
+pse">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                        <tr>
+                                                            <td bgcolor=3D"=
+#00b422" height=3D"46" align=3D"center" style=3D"-moz-border-radius: 2px; -=
+webkit-border-radius: 2px; border-radius: 2px"><a name=3D"CTA" style=3D"col=
+or: #ffffff; display: inline-block; font-family: 'Helvetica Neue', arial; f=
+ont-size: 17px; font-weight: bold; line-height: 46px; max-width: 280px; tex=
+t-align: center; text-decoration: none" href=3D"http://links.announce.fiver=
+r.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1kd6boETrpX6G-2FEbYtiDHT60hwIShC4=
+wkPbmc6O6ON4mGznWyXMMAALyGttiNKyEFqWo2rhUGB4FlXr52flARWAYh9lsE4aayaM6TXkbXF=
+xI62z2LHj94EBQZOCSrLIKg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+Yu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6fMMxgKPhRhrskm7DiHGkEwpbF=
+91e9YUaA8k3oKWASOaAkLWA-2BoNK9tpxbzQpjJ-2FulDGpThVdT36Q8ITJ0ULJiOh3w-2BDH2a=
+5fISFHQnIe-2FX3h3QnvpYHGDULGPIQgn1lTNdadYht6lgXlrz4S6nT7Z4INE-2BKwszNx7Rxfc=
+eY-2BZiO5wUoksyaf7czM-2F9HiKpRhOfZdnOVt-2BGVpps-2FFJrCgxe-2FQNC4MXzNKAEnNRb=
+mU5ED0IongqcLuW-2B6Y3xs5UaoMbKAl6-2BpaGfj3oAq9BgurFoleoO55pq4pGiD-2F9YbFPKw=
+OFwi-2FAvTwuikt5F4gVkBLZAj35WUoWcfppJNEb-2Bjpf79jQxKgActQc-2FRXCV0vUtBswBjN=
+TANqqSp1T7H60NjWQ-3D-3D" target=3D"_blank">=C2=A0Check Out the Gigs Now!=C2=
+=A0</a></td>
+                                                        </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                        <!-- POST CTA TEXT -->
+
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"20"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style=3D"color: #35343a; fo=
+nt-family: Arial, sans-serif; font-size: 15px; font-weight: normal; line-he=
+ight: 25px; padding: 0px 30px; text-align: center" bgcolor=3D"#ffffff" alig=
+n=3D"center">
+                                                Do you want to start sellin=
+g?<br><a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbX=
+kfrE1HCqILS9F4RyIDNWOf9KM97ZVd1dF-2BiruAoRM9aeORICA8jFqFMqQ1O9OCMldwd2ClzwT=
+PSkSOxUnWGiQkmzOIEPIuJTybHuDQslo63vSUICy6iWkm2HmBNYao1wXfO59AUUINLs88dsYV-2=
+BC3P-2B7ADPF8SSjBO9YKjwP2Kuiha3jKs58vYS2tUDgnZQG33rzKse8lByA-3D-3D_xb69N2IW=
+j9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoO=
+SAPagQFUZAd6WIziD0a7TwbNaVCkLPTFoAXfiZ2weABXcVLahI-2FAgrOjpQcXucHFkdl9J-2Br=
+uIQ87yr07Cr-2BJBON-2BUKmFdcwnTTw079-2FTlZEiCIQ-2B82zUMIGHcgtLFB-2Buqhl79yom=
+5yJrA7IPqjfMQnbsYTgr4XB71GDTx5ddyRairIskPemob0S-2BdBGqmTk6GcJWaBqxxcgN6W2Ev=
+jyBntoBOnYpwPoo-2BCryGpcDm2A8u3lWHDOMA-2BkaaWLWPczrlXGNDuZYzTZ1RnK4Y7jn-2FS=
+RwLtbrLXA9864d3cpWYc9j5qYApdQUKd7Ov6DKM4kxnsTgJ2ZTyUU1qyvxUafl4NgioRvfqZQi3=
+fzur7WVKhLvBXz66BamHGpGGSZeDEvN6jqVvknSYag0g-3D-3D" target=3D"_blank" style=
+=3D"color: #00698c; font-weight: bold; text-decoration: none">Create your f=
+irst Gig</a>
+                                            </td>
+                                        </tr>
+                                        <!-- Spacer -->
+                                        <tr>
+                                            <td width=3D"100%" align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#ffffff" height=3D"20"></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+                            <!-- GREY BOX SPACER -->
+
+                            <tr>
+                                <td width=3D"100%" align=3D"center" valign=
+=3D"top" bgcolor=3D"#eeeeee" height=3D"15"></td>
+                            </tr>
+
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"font-size: 0" class=3D"padding">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                        </td>
+</tr>
+</table>
+                    </td>
+                </tr>
+
+                <!-- SPACER -->
+
+                <tr>
+                    <td width=3D"100%" align=3D"center" valign=3D"top" bgco=
+lor=3D"#ffffff" height=3D"20"></td>
+                </tr>
+
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+
+    <tr>
+        <td bgcolor=3D"#eeeeee" align=3D"center" style=3D"padding: 0px 15px=
+" class=3D"section-padding">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"500">
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"600">
+            <![endif]-->
+            <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse; max-width: =
+600px" class=3D"responsive-table">
+                <tr>
+                    <td>
+                        <!-- TITLE SECTION AND COPY -->
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"border-collapse: collapse">
+                            <tr>
+                                <td align=3D"center" style=3D"color: #00000=
+0; font-family: 'Helvetica Light', 'Helvetica', Arial, sans-serif; font-siz=
+e: 18px; font-weight: bold; line-height: 28px; padding: 0px 10%; text-align=
+: center; vertical-align: top" class=3D"padding" valign=3D"top">You Might A=
+lso Like These Gigs</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+                <!-- Spacer -->
+                <tr>
+                    <td width=3D"100%" align=3D"center" valign=3D"top" bgco=
+lor=3D"#ffffff" height=3D"20"></td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tr>
+                    <td align=3D"center" height=3D"100%" valign=3D"top" wid=
+th=3D"100%">
+                        <!--[if (gte mso 9)|(IE)]>
+                        <table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600">
+                        <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"600">
+                        <![endif]-->
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse; ma=
+x-width: 540px">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"font-size: 0" class=3D"padding">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"500">
+                                    <tr>
+                                    <td align=3D"left" valign=3D"top" width=
+=3D"240">
+                                    <![endif]-->
+                                    <div style=3D"display: inline-block; ma=
+rgin: 0 -2px; max-width: 50%; min-width: 240px; vertical-align: top; width:=
+ 100%" class=3D"wrapper">
+
+                                        <!-- GIG # 1 -->
+
+                                        <table align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse=
+: collapse; max-width: 240px" class=3D"wrapper">
+                                            <tr>
+                                                <td align=3D"center" valign=
+=3D"top">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: c=
+ollapse; margin-bottom: 20px">
+                                                        <tr>
+                                                            <td style=3D"bo=
+rder: 1px solid #e0e0e0; border-radius: 2px; margin-bottom: 10px; padding: =
+0px 0 10px">
+                                                                <table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border=
+-collapse: collapse">
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" bgcolor=3D"#ffffff" valign=3D"middle"><a href=3D"http://l=
+inks.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9yEDg8vfS7=
+mL5C99TwpKcSYMoZIqZlPDiA3e2nDKv8LDc-2FIrjbHKIM2m5xoDARwUQnzaO-2FC1kNgngS7cd=
+GJ-2Be3SnXN-2FXeriHSdEnXxu-2B63-2FUrC4C4EDWG91MZi0-2Fc5HJD3O-2FbmaM3SBXMkQM=
+2pv6WdVs4lBFBLj0rrLa7KTSX4OV31TLysuPTE2T2oZWyEQ-3D-3D_xb69N2IWj9cpa7VY1jz2n=
+0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6S=
+hS-2BFyZXfR-2F0X7uw6rGcwwFPtbOBI-2B66yVz-2BnXYk2zI4YZvLCZcYhoSL1LMSrWYOiaJ4=
+6tPG0YpnlexMXDw16nJ3CvS9bAsf-2FdtiA3x0fZXb9c8zDJBaI-2BlGXrY5b93DNRdRrT5lmFd=
+SP1HjiK6CN-2BaZ1PKKAc8EH-2Fv0Cp5LJ4XUV-2BJstnmn2iTrt2A5T98qtuhDxSRW-2FZMgkj=
+ACpmBeS1Nl-2F5TpsSLjxLIYQa3sxsLOI-2B2EXR4DtP-2BhgluHRG-2BgLJ1iDEC18mvpHLZSx=
+S70cGxoBeld9h5yyHaTYlRaWtZf4IqJgND1HHsnP1if4XI1UitK5w8Wxwagq06RTXq7Lk38gbyy=
+gcUNQSzJakLywbl-2FXJoy7jpq2BpuUnA5U6PtA-3D-3D" target=3D"_blank"><img src=
+=3D"https://cldn0.fiverrcdn.com/fiverr/t_medium5/gigs/4678718/original/drum=
+_tracks_pic.jpg" width=3D"243" height=3D"130" style=3D"color: #666666; disp=
+lay: block; font-family: Helvetica, arial, sans-serif; font-size: 13px; hei=
+ght: 130px; width: 243px" alt=3D"Fiverr Gigs" border=3D"0" class=3D"img-max=
+"></a></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #333333; font-family: Arial, sans-serif; =
+font-size: 16px; height: 64px; padding: 5px 8px 0px; text-align: left" bgco=
+lor=3D"#ffffff">I will=C2=A0record retro sounding live drums for your song<=
+/td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #666666; font-family: Arial, sans-serif; =
+font-size: 12px; line-height: 20px; padding: 5px 8px 0px; text-align: left"=
+ bgcolor=3D"#ffffff">patkinz</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #666666; font-family: Arial, sans-serif; =
+font-size: 14px; line-height: 20px; padding: 5px 8px 0px; text-align: left"=
+ bgcolor=3D"#ffffff">
+<img src=3D"https://gallery.mailchimp.com/e271c966703e72a2f760a2499/images/=
+4c297244-a206-4acb-a470-413f73f05ddc.png" alt=3D"rating" valign=3D"middle">=
+<span style=3D"color: #a1a1a1; font-size: 12px">=C2=A0=C2=A0 (65)</span>
+</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #666666; font-family: Arial, sans-serif; =
+font-size: 14px; line-height: 20px; padding: 5px 8px 0px" bgcolor=3D"#fffff=
+f"><a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfr=
+E1HCqILS-2Be9yEDg8vfS7mL5C99TwpKcSYMoZIqZlPDiA3e2nDKv8LDc-2FIrjbHKIM2m5xoDA=
+RwUQnzaO-2FC1kNgngS7cdGJ-2Be3SnXN-2FXeriHSdEnXxu-2B63-2FUrC4C4EDWG91MZi0-2F=
+c5HJD3O-2FbmaM3SBXMkQM2pv6WdVs4lBFBLj0rrLa7KTSXepAtv7SG1Z5-2F-2Fn2zFD-2BNdD=
+yPhXs05ryouGcAiQqacbM-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9Iv=
+gW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6RkhY9JZiDcvGao3bMumlK-2F-2FwNR=
+hXkP0ZHnbHbr3DQ4IwmlAPOz2B5UMYIEuiwJnjtJngiOZjPiZA-2F7HmPOxazulGLiGlkMQIzyg=
+Wxh1j0qlwOH7zNZf2Son28MLfJKr6CTYLJZQ7iY84wgx1UdeLxHW9AcqsT4sHRTT9omilRXr-2F=
+zZ1Mv-2BqRd3qplXEO9rdSDLscVV-2FwMPPczYNIzcW8O9ra8n9pStVSQpGjVZhs093XDHrtZJg=
+eakgcG4B-2BkXQLGUNmDBtiVSSLxhiY3kEUIW6c9x7mdJ3xpHKJUODOZYLlLGrp1d4jIg-2F0lo=
+F2LJiab8eYFvt4NbFpzmaCRT38CzR0tcQacdYKXYCXXIRGrCJ3Wd46Oy1aSuXflLFOfbbmw-3D-=
+3D" style=3D"background: #00b422; border-radius: 2px; color: #fff; display:=
+ block; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-we=
+ight: bold; line-height: 20px; margin-top: 10px; padding: 7px 6px; text-ali=
+gn: center; text-decoration: none">Order Now</a></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                                      <td width=3D"20" styl=
+e=3D"font-size: 1px;">&nbsp;</td>
+                                    <td align=3D"right" valign=3D"top" widt=
+h=3D"240">
+                                    <![endif]-->
+                                    <div style=3D"display: inline-block; ma=
+rgin: 0 -2px; max-width: 50%; min-width: 240px; vertical-align: top; width:=
+ 100%" class=3D"wrapper">
+                                        <table cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0" width=3D"100%" style=3D"border-collapse: collapse">
+
+                                            <!-- GIG # 2 -->
+
+                                            <tr>
+                                                <td class=3D"mso-right">
+                                                    <table align=3D"left" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"bor=
+der-collapse: collapse; float: right; max-width: 240px" class=3D"wrapper">
+                                                        <tr>
+                                                            <td align=3D"ce=
+nter" valign=3D"top">
+
+                                                                <table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border=
+-collapse: collapse">
+                                                                    <tr>
+                                                                        <td=
+ style=3D"border: 1px solid #e0e0e0; border-radius: 2px; padding: 0px 0 10p=
+x">
+                                                                           =
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" sty=
+le=3D"border-collapse: collapse">
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" bgcolor=3D"#ffffff" valign=3D"middle"><a href=
+=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSwZ=
+x2Hr9525zI3WISPF1zAZCX8vr1TcJN4xoNJGm3ze6dr5BnRFqDGtwyPtktENib9edOEiLah0qBx=
+XnrBQWiYqCLb52CEWCTSFe1HAdfB5O7m0jRi3Wd0Ja2kbOowinKd5zJvJHPtj1SVOLJUaqW9rz3=
+hXC2HyUTqHi5iD9J9T2l7LRWMZQfcPyie-2BVS-2FNkaw-3D-3D_xb69N2IWj9cpa7VY1jz2n0H=
+ql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6QoY=
+oYpteiG5P6xIGt-2Bqu6lqqSaFoPQRYhCsEW98xgS5oYvFJ5irydOcFgeR8qHW95AJdlLJ8wCdj=
+KGaqAZBXYUmIEAJPAVzw6G0hSCKIWOdMYrkYwWWzPkJasCA-2BHktWd3vJ1SqJZKXXUzQBGYG5x=
+illUsmvzq52LGawlEqERO8Lr-2FF5WYUXXJAPTR9h2GlEmf1tpPDwH5pl5x9AYrBAY-2FgFAvEF=
+KS1vBHglfm1hXjLqFujwT7Wcx5hLW54QUOZLwlPYsphotovMgW16yOfwCmDnd40S-2F7i-2BrKK=
+pvv6VJDQwKmGIVhgS1GGqMxahpoUr-2BT2ZXrUPnDjy6UYQN6KU-2FZpmDbHFWUgkZ6sgil0ahk=
+UHJmZ98J6SjRhxcWT1ECbDg-3D-3D" target=3D"_blank"><img src=3D"https://cldn0.=
+fiverrcdn.com/fiverr/t_medium5/gigs/2291548/original/IMG_7664.JPG" width=3D=
+"243" height=3D"130" style=3D"color: #666666; display: block; font-family: =
+Helvetica, arial, sans-serif; font-size: 13px; height: 130px; width: 243px"=
+ alt=3D"Fiverr Gigs" border=3D"0" class=3D"img-max"></a></td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #333333; font-family: Arial, =
+sans-serif; font-size: 16px; height: 64px; padding: 5px 8px 0px; text-align=
+: left" bgcolor=3D"#ffffff">I will=C2=A0write a script for your video</td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #666666; font-family: Arial, =
+sans-serif; font-size: 12px; line-height: 20px; padding: 5px 8px 0px; text-=
+align: left" bgcolor=3D"#ffffff">shivettes</td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #666666; font-family: Arial, =
+sans-serif; font-size: 14px; line-height: 20px; padding: 5px 8px 0px; text-=
+align: left" bgcolor=3D"#ffffff">
+<img src=3D"https://gallery.mailchimp.com/e271c966703e72a2f760a2499/images/=
+4c297244-a206-4acb-a470-413f73f05ddc.png" alt=3D"rating" valign=3D"middle">=
+<span style=3D"color: #a1a1a1; font-size: 12px">=C2=A0=C2=A0 (141)</span>
+</td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #666666; font-family: Arial, =
+sans-serif; font-size: 14px; line-height: 20px; padding: 5px 8px 0px" bgcol=
+or=3D"#ffffff"><a href=3D"http://links.announce.fiverr.com/wf/click?upn=3Dx=
+buZiqQAbXkfrE1HCqILSwZx2Hr9525zI3WISPF1zAZCX8vr1TcJN4xoNJGm3ze6dr5BnRFqDGtw=
+yPtktENib9edOEiLah0qBxXnrBQWiYqCLb52CEWCTSFe1HAdfB5O7m0jRi3Wd0Ja2kbOowinKd5=
+zJvJHPtj1SVOLJUaqW9rz3hXC2HyUTqHi5iD9J9T2Op2AT8ywNbNmPvRU3hkyzA-3D-3D_xb69N=
+2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYIL=
+UoOSAPagQFUZAd6dJ8lEfYGWZ5B0YIAezInUSuJzcosXwlTs8HFuZAJ1-2BRAspUzYrRhWH7pFr=
+7mjT3upkiPBDYRtEe-2BR125CXExBHwJsGbO30jv66DcC7xOaDpB5Wtz0yL-2FGt2AnOldPBj-2=
+BxsM75RUniOM0zk5ujsASzAt-2FqeUbx-2FCs9x-2FsFkeCxqTvphLra38lRNXF7ce7vVR5jHZ4=
+08bWNJSTnEY8I-2BGb1oewu-2BZd8BdPUjGgher5PahVIj1Rp1o6xvn7NPCM8kkk-2BFJCLqrR2=
+0KMno2Et5QbinNI3oPKc5cK7SfVZAQqIf5it7VGWXcgjwwedNcj1UXKUcvPR8AOiaZEktrlYsvL=
+Uz6sDo-2Fi-2FHrP5Jw1w4twPwVLRV9Td8OKonj3xvU8wdEnQ-3D-3D" style=3D"backgroun=
+d: #00b422; border-radius: 2px; color: #fff; display: block; font-family: H=
+elvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; line-heigh=
+t: 20px; margin-top: 10px; padding: 7px 6px; text-align: center; text-decor=
+ation: none">Order Now</a></td>
+                                                                           =
+     </tr>
+                                                                           =
+ </table>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </table>
+
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                    </td>
+                </tr>
+
+                <!-- Spacer -->
+                <tr>
+                    <td width=3D"100%" align=3D"center" valign=3D"top" bgco=
+lor=3D"#ffffff" height=3D"10"></td>
+                </tr>
+
+
+                <tr>
+                    <td align=3D"center" height=3D"100%" valign=3D"top" wid=
+th=3D"100%">
+                        <!--[if (gte mso 9)|(IE)]>
+                        <table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600">
+                        <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"600">
+                        <![endif]-->
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse; ma=
+x-width: 540px">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"font-size: 0" class=3D"padding">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"500">
+                                    <tr>
+                                    <td align=3D"left" valign=3D"top" width=
+=3D"240">
+                                    <![endif]-->
+                                    <div style=3D"display: inline-block; ma=
+rgin: 0 -2px; max-width: 50%; min-width: 240px; vertical-align: top; width:=
+ 100%" class=3D"wrapper">
+                                        <table align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse=
+: collapse; max-width: 240px" class=3D"wrapper">
+
+                                            <!-- GIG # 3 -->
+
+                                            <tr>
+                                                <td align=3D"center" valign=
+=3D"top">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: c=
+ollapse; margin-bottom: 20px">=20
+                                                        <tr>
+                                                            <td style=3D"bo=
+rder: 1px solid #e0e0e0; border-radius: 2px; padding: 0px 0 10px">
+                                                                <table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border=
+-collapse: collapse">
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" bgcolor=3D"#ffffff" valign=3D"middle"><a href=3D"http://l=
+inks.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS-2Be9yEDg8vfS7=
+mL5C99TwpJ-2F7ge-2FXD5CLS3otnWCWd4IrMkylkfYODgn7LhMzwkS-2FvcoDCU5GY4pzgSTrc=
+XX6z-2BRY0HrfqSg6LJuubX7oLjZeoArrBsamYhZT8-2FZ4EGZw0zhpB8X21TiA8NHmu3aoNIHy=
+c-2F0dWVvJCU4W4goYcWjwtyQeU57k648sSbas-2Buabw-3D-3D_xb69N2IWj9cpa7VY1jz2n0H=
+ql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6c57=
+bH5DVBzLJ9g7UcHBdEr5jg7kUxUNrmmjtkB1r2Cs6Hb9BJhcT4ACUHFnXh3Hp3NOd1kEDlBmB25=
+dlZAQTk2DJzagFs52WjDm9sbFOkmiE8Q0i-2FZ4cN7pX4y1rmxrD9evwIJ-2FVPd5g8IkKPRi34=
+UZW4gGdgFbqB2jFwOJSBf-2FyXp9uOd9jAsAf8KtRYEOTABJinsz8h0ekj8eLnaJUfOcz33qa7R=
+Cz0fJEzGyPLXThPAMtwjBVkO2uKmObit0JpyHvUvdG7-2Fsbh6hZp77X-2FyXvVxOJdXYErab3B=
+Iy-2FMXC3skK6gCfUvw9ECdDxJMHcDireeC-2BqCSYNWCHS7hk1Enr9jMO2eerRPCOgSfhkHuX2=
+ctuacLzma-2FYQtaj8iuVuQ-3D-3D" target=3D"_blank"><img src=3D"https://cldn0.=
+fiverrcdn.com/fiverr/t_medium5/gigs/604076/original/typewriter_jpg.jpg" wid=
+th=3D"243" height=3D"130" style=3D"color: #666666; display: block; font-fam=
+ily: Helvetica, arial, sans-serif; font-size: 13px; height: 130px; width: 2=
+43px" alt=3D"Fiverr Gigs" border=3D"0" class=3D"img-max"></a></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #333333; font-family: Arial, sans-serif; =
+font-size: 16px; height: 64px; padding: 5px 8px 0px; text-align: left" bgco=
+lor=3D"#ffffff">I will=C2=A0write 300 words of unique SEO Web Content</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #666666; font-family: Arial, sans-serif; =
+font-size: 12px; line-height: 20px; padding: 5px 8px 0px; text-align: left"=
+ bgcolor=3D"#ffffff">pownzor</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #666666; font-family: Arial, sans-serif; =
+font-size: 14px; line-height: 20px; padding: 5px 8px 0px; text-align: left"=
+ bgcolor=3D"#ffffff">
+<img src=3D"https://gallery.mailchimp.com/e271c966703e72a2f760a2499/images/=
+4c297244-a206-4acb-a470-413f73f05ddc.png" alt=3D"rating" valign=3D"middle">=
+<span style=3D"color: #a1a1a1; font-size: 12px">=C2=A0=C2=A0 (3597)</span>
+</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ align=3D"center" style=3D"color: #666666; font-family: Arial, sans-serif; =
+font-size: 14px; line-height: 20px; padding: 5px 8px 0px" bgcolor=3D"#fffff=
+f"><a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfr=
+E1HCqILS-2Be9yEDg8vfS7mL5C99TwpJ-2F7ge-2FXD5CLS3otnWCWd4IrMkylkfYODgn7LhMzw=
+kS-2FvcoDCU5GY4pzgSTrcXX6z-2BRY0HrfqSg6LJuubX7oLjZeoArrBsamYhZT8-2FZ4EGZw0z=
+hpB8X21TiA8NHmu3aoNIHyc-2F0dWVvJCU4W4goYcWjWM59w-2BkwKeQnD7N4crM1qQ-3D-3D_x=
+b69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6=
+AYILUoOSAPagQFUZAd6dmuQY17uUbN-2FP7MNvDa3dxFmqVi1V5w8jZys9EtLyibd8EFFH6FnmE=
+37rg6GifaNLojMkavqiNHaisYCGZ2bLlCY42JnhomIRhaj0nIPg7yciDk9v3a1x91QDkZyckroV=
+r3zODMSDzMZvuQNdTVYL3SlhJzLotI5aYFoU-2BO-2FRANxO-2BZedrCCaDlWjUVaI1jUzIKxBO=
+yRJi3SS9ovBNBTKpcm8K-2B9-2F-2BXUVz-2BZH5hhILH6XuMA5h6jMx-2BVuSVMa5-2BKAztS0=
+ckYz0GbxFqqSkVzINOYnFuMWDAWTaV9rR-2F0OSY3rtMcKBotiBQIt0pmw3IxnfF5vcvJC8FBdk=
+lSaxsl2rHByLe9KjYV961ayF4CZhLoliVaJNv1d-2BCK9yncS4UEw-3D-3D" style=3D"backg=
+round: #00b422; border-radius: 2px; color: #fff; display: block; font-famil=
+y: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; line-h=
+eight: 20px; margin-top: 10px; padding: 7px 6px; text-align: center; text-d=
+ecoration: none">Order Now</a></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                                      <td width=3D"20" styl=
+e=3D"font-size: 1px;">&nbsp;</td>
+                                    <td align=3D"right" valign=3D"top" widt=
+h=3D"240">
+                                    <![endif]-->
+                                    <div style=3D"display: inline-block; ma=
+rgin: 0 -2px; max-width: 50%; min-width: 240px; vertical-align: top; width:=
+ 100%" class=3D"wrapper">
+                                        <table cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0" width=3D"100%" style=3D"border-collapse: collapse">
+
+                                            <!-- GIG # 4 -->
+
+                                            <tr>
+                                                <td class=3D"mso-right">
+                                                    <table align=3D"left" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"bor=
+der-collapse: collapse; float: right; max-width: 240px" class=3D"wrapper">
+                                                        <tr>
+                                                            <td align=3D"ce=
+nter" valign=3D"top">
+
+                                                                <table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border=
+-collapse: collapse">
+                                                                    <tr>
+                                                                        <td=
+ style=3D"border: 1px solid #e0e0e0; border-radius: 2px; padding: 0px 0 10p=
+x">
+                                                                           =
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" sty=
+le=3D"border-collapse: collapse">
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" bgcolor=3D"#ffffff" valign=3D"middle"><a href=
+=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS98=
+6sa2x8IkEMpw1LI8M-2FSDDDG9CqpQ6Sk1mRelbHJnO1cQOf6RMRl-2FGWZWOXQkl-2Ft-2BvX-=
+2FKuQdhlXyVOPqdXBPZgxOLZ2s61icvpqDPiZEBTKQ-2BcgL4o4xs7hcK9C77SIUPOx9xTHwWaH=
+8EP1g5KV-2Bawk-2FF5zmLlXGTKkl6RO8eRUwjLA3mprwGQgUqnY99R5w-3D-3D_xb69N2IWj9c=
+pa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAP=
+agQFUZAd6SCDjL4M-2B3PL41uLjQI5ORIQsXPxbmc23xhnypDETuNqLc6TRoXFHCXhUjueaK-2F=
+ZMNBPH7j6ghcmH5qZMIUXF-2BET3vu6iwCEg-2BSQigfvRl7LT4mrIuWTn2GIEoA5L9ojBpTcar=
+MR4UJrvwm5-2BcDQ9pCe4CfmK-2FcHkRj-2FZogJiW1Z9lSpDtm2SeEkTZbcT7VcyGW80DyOo8H=
+2b6DcV5RfDWwiIpfeQ0qgveZgsbE6bCf58-2FuwU0bedN73L5P5liEFZ92GloRiTAcwU5qrVEGe=
+-2BsImLv4-2FAHaY7bwGlY-2Fai8ExuivFMsfTLYTsVH93UcpQ8JocLa3mY0rCjnXfx9J4ZlK7S=
+ZxhnrXOjqYyZ5-2BuJiEZI2FEEnCCtDxJQltrnipLfA-3D-3D" target=3D"_blank"><img s=
+rc=3D"https://cldn0.fiverrcdn.com/fiverr/t_medium5/gigs/34075235/original/e=
+9f427610468e68115c3035837a8448093b94cb5.jpg" width=3D"243" height=3D"130" s=
+tyle=3D"color: #666666; display: block; font-family: Helvetica, arial, sans=
+-serif; font-size: 13px; height: 130px; width: 243px" alt=3D"Fiverr Gigs" b=
+order=3D"0" class=3D"img-max"></a></td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #333333; font-family: Arial, =
+sans-serif; font-size: 16px; height: 64px; padding: 5px 8px 0px; text-align=
+: left" bgcolor=3D"#ffffff">I will=C2=A0design a trendy brush text calligra=
+phy logo</td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #666666; font-family: Arial, =
+sans-serif; font-size: 12px; line-height: 20px; padding: 5px 8px 0px; text-=
+align: left" bgcolor=3D"#ffffff">remmacapagal</td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #666666; font-family: Arial, =
+sans-serif; font-size: 14px; line-height: 20px; padding: 5px 8px 0px; text-=
+align: left" bgcolor=3D"#ffffff">
+<img src=3D"https://gallery.mailchimp.com/e271c966703e72a2f760a2499/images/=
+4c297244-a206-4acb-a470-413f73f05ddc.png" alt=3D"rating" valign=3D"middle">=
+<span style=3D"color: #a1a1a1; font-size: 12px">=C2=A0=C2=A0 (141)</span>
+</td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" style=3D"color: #666666; font-family: Arial, =
+sans-serif; font-size: 14px; line-height: 20px; padding: 5px 8px 0px" bgcol=
+or=3D"#ffffff"><a href=3D"http://links.announce.fiverr.com/wf/click?upn=3Dx=
+buZiqQAbXkfrE1HCqILS986sa2x8IkEMpw1LI8M-2FSDDDG9CqpQ6Sk1mRelbHJnO1cQOf6RMRl=
+-2FGWZWOXQkl-2Ft-2BvX-2FKuQdhlXyVOPqdXBPZgxOLZ2s61icvpqDPiZEBTKQ-2BcgL4o4xs=
+7hcK9C77SIUPOx9xTHwWaH8EP1g5KV-2Bawk-2FF5zmLlXGTKkl6RO8eR1PvZD45jW1-2BQdyxg=
+QPxWQQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B=
+-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6SW-2FlVtwspLwUOSc3CTReOs3IipFMzg8W5nF0qrnz=
+txlty1RF68a3fZq5-2FiYsEm5gAtCp-2F4LFNJWt7aQT5eqrSTxn70czsI4D-2BhgqLdcYYhx9j=
+jpcTeYow-2BoZCkCuvEBISZ75bDIUc9yge4EKwQA7-2FM-2Bw6llWps0K89qqe8DrXmFMdkn17W=
+e5rPKD0fsXY0OBwy0lwuEvrvj-2FSgU7ClJurZ4MGDC3-2FehypOfkuj37M1utuQq1AZ0WB6KZV=
+kn-2BXcQ5i-2BLU5SYaqSmRF9L50wHC8YbtnVILXnamX85MxUq-2FurhOXjQ1BOnK7d3hKBq0qG=
+7-2Fei1Qk2fhn0ll46Zoholwn8JzltDHvWN-2FLzoswRJTqEYiloEx1hjJHaKnPY8YwTDNg-3D-=
+3D" style=3D"background: #00b422; border-radius: 2px; color: #fff; display:=
+ block; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-we=
+ight: bold; line-height: 20px; margin-top: 10px; padding: 7px 6px; text-ali=
+gn: center; text-decoration: none">Order Now</a></td>
+                                                                           =
+     </tr>
+                                                                           =
+ </table>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </table>
+
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                    </td>
+                </tr>
+
+                <!-- SPACER -->
+
+                <tr>
+                    <td width=3D"100%" align=3D"center" valign=3D"top" bgco=
+lor=3D"#ffffff" height=3D"10"></td>
+                </tr>
+
+
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+
+
+
+=20=20=20=20
+    <tr>
+        <td bgcolor=3D"#eeeeee" align=3D"center" style=3D"padding: 0px 15px=
+" class=3D"section-padding">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600">
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"600">
+            <![endif]-->
+            <table bgcolor=3D"#313131" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse; max-width: =
+600px" class=3D"responsive-table">
+                <tr>
+                    <td>
+                        <!-- SIGN OFF -->
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"border-collapse: collapse">
+                            <tr>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"20" bgcolor=3D"#313131">=C2=A0</td>
+                                <td align=3D"center" style=3D"background: #=
+313131; color: #fff; font-family: Helvetica Light', 'Helvetica', Arial, san=
+s-serif; font-size: 16px; padding: 10px 0:; text-align: center; text-decora=
+tion: none" bgcolor=3D"#313131">
+                                    <div style=3D"color: #ffffff; font-size=
+: 20px; margin: auto; padding-top: 10px">
+                                        All the Gigs you need, all in your =
+pocket
+                                    </div>
+                                </td>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"20" bgcolor=3D"#313131">=C2=A0</td>
+                            </tr>
+<tr>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"10%" bgcolor=3D"#313131">=C2=A0</td>
+                                <td valign=3D"top" align=3D"left" class=3D"=
+center" style=3D"padding: 10px" width=3D"80%">
+                                    <p style=3D"margin: 0; mso-table-lspace=
+: 0; mso-table-rspace: 0; text-align: center" align=3D"center"><a href=3D"h=
+ttp://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS5ID7exR=
+zjRVtWj5KsOSUJZL2Vovq26Rhw1hUVNfjrJ20d1J3hpCShSl-2FkXu-2FStQAkNpRLGkTea-2Bv=
+TM2BTG5XtDMND-2B8oFBsHJ6fzoxjZ6t-2B-2BoCmKvVx-2Fyb49NW0Ouh1pRbGV6gcpAjEB71a=
+iOIxyiRmMQFQ2EsGaO-2FQTl9c0V16_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351h=
+vYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6VFbXeCWFJddpdm9EF7lmHg2k=
+wH-2BxBwhT3SI5fAQj6nD0bX0BQfz88XeQy4RG6twAa9OL-2BX6z2lZ2t9zWkxSKUWH6OTuo3Ny=
+dvXVcQ1wcIAFfiJV8qBj6DeWN48nXrqoNXmMM-2BXY4MHwd0qLFyxOBR0XoK4wssJ8FaGjGIMK3=
+lkC0uVJanJNxxO3f1wOyOlwnYovo9-2FFdZ5mdqdbc7A0KiAVcHvLCpta8BLd4Rd2hz0pTWAx8r=
+Gf-2FkhPsrmAGFfxDQf81nl2npPjRDtUkwX6KhYAqGv2Mak2bSTFBc4xmwuUgl4HpFnQfcDEcqh=
+g9aJspmwfY762QVX20-2B8ddUj-2F5FPh6dmXTlcdI7aZ-2BsFCMI0okG4FGqnNP7FICkVa5SZs=
+sQ-3D-3D" style=3D"color: #313131; text-decoration: none"><img align=3D"mid=
+dle" src=3D"https://d7l5bbi2x5xo4.cloudfront.net/cloud_files/1293/original/=
+appstorebig.png?1416241389" border=3D"0" style=3D"margin: 5px; max-width: 2=
+03px; width: 100%" width=3D"203"></a><a href=3D"http://links.announce.fiver=
+r.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSwWEimVazWZCp-2FmmhACxy-2BXefkt3zK=
+M-2B1p-2FzQL8b0VJeE9012eQAppJaJqPz7kdY4t-2BFy1YvERZ3GTXIF8FMwWK-2F1LYrHtJ2A=
+wlKBvijqkt8OjEMvF-2BAyVKFmUY-2FGOckNpwztDU93VL3V4TdfHed4CdCWCVr5FVHQFBe36gK=
+qEMr3jmsjoXXVpB7BY0J5H0jKQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa35=
+1hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6ee1-2BV4N-2F8XBDUDwAl0=
+BUO9jaBZGfyXBeWILpeIdVfF2JNX3whWTIdQyuecX6En1FczdfyKrSUympjCPXHgByJ84QwXqfm=
+aXYnTiljUpb-2B9NeqAMjBtoiA5cgR0ffc3R9GcgnptcYrTigr6XkqiIYRZE12xBQojLwlzJf-2=
+BGJAoq2r6E2Z2JwO35b-2FofBvcKNAVWR0TQFraDPXEzeMdAzE7ZmlsvLBFj1RbYUtZsLA3ybbX=
+5UX2Hwh3mmQh5-2BixYT3VxEnulVDrCoZkOaAMlbSkYER8MMKbR9gEZwuwQOWT23CV8RbafTOz0=
+1IExA7DTtAV97PFFXDwzSESuXA9JCl7-2FUVpN3M-2FE9YhFCQQa2HR7DOFNQLa0uJxzNuBHFyA=
+V7sA-3D-3D" style=3D"color: #313131"><img align=3D"middle" src=3D"https://d=
+7l5bbi2x5xo4.cloudfront.net/cloud_files/1294/original/gplaybig.png?14162414=
+29" border=3D"0" style=3D"margin: 5px; max-width: 203px; width: 100%" width=
+=3D"203"></a></p>
+                                </td>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"10%" bgcolor=3D"#313131">=C2=A0</td>
+                        </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+
+    <tr>
+        <td bgcolor=3D"#eeeeee" align=3D"center" style=3D"padding: 0px 15px=
+" class=3D"section-padding">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600">
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"600">
+            <![endif]-->
+            <table bgcolor=3D"#1f1f1f" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse; max-width: =
+600px" class=3D"responsive-table">
+                <tr>=20=20
+                    <td style=3D"padding: 10px 0px 15px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <table align=3D"middle" width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" class=3D"deviceWidth" bgcolor=3D"#1f1=
+f1f" style=3D"background: #1f1f1f; border-collapse: collapse">
+                            <tr>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"20" bgcolor=3D"#1f1f1f">=C2=A0</td>
+                                <td align=3D"center" style=3D"background: #=
+1f1f1f; color: #fff; font-family: Helvetica Light', 'Helvetica', Arial, san=
+s-serif; padding: 10px 0:; text-align: center; text-decoration: none" bgcol=
+or=3D"#1f1f1f">
+                                    <div style=3D"color: #ffffff; font-size=
+: 20px; margin: auto; padding-top: 10px">
+                                        Love Fiverr? Connect with us!
+                                    </div>
+                                </td>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"20" bgcolor=3D"#1f1f1f">=C2=A0</td>
+                            </tr>
+                        </table>
+                        <table align=3D"center" width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" class=3D"center deviceWidth" bgcolor=
+=3D"#1f1f1f" style=3D"background: #1f1f1f; border-collapse: collapse">
+                            <tr>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"20" bgcolor=3D"#1f1f1f">=C2=A0</td>
+                                <td align=3D"center" class=3D"center" style=
+=3D"background: #1f1f1f; padding: 10px; text-align: center" bgcolor=3D"#1f1=
+f1f">
+                                    <a href=3D"http://links.announce.fiverr=
+.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS1-2FU6V3T5Z8cl6sVd2LmyMRlVa8EowE7q=
+ZBmmk-2FJjrSn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2=
+B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6eWnDnbnFgnXhJR1VAttG-2B5mBg-2BsGU-2FZwd8Z=
+lasA-2Bl-2BHw7nm4SOWh9Vp2l4EpkmT33bsEWe9Rv-2BXn-2B8Qpw2qQJTrTQ-2FmvIWELCxhY=
+D0TPjHq6Lzh3DOih7ASs45X-2FrAQDfQe8pughObkv6bI9PcoVfTZBk-2FOER5wR-2BalyMK3sT=
+ASRAvmg8EKXN-2Bauyw7ArEM5ar6lSUIjaR7Kz7XQQ4eJf6oBfJiHEx9JhrYh0WeDIKNNADzmcP=
+PLjaoFdKWdezPUxm6vNGtrkXrbflW74zsxfHFOY3d8UveBpMpW38DI0Uwh6xE01KaLclr4boaSL=
+PeGuoHsG-2FjUbOIYJbmHPURqN07poR-2FvUg42dGk5t2IRGr-2FtmI8TlkcRlwYJzHt1vaYKg-=
+3D-3D" style=3D"display: inline-block; margin: 2px">
+                                    <img src=3D"https://d7l5bbi2x5xo4.cloud=
+front.net/cloud_files/1177/original/Twitter.png?1410867398" width=3D"30" he=
+ight=3D"30" border=3D"0"></a>
+                                    <a href=3D"http://links.announce.fiverr=
+.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS8gb0r6oMlQ4a4WQVWZ3mDFz6eqHS5pHGr0=
+B5T-2Fsl6cs_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-=
+2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6YaqgxlwZmFMlmm1nwPdbWAydMF0TolRbxxDCu8MyCA7=
+ba3aZAljoX-2Bv5dmjsKFvbBGBYu9lcEB4qqGxI6v3WEHEoJjqYzTXKT7DoD-2FQ6AVSpaV0wUE=
+OkBPqDK5JcnglHFWBrI4ovmFWKqqUxEwhEE-2BITug8J4Iajg-2Bh0p3mKnWIIAzCuOJl2oBI7D=
+8zOoUou-2FJm1s5qb2AYRJEo2Ft6qAkq1WGScde-2BOXTkPoby4Ajv-2FvdfdW6h38ertKidghP=
+AYdd7XrrlW-2Bdp-2BJ77c4Ys0heZdj1-2B4bfvrqVXGJWbo9YYVXkDc7pdPdJ0s-2BWup1LJ4C=
+8HZfSq7WwKsHbThJ19oDcEp35WsISaSzKSgEOkauE67kc8fSwbDFpCsVKQtasNAA-3D-3D" sty=
+le=3D"display: inline-block; margin: 2px">
+                                    <img src=3D"https://d7l5bbi2x5xo4.cloud=
+front.net/cloud_files/1178/original/Facebook.png?1410867447" width=3D"30" h=
+eight=3D"30" border=3D"0"></a>
+                                    <a href=3D"http://links.announce.fiverr=
+.com/wf/click?upn=3Dn1w3wTUEUQaHcZWvzoqa8dHLRbHtddtK6Qqo82Kc3knJQJsvIZ6kGSW=
+Prx2bImHz_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2F=
+nT-2BmalpJ6AYILUoOSAPagQFUZAd6Wd44cDhlyl6DWuAONzB3XiGDHQbTiJKq55gYWSlCWqcmf=
+Qu8-2Fb4Lvl7IZ2ye72yVawmE4mIUc-2FjBOQbav4B6OxVeLLXfwFdqLIr2779lVONlPS9msIY-=
+2ByBrBp1AlEkG8sS57UfxBcwNX1Ml7hqsSQ2L6VOTrT2vmI51lm4ojf-2B0iv9ZOHfk6EASiyYe=
+MtqDuZYW6vK2lBfT0hUIxHBXL7fELxuePprAXriib2-2Bophmk9GwAc3DQvGw-2Fy82TNGsY4Li=
+B-2BII21NsImzxDZqf4Sv25NCyRCiTioaj1jEz7Q3klZ5ysTBUrBq-2FUf0-2FnIgMpPeXx2Y-2=
+FtCQz40vUjyFm-2FgiFDBtwNzWSFPQ5Gc869-2BkxIJpwOH6LZfVlwULqi2C8G2g-3D-3D" sty=
+le=3D"display: inline-block; margin: 2px">
+                                    <img src=3D"https://d7l5bbi2x5xo4.cloud=
+front.net/cloud_files/1179/original/pinterest.png?1410867485" width=3D"30" =
+height=3D"30" border=3D"0"></a>
+                                    <a href=3D"http://links.announce.fiverr=
+.com/wf/click?upn=3DTBWBtyiatXktgh-2BBJwulu4DtpFlaWTkoYwID-2Bb6ueenV26qXhkP=
+RmS0EGY8Q0oTOrc9Og2TZf0Tu1aR9FU1U3Q-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1=
+b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6dBMqgBwViP6iC=
+akFcZYW716gC3-2FHBF5gSu8A9AjsiDCjLqOxUT0tmC8ia3Vj8Iv4932tt9bGzRRWzlUtM9iKN7=
+uVrYmnMNlzdbkv5VtupQHp1PH9DDxQXRoTA-2BMEL3ddDPHMOyyfOgd-2Bb5YD6SWvpYTcAEyWZ=
+YanPVLs5yvePt-2B0IBIk8L9FTB9UhdoDLQgrriTPKVeIlGtNzw0v1NNMri7c-2FgiFuZl8in4f=
+J-2FKXdRff3Mc4v7yyYWBZfpUcQSMtDLo8fZsuVmyPHpNYo68ZEjZbHuZjRjChGucz7IKrOn43m=
+V-2BsbkYJ-2BBOCgTwhA19OCBVxNdPOEeE2MqfhY93HQh5EFUKRRHZ-2FXkOAZzGFeRSjws9luh=
+ClZVw13S22-2B6RBA-3D-3D" style=3D"display: inline-block; margin: 2px">
+                                    <img src=3D"https://d7l5bbi2x5xo4.cloud=
+front.net/cloud_files/1180/original/in.png?1410867523" width=3D"30" height=
+=3D"30" border=3D"0"></a>
+                                    <a href=3D"http://links.announce.fiverr=
+.com/wf/click?upn=3D88D1B49n1Re2vVY9pN-2BMuF473oF1M2EI-2BWUAJgPDRIFxq68C3UG=
+mZ6oVKF-2FQgENV_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k=
+-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6fDiVcIaWNfvVGurqY91dpxOEefLbFPsyWvi3Xxy=
+0VW3uH-2Bnk-2B6-2BPNrHigUv8SFwRzxgGjAgGVsFkvvD-2FW-2B2Pz3zRpswyL5ZKbAgmMnUd=
+3A3hdmEjOiTbPRYF60ft-2FfN-2FmYrI-2BN4aXBGTM8-2BGcyQFYOu4BGIFxyLMHAQtCGMr2tA=
+uCdp0JTZLuoSXUHGRY0OYZui4iCCqIvtJFpG-2F3Z45mrNAmtY2TcG8memc1dwFF-2BE9wJwdYT=
+UUyiT5f-2BZMfJ7S5LzBAsnzWEOtZ4ADb5L2aZlkZalA-2Fojt5Gtycr0C-2FGoYvCBFfVJnSi6=
+cKGQj-2FAZ-2FVHS3-2F2L3zJVtYuVMzg7iKU0qNz5-2FP-2BWXIFbgJDwXvB0Oa6aPIEJD9Q1U=
+se51hfTYg-3D-3D" style=3D"display: inline-block; margin: 2px">
+                                    <img src=3D"https://d7l5bbi2x5xo4.cloud=
+front.net/cloud_files/1181/original/Instagram.png?1410867566" width=3D"30" =
+height=3D"30" border=3D"0"></a>
+                                </td>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px" width=3D"20" bgcolor=3D"#1f1f1f">=C2=A0</td>
+                            </tr>
+                        </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                </tr>
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor=3D"#eeeeee" align=3D"center" style=3D"padding: 20px 0px=
+">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"500">
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"500">
+            <![endif]-->
+            <!-- UNSUBSCRIBE COPY -->
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"center" style=3D"border-collapse: collapse; max-width: 600=
+px" class=3D"responsive-table">
+                <tr>
+                    <td align=3D"center" style=3D"color: #818181; font-fami=
+ly: 'Helvetica Light', 'Helvetica', Arial, sans-serif; font-size: 12px; lin=
+e-height: 1.5; padding-top: 5px; text-align: center">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<table style=3D"border-collapse: collapse; text-align: center; width: 100%">
+	<tbody>
+		<tr>
+			<td style=3D"color: #535353; font-size: 10px; line-height: 16px; padding=
+-bottom: 20px; text-align: center" align=3D"center"><span style=3D"font-siz=
+e: 12px"><span style=3D"font-family: arial,helvetica neue,helvetica,sans-se=
+rif"><a href=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXk=
+frE1HCqILS-2Be9yEDg8vfS7mL5C99TwpIda0PPIhZz9ceuy0iTOQO3_xb69N2IWj9cpa7VY1jz=
+2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd=
+6Wo9NUUvJbQT-2BoQlIZsgt3BDjW4IDxv4qsHNuirLqJBd3vh3H25F0Kg-2FDwUJNvBCYz8Z5bP=
+gdWbLQV-2BZVp-2BILV1N-2FkB3Os8k5jXZzBr1KeefYcmDKoX7WP7QXqQptejsXFh8NmRbl7UA=
+lMGBXIrM4z6zHdTGWnduD6e-2Bv7FgoHdPOEfDYbslIy6uzmlnw-2FJg-2FRUDW7mC5pv5Pbbc4=
+i5mrrCnaFAjZFiam59tmuNlmol4Xz6EGO3EDVaGlp1Q-2FVoIec7ZdU5z4bPtqbJYmyQPxMjvGD=
+uVqCzJNXlN6m8vn-2BoN-2FoFETivgeFb6eh2N5hqCHXkbOqTTVdXZTyAh6dUshdI-2F6YqONcq=
+9Qmiv6IFm9s9AWPh9yZprW60Fm2UHJLzPhA-3D-3D" style=3D"color: #00698c; text-de=
+coration: none">Privacy Policy</a> | <a href=3D"http://links.announce.fiver=
+r.com/wf/click?upn=3DL8x0Hlj9fZFahi1BLwFf4owdnh2yQHeQsaZAVAdkiCteNFfkwUmp2p=
+PTqYNDBLYL_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2=
+FnT-2BmalpJ6AYILUoOSAPagQFUZAd6aawo8wHb2QZTe4ublfnZyAF3-2Fna2h6mutuAAP2PTb6=
+8jRkbHghCvlk6gef5LHcxx28LRTBU5hmSh7Chix3jFKIxpJ28cNh39CZOTtDJQEWpRsDi-2Fwri=
+70BlxgLKZF6muqDqKeDUGj-2BdREP-2F1LQsICGb2n6WuJlXl8EJvX8W8MyNPCDnI7E3uq4lQ9O=
+GvW1x1M1-2FSnEdQITX6BBloCt8Uwip5675TIJW4NghvXU2gvh5LWsOhqTSV1HDRTldU3z5oFTn=
+CJ5j67WzH5fP-2F18xkhqJ4eKNAr-2B6qCGtAZM-2F772muBXxkHQ9GX6lUo0StqFu-2B-2B1jb=
+MmnwH0Y5Ou57mIFldYMkNclUlnpO-2FLgu7m9F8IECJTnipnjMAuniWGZQuxLgg-3D-3D" styl=
+e=3D"color: #00698c; text-decoration: none">Support</a>=C2=A0| <a href=3D"h=
+ttp://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILS986sa2x=
+8IkEMpw1LI8M-2FSChot1r19se2btV3hyTCbyyCGow5-2F26L6nck3Q8zz-2BIQMv17fVQFwigl=
+q2Zd-2BbURREJ1fUxahg5M4zzGQBx-2BarT9JyiyeaXF32-2BGFzDH9suCg-3D-3D_xb69N2IWj=
+9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOS=
+APagQFUZAd6VJ0SuP20EiteJvvCEOhqspcWGLl36PBZrJNIClPj-2Fd41N5-2BQreVJ38ZIJOpF=
+s629mMkUOEt80xYgLESefbNubdwuBJfKhsLe8haA-2BbrjcmiuLzWrdYFlemaLVhWProU8f-2Bz=
+yy6N56YjU-2FSxzCp-2FKat-2BLQYzdM8zXY9OY5SaxVxPklGMKrD-2B-2BIe7h5K01B9aUP-2B=
+32oSX7d1xPrRQEjiXBiGik0NcMqWhvxkaT4fYLnV5y3ck8nGIR8r4qNhTdcqePmyWvQqMbg-2BE=
+zI31YRcthTk8IWjHD-2FmwSAWxClZej7FXFRlxcoxnqla92UU0oqprwYaLxHINx-2FF0maULUBQ=
+UM-2Fehj5GgNYAZhIzEZbrf8V9VLjjrqAekY8Qwtt4923QBYQ-3D-3D" style=3D"color: #0=
+0698c; text-decoration: none">Invite a Friend</a><br>
+			This email was sent to you by Fiverr, Inc. You are receiving this email =
+because you signed up for Fiverr.=C2=A0<br>
+			If you wish to unsubscribe from all future emails, please click <a href=
+=3D"http://links.announce.fiverr.com/wf/click?upn=3DxbuZiqQAbXkfrE1HCqILSz8=
+lBS5pwGGUsJ40-2BmQtIVU0d6Z3tyYvR6UsjwqN-2BJrdEvY-2BwUJjGPRphpv32IRrYV55wrsA=
+Hz-2Bron2d-2B-2FlE3CX2ZWORffBc4EQNWTpYxa7HOcTctUCa6zWYQ7w-2F9FgPfY2xfxfRUHe=
+nSG96IIBJapACZ7k3dJmN9L-2FtYsj5aV0laS77URSvyIjaVvSDGsCLbSZ39ZHVAZnu2vGcCAI4=
+E6BytQ-2FFBc3g8tOFzDimitoyjH4UUB6-2BC-2ByNezj8Yi466eSSVkwHtpE4-2F1sh7DRcZ6p=
+CsxfiRV4Xt3vVvxENr-2Fe6_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9Ivg=
+W8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFUZAd6aD32busFlmT0ObqcQv5oE2icpPbGsJm=
+IQ0CnDoDdDwaozjStJmI8zRYHIzw7CT2aVH9dSKxqUxPz2Iev-2Bbt6vJbTZcLc7hikO6WEK-2B=
+L3TUO2H9cI90uWJJ6lF9EtWY5kefPZGblIfyblNGFJZHnkDhU5mQR6bLMhujLzUhREqck06VGhj=
+Dm5lKOxXREL57OLXGJL5AGiTSUz2056Vp3d7ncJlJQKAy4Pf8GcyFHnH1IIocPm-2Fy0r8jx-2F=
+lYA-2B8K2ZRMgmOIEMa9N-2BVm3IyvtT9zGRh47R8Ivb6-2B9xgq4GVZpqB1-2ByrT-2B8V-2BN=
+6s2vanOGlu40JJxBre8vUX50XtBY6AJYBTVoKQWnu-2BXjHk3-2FD-2FY7AFBvqKRddaIr4Gh9v=
+zhqiA-3D-3D" style=3D"color: #9D9D9D">here</a><br>
+			<br>
+			Fiverr, Inc. | 401 Broadway, Suite 1600 | New York, NY 10013, USA</span>=
+</span></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+=C2=A0
+                    </td>
+                </tr>
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+</table>
+
+<img src=3D"http://links.announce.fiverr.com/wf/open?upn=3Dxb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu9IvgW8fUVF4k-2B-2FnT-2BmalpJ6AYILUoOSAPagQFU=
+ZAd6TmWwqvvEQfWzhYuaVH-2FU3yfQ7H2c-2Bdd09GbIUgRllqtLsEvT4hfVyz42rFHLb1OpgH4=
+5YsC0PBL4vmKqzAmwPzrW4Mf8HAqlXZpSHLxXpPTrHJ6uUAmImYoCipGj-2FXNM-2FBhGkdvctG=
+xs50ErikSDLn-2BPtzFYlnrH7CWZP6lDp3zq5uE1yvUrM-2BK7-2F9NsFCLpVqtbVtg0d9vY8nH=
+nbc5Aa8GsqPGEEemTW15lCZacp-2BJr3fZp5Kjuhrzb2R7bN2CwIM-2F9PM1UbNpofcI939dgzl=
+zVsxT7NyT9ebkYO3I8Tx7IELcm5EeQrLJ9qrQALC2Ds8AszsODjseUQYPbdDTuAq53VRXKGFc1Q=
+foXBTUNCkmGjUksea5svx8wTatUeF-2BSQ-3D-3D" alt=3D"" width=3D"1" height=3D"1"=
+ border=3D"0" style=3D"height:1px !important;width:1px !important;border-wi=
+dth:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-=
+right:0 !important;margin-left:0 !important;padding-top:0 !important;paddin=
+g-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;=
+"/>
+</body>
+</html>
+
+
+--6a1a1537b12ca33d9e53d72f483fafb8d31a59cd201f1c09f20ff62c2bf5--

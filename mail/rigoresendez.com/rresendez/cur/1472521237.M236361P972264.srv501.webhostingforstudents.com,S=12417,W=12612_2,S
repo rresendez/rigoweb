@@ -1,0 +1,195 @@
+Return-Path: <olmo@codergv.org>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 8aoGDhXkxFfo1Q4ATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 29 Aug 2016 21:40:37 -0400
+Return-path: <olmo@codergv.org>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 29 Aug 2016 21:40:37 -0400
+Received: from mail-oi0-f72.google.com ([209.85.218.72]:34118)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <olmo@codergv.org>)
+	id 1beY2X-0044rz-08
+	for rresendez@rigoresendez.com; Mon, 29 Aug 2016 21:40:37 -0400
+Received: by mail-oi0-f72.google.com with SMTP id j203so19257507oih.1
+        for <rresendez@rigoresendez.com>; Mon, 29 Aug 2016 18:40:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=codergv.org; s=google;
+        h=mime-version:message-id:date:subject:from:to;
+        bh=Sb6RNjNUcYFcd01OP7LGZ5E90z+YlovyYj/K2RIyefk=;
+        b=JD9eTMooREw+LqbJNhoAovPacEP5PRX+okZJOcTOrli2S/2f9Fwy/luv/+Jcji7NCc
+         mz2XZNE/2iOYSnpeWwcjgwIq5xjpiEXzx8kcExUv8YiTiyyIZauk9iTtjrx+DLIo+zbo
+         XaVTbCv8NAjaBwlJIBhInB7WqTRwkRoj/q7A4=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:message-id:date:subject:from:to;
+        bh=Sb6RNjNUcYFcd01OP7LGZ5E90z+YlovyYj/K2RIyefk=;
+        b=i5UdM4rbNnMCZQ34tC5BSsLG8oXIxMdHIheKY5TUA7mRanpSmmehX+7R0yjsT+8isf
+         nb2O4RDb7OL4i4MmfGckg1QRGFQgkTRiXMjTZvWKRzouflxMZcSqWcSoqKauImYbAIs7
+         XSDhL7wbVNdfxeZucke/Xnyh7dkBRvJzQLKgvrlu/5/qKm99JUvs7EisDOHlDa6GMxBc
+         gYmet9lZRwcFSq7/MlL41F3A3DyGkFrjuDSuQpo2iHp/yLBE9MtAIbZb43I1hzF3hZbI
+         N4fuQeSRFSyDr84CKL9jPRGmDi/56d06anNdxQUnGIYy4wt0GFpOYb8CVjvtvkzawThS
+         Amew==
+X-Gm-Message-State: AE9vXwMddycXQUEUt0eCPvqJFVMMQ0824Tbh0qMOj859t5Tpb8dP0d8GG2mtXNwnQGWj6oMva4LR37zzI8AwWznZ
+MIME-Version: 1.0
+X-Received: by 10.157.9.73 with SMTP id 67mr865378otp.43.1472521196693; Mon,
+ 29 Aug 2016 18:39:56 -0700 (PDT)
+Message-ID: <94eb2c0442d2da9480053b400eb8@google.com>
+Date: Tue, 30 Aug 2016 01:39:56 +0000
+Subject: (boot) October 2016 Application Submitted
+From: olmo@codergv.org
+To: rresendez@rigoresendez.com
+Content-Type: multipart/alternative; boundary=94eb2c0442d2da9462053b400eb5
+
+--94eb2c0442d2da9462053b400eb5
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+
+Application Pending Review
+
+Your application has been received. We will review applications on  
+September 8th, 2016.
+
+Reach out to us if you have any questions or concerns.
+
+Best regards,
+
+
+
+Here is your response for your records:
+
+Full name Rigoberto Resendez Email rresendez@rigoresendez.com Birthday  
+1988-08-19 Gender Male Location Texas Are you free of work and other study  
+commitments for the duration of the program No If you answered "no" to the  
+previous question, briefly describe your other commitments. i enrolled for  
+9 hours on utpa including ae comerce class with Joel Garza which i could  
+overlap with this project. A sample of my Django/Python job can be found at  
+http://rresendez.pythonanywhere.com/ What is the highest level of school  
+you have completed or the highest degree you have received? Bachelor degree  
+Which of the following categories best describes your employment status?  
+Not employed, NOT looking for work Which race/ethnicity best describes you?  
+Hispanic American What is the primary language spoken at home? Spanish Why  
+are you applying to the (boot) Bootcamp? I'm in the IT master programs and  
+I believe I do have a talent for coding. I was received the invitation at  
+my utrgv mail. Tell us about your professional/educational career to date.  
+What are you up to now and how did you end up there? I have a 3.9 GPA in MS  
+on IT . Have completed Harvard CS50 have taken several courses with Khan  
+Academy and Team tree house . I'm currently begining a nano degree on  
+Android Development in Udacity developed by Google Describe your background  
+with computer programming. Please be as detailed as possible. Feel free to  
+include links to any applications you've built, courses you've completed,  
+etc... Most of my old code exists at my webpage which I developed  
+www.rigoresendez.com some of my most recent work in Django/python is here  
+http://rresendez.pythonanywhere.com/ Also my php application to send free  
+sms still works at http://rigoresendez.com/sms.php. Currently I'm working  
+on a e-comerce webpage for jewelry for a family memeber i hope to implement  
+bticoin payment since i took some lessons on bitcoin services as 21.co .  
+The ability to think in a structured way, both creatively and  
+quantitatively, to solve complex problems is an important element of being  
+a successful developer. Can you tell us anything that demonstrates your  
+abilities in that realm? (anything from standardized test scores to  
+experience playing a musical instrument counts) I do play guitar, piano and  
+bass . I did learn guitar by myself trough software , until the point I  
+would perform live . While I was around 11 years old, I was given and IQ  
+test and scored 135 . However ,to be honest that was a long time ago. I am  
+that kind of ADHD that when focus can achieve anything . I have a passion  
+for understanding , solving and creating .I love code , because you can  
+build so much with so little. Is there anything else you'd like us to know?  
+This is a link to my CV  
+https://drive.google.com/file/d/0B5O4PWzeKQ1obTEtckhwY09NblE/view?usp=sharing.  
+I hope you consider me . I know I have a lot to offer if given the right  
+opportunity. I'm always helping my fellow students because they know I have  
+a passion for understanding. Please let me become the best version of  
+myself by helping you. The "C" in CSS stands for? Creative In a short  
+paragraph explain the difference between backend and frontend. Back end  
+deal with the processing that happens outside the client computer , most of  
+times this code is to be hidden form the client for security reason. The  
+front end is what happens on the client side including the user interface.  
+How many times does the loop run? Three What's the final value of i? -1.5  
+To the best of your knowledge explain what the code does. Enter "I don't  
+know" if unable to answer. In each iteration "i" divides by 2 and then  
+subtracts 2 this is done until "i" is less than 0
+
+--94eb2c0442d2da9462053b400eb5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<h4>Application Pending Review</h4><p>Your application has been received. W=
+e will review applications on September 8th, 2016.</p><p>Reach out to us if=
+ you have any questions or concerns.</p><p>Best regards,</p><br><hr><p>Here=
+ is your response for your records:</p><dl><dt style=3D"margin:15px 0 0; fo=
+nt-weight: bold">Full name</dt><dd style=3D"margin:0">Rigoberto Resendez</d=
+d><dt style=3D"margin:15px 0 0; font-weight: bold">Email</dt><dd style=3D"m=
+argin:0">rresendez@rigoresendez.com</dd><dt style=3D"margin:15px 0 0; font-=
+weight: bold">Birthday</dt><dd style=3D"margin:0">1988-08-19</dd><dt style=
+=3D"margin:15px 0 0; font-weight: bold">Gender</dt><dd style=3D"margin:0">M=
+ale</dd><dt style=3D"margin:15px 0 0; font-weight: bold">Location</dt><dd s=
+tyle=3D"margin:0">Texas</dd><dt style=3D"margin:15px 0 0; font-weight: bold=
+">Are you free of work and other study commitments for the duration of the =
+program</dt><dd style=3D"margin:0">No</dd><dt style=3D"margin:15px 0 0; fon=
+t-weight: bold">If you answered "no" to the previous question, briefly desc=
+ribe your other commitments.</dt><dd style=3D"margin:0">i enrolled for 9 ho=
+urs on utpa including a e comerce class with Joel Garza which i could overl=
+ap with this project. A sample of my Django/Python job can be found at http=
+://rresendez.pythonanywhere.com/</dd><dt style=3D"margin:15px 0 0; font-wei=
+ght: bold">What is the highest level of school you have completed or the hi=
+ghest degree you have received?</dt><dd style=3D"margin:0">Bachelor degree<=
+/dd><dt style=3D"margin:15px 0 0; font-weight: bold">Which of the following=
+ categories best describes your employment status?</dt><dd style=3D"margin:=
+0">Not employed, NOT looking for work</dd><dt style=3D"margin:15px 0 0; fon=
+t-weight: bold">Which race/ethnicity best describes you?</dt><dd style=3D"m=
+argin:0">Hispanic American</dd><dt style=3D"margin:15px 0 0; font-weight: b=
+old">What is the primary language spoken at home?</dt><dd style=3D"margin:0=
+">Spanish</dd><dt style=3D"margin:15px 0 0; font-weight: bold">Why are you =
+applying to the (boot) Bootcamp?</dt><dd style=3D"margin:0">I'm in the IT m=
+aster programs and I believe I do have a talent for coding. I was received =
+the invitation at my utrgv mail. </dd><dt style=3D"margin:15px 0 0; font-we=
+ight: bold">Tell us about your professional/educational career to date. Wha=
+t are you up to now and how did you end up there?</dt><dd style=3D"margin:0=
+">I have a 3.9 GPA in MS on IT . Have completed Harvard CS50 have taken sev=
+eral courses with Khan Academy and Team tree house . I'm currently begining=
+ a nano degree on Android Development in Udacity developed by Google</dd><d=
+t style=3D"margin:15px 0 0; font-weight: bold">Describe your background wit=
+h computer programming. Please be as detailed as possible. Feel free to inc=
+lude links to any applications you've built, courses you've completed, etc.=
+..</dt><dd style=3D"margin:0">Most of my old code exists at my webpage whic=
+h I developed www.rigoresendez.com some of my most recent work in=20
+Django/python is here http://rresendez.pythonanywhere.com/ Also my php appl=
+ication to send free sms still works at http://rigoresendez.com/sms.php.
+Currently I'm working on a e-comerce webpage for jewelry for a family memeb=
+er i hope to implement bticoin payment since i took some lessons on bitcoin=
+ services as 21.co .
+</dd><dt style=3D"margin:15px 0 0; font-weight: bold">The ability to think =
+in a structured way, both creatively and quantitatively, to solve complex p=
+roblems is an important element of being a successful developer. Can you te=
+ll us anything that demonstrates your abilities in that realm? (anything fr=
+om standardized test scores to experience playing a musical instrument coun=
+ts)</dt><dd style=3D"margin:0">I do play guitar, piano and bass . I did lea=
+rn guitar by myself trough software , until the point I would perform live =
+. While I was around 11 years old, I was given and IQ test and scored 135 .=
+ However ,to be honest that was a long time ago. I am that kind of ADHD tha=
+t when  focus can achieve anything . I have a passion for understanding , s=
+olving and creating .I love code , because you can build so much with so li=
+ttle. </dd><dt style=3D"margin:15px 0 0; font-weight: bold">Is there anythi=
+ng else you'd like us to know?</dt><dd style=3D"margin:0">This is a link to=
+ my CV https://drive.google.com/file/d/0B5O4PWzeKQ1obTEtckhwY09NblE/view?us=
+p=3Dsharing.
+
+I hope you consider me . I know I have a lot to offer if given the right op=
+portunity. I'm always helping my fellow students because they know I have a=
+ passion for understanding.  Please let me become the best version of mysel=
+f by helping you.</dd><dt style=3D"margin:15px 0 0; font-weight: bold">The =
+"C" in CSS stands for?</dt><dd style=3D"margin:0">Creative</dd><dt style=3D=
+"margin:15px 0 0; font-weight: bold">In a short paragraph explain the diffe=
+rence between backend and frontend.</dt><dd style=3D"margin:0">Back end dea=
+l with the processing that happens outside the client  computer , most of t=
+imes this code is to be hidden form the client for security reason. The fro=
+nt end is what happens on the client side including the user interface.</dd=
+><dt style=3D"margin:15px 0 0; font-weight: bold">How many times does the l=
+oop run?</dt><dd style=3D"margin:0">Three</dd><dt style=3D"margin:15px 0 0;=
+ font-weight: bold">What's the final value of i?</dt><dd style=3D"margin:0"=
+>-1.5</dd><dt style=3D"margin:15px 0 0; font-weight: bold">To the best of y=
+our knowledge explain what the code does. Enter "I don't know" if unable to=
+ answer. </dt><dd style=3D"margin:0">In each iteration "i" divides by 2 and=
+ then subtracts 2 this is done until "i" is less than 0 </dd></dl>
+--94eb2c0442d2da9462053b400eb5--

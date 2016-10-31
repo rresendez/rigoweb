@@ -1,0 +1,302 @@
+Return-Path: <accounts@utrgv.edu>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id XZ4rCpjIv1fCKQMATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 26 Aug 2016 00:42:00 -0400
+Return-path: <accounts@utrgv.edu>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 26 Aug 2016 00:42:00 -0400
+Received: from mta.utrgv.edu ([129.113.205.106]:62019)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <accounts@utrgv.edu>)
+	id 1bd8xs-000rl4-A7
+	for rresendez@rigoresendez.com; Fri, 26 Aug 2016 00:42:00 -0400
+Received: from pe-wapsys1 (10.8.16.20) by pe-infedgecr2.ad.utrgv.edu
+ (10.8.0.81) with Microsoft SMTP Server id 15.0.1104.5; Thu, 25 Aug 2016
+ 23:41:18 -0500
+MIME-Version: 1.0
+From: UTRGV Accounts <accounts@utrgv.edu>
+To: <rresendez@rigoresendez.com>
+Date: Thu, 25 Aug 2016 23:41:18 -0500
+Subject: Your UTRGV Account Password Has Been Changed
+Content-Type: multipart/alternative;
+	boundary="--boundary_121_25fe27da-63b7-4385-84f8-5e6c248a197b"
+Message-ID: <313880c0de3c4ed6b47803855ada4ea5@pe-infedgecr2.ad.utrgv.edu>
+
+----boundary_121_25fe27da-63b7-4385-84f8-5e6c248a197b
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+=0D=0A<head>=0D=0A    <meta name=3D"viewport" content=3D"width=3D=
+device-width, minimum-scale=3D1.0, maximum-scale=3D1.0, user-scal=
+able=3D0">=0D=0A    <meta http-equiv=3D"Content-Type" content=3D"=
+text/html; charset=3Dutf-8">=0D=0A</head>=0D=0A<body marginheight=
+=3D"0" marginwidth=3D"0" leftmargin=3D"0" topmargin=3D"0" style=3D=
+"margin:0 !important; width:100% !important; -webkit-text-size-ad=
+just:none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-=
+serif !important; font-size: 14px;">=0D=0A    <style type=3D"text=
+/css">=0D=0A        @media only screen and (max-device-width: 480=
+px) {=0D=0A            .main-table {=0D=0A                width: =
+310px !important;=0D=0A            }=0D=0A=0D=0A            body =
+{=0D=0A                width: 320px !important;=0D=0A            =
+}=0D=0A=0D=0A            .htext {=0D=0A                font-famil=
+y: 'Helvetica Neue', Helvetica, Arial, sans-serif;=0D=0A         =
+       font-size: 16px !important;=0D=0A                font-weig=
+ht: bold !important;=0D=0A            }=0D=0A=0D=0A            .h=
+subtext {=0D=0A                font-family: 'Helvetica Neue', Hel=
+vetica, Arial, sans-serif;=0D=0A                font-size: 14px !=
+important;=0D=0A            }=0D=0A        }=0D=0A=0D=0A        i=
+mg {=0D=0A            display: block;=0D=0A            border: 0;=
+=0D=0A            height: auto;=0D=0A            line-height: 100=
+%;=0D=0A            outline: none;=0D=0A            text-decorati=
+on: none;=0D=0A        }=0D=0A=0D=0A        .ReadMsgBody {=0D=0A =
+           width: 100%;=0D=0A        }=0D=0A=0D=0A        .Extern=
+alClass {=0D=0A            width: 100%;=0D=0A        }=0D=0A=0D=0A=
+        p {=0D=0A            font-family: 'Helvetica Neue', Helve=
+tica, Arial, sans-serif !important;=0D=0A            font-size: 1=
+4px !important;=0D=0A            margin: 1 1 1.5em;=0D=0A        =
+    !important;=0D=0A        }=0D=0A=0D=0A        a {=0D=0A      =
+      text-decoration: none !important;=0D=0A        }=0D=0A=0D=0A=
+        table {=0D=0A            font-family: 'Helvetica Neue', H=
+elvetica, Arial, sans-serif !important;=0D=0A            font-siz=
+e: 14px;=0D=0A        }=0D=0A=0D=0A        body {=0D=0A          =
+  margin: 0 !important;=0D=0A            width: 100% !important;=0D=0A=
+            -webkit-text-size-adjust: none;=0D=0A        }=0D=0A=0D=0A=
+        .htext {=0D=0A            font-family: 'Helvetica Neue', =
+Helvetica, Arial, sans-serif;=0D=0A            font-size: 24px;=0D=0A=
+            font-weight: bold;=0D=0A            color: #00693D;=0D=0A=
+        }=0D=0A=0D=0A        .hsubtext {=0D=0A            font-fa=
+mily: 'Helvetica Neue', Helvetica, Arial, sans-serif;=0D=0A      =
+      font-size: 18px;=0D=0A            color: #00693D;=0D=0A    =
+    }=0D=0A    </style>=0D=0A    <table id=3D"Table_01" border=3D=
+"0" cellpadding=3D"20" cellspacing=3D"0" style=3D"border-width:0p=
+x; width: 100%; table-layout:fixed; !important; position: relativ=
+e; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !i=
+mportant; font-size: 14px;" class=3D"main-table">=0D=0A        <t=
+r>=0D=0A            <td>=0D=0A=0D=0A                <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: 0px; =
+border-width:0px; border-left: 1px solid #cccccc; border-right: 1=
+px solid #cccccc;	border-top: 1px solid #cccccc;	border-bottom: 1=
+px solid #cccccc; position: relative; background-color: #dddddd; =
+position:relative; table-layout: fixed; font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif !important; font-size: 14px;">=
+=0D=0A                    <tbody>=0D=0A                        <t=
+r>=0D=0A                            <td style=3D"background-color=
+: #646469; border: 0px; border-width:0px; position: relative; pad=
+ding: 3px 3px 25px 3px; text-align: center;">=0D=0A              =
+                  <div style=3D"font-family: 'Helvetica Neue', He=
+lvetica, Arial, sans-serif; font-size: 24px; font-weight: bold; c=
+olor: #ffffff;" class=3D"htext"><br /><img style=3D"margin:0px au=
+to;" src=3D"http://evites.utpa.edu/it/utrgv/utrgv-email-logo2.png=
+" alt=3D"The University of Texas Rio Grande Valley"></div>=0D=0A =
+                           </td>=0D=0A                        </t=
+r>=0D=0A                        <tr>=0D=0A                       =
+     <td height=3D"7" style=3D"background: #ef7521; border: 0px; =
+border-width:0px; line-height:7px; font-size:7px">&nbsp;</td>=0D=0A=
+                        </tr>=0D=0A                        <tr>=0D=0A=
+                            <td style=3D"background-color: #fffff=
+f; position: relative; padding:5px 10px;">=0D=0A                 =
+               <div style=3D"font-family: 'Helvetica Neue', Helve=
+tica, Arial, sans-serif; font-size: 220%; text-align: center; col=
+or: #ef7521;" class=3D"hsubtext"><span xml:lang=3D"EN-US"><span x=
+ml:lang=3D"EN-US">UTRGV Password Change Confirmation</span></span=
+></div>=0D=0A                            </td>=0D=0A             =
+           </tr>=0D=0A                        <tr>=0D=0A         =
+                   <td style=3D"background-color: #ffffff; paddin=
+g-top: 20px; padding-bottom: 20px; padding-left: 10px; padding-ri=
+ght: 10px;">=0D=0A                                Dear Rigoberto,=
+<br /><br />=0D=0A                                <p>The UTRGV ac=
+count password for your Username spd651, email address rigoberto.=
+resendez01@utrgv.edu was changed on Thursday, August 25, 2016 11:=
+41 PM.</p>=0D=0A                                =0D=0A           =
+                     <p>=0D=0A                                   =
+ For technical support, call the IT Help Desk: <br />=0D=0A      =
+                              Brownsville: 956-882-2020 <br />=0D=0A=
+                                    Edinburg: 956-665-2020=0D=0A =
+                               </p>=0D=0A=0D=0A                  =
+              <p>=0D=0A                                    For al=
+l other questions, contact UTRGV Enrollment Services. <br />=0D=0A=
+                                    956-882-8983 (local) <br />=0D=0A=
+                                    888-882-4026 (toll-free) <br =
+/>=0D=0A                                    <a href=3D"mailto:adm=
+issions@utrgv.edu">admissions@utrgv.edu </a>=0D=0A               =
+                 </p>=0D=0A=0D=0A                                =
+<p><strong>Remember:  <font color=3D"red">Your new password will =
+expire in one year.</font></strong> Do not share your password wi=
+th anyone.               </p>=0D=0A                              =
+  <p>=0D=0A                                    Sincerely,<br />=0D=0A=
+=0D=0A                                    UTRGV Information Techn=
+ology=0D=0A                                </p>=0D=0A=0D=0A=0D=0A=
+                        <tr>=0D=0A                            <td=
+ style=3D"background-color: #646469; border: 0px; border-top: 1px=
+ solid #cccccc; position: relative; padding: 10px; text-align: ce=
+nter; font-size: 12px; color:#ffffff;">=0D=0A                    =
+            <div align=3D"center">=0D=0A                         =
+           This email address cannot accept replies. <br /><br />=
+=0D=0A                                    <span style=3D"border: =
+none; color: #e1e1e1; text-decoration: none !important; font-fami=
+ly: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11=
+px; line-height: 17px;"><span class=3D"nobreak">The University of=
+ Texas Rio Grande Valley</span></span>=0D=0A                     =
+           </div>=0D=0A                            </td>=0D=0A   =
+                     </tr>=0D=0A                    </tbody>=0D=0A=
+                </table>=0D=0A=0D=0A            </td>=0D=0A      =
+  </tr>=0D=0A    </table>=0D=0A</body>=0D=0A
+----boundary_121_25fe27da-63b7-4385-84f8-5e6c248a197b
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VVRSR1YgUGFzc3dvcmQgQ2hhbmdlIENvbmZpcm1hdGlvbg0KDQpEZWFyIFJpZ29iZXJ0
+bywNCg0KVGhlIFVUUkdWIGFjY291bnQgcGFzc3dvcmQgZm9yIHlvdXIgVXNlcm5hbWUg
+c3BkNjUxLCBlbWFpbCBhZGRyZXNzIHJpZ29iZXJ0by5yZXNlbmRlejAxQHV0cmd2LmVk
+dSB3YXMgY2hhbmdlZCBvbiBUaHVyc2RheSwgQXVndXN0IDI1LCAyMDE2IDExOjQxIFBN
+Lg0KDQpGb3IgdGVjaG5pY2FsIHN1cHBvcnQsIGNvbnRhY3QgdGhlIElUIFNlcnZpY2Ug
+RGVzazoNCjk1Ni04ODItMjAyMCBCcm93bnN2aWxsZSwgSGFybGluZ2VuLCBTb3V0aCBQ
+YWRyZSBJc2xhbmQNCjk1Ni02NjUtMjAyMCBFZGluYnVyZywgTWNBbGxlbiwgUmlvIEdy
+YW5kZSBDaXR5DQoNClJlbWVtYmVyOiBZb3VyIG5ldyBwYXNzd29yZCB3aWxsIGV4cGly
+ZSBpbiBvbmUgeWVhci4gIERvIG5vdCBzaGFyZSB5b3VyIHBhc3N3b3JkIHdpdGggYW55
+b25lLg0KDQpTaW5jZXJlbHksDQoNClVUUkdWIEluZm9ybWF0aW9uIFRlY2hub2xvZ3kN
+Cmh0dHA6Ly93d3cudXRyZ3YuZWR1L2l0DQoNClRoaXMgZW1haWwgYWRkcmVzcyBjYW5u
+b3QgYWNjZXB0IHJlcGxpZXMuDQpUaGUgVW5pdmVyc2l0eSBvZiBUZXhhcyBSaW8gR3Jh
+bmRlIFZhbGxleSA=
+----boundary_121_25fe27da-63b7-4385-84f8-5e6c248a197b
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+DQo8aGVhZD4NCiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9
+ZGV2aWNlLXdpZHRoLCBtaW5pbXVtLXNjYWxlPTEuMCwgbWF4aW11bS1zY2FsZT0xLjAs
+IHVzZXItc2NhbGFibGU9MCI+DQogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1U
+eXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPC9oZWFkPg0K
+PGJvZHkgbWFyZ2luaGVpZ2h0PSIwIiBtYXJnaW53aWR0aD0iMCIgbGVmdG1hcmdpbj0i
+MCIgdG9wbWFyZ2luPSIwIiBzdHlsZT0ibWFyZ2luOjAgIWltcG9ydGFudDsgd2lkdGg6
+MTAwJSAhaW1wb3J0YW50OyAtd2Via2l0LXRleHQtc2l6ZS1hZGp1c3Q6bm9uZTsgZm9u
+dC1mYW1pbHk6ICdIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMt
+c2VyaWYgIWltcG9ydGFudDsgZm9udC1zaXplOiAxNHB4OyI+DQogICAgPHN0eWxlIHR5
+cGU9InRleHQvY3NzIj4NCiAgICAgICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4
+LWRldmljZS13aWR0aDogNDgwcHgpIHsNCiAgICAgICAgICAgIC5tYWluLXRhYmxlIHsN
+CiAgICAgICAgICAgICAgICB3aWR0aDogMzEwcHggIWltcG9ydGFudDsNCiAgICAgICAg
+ICAgIH0NCg0KICAgICAgICAgICAgYm9keSB7DQogICAgICAgICAgICAgICAgd2lkdGg6
+IDMyMHB4ICFpbXBvcnRhbnQ7DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIC5o
+dGV4dCB7DQogICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6ICdIZWx2ZXRpY2EgTmV1
+ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7DQogICAgICAgICAgICAgICAg
+Zm9udC1zaXplOiAxNnB4ICFpbXBvcnRhbnQ7DQogICAgICAgICAgICAgICAgZm9udC13
+ZWlnaHQ6IGJvbGQgIWltcG9ydGFudDsNCiAgICAgICAgICAgIH0NCg0KICAgICAgICAg
+ICAgLmhzdWJ0ZXh0IHsNCiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogJ0hlbHZl
+dGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsNCiAgICAgICAg
+ICAgICAgICBmb250LXNpemU6IDE0cHggIWltcG9ydGFudDsNCiAgICAgICAgICAgIH0N
+CiAgICAgICAgfQ0KDQogICAgICAgIGltZyB7DQogICAgICAgICAgICBkaXNwbGF5OiBi
+bG9jazsNCiAgICAgICAgICAgIGJvcmRlcjogMDsNCiAgICAgICAgICAgIGhlaWdodDog
+YXV0bzsNCiAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxMDAlOw0KICAgICAgICAgICAg
+b3V0bGluZTogbm9uZTsNCiAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsN
+CiAgICAgICAgfQ0KDQogICAgICAgIC5SZWFkTXNnQm9keSB7DQogICAgICAgICAgICB3
+aWR0aDogMTAwJTsNCiAgICAgICAgfQ0KDQogICAgICAgIC5FeHRlcm5hbENsYXNzIHsN
+CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOw0KICAgICAgICB9DQoNCiAgICAgICAgcCB7
+DQogICAgICAgICAgICBmb250LWZhbWlseTogJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0
+aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiAhaW1wb3J0YW50Ow0KICAgICAgICAgICAgZm9u
+dC1zaXplOiAxNHB4ICFpbXBvcnRhbnQ7DQogICAgICAgICAgICBtYXJnaW46IDEgMSAx
+LjVlbTsNCiAgICAgICAgICAgICFpbXBvcnRhbnQ7DQogICAgICAgIH0NCg0KICAgICAg
+ICBhIHsNCiAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZSAhaW1wb3J0YW50
+Ow0KICAgICAgICB9DQoNCiAgICAgICAgdGFibGUgew0KICAgICAgICAgICAgZm9udC1m
+YW1pbHk6ICdIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2Vy
+aWYgIWltcG9ydGFudDsNCiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDsNCiAgICAg
+ICAgfQ0KDQogICAgICAgIGJvZHkgew0KICAgICAgICAgICAgbWFyZ2luOiAwICFpbXBv
+cnRhbnQ7DQogICAgICAgICAgICB3aWR0aDogMTAwJSAhaW1wb3J0YW50Ow0KICAgICAg
+ICAgICAgLXdlYmtpdC10ZXh0LXNpemUtYWRqdXN0OiBub25lOw0KICAgICAgICB9DQoN
+CiAgICAgICAgLmh0ZXh0IHsNCiAgICAgICAgICAgIGZvbnQtZmFtaWx5OiAnSGVsdmV0
+aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOw0KICAgICAgICAg
+ICAgZm9udC1zaXplOiAyNHB4Ow0KICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7
+DQogICAgICAgICAgICBjb2xvcjogIzAwNjkzRDsNCiAgICAgICAgfQ0KDQogICAgICAg
+IC5oc3VidGV4dCB7DQogICAgICAgICAgICBmb250LWZhbWlseTogJ0hlbHZldGljYSBO
+ZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsNCiAgICAgICAgICAgIGZv
+bnQtc2l6ZTogMThweDsNCiAgICAgICAgICAgIGNvbG9yOiAjMDA2OTNEOw0KICAgICAg
+ICB9DQogICAgPC9zdHlsZT4NCiAgICA8dGFibGUgaWQ9IlRhYmxlXzAxIiBib3JkZXI9
+IjAiIGNlbGxwYWRkaW5nPSIyMCIgY2VsbHNwYWNpbmc9IjAiIHN0eWxlPSJib3JkZXIt
+d2lkdGg6MHB4OyB3aWR0aDogMTAwJTsgdGFibGUtbGF5b3V0OmZpeGVkOyAhaW1wb3J0
+YW50OyBwb3NpdGlvbjogcmVsYXRpdmU7IGZvbnQtZmFtaWx5OiAnSGVsdmV0aWNhIE5l
+dWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmICFpbXBvcnRhbnQ7IGZvbnQt
+c2l6ZTogMTRweDsiIGNsYXNzPSJtYWluLXRhYmxlIj4NCiAgICAgICAgPHRyPg0KICAg
+ICAgICAgICAgPHRkPg0KDQogICAgICAgICAgICAgICAgPHRhYmxlIGJvcmRlcj0iMCIg
+Y2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBzdHlsZT0iYm9yZGVyOiAwcHg7
+IGJvcmRlci13aWR0aDowcHg7IGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2NjY2NjYzsg
+Ym9yZGVyLXJpZ2h0OiAxcHggc29saWQgI2NjY2NjYzsJYm9yZGVyLXRvcDogMXB4IHNv
+bGlkICNjY2NjY2M7CWJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjY2NjOyBwb3Np
+dGlvbjogcmVsYXRpdmU7IGJhY2tncm91bmQtY29sb3I6ICNkZGRkZGQ7IHBvc2l0aW9u
+OnJlbGF0aXZlOyB0YWJsZS1sYXlvdXQ6IGZpeGVkOyBmb250LWZhbWlseTogJ0hlbHZl
+dGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiAhaW1wb3J0YW50
+OyBmb250LXNpemU6IDE0cHg7Ij4NCiAgICAgICAgICAgICAgICAgICAgPHRib2R5Pg0K
+ICAgICAgICAgICAgICAgICAgICAgICAgPHRyPg0KICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIDx0ZCBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogIzY0NjQ2OTsgYm9yZGVy
+OiAwcHg7IGJvcmRlci13aWR0aDowcHg7IHBvc2l0aW9uOiByZWxhdGl2ZTsgcGFkZGlu
+ZzogM3B4IDNweCAyNXB4IDNweDsgdGV4dC1hbGlnbjogY2VudGVyOyI+DQogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9ImZvbnQtZmFtaWx5OiAn
+SGVsdmV0aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyBmb250
+LXNpemU6IDI0cHg7IGZvbnQtd2VpZ2h0OiBib2xkOyBjb2xvcjogI2ZmZmZmZjsiIGNs
+YXNzPSJodGV4dCI+PGJyIC8+PGltZyBzdHlsZT0ibWFyZ2luOjBweCBhdXRvOyIgc3Jj
+PSJodHRwOi8vZXZpdGVzLnV0cGEuZWR1L2l0L3V0cmd2L3V0cmd2LWVtYWlsLWxvZ28y
+LnBuZyIgYWx0PSJUaGUgVW5pdmVyc2l0eSBvZiBUZXhhcyBSaW8gR3JhbmRlIFZhbGxl
+eSI+PC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4NCiAgICAg
+ICAgICAgICAgICAgICAgICAgIDwvdHI+DQogICAgICAgICAgICAgICAgICAgICAgICA8
+dHI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGhlaWdodD0iNyIgc3R5
+bGU9ImJhY2tncm91bmQ6ICNlZjc1MjE7IGJvcmRlcjogMHB4OyBib3JkZXItd2lkdGg6
+MHB4OyBsaW5lLWhlaWdodDo3cHg7IGZvbnQtc2l6ZTo3cHgiPiZuYnNwOzwvdGQ+DQog
+ICAgICAgICAgICAgICAgICAgICAgICA8L3RyPg0KICAgICAgICAgICAgICAgICAgICAg
+ICAgPHRyPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBzdHlsZT0iYmFj
+a2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsgcG9zaXRpb246IHJlbGF0aXZlOyBwYWRkaW5n
+OjVweCAxMHB4OyI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYg
+c3R5bGU9ImZvbnQtZmFtaWx5OiAnSGVsdmV0aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFy
+aWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDIyMCU7IHRleHQtYWxpZ246IGNlbnRl
+cjsgY29sb3I6ICNlZjc1MjE7IiBjbGFzcz0iaHN1YnRleHQiPjxzcGFuIHhtbDpsYW5n
+PSJFTi1VUyI+PHNwYW4geG1sOmxhbmc9IkVOLVVTIj5VVFJHViBQYXNzd29yZCBDaGFu
+Z2UgQ29uZmlybWF0aW9uPC9zcGFuPjwvc3Bhbj48L2Rpdj4NCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4N
+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4NCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICA8dGQgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICNmZmZmZmY7IHBhZGRp
+bmctdG9wOiAyMHB4OyBwYWRkaW5nLWJvdHRvbTogMjBweDsgcGFkZGluZy1sZWZ0OiAx
+MHB4OyBwYWRkaW5nLXJpZ2h0OiAxMHB4OyI+DQogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIERlYXIgUmlnb2JlcnRvLDxiciAvPjxiciAvPg0KICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICA8cD5UaGUgVVRSR1YgYWNjb3VudCBwYXNzd29yZCBm
+b3IgeW91ciBVc2VybmFtZSBzcGQ2NTEsIGVtYWlsIGFkZHJlc3Mgcmlnb2JlcnRvLnJl
+c2VuZGV6MDFAdXRyZ3YuZWR1IHdhcyBjaGFuZ2VkIG9uIFRodXJzZGF5LCBBdWd1c3Qg
+MjUsIDIwMTYgMTE6NDEgUE0uPC9wPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICANCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+DQogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGb3IgdGVjaG5pY2FsIHN1cHBvcnQs
+IGNhbGwgdGhlIElUIEhlbHAgRGVzazogPGJyIC8+DQogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICBCcm93bnN2aWxsZTogOTU2LTg4Mi0yMDIwIDxiciAvPg0K
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRWRpbmJ1cmc6IDk1Ni02
+NjUtMjAyMA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+DQoNCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+DQogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICBGb3IgYWxsIG90aGVyIHF1ZXN0aW9ucywgY29udGFj
+dCBVVFJHViBFbnJvbGxtZW50IFNlcnZpY2VzLiA8YnIgLz4NCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIDk1Ni04ODItODk4MyAobG9jYWwpIDxiciAvPg0K
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgODg4LTg4Mi00MDI2ICh0
+b2xsLWZyZWUpIDxiciAvPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgPGEgaHJlZj0ibWFpbHRvOmFkbWlzc2lvbnNAdXRyZ3YuZWR1Ij5hZG1pc3Npb25z
+QHV0cmd2LmVkdSA8L2E+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwv
+cD4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPlJl
+bWVtYmVyOiAgPGZvbnQgY29sb3I9InJlZCI+WW91ciBuZXcgcGFzc3dvcmQgd2lsbCBl
+eHBpcmUgaW4gb25lIHllYXIuPC9mb250Pjwvc3Ryb25nPiBEbyBub3Qgc2hhcmUgeW91
+ciBwYXNzd29yZCB3aXRoIGFueW9uZS4gICAgICAgICAgICAgICA8L3A+DQogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIDxwPg0KICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgU2luY2VyZWx5LDxiciAvPg0KDQogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICBVVFJHViBJbmZvcm1hdGlvbiBUZWNobm9sb2d5DQog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4NCg0KDQogICAgICAgICAg
+ICAgICAgICAgICAgICA8dHI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRk
+IHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiAjNjQ2NDY5OyBib3JkZXI6IDBweDsgYm9y
+ZGVyLXRvcDogMXB4IHNvbGlkICNjY2NjY2M7IHBvc2l0aW9uOiByZWxhdGl2ZTsgcGFk
+ZGluZzogMTBweDsgdGV4dC1hbGlnbjogY2VudGVyOyBmb250LXNpemU6IDEycHg7IGNv
+bG9yOiNmZmZmZmY7Ij4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRp
+diBhbGlnbj0iY2VudGVyIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIFRoaXMgZW1haWwgYWRkcmVzcyBjYW5ub3QgYWNjZXB0IHJlcGxpZXMuIDxiciAv
+PjxiciAvPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4g
+c3R5bGU9ImJvcmRlcjogbm9uZTsgY29sb3I6ICNlMWUxZTE7IHRleHQtZGVjb3JhdGlv
+bjogbm9uZSAhaW1wb3J0YW50OyBmb250LWZhbWlseTogJ0hlbHZldGljYSBOZXVlJywg
+SGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxMXB4OyBsaW5l
+LWhlaWdodDogMTdweDsiPjxzcGFuIGNsYXNzPSJub2JyZWFrIj5UaGUgVW5pdmVyc2l0
+eSBvZiBUZXhhcyBSaW8gR3JhbmRlIFZhbGxleTwvc3Bhbj48L3NwYW4+DQogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIDwvdGQ+DQogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPg0KICAg
+ICAgICAgICAgICAgICAgICA8L3Rib2R5Pg0KICAgICAgICAgICAgICAgIDwvdGFibGU+
+DQoNCiAgICAgICAgICAgIDwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgPC90YWJsZT4N
+CjwvYm9keT4NCg==
+----boundary_121_25fe27da-63b7-4385-84f8-5e6c248a197b--

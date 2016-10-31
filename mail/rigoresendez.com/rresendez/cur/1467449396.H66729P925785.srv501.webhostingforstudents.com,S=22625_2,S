@@ -1,0 +1,346 @@
+Return-path: <01000155aacc2a7e-ce6d0bf8-099d-471c-b725-113a6310be21-000000@amazonses.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 02 Jul 2016 04:49:56 -0400
+Received: from a10-34.smtp-out.amazonses.com ([54.240.10.34]:40852)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <01000155aacc2a7e-ce6d0bf8-099d-471c-b725-113a6310be21-000000@amazonses.com>)
+	id 1bJGcd-003slo-Qq
+	for rresendez@rigoresendez.com; Sat, 02 Jul 2016 04:49:55 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=hucoxmmjamtjawctojtzwcbu34fh2b42; d=itbl.livecareer.com;
+	t=1467449354;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=5pETsoGtLjbmMHADJ11oukgAdbrmpjY7/JxLVXfNrTA=;
+	b=Hr0YmDTrSvbM+JSOU7RuF2iOEBURe2ETchWUPsyK1FvvmlimSw2uJ7A/IcxczoxK
+	IJFjC2FKswfHoz60U3gI0qQoLqAhxkFDQRjR40C1YbTayQCLx2uwf4b3rzFFEgU3hnF
+	KRMLj22nlq42qmt8shGbO0H93XXyq0DOA/icJbJw=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1467449354;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID:Feedback-ID:List-Unsubscribe;
+	bh=5pETsoGtLjbmMHADJ11oukgAdbrmpjY7/JxLVXfNrTA=;
+	b=G2BTTXy1elkb0Y0kYmzkMM/Mod8y3gfYwaEfEJa+qhVRGLDbLOHaHaEvloLIWF85
+	cBA4pwANmz48vpUDMSJ9yZtrNrjG99AX/ZYls2o74hbMEarrrv3BYIUGzIxckWHep2s
+	TdJB4ZXTAPTS84vY6d7GuaknOLNkZH3ojCyjucE4=
+Date: Sat, 2 Jul 2016 08:49:14 +0000
+From: Account <noreply@itbl.livecareer.com>
+To: "rresendez@rigoresendez.com" <rresendez@rigoresendez.com>
+Message-ID: <01000155aacc2a7e-ce6d0bf8-099d-471c-b725-113a6310be21-000000@email.amazonses.com>
+Subject: We have good news and bad news
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_12700545_777002073.1467449354863"
+X-Campaign-ID: 25447
+Feedback-ID: 1.us-east-1.lCJVkz6+3S71MtYe1CeGk/9v1Z83C325jnahyIHJIg0=:AmazonSES
+List-Unsubscribe: <http://links.itbl.livecareer.com/e/unsubscribe?_k=deac9bca5bb748c1acb4e7f9a108dcab&_u=rresendez%40rigoresendez.com&_n=25447&_t=45400>,<mailto:unsubscribe+25447+45400@iterable.com>
+X-Feedback-ID: 45400:25447:1874:iterable
+X-SES-Outgoing: 2016.07.02-54.240.10.34
+
+------=_Part_12700545_777002073.1467449354863
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_12700546_1231780224.1467449354863"
+
+------=_Part_12700546_1231780224.1467449354863
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+LiveCareer Employers have not seen your resume yet. We have good news and b=
+ad=20
+news about your resume =20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3Dhttp://www.livecareer.com>
+RESUMES=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/resume-builder>
+COVER LETTERS=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/cover-letter-builder>
+INTERVIEWS=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/interview-videos>
+JOBS=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3Dhttp://jobs.livecareer.com>
+Rigoberto,
+
+First the good news:
+ You recently took a huge step in your job search: you created a=20
+professional-quality resume that makes you stand out and look great to=20
+companies that are hiring.
+
+Now the bad news:
+ Employers haven=E2=80=99t seen your resume, because you haven=E2=80=99t se=
+nt it out. Luckily,=20
+for less than $2, you can start getting your resume into the hands of hirin=
+g=20
+managers right away.Full Access=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/membership/signin.aspx?es=3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z1T=
+xjwVCZ99sPpedUgLoRyCpAv31cKIJdwklJkWM/JAPBycLP2MQzi3cGm2sup7OVDpEEp0IhRDvYA=
+=3D=3D&email=3Drresendez@rigoresendez.com&partyId=3D129488253~~%26targ=3Dht=
+tp%3A%2F%2Fwww.livecareer.com%2Fbilling%2Factivate-subscription-b.aspx%3Ffr=
+om%253Dexternal%2526partyid%253D129488253>
+ lets you download, email and print as many copies of your resume as you wa=
+nt.
+
+ Don=E2=80=99t let the perfect job go to someone else. Upgrade to Full Acce=
+ss=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/membership/signin.aspx?es=3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z1T=
+xjwVCZ99sPpedUgLoRyCpAv31cKIJdwklJkWM/JAPBycLP2MQzi3cGm2sup7OVDpEEp0IhRDvYA=
+=3D=3D&email=3Drresendez@rigoresendez.com&partyId=3D129488253~~%26targ=3Dht=
+tp%3A%2F%2Fwww.livecareer.com%2Fbilling%2Factivate-subscription-b.aspx%3Ffr=
+om%253Dexternal%2526partyid%253D129488253>
+ today and bring some more good news to your job search! =20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/membership/signin.aspx?es=3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z1T=
+xjwVCZ99sPpedUgLoRyCpAv31cKIJdwklJkWM/JAPBycLP2MQzi3cGm2sup7OVDpEEp0IhRDvYA=
+=3D=3D&email=3Drresendez@rigoresendez.com&partyId=3D129488253~~%26targ=3Dht=
+tp%3A%2F%2Fwww.livecareer.com%2Fbilling%2Factivate-subscription-b.aspx%3Ffr=
+om%253Dexternal%2526partyid%253D129488253>
+LiveCareer PR, LLC City View Plaza PR-165, Suite 6000
+ Guaynabo, PR 00968 Stay in touch with us =20
+<https://www.facebook.com/LiveCareer>  <https://twitter.com/livecareer> =20
+<https://plus.google.com/u/0/b/114659926374501281756/114659926374501281756/=
+posts>
+ <http://www.pinterest.com/livecareer> LiveCareer periodically sends emails=
+ to=20
+its subscribed members. You subscribed asrresendez@rigoresendez.com=20
+<mailto:rresendez@rigoresendez.com> when you registered for your free accou=
+nt=20
+with LiveCareer on 2016-06-30 06:49:12 +00:00. To ensure the delivery of=20
+LiveCareer email, please take a moment to addmember@m.livecareer.com=20
+<mailto:member@m.livecareer.com> to your email address book or safe list - =
+Find=20
+out how=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/instructions/find-how.htm>
+.
+ You can unsubscribe=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Duc&targ=
+=3D/personal/unsubscribe.aspx?email=3Drresendez@rigoresendez.com&p=3D129488=
+253&sid=3D1&oid=3D1>
+ at any time. LiveCareer values your privacy; read ourprivacy policy=20
+<http://www.livecareer.com/c/12173?mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D/privacy-policy>
+.
+
+ =C2=A9 2016 LiveCareer Ltd. All rights reserved. This email was sent to=20
+rresendez@rigoresendez.com <mailto:rresendez@rigoresendez.com>. Don't want =
+to=20
+receive these emails anymore?Unsubscribe=20
+<http://links.itbl.livecareer.com/e/unsubscribe?_k=3Ddeac9bca5bb748c1acb4e7=
+f9a108dcab&_u=3Drresendez%40rigoresendez.com&_n=3D25447&_t=3D45400>
+LC, LiveCareer PR, LLC City View Plaza PR-165, Suite 6000 Guaynabo, PR 0096=
+8
+------=_Part_12700546_1231780224.1467449354863
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml"> <head> <meta http-equiv=3D"Content-Type" content=3D"text/=
+html; charset=3Dutf-8"/> <title>LiveCareer</title> </head> <body> <span sty=
+le=3D"color:transparent;visibility:hidden;display:none;opacity:0;height:0;w=
+idth:0;font-size:0;">Employers have not seen your resume yet.</span> <img s=
+rc=3D"http://links.itbl.livecareer.com/e/open?_k=3Ddeac9bca5bb748c1acb4e7f9=
+a108dcab&amp;_u=3Drresendez%40rigoresendez.com&amp;_n=3D25447&amp;_t=3D4540=
+0" style=3D"border:0;width:1px;height:1px;" width=3D"1" height=3D"1"/> <tab=
+le align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"width:600px"> <tbody> <tr> <td align=3D"center" style=3D"padding:15px 0=
+;"><font color=3D"#000000" face=3D"Arial, Helvetica, sans-serif" size=3D"1"=
+ style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;line-hei=
+ght:24px;font-weight:normal;color:#000000;">We have good news and bad news =
+about your resume</font></td> </tr> <tr> <td style=3D"border:1px solid #dfd=
+fdf;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"wid=
+th:598px"> <tbody> <tr> <td style=3D"border-bottom:1px solid #dfdfdf; paddi=
+ng:15px 18px 15px 28px;"> <table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width:552px"> <tbody> <tr> <td width=3D"1=
+40"><a href=3D"http://links.itbl.livecareer.com/u/0235fc1724804718a581f49c8=
+d4fc23b?_e=3Drresendez%40rigoresendez.com&mid=3D1105&pid=3D129488253&ht=3De=
+c&targ=3Dhttp%3A%2F%2Fwww.livecareer.com" style=3D"color:#ff6600;text-decor=
+ation:none" target=3D"_blank"><img alt=3D"LiveCareer" border=3D"0" height=
+=3D"25" src=3D"http://www.livecareer.com/images/uploaded/livecareer-newlogo=
+-140X25.png" style=3D"display:block" width=3D"140"/></a></td> <td width=3D"=
+52"></td> <td width=3D"360"> <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"width:360px"> <tbody> <tr> <td align=3D"center"><font co=
+lor=3D"#000000" face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif;font-size:12px;color:#000000;font-w=
+eight:bold"><a href=3D"http://links.itbl.livecareer.com/u/98eee3269ec64f508=
+251540ccb72ef1a?_e=3Drresendez%40rigoresendez.com&mid=3D1105&pid=3D12948825=
+3&ht=3Dec&targ=3D%2Fresume-builder" style=3D"font-family:Arial, Helvetica, =
+sans-serif; font-size:12px;color:#000000;font-weight:bold; text-decoration:=
+none;" target=3D"_blank" title=3D"RESUMES">RESUMES</a></font></td> <td alig=
+n=3D"center"><font color=3D"#000000" face=3D"Arial, Helvetica, sans-serif" =
+size=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif;font-size:12px=
+;color:#000000;font-weight:bold"><a href=3D"http://links.itbl.livecareer.co=
+m/u/90be8f1b3da54735bc084855ad1d9683?_e=3Drresendez%40rigoresendez.com&mid=
+=3D1105&pid=3D129488253&ht=3Dec&targ=3D%2Fcover-letter-builder" style=3D"fo=
+nt-family:Arial, Helvetica, sans-serif;font-size:12px;color:#000000;font-we=
+ight:bold; text-decoration:none;" target=3D"_blank" title=3D"COVER LETTERS"=
+>COVER LETTERS</a></font></td> <td align=3D"center"><font color=3D"#000000"=
+ face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"font-family:Aria=
+l, Helvetica, sans-serif;font-size:12px;color:#000000;font-weight:bold"><a =
+href=3D"http://links.itbl.livecareer.com/u/6a8c7f90e2954042be086da148ac7b66=
+?_e=3Drresendez%40rigoresendez.com&mid=3D1105&pid=3D129488253&ht=3Dec&targ=
+=3D%2Finterview-videos" style=3D"font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;color:#000000;font-weight:bold; text-decoration:none;" target=
+=3D"_blank" title=3D"INTERVIEWS">INTERVIEWS</a></font></td> <td align=3D"ce=
+nter"><font color=3D"#000000" face=3D"Arial, Helvetica, sans-serif" size=3D=
+"1" style=3D"font-family:Arial, Helvetica, sans-serif;font-size:12px;color:=
+#000000;font-weight:bold"><a href=3D"http://links.itbl.livecareer.com/u/c62=
+4bc5de6064750a7220f09c162faa1?_e=3Drresendez%40rigoresendez.com&mid=3D1105&=
+pid=3D129488253&ht=3Dec&targ=3Dhttp%3A%2F%2Fjobs.livecareer.com" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif;font-size:12px;color:#000000;font-w=
+eight:bold; text-decoration:none;" target=3D"_blank" title=3D"JOBS">JOBS</a=
+></font></td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> <=
+/tr> <tr> <td height=3D"35" style=3D"height:35px; line-height:35px;"></td> =
+</tr> <tr> <td style=3D"padding:0 35px;"> <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width:528px"> <tbody> <tr> <td><font colo=
+r=3D"#000000" face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px;line-height:24px;font=
+-weight:normal;color:#000000;">Rigoberto,<br/> <br/> <strong>First the good=
+ news:</strong><br/> You recently took a huge step in your job search: you =
+created a professional-quality resume that makes you stand out and look gre=
+at to companies that are hiring.<br/> <br/> <strong>Now the bad news:</stro=
+ng><br/> Employers haven=E2=80=99t seen your resume, because you haven=E2=
+=80=99t sent it out. Luckily, for less than $2, you can start getting your =
+resume into the hands of hiring managers right away. <a href=3D"http://link=
+s.itbl.livecareer.com/u/51350934dc2246948c2c5d6ab18ee69b?_e=3Drresendez%40r=
+igoresendez.com&mid=3D1105&pid=3D129488253&ht=3Dec&targ=3D%2Fmembership%2Fs=
+ignin.aspx%3Fes%3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z1TxjwVCZ99sPpedU=
+gLoRyCpAv31cKIJdwklJkWM%2FJAPBycLP2MQzi3cGm2sup7OVDpEEp0IhRDvYA%3D%3D&email=
+=3Drresendez%40rigoresendez.com&partyId=3D129488253~~%26targ%3Dhttp%3A%2F%2=
+Fwww.livecareer.com%2Fbilling%2Factivate-subscription-b.aspx%3Ffrom%253Dext=
+ernal%2526partyid%253D129488253" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:14px;color:#ff6633;font-weight:normal; text-decoration:u=
+nderline;" target=3D"_blank">Full Access</a> lets you download, email and p=
+rint as many copies of your resume as you want.<br/> <br/> Don=E2=80=99t le=
+t the perfect job go to someone else. <a href=3D"http://links.itbl.livecare=
+er.com/u/e15b8c8722e94d3c9c59c08e52f3fdc5?_e=3Drresendez%40rigoresendez.com=
+&mid=3D1105&pid=3D129488253&ht=3Dec&targ=3D%2Fmembership%2Fsignin.aspx%3Fes=
+%3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z1TxjwVCZ99sPpedUgLoRyCpAv31cKIJ=
+dwklJkWM%2FJAPBycLP2MQzi3cGm2sup7OVDpEEp0IhRDvYA%3D%3D&email=3Drresendez%40=
+rigoresendez.com&partyId=3D129488253~~%26targ%3Dhttp%3A%2F%2Fwww.livecareer=
+.com%2Fbilling%2Factivate-subscription-b.aspx%3Ffrom%253Dexternal%2526party=
+id%253D129488253" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px;color:#ff6633;font-weight:normal; text-decoration:underline;" targ=
+et=3D"_blank">Upgrade to Full Access</a> today and bring some more good new=
+s to your job search! </font></td> </tr> <tr> <td height=3D"50" style=3D"he=
+ight:50px; line-height:50px;"></td> </tr> <tr> <td align=3D"center"><a href=
+=3D"http://links.itbl.livecareer.com/u/0ab46e2874644124826fec863f5a1e9f?_e=
+=3Drresendez%40rigoresendez.com&mid=3D1105&pid=3D129488253&ht=3Dec&targ=3D%=
+2Fmembership%2Fsignin.aspx%3Fes%3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z=
+1TxjwVCZ99sPpedUgLoRyCpAv31cKIJdwklJkWM%2FJAPBycLP2MQzi3cGm2sup7OVDpEEp0IhR=
+DvYA%3D%3D&email=3Drresendez%40rigoresendez.com&partyId=3D129488253~~%26tar=
+g%3Dhttp%3A%2F%2Fwww.livecareer.com%2Fbilling%2Factivate-subscription-b.asp=
+x%3Ffrom%253Dexternal%2526partyid%253D129488253" style=3D"color:#000000;tex=
+t-decoration:none;font-size:14px;font-weight:normal" target=3D"_blank"><img=
+ alt=3D"UPGRADE NOW" border=3D"0" height=3D"53" src=3D"http://www.livecaree=
+r.com/images/uploaded/cta-upgrade-now.png" style=3D"display:inline-block;bo=
+rder:none" width=3D"271"/></a></td> </tr> <tr> <td height=3D"50" style=3D"h=
+eight:50px; line-height:50px;"></td> </tr> </tbody> </table> </td> </tr> </=
+tbody> </table> </td> </tr> <tr> <td bgcolor=3D"#ff6600" height=3D"4" style=
+=3D"height:4px; line-height:4px;"></td> </tr> <tr> <td bgcolor=3D"#4B494F" =
+style=3D"padding:0 35px;"> <table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width:530px"> <tbody> <tr> <td height=3D"=
+30" style=3D"height:30px; line-height:30px;"></td> </tr> <tr> <td> <table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:530px"> <tbo=
+dy> <tr> <td width=3D"285"> <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"width:285px"> <tbody> <tr> <td><font color=3D"#ffffff" fa=
+ce=3D"Arial, sans-serif" size=3D"1" style=3D"font-family:Arial, sans-serif;=
+ font-size:14px;line-height:24px;font-weight:bold;color:#ffffff;">LiveCaree=
+r PR, LLC</font></td> </tr> <tr> <td height=3D"8"></td> </tr> <tr> <td vali=
+gn=3D"top"><font color=3D"#999999" face=3D"Arial, Helvetica, sans-serif" si=
+ze=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;=
+line-height:20px;font-weight:normal;color:#999999;">City View Plaza PR-165,=
+ Suite 6000<br/> Guaynabo, PR 00968</font></td> </tr> </tbody> </table> </t=
+d> <td width=3D"75"></td> <td valign=3D"top" width=3D"170"> <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:170px"> <tbody> <=
+tr> <td><font color=3D"#ffffff" face=3D"Arial, Helvetica, sans-serif" size=
+=3D"1" style=3D"font-family:Arial, sans-serif; font-size:14px;line-height:2=
+4px;font-weight:bold;color:#ffffff;">Stay in touch with us</font></td> </tr=
+> <tr> <td height=3D"8"></td> </tr> <tr> <td> <table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" style=3D"width:170px"> <tbody> <tr> <td width=3D=
+"35"><font color=3D"#ffffff" face=3D"Arial,sans-serif" size=3D"1" style=3D"=
+font-family:Arial, sans-serif;color:#ffffff;text-decoration:none;font-size:=
+14px;font-weight:normal"><a href=3D"http://links.itbl.livecareer.com/u/d685=
+271fc9554dd49276f666dc639e73?_e=3Drresendez%40rigoresendez.com" style=3D"co=
+lor:#ffffff;text-decoration:none;font-size:14px;font-weight:normal" target=
+=3D"_blank"><img alt=3D"Facebook" border=3D"0" height=3D"35" src=3D"http://=
+www.livecareer.com/images/uploaded/facebook35X35.png" style=3D"display:bloc=
+k;border:none" width=3D"35"/></a></font></td> <td width=3D"8"></td> <td wid=
+th=3D"35"><font color=3D"#ffffff" face=3D"Arial,sans-serif" size=3D"1" styl=
+e=3D"font-family:Arial, sans-serif;color:#ffffff;text-decoration:none;font-=
+size:14px;font-weight:normal"><a href=3D"http://links.itbl.livecareer.com/u=
+/37c7427737a64c50a71bd09846c02a29?_e=3Drresendez%40rigoresendez.com" style=
+=3D"color:#ffffff;text-decoration:none;font-size:14px;font-weight:normal" t=
+arget=3D"_blank"><img alt=3D"Twitter" border=3D"0" height=3D"35" src=3D"htt=
+p://www.livecareer.com/images/uploaded/twitter35X35.png" style=3D"display:b=
+lock;border:none" width=3D"35"/></a></font></td> <td width=3D"8"></td> <td =
+width=3D"35"><font color=3D"#ffffff" face=3D"Arial,sans-serif" size=3D"1" s=
+tyle=3D"font-family:Arial, sans-serif;color:#ffffff;text-decoration:none;fo=
+nt-size:14px;font-weight:normal"><a href=3D"http://links.itbl.livecareer.co=
+m/u/a45a0f89812141fda49a4dc4dc7cae5d?_e=3Drresendez%40rigoresendez.com" sty=
+le=3D"color:#ffffff;text-decoration:none;font-size:14px;font-weight:normal"=
+ target=3D"_blank"><img alt=3D"Google Plus" border=3D"0" height=3D"35" src=
+=3D"http://www.livecareer.com/images/uploaded/googleplus35X35.png" style=3D=
+"display:block;border:none" width=3D"35"/></a></font></td> <td width=3D"8">=
+</td> <td width=3D"35"><font color=3D"#ffffff" face=3D"Arial,sans-serif" si=
+ze=3D"1" style=3D"font-family:Arial, sans-serif;color:#ffffff;text-decorati=
+on:none;font-size:14px;font-weight:normal"><a href=3D"http://links.itbl.liv=
+ecareer.com/u/cc8ac349bf2d4c47b4b6367faa080bc7?_e=3Drresendez%40rigoresende=
+z.com" style=3D"color:#ffffff;text-decoration:none;font-size:14px;font-weig=
+ht:normal" target=3D"_blank"><img alt=3D"Pinterest" border=3D"0" height=3D"=
+35" src=3D"http://www.livecareer.com/images/uploaded/pinterest35X35.png" st=
+yle=3D"display:block;border:none" width=3D"35"/></a></font></td> </tr> </tb=
+ody> </table> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> <=
+/td> </tr> <tr> <td height=3D"35" style=3D"height:35px; line-height:35px;">=
+</td> </tr> <tr> <td style=3D"padding:15px 0 15px 0;border-top:1px solid #9=
+99999"><font color=3D"#999999" face=3D"Arial, Helvetica, sans-serif" size=
+=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:10px; l=
+ine-height:18px; color:#999999;">LiveCareer periodically sends emails to it=
+s subscribed members. You subscribed as <a href=3D"mailto:rresendez@rigores=
+endez.com" style=3D"color:#999999;font-size:10px;line-height:18px;font-fami=
+ly:Arial, Helvetica, sans-serif;font-weight:normal;">rresendez@rigoresendez=
+.com</a> when you registered for your free account with LiveCareer on 2016-=
+06-30 06:49:12 +00:00. To ensure the delivery of LiveCareer email, please t=
+ake a moment to add <a href=3D"mailto:member@m.livecareer.com" style=3D"col=
+or:#999999;font-size:10px;line-height:18px;font-family:Arial, Helvetica, sa=
+ns-serif;font-weight:normal;">member@m.livecareer.com</a> to your email add=
+ress book or safe list - <a href=3D"http://links.itbl.livecareer.com/u/5cc6=
+2093db2d4a76a2c11e4e007daeec?_e=3Drresendez%40rigoresendez.com&mid=3D1105&p=
+id=3D129488253&ht=3Dec&targ=3D%2Finstructions%2Ffind-how.htm" style=3D"colo=
+r:#999999;font-size:10px;line-height:18px;font-family:Arial, Helvetica, san=
+s-serif;font-weight:normal;" target=3D"_blank" title=3D"Find out how">Find =
+out how</a>.<br/> You can <a href=3D"http://links.itbl.livecareer.com/u/89f=
+5a3a8e7284fd4acd40de0061405b4?_e=3Drresendez%40rigoresendez.com&mid=3D1105&=
+pid=3D129488253&ht=3Duc&targ=3D%2Fpersonal%2Funsubscribe.aspx%3Femail%3Drre=
+sendez%40rigoresendez.com&p=3D129488253&sid=3D1&oid=3D1" style=3D"color:#99=
+9999;font-size:10px;line-height:18px;font-family:Arial, Helvetica, sans-ser=
+if;font-weight:normal;" target=3D"_blank" title=3D"unsubscribe">unsubscribe=
+</a> at any time. LiveCareer values your privacy; read our <a href=3D"http:=
+//links.itbl.livecareer.com/u/663a702c42dc40b2bff71fc3c1cac5e9?_e=3Drresend=
+ez%40rigoresendez.com&mid=3D1105&pid=3D129488253&ht=3Dec&targ=3D%2Fprivacy-=
+policy" style=3D"color:#999999;font-size:10px;line-height:18px;font-family:=
+Arial, Helvetica, sans-serif;font-weight:normal;" target=3D"_blank" title=
+=3D"privacy policy">privacy policy</a>.<br/> <br/> &copy; 2016 LiveCareer L=
+td. All rights reserved.</font></td> </tr> <tr> <td></td> </tr> </tbody> </=
+table> </td> </tr> <tr> <td><img alt=3D"" height=3D"1" src=3D"http://www.li=
+vecareer.com/c/12173?mid=3D1105&amp;pid=3D129488253&amp;ht=3Deo&amp;targ=3D=
+/images/spacer.gif" width=3D"1"/></td> </tr> </tbody> </table> <table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody> <tr> =
+<td valign=3D"top"><span style=3D"font-family:Arial;font-size:12px;line-hei=
+ght:20px;color:#8E8E8E;">This email was sent to <a href=3D"mailto:rresendez=
+@rigoresendez.com" target=3D"_blank">rresendez@rigoresendez.com</a>. Don't =
+want to receive these emails anymore? <a href=3D"http://links.itbl.livecare=
+er.com/e/unsubscribe?_k=3Ddeac9bca5bb748c1acb4e7f9a108dcab&_u=3Drresendez%4=
+0rigoresendez.com&_n=3D25447&_t=3D45400" name=3D"unsubscribe" target=3D"_bl=
+ank"><span style=3D"color:#8E8E8E;text-decoration:underline;color:#8e8e8e">=
+Unsubscribe</span></a></span></td> </tr> <tr> <td valign=3D"top"> <span sty=
+le=3D"font-family:Arial;font-size:12px;line-height:12px;color:#8E8E8E;">LC,=
+ LiveCareer PR, LLC City View Plaza PR-165, Suite 6000 Guaynabo, PR 00968</=
+span> </td> </tr> </tbody> </table> </body> </html>
+------=_Part_12700546_1231780224.1467449354863--
+
+------=_Part_12700545_777002073.1467449354863--

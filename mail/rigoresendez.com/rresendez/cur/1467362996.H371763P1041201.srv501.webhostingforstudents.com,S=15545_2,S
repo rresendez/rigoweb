@@ -1,0 +1,242 @@
+Return-path: <01000155a5a5cc90-f399f85f-94e4-453a-85ee-ee5f5bda941c-000000@amazonses.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 01 Jul 2016 04:49:56 -0400
+Received: from a10-37.smtp-out.amazonses.com ([54.240.10.37]:53059)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <01000155a5a5cc90-f399f85f-94e4-453a-85ee-ee5f5bda941c-000000@amazonses.com>)
+	id 1bIu96-004MoO-5S
+	for rresendez@rigoresendez.com; Fri, 01 Jul 2016 04:49:56 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=hucoxmmjamtjawctojtzwcbu34fh2b42; d=itbl.livecareer.com;
+	t=1467362954;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=6nHuBayzCFZhv+WQ2VQPwlfDrzZ4onve/ckR13JI5oA=;
+	b=OH5ubrA4dJD5dxeCJtcRJ9YVhL8FlRjmC3pN8ryQ4KsZFptvGmgrdtg8OMAWXl0o
+	OG0mbIIHjoXTS4Bd5c5BWOGNndYJ0xY5Q6ACjdtL6Ykl0yT4twvHGJj3N6fKxvQDIOG
+	KTLLS0BdoPrrEaGcoegtM6txoUzZ1K/l+Id4GPxc=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1467362954;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID:Feedback-ID:List-Unsubscribe;
+	bh=6nHuBayzCFZhv+WQ2VQPwlfDrzZ4onve/ckR13JI5oA=;
+	b=WDRK+bPkbKFsafQ3sKFt5K47IpLv+XvgafpuTpffPTCQp779zMV3QRqxFJwPNea2
+	lNNaJeMM40ZCeUR2S307QLV9spungje/ltY3rhFOAFsCENcCFUQ6/XlRCkNCOnj6OgV
+	+BFEstIXfbdwt77RP4wgGOBtChtRHPUxfwiY+AHw=
+Date: Fri, 1 Jul 2016 08:49:14 +0000
+From: LiveCareer <noreply@itbl.livecareer.com>
+To: "rresendez@rigoresendez.com" <rresendez@rigoresendez.com>
+Message-ID: <01000155a5a5cc90-f399f85f-94e4-453a-85ee-ee5f5bda941c-000000@email.amazonses.com>
+Subject: What are your plans for the next 20 minutes?
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_8825307_402449628.1467362954373"
+X-Campaign-ID: 25446
+Feedback-ID: 1.us-east-1.lCJVkz6+3S71MtYe1CeGk/9v1Z83C325jnahyIHJIg0=:AmazonSES
+List-Unsubscribe: <http://links.itbl.livecareer.com/e/unsubscribe?_k=deac9bca5bb748c1acb4e7f9a108dcab&_u=rresendez%40rigoresendez.com&_n=25446&_t=45399>,<mailto:unsubscribe+25446+45399@iterable.com>
+X-Feedback-ID: 45399:25446:1874:iterable
+X-SES-Outgoing: 2016.07.01-54.240.10.37
+
+------=_Part_8825307_402449628.1467362954373
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8825308_478952972.1467362954373"
+
+------=_Part_8825308_478952972.1467362954373
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+You might delay, but time will not!=20
+
+
+ <http://www.livecareer.com/> =20
+<http://www.livecareer.com/membership/signin.aspx?productid=3D10> Stay in t=
+ouch=20
+with us  <https://www.facebook.com/LiveCareer>  <https://twitter.com/liveca=
+reer>
+ <https://plus.google.com/u/0/+Livecareer/posts> =20
+<http://www.pinterest.com/livecareer> Benjamin Franklin said it best, "You =
+may=20
+delay, but time will not", and the right resume is exactly what you need to=
+ get=20
+hired. So, we'll ask again. What are you doing for the next 20 minutes?
+
+ LiveCareer's Resume Builder=20
+<http://www.livecareer.com/c/10956?mid=3D876&pid=3D129488253&hdat=3D&ht=3De=
+c&targ=3D%2Fsignin.asp>
+ makes resume building, and printing, incredibly fast and easy. We'll guide=
+ you=20
+with step-by-step tips and advice for every resume section, so let=E2=80=99=
+s get it=20
+done!
+
+ A great resume can change your life. And it doesn=E2=80=99t take long to g=
+et one. =20
+<http://www.livecareer.com/c/11789?mid=3D876&amp;pid=3D129488253&amp;ht=3De=
+c&amp;targ=3D/membership/signin.aspx?productid=3D10>
+Never send your resume without a cover letter! Our cover letter builder mak=
+es=20
+writing the perfect cover letter fast and easy - and it's included when you
+update to full access=20
+<http://www.livecareer.com/c/11789?mid=3D876&pid=3D129488253&ht=3Dec&targ=
+=3D/membership/signin.aspx?es=3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z1T=
+xjwVCZ99sPpedUgLoRyCpAv31cKIJdwklJkWM/JAPBycLP2MQzi3cGm2sup7OVDpEEp0IhRDvYA=
+=3D=3D&email=3Drresendez@rigoresendez.com&partyId=3D129488253~~%26targ=3Dht=
+tp%3A%2F%2Fwww.livecareer.com%2Fbilling%2Factivate-subscription-b.aspx%3Ffr=
+om%253Dexternal%2526partyid%253D129488253>
+.  <http://www.livecareer.com/> LiveCareer PR, LLC
+ City View Plaza PR-165, Suite 6000
+ Guaynabo, PR 00968 Unsubscribe=20
+<http://links.itbl.livecareer.com/e/unsubscribe?_k=3Ddeac9bca5bb748c1acb4e7=
+f9a108dcab&_u=3Drresendez%40rigoresendez.com&_n=3D25446&_t=3D45399>
+Privacy policy=20
+<http://www.livecareer.com/c/11695?mid=3D876&pid=3D129488253&ht=3Dec&targ=
+=3D/information/privacy.aspx>
+ =C2=A92016 LiveCareer Ltd. All rights reserved. This email was sent to=20
+rresendez@rigoresendez.com <mailto:rresendez@rigoresendez.com>. Don't want =
+to=20
+receive these emails anymore?Unsubscribe=20
+<http://links.itbl.livecareer.com/e/unsubscribe?_k=3Ddeac9bca5bb748c1acb4e7=
+f9a108dcab&_u=3Drresendez%40rigoresendez.com&_n=3D25446&_t=3D45399>
+LC, LiveCareer PR, LLC City View Plaza PR-165, Suite 6000 Guaynabo, PR 0096=
+8
+------=_Part_8825308_478952972.1467362954373
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml"> <head> <title></title> </head> <body style=3D"cursor: aut=
+o;"> <span style=3D"color:transparent;visibility:hidden;display:none;opacit=
+y:0;height:0;width:0;font-size:0;">You might delay, but time will not!</spa=
+n> <img src=3D"http://links.itbl.livecareer.com/e/open?_k=3Ddeac9bca5bb748c=
+1acb4e7f9a108dcab&amp;_u=3Drresendez%40rigoresendez.com&amp;_n=3D25446&amp;=
+_t=3D45399" style=3D"border:0;width:1px;height:1px;" width=3D"1" height=3D"=
+1"/> <br/> <br/> <br/> <title></title> <table align=3D"center" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"width:600px"> <tbody> <tr> <t=
+d style=3D"border:1px solid #DDDDDD; padding:0 24px;"> <table align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:550px">=
+ <tbody> <tr> <td></td> </tr> <tr> <td> <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"width:550px"> <tbody> <tr> <td style=3D"paddi=
+ng-bottom:5px;" valign=3D"bottom" width=3D"205"><a href=3D"http://links.itb=
+l.livecareer.com/u/8ab77cc4e4314e96aa7960dfe6df0e45?_e=3Drresendez%40rigore=
+sendez.com" style=3D"color:#ff6600;text-decoration:none" target=3D"_blank">=
+<img alt=3D"LiveCareer" src=3D"http://static.iterable.com/deac9bca5bb748c1a=
+cb4e7f9a108dcab/15-06-30-livecareer.png" style=3D"display: block; border-wi=
+dth: 0px; border-style: solid; width: 205px; height: 31px;"/></a></td> <td =
+width=3D"213"></td> <td align=3D"right" width=3D"132"> <table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:132px"> <tbody> <tr> <td=
+ align=3D"right"><a href=3D"http://links.itbl.livecareer.com/u/9ac1f934b5bc=
+4c10b23202a8fe8c0ec5?_e=3Drresendez%40rigoresendez.com&productid=3D10" targ=
+et=3D"_blank"><img alt=3D"Log In" src=3D"http://static.iterable.com/deac9bc=
+a5bb748c1acb4e7f9a108dcab/15-06-30-login.jpg" style=3D"display: inline-bloc=
+k; border-width: 0px; border-style: solid; width: 48px; height: 17px;"/></a=
+></td> </tr> <tr> <td align=3D"right"><font color=3D"#444444" face=3D"Arial=
+, Helvetica, sans-serif" size=3D"1" style=3D"font-family:Arial, Helvetica, =
+sans-serif; font-size:11px;line-height:22px;font-weight:bold;color:#444444;=
+">Stay in touch with us</font></td> </tr> <tr> <td align=3D"right"> <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:122px"> <tb=
+ody> <tr> <td width=3D"23"><a href=3D"http://links.itbl.livecareer.com/u/84=
+c4425077654db88b68edbe8d08d81c?_e=3Drresendez%40rigoresendez.com" target=3D=
+"_blank"><img alt=3D"Facebook" src=3D"http://static.iterable.com/deac9bca5b=
+b748c1acb4e7f9a108dcab/15-06-30-icon-facebook.png" style=3D"display: block;=
+ border-width: 0px; border-style: solid; width: 23px; height: 23px;"/></a><=
+/td> <td width=3D"10"></td> <td width=3D"23"><a href=3D"http://links.itbl.l=
+ivecareer.com/u/024f55d3772147e1b022888aa07be0cb?_e=3Drresendez%40rigoresen=
+dez.com" target=3D"_blank"><img alt=3D"Twitter" src=3D"http://static.iterab=
+le.com/deac9bca5bb748c1acb4e7f9a108dcab/15-06-30-icon-twitter.png" style=3D=
+"display: block; border-width: 0px; border-style: solid; width: 23px; heigh=
+t: 23px;"/></a></td> <td width=3D"10"></td> <td width=3D"23"><a href=3D"htt=
+p://links.itbl.livecareer.com/u/e6b589801ac742d99622ef8c2828c44f?_e=3Drrese=
+ndez%40rigoresendez.com" target=3D"_blank"><img alt=3D"Google Plus" src=3D"=
+http://static.iterable.com/deac9bca5bb748c1acb4e7f9a108dcab/15-06-30-icon-g=
+oogle-plus.png" style=3D"display: block; border-width: 0px; border-style: s=
+olid; width: 23px; height: 23px;"/></a></td> <td width=3D"10"></td> <td wid=
+th=3D"23"><a href=3D"http://links.itbl.livecareer.com/u/69eff092510646ec9c7=
+00cfb6961466a?_e=3Drresendez%40rigoresendez.com" target=3D"_blank"><img alt=
+=3D"Pintrest" src=3D"http://static.iterable.com/deac9bca5bb748c1acb4e7f9a10=
+8dcab/15-06-30-icon-pintrest.png" style=3D"display: block; border-width: 0p=
+x; border-style: solid; width: 23px; height: 23px;"/></a></td> </tr> </tbod=
+y> </table> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </t=
+d> </tr> <tr> <td height=3D"30" style=3D"height:30px; line-height:30px;"></=
+td> </tr> <tr> <td><font color=3D"#000000" face=3D"Arial, Helvetica, sans-s=
+erif" size=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:14px;line-height:20px;font-weight:normal;color:#000000;">Benjamin Frankl=
+in said it best, &quot;You may delay, but time will not&quot;, and the righ=
+t resume is exactly what you need to get hired. So, we'll ask again. What a=
+re you doing for the next 20 minutes?<br/> <br/> LiveCareer's <a href=3D"ht=
+tp://links.itbl.livecareer.com/u/fdfb679e08a04edb9699838e4fadebe9?_e=3Drres=
+endez%40rigoresendez.com&mid=3D876&pid=3D129488253&hdat=3D&ht=3Dec&targ=3D%=
+2Fsignin.asp" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:=
+14px;line-height:20px;font-weight:normal; text-decoration:underline; color:=
+#f15f4c;" target=3D"_blank">Resume Builder</a> makes resume building, and p=
+rinting, incredibly fast and easy. We'll guide you with step-by-step tips a=
+nd advice for every resume section, so let=E2=80=99s get it done!<br/> <br/=
+> A great resume can change your life. And it doesn=E2=80=99t take long to =
+get one.</font></td> </tr> <tr> <td height=3D"30" style=3D"height:30px; lin=
+e-height:30px;"></td> </tr> <tr> <td><a href=3D"http://links.itbl.livecaree=
+r.com/u/d7f2e28c08b84b38b60271430b6a8287?_e=3Drresendez%40rigoresendez.com&=
+mid=3D876&amp%3Bpid=3D129488253&amp%3Bht=3Dec&amp%3Btarg=3D%2Fmembership%2F=
+signin.aspx%3Fproductid%3D10" target=3D"_blank"><img alt=3D"LOGIN TO YOUR A=
+CCOUNT" src=3D"http://static.iterable.com/deac9bca5bb748c1acb4e7f9a108dcab/=
+15-06-30-cta-login-to-account.png" style=3D"display: inline-block; border-w=
+idth: 0px; border-style: solid; width: 218px; height: 30px;"/></a></td> </t=
+r> <tr> <td height=3D"30" style=3D"height:30px; line-height:30px;"></td> </=
+tr> <tr> <td style=3D"padding:10px; border:1px solid #f15f4c; background-co=
+lor:#f3f2f2;"><font color=3D"#000000" face=3D"Arial, Helvetica, sans-serif"=
+ size=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14=
+px;line-height:20px;font-weight:bold;color:#000000;">Never send your resume=
+ without a cover letter! Our cover letter builder makes writing the perfect=
+ cover letter fast and easy - and it's included when you <a href=3D"http://=
+links.itbl.livecareer.com/u/de0aa87d3d2545e2bc49ecfae802e079?_e=3Drresendez=
+%40rigoresendez.com&mid=3D876&pid=3D129488253&ht=3Dec&targ=3D%2Fmembership%=
+2Fsignin.aspx%3Fes%3DHdPpgBRebx8Rbo2TWsMbbFrYyxRrUTfKJeMCRmU5z1TxjwVCZ99sPp=
+edUgLoRyCpAv31cKIJdwklJkWM%2FJAPBycLP2MQzi3cGm2sup7OVDpEEp0IhRDvYA%3D%3D&em=
+ail=3Drresendez%40rigoresendez.com&partyId=3D129488253~~%26targ%3Dhttp%3A%2=
+F%2Fwww.livecareer.com%2Fbilling%2Factivate-subscription-b.aspx%3Ffrom%253D=
+external%2526partyid%253D129488253" style=3D"font-family:Arial, Helvetica, =
+sans-serif; font-size:14px;line-height:20px;font-weight:bold;color:#f15f4c;=
+" target=3D"_blank">update to full access</a>.</font></td> </tr> <tr> <td h=
+eight=3D"40" style=3D"height:40px; line-height:40px;"></td> </tr> </tbody> =
+</table> </td> </tr> <tr> <td style=3D"border:1px solid #DDDDDD; padding:10=
+px 24px 10px 24px; border-top:0;"> <table align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"width:550px"> <tbody> <tr> <td wi=
+dth=3D"150"><a href=3D"http://links.itbl.livecareer.com/u/3ddaa1d5a2644fcc9=
+ca962b59cc01462?_e=3Drresendez%40rigoresendez.com" style=3D"color:#ff6600;t=
+ext-decoration:none" target=3D"_blank"><img alt=3D"LiveCareer" src=3D"http:=
+//static.iterable.com/deac9bca5bb748c1acb4e7f9a108dcab/15-06-30-livecareer-=
+ftr.png" style=3D"display: inline-block; border-width: 0px; border-style: s=
+olid; width: 140px; height: 25px;"/></a></td> <td width=3D"190"><font color=
+=3D"#000000" face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"font=
+-family:Arial, Helvetica, sans-serif; font-size:11px;line-height:18px;font-=
+weight:normal;color:#000000;"><strong>LiveCareer PR, LLC</strong><br/> City=
+ View Plaza PR-165, Suite 6000<br/> Guaynabo, PR 00968</font></td> <td widt=
+h=3D"210"><font color=3D"#000000" face=3D"Arial, Helvetica, sans-serif" siz=
+e=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px;l=
+ine-height:18px;font-weight:normal;color:#000000;"><a href=3D"http://links.=
+itbl.livecareer.com/e/unsubscribe?_k=3Ddeac9bca5bb748c1acb4e7f9a108dcab&_u=
+=3Drresendez%40rigoresendez.com&_n=3D25446&_t=3D45399" style=3D"font-family=
+:Arial, Helvetica, sans-serif; font-size:11px;line-height:18px;font-weight:=
+normal;color:#000000; text-decoration:underline;" target=3D"_blank">Unsubsc=
+ribe</a><br/> <a href=3D"http://links.itbl.livecareer.com/u/20106004f6e94f7=
+8a247a0ee824a731f?_e=3Drresendez%40rigoresendez.com&mid=3D876&pid=3D1294882=
+53&ht=3Dec&targ=3D%2Finformation%2Fprivacy.aspx" style=3D"font-family:Arial=
+, Helvetica, sans-serif; font-size:11px;line-height:18px;text-decoration:un=
+derline;font-weight:normal;color:#000000;" target=3D"_blank">Privacy policy=
+</a><br/> &copy;2016 LiveCareer Ltd. All rights reserved.</font></td> </tr>=
+ </tbody> </table> </td> </tr> <tr> <td style=3D"padding:15px 35px 15px 35p=
+x;"></td> </tr> </tbody> </table> <meta content=3D"text/html; charset=3Dutf=
+-8" http-equiv=3D"Content-Type"/> <table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0"> <tbody> <tr> <td valign=3D"top"><span styl=
+e=3D"font-family:Arial;font-size:12px;line-height:20px;color:#8E8E8E;">This=
+ email was sent to <a href=3D"mailto:rresendez@rigoresendez.com" target=3D"=
+_blank">rresendez@rigoresendez.com</a>. Don't want to receive these emails =
+anymore? <a href=3D"http://links.itbl.livecareer.com/e/unsubscribe?_k=3Ddea=
+c9bca5bb748c1acb4e7f9a108dcab&_u=3Drresendez%40rigoresendez.com&_n=3D25446&=
+_t=3D45399" name=3D"unsubscribe" target=3D"_blank"><span style=3D"color:#8E=
+8E8E;text-decoration:underline;color:#8e8e8e">Unsubscribe</span></a></span>=
+</td> </tr> <tr> <td valign=3D"top"> <span style=3D"font-family:Arial;font-=
+size:12px;line-height:12px;color:#8E8E8E;">LC, LiveCareer PR, LLC City View=
+ Plaza PR-165, Suite 6000 Guaynabo, PR 00968</span> </td> </tr> </tbody> </=
+table> </body> </html>
+------=_Part_8825308_478952972.1467362954373--
+
+------=_Part_8825307_402449628.1467362954373--

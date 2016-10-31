@@ -1,0 +1,67 @@
+Return-Path: <barefoo2@newserver.barefootstudent.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 7pbaIDfNEVhPtwYATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 27 Oct 2016 05:47:35 -0400
+Return-path: <barefoo2@newserver.barefootstudent.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 27 Oct 2016 05:47:35 -0400
+Received: from [204.152.194.98] (port=37288 helo=newserver.barefootstudent.com)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bzhHb-001qR3-CS
+	for rresendez@rigoresendez.com; Thu, 27 Oct 2016 05:47:35 -0400
+Received: from barefoo2 by newserver.barefootstudent.com with local (Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bzhGw-0004Ik-R5
+	for rresendez@rigoresendez.com; Thu, 27 Oct 2016 03:46:54 -0600
+To: rresendez@rigoresendez.com
+Subject: Your Email Alert - Barefoot Student
+From: Barefoot Student <no-reply@barefootstudent.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bond-7afa163368b4173806dd8e926cf60769"
+Message-Id: <E1bzhGw-0004Ik-R5@newserver.barefootstudent.com>
+Date: Thu, 27 Oct 2016 03:46:54 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - newserver.barefootstudent.com
+X-AntiAbuse: Original Domain - rigoresendez.com
+X-AntiAbuse: Originator/Caller UID/GID - [501 512] / [47 12]
+X-AntiAbuse: Sender Address Domain - newserver.barefootstudent.com
+X-Get-Message-Sender-Via: newserver.barefootstudent.com: authenticated_id: barefoo2/from_h
+X-Authenticated-Sender: newserver.barefootstudent.com: no-reply@barefootstudent.com
+
+--bond-7afa163368b4173806dd8e926cf60769
+Content-type: text/html; charset="utf-8"
+
+<html>
+	<head>
+    	<title>Your Email Alert - Barefoot Student</title>
+	</head>
+	<body>
+		<div>Barefoot Student's Weekly alert for Jobs in Austin, TX with the keywords: No keywords selected.</div>
+		<div>
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/organic_protein_bar_brand_ambassador_austin_1920259715?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Organic Protein Bar Brand Ambassador- Austin</a></div>
+							<div class="description">Are you a fan of organic, healthy food and looking for a flexible, part-time job opportunity? Are you also a fan of talking to strangers? Square Organics is looking for a high-energy, outgoing, active person with a passion for nutrition to represent the brand during in-store sampling engagements!
+
+...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/organic_protein_bar_brand_ambassador_austin_1920259148?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Organic Protein Bar Brand Ambassador- Austin</a></div>
+							<div class="description">Are you a fan of organic, healthy food and looking for a flexible, part-time job opportunity? Are you also a fan of talking to strangers? Square Organics is looking for a high-energy, outgoing, active person with a passion for nutrition to represent the brand during in-store sampling engagements!
+
+...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						</div>
+		<div style="padding-top: 10px;">
+			<p>Please <a href="http://www.barefootstudent.com/user/email-alerts-unsubscribe/alertId/419292/code/1d5f1dd82d2674778ca884dfbfd4b4b1">click here</a> if you wish to modify or cancel this alert.</p>
+            <p>Max 100 results shown.</p>
+		</div>
+        <div><img src="http://www.barefootstudent.com/count_email.php?alert_id=419292&category_id=2" width="1" height="1" ></div>        
+	</body>
+</html>
+--bond-7afa163368b4173806dd8e926cf60769--

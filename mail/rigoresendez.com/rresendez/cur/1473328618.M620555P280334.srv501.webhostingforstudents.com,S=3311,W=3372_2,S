@@ -1,0 +1,61 @@
+Return-Path: <barefoo2@newserver.barefootstudent.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id mVTuJOo10VcORwQATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 08 Sep 2016 05:56:58 -0400
+Return-path: <barefoo2@newserver.barefootstudent.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 08 Sep 2016 05:56:58 -0400
+Received: from [204.152.194.98] (port=35560 helo=newserver.barefootstudent.com)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bhw4o-001Avw-DW
+	for rresendez@rigoresendez.com; Thu, 08 Sep 2016 05:56:58 -0400
+Received: from barefoo2 by newserver.barefootstudent.com with local (Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bhw49-0005JE-LM
+	for rresendez@rigoresendez.com; Thu, 08 Sep 2016 03:56:17 -0600
+To: rresendez@rigoresendez.com
+Subject: Your Email Alert - Barefoot Student
+From: Barefoot Student <no-reply@barefootstudent.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bond-94b41c5c7a91db269a33ec473b792023"
+Message-Id: <E1bhw49-0005JE-LM@newserver.barefootstudent.com>
+Date: Thu, 08 Sep 2016 03:56:17 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - newserver.barefootstudent.com
+X-AntiAbuse: Original Domain - rigoresendez.com
+X-AntiAbuse: Originator/Caller UID/GID - [501 512] / [47 12]
+X-AntiAbuse: Sender Address Domain - newserver.barefootstudent.com
+X-Get-Message-Sender-Via: newserver.barefootstudent.com: authenticated_id: barefoo2/from_h
+X-Authenticated-Sender: newserver.barefootstudent.com: no-reply@barefootstudent.com
+
+--bond-94b41c5c7a91db269a33ec473b792023
+Content-type: text/html; charset="utf-8"
+
+<html>
+	<head>
+    	<title>Your Email Alert - Barefoot Student</title>
+	</head>
+	<body>
+		<div>Barefoot Student's Weekly alert for Jobs in Austin, TX with the keywords: No keywords selected.</div>
+		<div>
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/_25_hr_tips_mobile_event_lifeguard_jobs_1920251761?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">$25/hr+tips Mobile Event Lifeguard jobs </a></div>
+							<div class="description">We are still hiring.Flexible Fall hours, you choose the events you can do!
+
+ $25+/hr Lifeguard Jobs ( choose your own service area)
+
+Easy online application link below. Easy online application link below. We believe in paying the best of the schools, to attract and keep the best staff. Most of o...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						</div>
+		<div style="padding-top: 10px;">
+			<p>Please <a href="http://www.barefootstudent.com/user/email-alerts-unsubscribe/alertId/419292/code/1d5f1dd82d2674778ca884dfbfd4b4b1">click here</a> if you wish to modify or cancel this alert.</p>
+            <p>Max 100 results shown.</p>
+		</div>
+        <div><img src="http://www.barefootstudent.com/count_email.php?alert_id=419292&category_id=2" width="1" height="1" ></div>        
+	</body>
+</html>
+--bond-94b41c5c7a91db269a33ec473b792023--

@@ -1,0 +1,85 @@
+Return-Path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id YR0TBoF8s1caqgoATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 16:50:09 -0400
+Return-path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 16 Aug 2016 16:50:09 -0400
+Received: from o5.email.freshdesk.com ([167.89.4.19]:40976)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>)
+	id 1bZlJI-002vlK-Ij
+	for rresendez@rigoresendez.com; Tue, 16 Aug 2016 16:50:08 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=freshdesk.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=gU/DRnh6qXZrBytvuTAVSEH7aYw=; b=NsqKv+9zHdl0vAaySf
+	JWs94AenVqdcjpCgDypLi6PfxhAmSptR7LN0jpu72ODxKHJ0n54ehArNmeqdf53u
+	4fairSHtUVH4Nun6EfBa55Vxe3e5TQgbdY1QFxir4AInam7AtvkUR66WwdzRYuCb
+	1njDP2Z6XbNCryN25LBJA1Gas=
+Received: by filter0468p1mdw1.sendgrid.net with SMTP id filter0468p1mdw1.7178.57B37C54C1
+        2016-08-16 20:49:24.725357404 +0000 UTC
+Received: from freshdesk.com (ec2-52-7-252-72.compute-1.amazonaws.com [52.7.252.72])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id 3OdsKahxQVWOSvmt2mMcUQ
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 20:49:24.787 +0000 (UTC)
+Date: Tue, 16 Aug 2016 20:49:24 +0000
+From: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+Reply-To: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+To: rresendez@rigoresendez.com
+Message-ID: <57b37c54b501d_7e146a3998392363e2@active-jobs-3.mail>
+Subject: =?UTF-8?Q?Activaci=C3=B3n_de_Cuenta_vivaaerobus.com?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57b37c54b28a7_7e146a399839236276";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+sent-on: 2016-08-16 13:49:24 -0700
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: DR, RN, OOF, AutoReply
+Account-Id: 
+Ticket-Id: 
+Type: 
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgYxr6ghdTAi9afLLyTDdFfUBwAqBKQvIOp7rg
+ hHhgezaHe6rbobH4Tbr+p12+Fo54hNE0yS7+LLBBQ3gdRBm0Myxo9Tb2N+GAxBe+ZDv1EpiHBvLAma
+ 9GLcVuEobFfuveTf5xiPZ/31b6BhKYwCzQMy9sM3nRtgZ+KytbAICDkxzKANXwoTfnfBD9iC9ZSobh
+ QFmmihFe6s6m1UU7n7vAex
+X-SG-ID: 07jdBcxxKzkTTnSHcra6oBi7iIKZgviaTdzLqN06YS9xrhsJkjolhePiGZ6zEqywTus+luxQXQbqDb
+ SmP+kzSA==
+
+----==_mimepart_57b37c54b28a7_7e146a399839236276
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ Hola Rigoberto Resendez,  Tu cuenta en vivaaerobus.com ha sido creada!    =
+  Es muy importante que todas tus solicitudes sean enviadas por el mismo li=
+nk para que podamos atenderte a la brevedad posible.     Para activarla y s=
+eleccionar una contrase=C3=B1a, da clic en la siguiente liga:=C2=A0http://s=
+oporte.vivaaerobus.com/register/vKOoCEorU3LIvC11GI7t  En caso de que la lig=
+a no funcione, c=C3=B3piala y p=C3=A9gala en tu buscador.=C2=A0    Atentame=
+nte,   Atenci=C3=B3n a Clientes=20
+
+
+----==_mimepart_57b37c54b28a7_7e146a399839236276
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Helvetica Neue, Helvetica, Arial, sans-serif; fon=
+t-size:13px;">
+	<p>Hola Rigoberto Resendez,<br><br>Tu cuenta en vivaaerobus.com ha sido cr=
+eada!<br></p><p><br></p><p><u><b>Es muy importante que todas tus solicitude=
+s sean enviadas por el mismo link para que podamos atenderte a la brevedad =
+posible.</b></u></p><p><u><b><br></b></u></p><p>Para activarla y selecciona=
+r una contrase=C3=B1a, da clic en la siguiente liga:&nbsp;<a href=3D"http:/=
+/soporte.vivaaerobus.com/register/vKOoCEorU3LIvC11GI7t">http://soporte.viva=
+aerobus.com/register/vKOoCEorU3LIvC11GI7t</a><br><br>En caso de que la liga=
+ no funcione, c=C3=B3piala y p=C3=A9gala en tu buscador.&nbsp;</p><p><br><b=
+r>Atentamente,<br></p><p><span>Atenci=C3=B3n a Clientes</span></p>
+
+<br/>
+
+</div>=
+
+----==_mimepart_57b37c54b28a7_7e146a399839236276--

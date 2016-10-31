@@ -1,0 +1,302 @@
+Return-Path: <bounce@notify.prezi.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id uVWxGKew8lfP+QcATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 03 Oct 2016 15:25:27 -0400
+Return-path: <bounce@notify.prezi.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 03 Oct 2016 15:25:27 -0400
+Received: from sv016071.hosted.strongview.com ([50.56.16.71]:32966)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <bounce@notify.prezi.com>)
+	id 1br8rf-002C5T-1r
+	for rresendez@rigoresendez.com; Mon, 03 Oct 2016 15:25:27 -0400
+Received: from prezi.hosted.strongview.com ([172.18.100.69])
+	by sv016071.hosted.strongview.com (-); Mon, 03 Oct 2016 12:24:46 -0700
+X-VirtualServer: Transactional, sv016071.hosted.strongview.com, 172.18.101.71
+X-VirtualServerGroup: Transactional
+X-MailingID: 16777356::1691::1447447376::107::1_145029::145029_103556562_0__145106
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: rresendez@rigoresendez.com
+X-SMFBL: cnJlc2VuZGV6QHJpZ29yZXNlbmRlei5jb20=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=notify.prezi.com;
+	s=sv; i=@notify.prezi.com; h=Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Message-ID:X-ReportingKey:Subject:Date:
+	To:Reply-To:From; bh=+YB1saP3h3r1VLLOuE4OTVHOVxc=; b=e8QZw2Thb0l
+	zXhadWEpawfqh6dQ+/nJKS3xKN0LRXzxDNnaTn5HV4fq30NHpvP2IB9XMhvOljVo
+	2TnC0VVf5+EA4nugEuwXHkMiUCpm1fo2l8JzdHLyEN322jPZ9WHj03ZrmA44ImEG
+	6A3Z4ZdmUDwQf30iK4haXGu7mxnZ4wKo=
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_398_02A9_47E83516.1D18CDDE"
+MIME-Version: 1.0
+Message-ID: <16777356.145029@notify.prezi.com>
+X-ReportingKey: MJ4DJ5V1BEAEH9ZKK7QJJ122ELJ23FBH5Q122IM::rresendez@rigoresendez.com::1_145029
+Subject: =?UTF-8?Q?Your=20subscription=20has=20been=20cancelled=20on=20Prezi=2Ecom?=
+Date: Mon, 03 Oct 2016 12:24:46 -0700
+To: rresendez@rigoresendez.com
+Reply-To: <prezi@notify.prezi.com>
+From: =?UTF-8?Q?Prezi?= <prezi@notify.prezi.com>
+
+
+------=_NextPart_398_02A9_47E83516.1D18CDDE
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Prezi=0A-----=0A=0A=0A=0AThis is a confirmation that you have successfull=
+y cancelled your subscription. You will not be charged moving forward.=20=
+
+
+We would like to thank you for subscribing to Prezi and we hope that you =
+will consider subscribing again in the future.=20
+
+Sincerely,
+Prezi=0A =0A=C2=A0=0A=0A=C2=A92016 Prezi 633 Folsom Street, 5th floor San=
+ Francisco, CA, 94107, USA
+------=_NextPart_398_02A9_47E83516.1D18CDDE
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://=
+www.w3.org/1999/xhtml">=0A<head><meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3DUTF-8"><meta charset=3D"utf-8"><meta name=3D"vie=
+wport" content=3D"width=3Ddevice-width, initial-scale=3D1.0"><meta name=3D=
+"apple-mobile-web-app-capable" content=3D"yes"><meta content=3D"yes" name=
+=3D"apple-touch-fullscreen"><meta name=3D"apple-mobile-web-app-status-bar=
+-style" content=3D"black"><meta name=3D"format-detection" content=3D"tele=
+phone=3Dno"><meta name=3D"format-detection" content=3D"date"><meta http-e=
+quiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=0A=09<title>Prezi</title>=
+=0A=09<style type=3D"text/css">/* standard resets */=0Adiv, p, a, li, td =
+{=0A=09-webkit-text-size-adjust: none;=0A=09-ms-text-size-adjust: none;=0A=
+}=0Abody {=0A=09margin: 0;=0A=09padding: 0;=0A}=0Atable td {=0A=09border-=
+collapse: collapse;=0A}=0A.ExternalClass {=0A=09width: 100%;=0A}=0A.Exter=
+nalClass * {=0A=09line-height: 110%=0A}=0Aimg {=0A=09-ms-interpolation-mo=
+de: bicubic;=0A}=0Atable {=0A=09margin: 0 auto;=0A}=0A         =0A     .f=
+ooterlinks a{color:#9FA4AC; text-decoration:none;} =0A=09 .usernamelinks =
+a{color:#3181FF; text-decoration:none;} =0A/* control text changed to lin=
+ks by phones */=0A@media only screen {=0Aa[href^=3D"tel"], a[href^=3D"sms=
+"]{=0A=09color: inherit;=0A=09text-decoration: none;=0A}=0A}=0A=0A/* Yaho=
+o and apple mail reset on desktop */=0A@media screen and (min-width: 600p=
+x) {=0A.wrapto640px {=0A=09width: 640px !important;=0A}=0A.wrapto600px {=0A=
+=09width: 600px !important;=0A}=0A.block {=0A=09width: 300px !important;=0A=
+}=0A.block400 {=0A=09width: 400px !important;=0A}=0A.block200 {=0A=09widt=
+h: 200px !important;=0A}=0A.block400bottom {=0A=09width: 400px !important=
+;=0A}=0A.block200top {=0A=09width: 200px !important;=0A}=0A.threecolumn {=
+=0A=09width: 200px !important;=0A=09height: auto !important;=0A}=0A}=0A=0A=
+/* responsive rules */=0A@media screen and (max-device: 640px), screen an=
+d (max-width: 640px) {=0A*[class=3Dwrapto100pc] {=0A=09width: 100% !impor=
+tant;=0A=09height: auto !important;=0A}=0A*[class=3Dwrapto100pcpt20] {=0A=
+=09width: 100% !important;=0A=09height: auto !important;=0A=09padding-top=
+: 20px !important;=0A}=0A*[class=3Dwrapto640px] {=0A=09width: 100% !impor=
+tant;=0A=09height: auto !important;=0A}=0A*[class=3Dwrapto600px] {=0A=09w=
+idth: 100% !important;=0A=09height: auto !important;=0A}=0A*[class=3Dmobh=
+eight40]{height:40px!important;}=0A*[class=3Dblock] {=0A=09width: 100% !i=
+mportant;=0A=09height: auto !important;=0A}=0A*[class=3Dblock400] {=0A=09=
+width: 100% !important;=0A=09height: auto !important;=0A}=0A*[class=3Dblo=
+ck200] {=0A=09width: 100% !important;=0A=09height: auto !important;=0A}=0A=
+*[class=3Dflip] {=0A=09width: 100% !important;=0A=09height: auto !importa=
+nt;=0A=09display: table !important;=0A}=0A*[class=3Dblocktop] {=0A=09widt=
+h: 100% !important;=0A=09height: auto !important;=0A=09display: table-hea=
+der-group !important;=0A}=0A*[class=3Dblockbottom] {=0A=09width: 100% !im=
+portant;=0A=09height: auto !important;=0A=09display: table-footer-group !=
+important;=0A}=0A*[class=3Dblock200top] {=0A=09width: 100% !important;=0A=
+=09height: auto !important;=0A=09display: table-header-group !important;=0A=
+}=0A*[class=3Dblock400bottom] {=0A=09width: 100% !important;=0A=09height:=
+ auto !important;=0A=09display: table-footer-group !important;=0A}=0A=0A*=
+[class=3Dwrapto55pc] {=0A=09width: 55% !important;=0A=09height: auto !imp=
+ortant;=0A}=0A*[class=3Dthreecolumn] {=0A=09width: 100% !important;=0A=09=
+height: auto !important;=0A}=0A*[class=3Dcentertext] {=0A=09text-align: c=
+enter !important;=0A}=0A*[class=3Dheightauto] {=0A=09height: auto !import=
+ant;=0A}=0A*[class=3Dh20] {=0A=09height: 20px !important;=0A}=0A*[class=3D=
+h30] {=0A=09height: 30px !important;=0A}=0A*[class=3Dnomob] {=0A=09displa=
+y: none !important;=0A=09width: 0px !important;=0A=09height: 0px !importa=
+nt;=0A}=0A*[class=3Dwrapto100pcpt10] {=0A=09width: 100% !important;=0A=09=
+height: auto !important;=0A=09padding-top: 10px !important;=0A}=0A*[class=
+=3Dfontsize15] {=0A=09font-size: 15px !important;=0A=09line-height: 20px =
+!important;=0A}=0A*[class=3Dfontsize16] {=0A=09font-size: 16px !important=
+;=0A=09line-height: 21px !important;=0A}=0A*[class=3Dfontsize17] {=0A=09f=
+ont-size: 17px !important;=0A=09line-height: 22px !important;=0A}=0A*[cla=
+ss=3Dtitlefont] {=0A=09font-size: 32px !important;=0A=09line-height: 38px=
+ !important;=0A}=0A=0A=0A=0A=0A*[class=3Dblockswitch] {=0A=09direction: l=
+tr!important;=0A=09width: 100% !important;=0A}=0A*[class=3Dblockswitch2] =
+{=0A=09display: table-footer-group!important;=0A=09width: 100% !important=
+;=0A}=0A*[class=3Dblockswitch3] {=0A=09display: table-header-group!import=
+ant;=0A=09width: 100% !important;=0A}=0A*[class=3Dthreecolumn] {=0A=09wid=
+th: 100% !important;=0A=09height: auto !important;=0A}=0Aspan[class=3Dbum=
+p] {=0A=09display: block !important;=0A}=0A*[class=3Dpaddinglr30] {=0A=09=
+padding-left:30px !important;=0A=09padding-right:30px !important;=0A}=0A*=
+[class=3Dwidth130] {=0A=09width:130px !important;=0A}=0A}=0A=0A@media scr=
+een {=0A=09@font-face {=0A    font-family: 'raleway-regular';=0A    src: =
+url('http://prezi-a.akamaihd.net/dynapps-versioned/2307/common/fonts/rale=
+way-regular.woff2') format('woff2'),=0A         url('http://prezi-a.akama=
+ihd.net/dynapps-versioned/2307/common/fonts/raleway-regular.woff') format=
+('woff');=0A        =0A    font-weight: normal;=0A    font-style: normal;=
+=0A}=0A}=0A=0A@media screen {=0A=09@font-face {=0A    font-family: 'ralew=
+ay-heavy';=0A    src: url('http://prezi-a.akamaihd.net/dynapps-versioned/=
+2307/common/fonts/raleway-heavy.woff2') format('woff2'),=0A         url('=
+http://prezi-a.akamaihd.net/dynapps-versioned/2307/common/fonts/raleway-h=
+eavy.woff') format('woff');=0A        =0A    font-weight: normal;=0A    f=
+ont-style: normal;=0A=0A}=0A}=0A=09</style>=0A=09<!--[if gte mso 9]>=0A  =
+  <xml>=0A      <o:OfficeDocumentSettings>=0A        <o:AllowPNG/>=0A    =
+    <o:PixelsPerInch>96</o:PixelsPerInch>=0A     </o:OfficeDocumentSettin=
+gs>=0A    </xml>=0A   <![endif]-->=0A</head>=0A<body bgcolor=3D"#ffffff" =
+leftmargin=3D"0" rightmargin=3D"0" topmargin=3D"0" width=3D"100%"><IMG SR=
+C=3D"https://click.prezi.com/track?enid=3DZWFzPTEmbXNpZD0xJmF1aWQ9MTAzNTU=
+2NTYyJm1haWxpbmdpZD0xNjkxJm1lc3NhZ2VpZD0xMDcmZGF0YWJhc2VpZD0xNDQ3NDQ3Mzc2=
+JnR5cGU9b3BlbiZzZXJpYWw9MTY3NzczNTYmZW1haWxpZD1ycmVzZW5kZXpAcmlnb3Jlc2VuZ=
+GV6LmNvbSZ1c2VyaWQ9MV8xNDUwMjkmdGFyZ2V0aWQ9Jm1uPTE0NTEwNiZmbD0mbXZpZD0mZX=
+h0cmE9JiYm" WIDTH=3D"1" HEIGHT=3D"1" STYLE=3D"border:0px hidden transpare=
+nt !important; display:none !important; overflow:hidden; max-height: 0;" =
+ALT=3D""/>=0A<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%">=0A=09<tbody>=0A=09=09<tr>=0A=09=09=09<td =
+align=3D"center"><!--[if (gte mso 9)|(IE)]><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"600"><tr><td align=3D"center"><![endif=
+]-->=0A=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"wrapto600px" style=3D"max-width:600px;" width=3D"100%">=0A=09=09=09=
+=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=3D"center"=
+ valign=3D"top" width=3D"100%">=0A=09=09=09=09=09=09<table align=3D"cente=
+r" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=
+=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09<td height=3D"15" width=3D"100%">&nbsp;</td>=0A=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09</tabl=
+e>=0A=0A=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09<tbody>=0A=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td style=3D"fo=
+nt-family: 'raleway-regular', 'Helvetica Neue', Helvetica, Arial, sans-se=
+rif; font-size:18px; color:#15549a;" width=3D"100%">=0A=09=09=09=09=09=09=
+=09=09=09<center><a href=3D"https://click.prezi.com/track?type=3Dclick&en=
+id=3DZWFzPTEmbXNpZD0xJmF1aWQ9MTAzNTU2NTYyJm1haWxpbmdpZD0xNjkxJm1lc3NhZ2Vp=
+ZD0xMDcmZGF0YWJhc2VpZD0xNDQ3NDQ3Mzc2JnNlcmlhbD0xNjc3NzM1NiZlbWFpbGlkPXJyZ=
+XNlbmRlekByaWdvcmVzZW5kZXouY29tJnVzZXJpZD0xXzE0NTAyOSZ0YXJnZXRpZD0mbW49MT=
+Q1MTA2JmZsPSZtdmlkPSZleHRyYT0mJiY=3D&&&2000&&&https://www.prezi.com/dashb=
+oard/?utm_source=3Dprezi&utm_medium=3Demail&utm_content=3D2000&utm_campai=
+gn=3D16777356" target=3D"_blank"><img alt=3D"PREZI" border=3D"0" height=3D=
+"60" src=3D"http://prezi.hosted.strongview.com/img/global/logo_prezi_vert=
+ical_2x.png" style=3D"display:block" width=3D"44" /></a></center>=0A=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09<ta=
+ble align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr=
+>=0A=09=09=09=09=09=09=09=09=09<td height=3D"15" width=3D"100%">&nbsp;</t=
+d>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=09=
+=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=
+=09=09=09</tbody>=0A=09=09=09</table>=0A=09=09=09<!--[if (gte mso 9)|(IE)=
+]></td></tr></table><![endif]--></td>=0A=09=09</tr>=0A=09</tbody>=0A</tab=
+le>=0A=0A<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%">=0A=09<tbody>=0A=09=09<tr>=0A=09=09=09<td alig=
+n=3D"center"><!--[if (gte mso 9)|(IE)]><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600"><tr><td align=3D"center"><![endif]-->=
+=0A=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"wrapto600px" style=3D"max-width:600px;" width=3D"100%">=0A=09=09=09=09=
+<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=3D"center" va=
+lign=3D"top" width=3D"100%">=0A=09=09=09=09=09=09<hr height=3D"1" style=3D=
+"height:1px; border:0 none; color: #D7DFE3; background-color: #DBDBDB;" /=
+>=0A=09=09=09=09=09=09<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09<tbody>=0A=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td class=3D"no=
+mob" width=3D"60"><img alt=3D"" class=3D"nomob" height=3D"1" src=3D"http:=
+//prezi.hosted.strongview.com/img/global/spacer.png" width=3D"60" /></td>=
+=0A=09=09=09=09=09=09=09=09=09<td class=3D"paddinglr30">=0A=09=09=09=09=09=
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"40" =
+style=3D"line-height:1px;font-size:1px;" width=3D"100%">&nbsp;</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tbo=
+dy>=0A=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=
+=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: 'ral=
+eway-regular', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:=
+14px; line-height:24px; text-align:left; color:#465469;" width=3D"100%"><=
+br />=0A=09=09=09=09=09=09=09=09=09=09=09=09<br />=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09This is a confirmation that you have successfully cancelle=
+d your subscription. You will not be charged moving forward.=20
+<br /><br />
+We would like to thank you for subscribing to Prezi and we hope that you =
+will consider subscribing again in the future.=20
+<br /><br />
+Sincerely,<br />
+Prezi</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=
+=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"5=
+0" style=3D"line-height:1px;font-size:1px;" width=3D"100%">&nbsp;</td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</=
+tbody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09=09=09=09=09<td class=3D"nomob" width=3D"60"><img =
+alt=3D"" class=3D"nomob" height=3D"1" src=3D"http://prezi.hosted.strongvi=
+ew.com/img/global/spacer.png" width=3D"60" /></td>=0A=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=09=
+=09=09=09=09=09<!-- end main content modulezone -->=0A=0A=09=09=09=09=09=09=
+<hr height=3D"1" style=3D"height:1px; border:0 none; color: #D7DFE3; back=
+ground-color: #DBDBDB;" />=0A=09=09=09=09=09=09<table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09<tbo=
+dy>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td heigh=
+t=3D"40" style=3D"line-height:1px;font-size:1px;" width=3D"100%">&nbsp;</=
+td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09<table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"wrapto100pc" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"30"><img alt=3D"" height=
+=3D"1" src=3D"http://prezi.hosted.strongview.com/img/global/spacer.png" w=
+idth=3D"30" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"heightauto" valign=3D"to=
+p">
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"100%" style=3D"=
+font-family: 'raleway-regular', 'Helvetica Neue', Helvetica, Arial, sans-=
+serif; font-size:10px; line-height:16px; text-align:center; color:#9FA4AC=
+;padding-bottom:50px;" class=3D"centertext">
+<span class=3D"footerlinks">&copy;2016 Prezi<br />633 Folsom Street, 5th =
+floor<br />San Francisco, CA, 94107, USA</span><br>
+                                <table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                                  <tbody>
+                                    <tr>
+                                      <td width=3D"100%" height=3D"10"></=
+td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                           =20
+                                <span style=3D"color:#ffffff;">Subscripti=
+on_Cancelled</span>
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"30"><img alt=3D"" height=
+=3D"1" src=3D"http://prezi.hosted.strongview.com/img/global/spacer.png" w=
+idth=3D"30" /></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</t=
+r>=0A=09=09=09=09</tbody>=0A=09=09=09</table>=0A=09=09=09<!--[if (gte mso=
+ 9)|(IE)]></td></tr></table><![endif]--></td>=0A=09=09</tr>=0A=09=09<tr>=0A=
+=09=09=09<td align=3D"center" class=3D"nomob" height=3D"1" style=3D"min-w=
+idth:600px;"><img border=3D"0" class=3D"nomob" height=3D"1" src=3D"http:/=
+/prezi.hosted.strongview.com/img/global/spacer.png" width=3D"600" /></td>=
+=0A=09=09</tr>=0A=09</tbody>=0A</table>=0A</body>=0A</html>
+------=_NextPart_398_02A9_47E83516.1D18CDDE--
+

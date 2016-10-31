@@ -1,0 +1,542 @@
+Return-Path: <bounce-12_HTML-16488787-56061-7209290-1802@bounce.message.fedex.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id YaKxI4mixVfPSgoATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 30 Aug 2016 11:13:13 -0400
+Return-path: <bounce-12_HTML-16488787-56061-7209290-1802@bounce.message.fedex.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 30 Aug 2016 11:13:13 -0400
+Received: from mta.message.fedex.com ([136.147.178.149]:57445)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <bounce-12_HTML-16488787-56061-7209290-1802@bounce.message.fedex.com>)
+	id 1bekiv-002pSU-Co
+	for rresendez@rigoresendez.com; Tue, 30 Aug 2016 11:13:13 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=message.fedex.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:Message-ID:Content-Type; i=FedEx@message.fedex.com;
+ bh=WUv/Yc6kpr5pcMfiVhynzngVQCY=;
+ b=ruO3oY1RVG8LWQxwrdYmZxCfndaSu+dZay8VNwnScpzVTUAaiFixE7u4YpxzThKySB2YzHri/mCK
+   jPTaMVzNnFNCKaWIzayetuRmo3SGuV6KvWxc2CyZ/cmfuZ683/aNEEHbe0ecS9rvXZOHH5HxtqJn
+   T2BNB5WZKtQ/caxJARo=
+Received: by mta.message.fedex.com id homh8k163hsr for <rresendez@rigoresendez.com>; Tue, 30 Aug 2016 15:12:31 +0000 (envelope-from <bounce-12_HTML-16488787-56061-7209290-1802@bounce.message.fedex.com>)
+From: "FedEx" <FedEx@message.fedex.com>
+To: <rresendez@rigoresendez.com>
+Subject: Service Alert
+Date: Tue, 30 Aug 2016 09:12:31 -0600
+List-Unsubscribe: <mailto:leave-fd8815721a3c402029-fe4e1576716c0c7a7d13-fefd1176756205-fe921372756d067475-ff3415787566@leave.message.fedex.com>
+MIME-Version: 1.0
+Reply-To: "FedEx Corporation" <reply-fefd1176756205-12_HTML-16488787-7209290-1802@message.fedex.com>
+x-job: 7209290_56061
+Message-ID: <fb59b48d-e290-4097-8ea9-aa065b4dfffd@xtgap4s7mta1311.xt.local>
+Content-Type: multipart/alternative;
+	boundary="cwQsJP5L3IHr=_?:"
+
+This is a multi-part message in MIME format.
+
+--cwQsJP5L3IHr=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+FedEx
+
+https://click.message.fedex.com/?qs=15d16f80c086d0efb4aad6b766a5130582c9641e857b6e214ac2db74df3311a6ec266a62d82af43a 
+
+RedirectTo(Concat('http://www.fedex.com/', @countryCode)) 
+
+FedEx Service Alerts 
+
+Tropical Depression Eight, Tropical Depression Nine, Hurricane Lester, and Hurricane Madeline
+
+Tuesday, August 30, 2016
+
+FedEx
+is closely monitoring Tropical Depression Eight, Tropical Depression Nine, Hurricane Lester, and Hurricane Madeline. 
+Contingency plans are in place to ensure the safety and well-being of our team
+members and to minimize the effects of the storm on service. These storms often
+cause pickup and delivery delays and disruptions for FedEx customers. FedEx
+will be prepared to provide service to the best of our ability in areas
+affected by the storm and as local conditions allow.
+ 
+
+Please
+
+Please continue to check 
+https://click.message.fedex.com/?qs=15d16f80c086d0efa64a624cb14c56df2a3ac6aabb5265ea3fe1d934982e9464a0a940431722e0d9 
+FedEx Service Alerts  for updates.
+
+Continue to 
+https://click.message.fedex.com/?qs=15d16f80c086d0ef911e8b5e88b13ffcbff4c0adc04fb405fa8d9c74423c39f94c8d7cc141f6d9a4 
+check the status  of your shipments on fedex.com before going to any staffed FedEx location. You can also contact FedEx Customer Service at 1.800.GoFedEx (1.800.463.3339) or stay up to date by subscribing to service disruption email notifications at the 
+https://click.message.fedex.com/?qs=15d16f80c086d0efa642fe110dba6862ef34bc2cc43818768a76c90f2787448e534c48f48f0e008d 
+FedEx Email Subscription Center .
+
+Up to date information on weather advisories can be found at the 
+https://click.message.fedex.com/?qs=15d16f80c086d0ef109fd9f2bfebb8a663283b85e0c20cdd5770c46d69fde90073310c9639be84d6 
+National Weather Service . 
+
+FedEx cares about your safety and we encourage you to prepare for natural disasters. Click 
+https://click.message.fedex.com/?qs=15d16f80c086d0ef6a651921f56a0842eddc190d41f289040fd1ac782557a8be4bbee98f24b56023 
+here  to learn how to prepare your family. To prepare your small business, click 
+https://click.message.fedex.com/?qs=15d16f80c086d0efb437917da48a9fc34fa4f3cc251fb95e76b9709f466b12f5b84398e4c9a3c6ca 
+here  to download a free preparedness checklist. 
+Shipping to affected areas?
+
+To help avoid delays, we encourage you to contact your recipients to verify whether their location is open or able to receive deliveries before and after the storm. In the event of evacuations, shipments not delivered before the storm will be secured in one of our facilities. Delivery will be attempted when it is safe to do so.
+Note that potential service disruptions may not affect FedEx Express, FedEx Ground, FedEx Freight, FedEx Office, etc. the same. This may result in different levels of impact as well as cities, states, and ZIP Codes serviced. 
+
+Continue to check fedex.com for service updates. For specific shipment status information, please 
+https://click.message.fedex.com/?qs=15d16f80c086d0efb06f7b2e10c404127a19c2ebf6b87ce3f7ac495d83e2e955e3619f3d95521f68 
+track  your shipment at fedex.com. You can also contact FedEx Customer Service at 1.800.GoFedEx (1.800.463.3339) or stay up to date by subscribing to FedEx Service Alert email notifications at the 
+https://click.message.fedex.com/?qs=15d16f80c086d0efa642fe110dba6862ef34bc2cc43818768a76c90f2787448e534c48f48f0e008d 
+FedEx Email Subscription Center . Consistent with the provisions of the 
+https://click.message.fedex.com/?qs=d09a06bbbe082f45501be1ff60a71ef21fff4a70c9cd1a3ddbc88e8c3a4d36929423987e3c0364aa 
+FedEx Service Guide , shipments delayed due to the storm are not eligible for a refund or credit under the money-back guarantee policy.
+
+ This email has been sent to: rresendez@rigoresendez.com. All future FedEx email communications will be sent to this address. You can 
+https://click.message.fedex.com/?qs=d09a06bbbe082f45f3a830bf7f912dfe427a452554ef8ac9c8b16bc40bbb62476349641e4e190f37 
+unsubscribe  or 
+https://click.message.fedex.com/?qs=d09a06bbbe082f45c8faa8845975359ea8e4975dff44e069c1db048e75819c263e80dd66a2373558 
+update  your email profile at any time. To ensure this email is delivered to your inbox, please add 
+mailto:FedEx@message.fedex.com 
+FedEx@message.fedex.com  to your address book. 
+
+FedEx Corporation, Attn: Email Address Update,
+3640 Hacks Cross Rd, Building D, 2nd Floor, Memphis, TN, 38125, USA
+
+(c)2016 FedEx. The content of this message is protected by copyright and trademark laws under U.S. and international law. 
+
+Review our 
+https://click.message.fedex.com/?qs=d09a06bbbe082f4555774bffc7e162dd5ae39dbd038e001c8ea1edab1d4fd1616c2a45ccaf5b0122 
+privacy policy . All rights reserved. 
+
+https://click.message.fedex.com/?qs=d09a06bbbe082f45c164c26cb50983572f949c1cd760d29e9c45f1cd5843b205178f2d06173e7d1b 
+View as webpage 
+
+1003145-1-6-US-EN-16488787
+
+
+
+
+
+--cwQsJP5L3IHr=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!-- Template_ServiceAlerts_US.html -->
+
+<div style="display:none;"></div>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>FedEx</title>
+	<style type="text/css">
+	
+	/* iPhone dates, etc. link prevention*/
+		.apple-links a {
+			color: inherit;
+			text-decoration: none;
+		}
+		.sagimage {
+			width: 100%;
+			height: auto;
+		}
+		a {
+			color: #4D148C; !important;
+		}
+		@media only screen and (max-device-width: 480px), screen and (max-width: 600px) {
+			body[layout] .hideonmobile {
+				display: none !important;
+			}
+			body[layout] .showonmobile {
+				display: block !important;
+				overflow: visible !important;
+				width: auto !important;
+				max-height: inherit !important;
+			}
+			body[layout] .showonmobilelogo {
+	            display: block !important;
+	            overflow: visible !important;
+	            width: 165px !important;
+	            height: 68px !important;
+	            max-height: 68px !important;
+	        }
+	        body[layout] .showonmobilespacer {
+	            display: block !important;
+	            overflow: visible !important;
+	            width: 1px !important;
+	            height: 10px !important;
+	            max-height: 10px !important;
+	        }
+			body[layout] table[class=mobile] {
+				width: 100% !important;
+			}
+			body[layout] .navcol,
+			body[layout] .desktopcol {
+				display: block !important;
+				width: 100% !important;
+			}
+			body[layout] .navcol {
+				line-height: 40px !important;
+				min-height: 40px !important;
+				text-align: left !important;
+			}
+			body[layout] .navcenter {
+				border-top: 1px solid #DDD;
+				border-bottom: 1px solid #DDD;
+			}
+			body[layout] .mobilenoborder {
+				border: none !important;
+			}
+			body[layout] .mobilepadded {
+				width: 90% !important;
+				margin: 0 auto;
+			}
+			body[layout] td.intro {
+				font-size: 26px !important;
+			}
+			body[layout] td.subintro {
+				font-size: 18px !important;
+			}
+			body[layout] .mobileimg {
+				width: 60% !important;
+				height: auto !important;
+			}
+			body[layout] .sagdualimage,
+			body[layout] .mobilebanner,
+			body[layout] .mobilefullbanner {
+				width: 100% !important;
+				height: auto !important;
+			}
+			body[layout] .logo-left {
+				width:165px !important;
+				max-width:165px !important;
+				height:80px !important;
+				display: block !important;
+				max-height: inherit !important;
+			}
+			body[layout] .mobile-rewards {
+				width:98px !important;
+				max-width:98px !important;
+			}
+			body[layout] .lockup-spacer {
+				width: auto !important;
+			}
+		}
+		@media only screen and (max-device-width: 480px), screen and (max-width: 480px) {
+			body[layout] .sagimage {
+				width: 100% !important;
+				height: auto !important;
+			}
+			body[layout] .sagcol {
+				display: block !important;
+				width: 100% !important;
+			}
+		}
+		</style>
+</head><body layout="responsive" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="table-layout:fixed;width:100% !important;background:#FFFFFF;-webkit-text-size-adjust:none;margin:0;font-family:Arial,Helvetica,sans-serif;">
+
+
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
+		<tr>
+			<td bgcolor="#FFFFFF" width="100%" align="center"><!-- DEVELOPER: INCLUDE 01 CONTENT BLOCKS: START HERE -->
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">	
+	<tr>
+		<td valign="top" align="left" width="145" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+		<td valign="top" align="left" width="428" class="mobile" ><span class="hideonmobile" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></span></td>
+		<td valign="top" align="left" width="27" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+	</tr>
+</table>
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">	
+	<tr>
+		<td valign="top" align="left" width="145" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+		<td valign="top" align="left" width="428" class="mobile" >
+		<table width="100%" class="mobilepadded hideonmobile" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td valign="top" align="left" height="5" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="5" style="line-height:0px; font-size:0px; display:block;" /></td>
+			</tr>
+					</table>
+				
+		</td>
+		<td valign="top" align="left" width="27" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+	</tr>
+</table>
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">	
+					<tr>
+		<td valign="top" align="left" width="145" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+		<td valign="top" align="left" width="428" class="mobile" >
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td valign="top" align="left" height="30" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="30" style="line-height:0px; font-size:0px; display:block;"></td>
+				</tr>
+			</table>
+		</td>
+		<td valign="top" align="left" width="27" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+	</tr>
+</table>
+				<!-- DEVELOPER: INCLUDE 01 CONTENT BLOCKS: END HERE -->
+<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td valign="top" align="left" width="145" class="hideonmobile" >
+			<table width="100%" height="10" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td valign="top" align="left" height="10" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="10" style="line-height:0px; font-size:0px; display:block;"></td>
+				</tr>
+			</table>
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" style="text-align:center;">
+				<tr>
+					<td valign="top" align="center"><a description="Fedex Logo" href="https://click.message.fedex.com/?qs=544460421336eba3b7e4013bed0178ab6b34909729f99e1784c6eed4ed7116928172ddb8ac76037c"  target="_blank" style="text-align:center;"><img src="http://image.message.fedex.com/lib/fe921372756d067475/m/1/fedex_logo_desktop.gif" border="0" width="44" height="157" alt="FedEx" style="display:inline-block; color: #4D148C;" /></a></td>
+				</tr>
+			</table></td>
+		<td valign="top" align="left" width="428" class="mobile" >
+			<div class="showonmobile" style="display:none;width:0px;max-height:0px;overflow:hidden;">
+				<table width="100%" class="mobilepadded showonmobile" style="display:none;width:0px;max-height:0px;overflow:hidden;" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td valign="top" align="left">
+							<a description="Fedex Logo" href="RedirectTo(Concat('http://www.fedex.com/', @countryCode))" alias="FedEx logo" target="_blank" style="display:none;width:0px;max-height:0px;overflow:hidden;" class="showonmobile"><img src="http://image.message.fedex.com/lib/fe921372756d067475/m/1/fedex_logo_mobile.gif" width="1" height="1" style="display:none;width:0px;max-height:0px;overflow:hidden;" class="showonmobilelogo" border="0" alt="FedEx" /></a>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" align="left" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:none;width:0px;max-height:0px;overflow:hidden;" class="showonmobilespacer"></td>
+					</tr>
+					<tr>
+						<td valign="top" align="left" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:none;width:0px;max-height:0px;overflow:hidden;" class="showonmobilespacer"></td>
+					</tr>
+				</table>
+			</div>	
+			<table width="100%" class="hideonmobile" height="80" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td valign="top" align="left" height="80" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="80" style="line-height:0px; font-size:0px; display:block;"></td>
+				</tr>
+			</table>
+			
+			<table width="100%" class="mobilepadded" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td valign="top" align="left" class="intro" style="font-size: 34px; font-family: Arial, Helvetica, sans-serif; color: #4D148C;">
+						FedEx Service Alerts </td>
+				</tr>
+				<tr>
+					<td valign="top" align="left" height="10" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="15" style="line-height:0px; font-size:0px; display:block;" /></td>
+				</tr>
+				<tr>
+					<td valign="top" align="left" height="10" width="428" cellpadding="0" cellspacing="0" border="0">
+					<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><!-- ContentArea_Subhead.html -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody>
+		<tr>
+			<td valign="top" align="left" class="subintro" style="font-size: 18pt; font-family: Arial, Helvetica, sans-serif; color: #4d148c;">Tropical Depression Eight, Tropical Depression Nine, Hurricane Lester, and Hurricane Madeline</td>
+		</tr>
+		<tr>
+			<td valign="top" align="left" height="30" style="line-height: 0px; font-size: 0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="30" style="line-height: 0px; font-size: 0px; display: block;" /></td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table>
+					</td>
+				</tr>
+			
+						</table>
+			
+			
+			
+
+		</td>
+		<td valign="top" align="left" width="27" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+	</tr>
+</table>
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">	
+	<tr>
+		<td valign="top" align="left" width="145" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+		<td valign="top" align="left" width="428" class="mobile" ><table width="100%" cellpadding="0" cellspacing="0" border="0" class="mobilepadded">
+			<tr>
+				<td valign="top" align="left" style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #333333; line-height: 145%;" class="apple-links">Tuesday, August 30, 2016</td>
+			</tr>
+		</table>
+		
+		</td>
+		<td valign="top" align="left" width="27" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;">
+		</td>
+	</tr>
+</table>
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td width="145" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+						<td width="428" align="left" valign="top" class="mobile" ><table width="100%" cellpadding="0" cellspacing="0" border="0">
+							<tr>
+								<td valign="top" align="left" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="10" style="line-height:0px; font-size:0px; display:block;" /></td>
+							</tr>
+						</table></td>
+						<td width="27" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+					</tr>
+				</table>
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td width="145" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+						<td width="428" align="left" valign="top" class="mobile" ><table width="100%" cellpadding="0" cellspacing="0" border="0" class="mobilepadded" style="border-top:1px solid #DDD;">
+							<tr>
+								<td valign="top" align="left" height="30" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="30" style="line-height:0px; font-size:0px; display:block;" /></td>
+							</tr>
+						</table></td>
+						<td width="27" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+					</tr>
+				</table>
+				
+				<!-- BEGIN EDITABLE CONTENT BLOCKS -->
+				
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td width="145" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+						<td width="428" align="left" valign="top" class="mobile" >
+						
+						<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><!-- ContentArea_Body.html -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="mobilepadded"><tbody><tr><td valign="top" align="left" style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif; color: #333333; line-height: 145%;"><span style="font-family: Arial, sans-serif; font-size: 10pt; line-height: 145%;">FedEx
+is closely monitoring Tropical Depression Eight, Tropical Depression Nine, Hurricane Lester, and Hurricane Madeline.&nbsp;
+Contingency plans are in place to ensure the safety and well-being of our team
+members and to minimize the effects of the storm on service. These storms often
+cause pickup and delivery delays and disruptions for FedEx customers. FedEx
+will be prepared to provide service to the best of our ability in areas
+affected by the storm and </span><span style="font-family: Arial, sans-serif; font-size: 10pt; line-height: 145%; color: black;">as local conditions allow.</span>
+
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: black;">&nbsp;</span></p></td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table>
+						
+</td>
+						<td width="27" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+					</tr>
+				</table>
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td width="145" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+						<td width="428" align="left" valign="top" class="mobile" ><table width="100%" cellpadding="0" cellspacing="0" border="0">
+							<tr>
+								<td valign="top" align="left" height="30" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="30" style="line-height:0px; font-size:0px; display:block;" /></td>
+							</tr>
+						</table></td>
+						<td width="27" align="left" valign="top" class="hideonmobile"  style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="line-height:0px; font-size:0px; display:block;" /></td>
+					</tr>
+				</table>
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">	
+	<tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><!-- Boilerplate Content Area.html -->
+<table width="600" bgcolor="#E5E5E5" class="mobile" cellpadding="0" cellspacing="0" border="0">
+	<tbody>
+		<tr>
+			<td valign="top" align="left" width="145" class="hideonmobile" style="line-height: 0px; font-size: 0px; background-color: #e5e5e5;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer.gif" width="1" height="1" style="line-height: 0px; font-size: 0px; display: block;" />
+			</td>
+			<td valign="top" align="left" width="428" class="mobile" style="background-color: #e5e5e5;">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" class="mobilepadded">
+				<tbody>
+					<tr>
+						<td valign="top" align="left" height="15" style="line-height: 0px; font-size: 0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer.gif" width="1" height="15" style="line-height: 0px; font-size: 0px; display: block;" />Please</td>
+					</tr>
+					<tr>
+						<td valign="top" align="left" style="font-size: 10pt; font-family: Arial, Helvetica, sans-serif; color: #333333; line-height: 145%;"><p>Please continue to check <a href="https://click.message.fedex.com/?qs=8b00817ea42fa5bdf6616f0074102b4acaff43c7cd91b487450c4abe2d7c9bcca82344b725df4aba" title="FedEx Service Alerts"  >FedEx Service Alerts</a> for updates.</p><p>Continue to <a href="https://click.message.fedex.com/?qs=8b00817ea42fa5bde255799e753a2dbd28d4e2733bc47303332fa77c90e69fab366b44ac08e35539" title="check the status"  >check the status</a> of your shipments on fedex.com before going to any staffed FedEx location. You can also contact FedEx Customer Service at 1.800.GoFedEx (1.800.463.3339) or stay up to date by subscribing to service disruption email notifications at the 
+<a href="https://click.message.fedex.com/?qs=8b00817ea42fa5bd0ab2ea2e5ab46116479dcb7df6bb15e9c6c2f831fd9ee7f26c720e0e715eb72d" title="FedEx Email Subscription Center"  >FedEx Email Subscription Center</a>.</p>
+<p>Up to date information on weather advisories can be found at the <a href="https://click.message.fedex.com/?qs=8b00817ea42fa5bdf4e1a336c9abe6cb7b1e556b7acec426da40973b6fd1f000196786a3ea7f9c23" title="National Weather Service"  >National Weather Service</a>.&nbsp;</p><p>FedEx cares about your safety and we encourage you to prepare for natural disasters. Click <a href="https://click.message.fedex.com/?qs=8b00817ea42fa5bded29f56874a15e2a702eba84991810148b1a1fa0554aad4c392cf4d21fa96f70" title="here"  >here</a> to learn how to prepare your family. To prepare your small business, click <a href="https://click.message.fedex.com/?qs=8b00817ea42fa5bd8254044162d6466d1b65cc199fe9619ed4c3561d63204fc5947d47fc70c8628a" title="here"  >here</a> to download a free preparedness checklist.&nbsp;</p><b>Shipping to affected areas?</b><br />
+						To help avoid delays, we encourage you to contact your recipients to verify whether their location is open or able to receive deliveries before and after the storm. In the event of evacuations, shipments not delivered before the storm will be secured in one of our facilities. Delivery will be attempted when it is safe to do&nbsp;so.<p>Note that potential service disruptions may not affect FedEx Express, FedEx Ground, FedEx Freight, FedEx Office, etc. the same. This may result in different levels of impact as well as cities, states, and ZIP Codes serviced.&nbsp;</p>
+						Continue to check fedex.com for service updates. For specific shipment status information, please <u><a target="_blank" href="https://click.message.fedex.com/?qs=8b00817ea42fa5bd13a31a1981723a9ae2d2165200229e47e90a5355def14ba380d2cdead038859e" >track</a></u> your shipment at fedex.com. You can also contact FedEx Customer Service at 1.800.GoFedEx (1.800.463.3339) or stay up to date by subscribing to FedEx Service Alert email notifications at the <a href="https://click.message.fedex.com/?qs=8b00817ea42fa5bd0ab2ea2e5ab46116479dcb7df6bb15e9c6c2f831fd9ee7f26c720e0e715eb72d" title="FedEx Email Subscription Center"  >FedEx Email Subscription Center</a>. Consistent with the provisions of the <a target="_blank" href="https://click.message.fedex.com/?qs=8b00817ea42fa5bdcc7f967b4d5eb325ad6549480d150713820a8e1cfd7b8da61fd5c28e191062c6" >FedEx Service Guide
+</a>, shipments delayed due to the storm are not eligible for a refund or credit under the money-back guarantee&nbsp;policy.</td>
+					</tr>
+					<tr>
+						<td valign="top" align="left" height="15" style="line-height: 0px; font-size: 0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer.gif" width="1" height="15" style="line-height: 0px; font-size: 0px; display: block;" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td valign="top" align="left" width="27" class="hideonmobile" style="line-height: 0px; font-size: 0px; background-color: #e5e5e5;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer.gif" width="1" height="1" style="line-height: 0px; font-size: 0px; display: block;" />
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">
+	<tbody>
+		<tr>
+			<td valign="top" align="left" width="145" class="hideonmobile" style="line-height: 0px; font-size: 0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer.gif" width="1" height="1" style="line-height: 0px; font-size: 0px; display: block;" />
+			</td>
+			<td valign="top" align="left" width="428" class="mobile">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody>
+					<tr>
+						<td valign="top" align="left" height="30" style="line-height: 0px; font-size: 0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer.gif" width="1" height="30" style="line-height: 0px; font-size: 0px; display: block;" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td valign="top" align="left" width="27" class="hideonmobile" style="line-height: 0px; font-size: 0px;">
+			<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer.gif" width="1" height="1" style="line-height: 0px; font-size: 0px; display: block;" />
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+		</tr>
+</table>
+			
+				
+				<!-- END EDITABLE CONTENT BLOCKS -->
+				
+				<table width="600" class="mobile" cellpadding="0" cellspacing="0" border="0">	
+					<tr>
+						<td valign="top" align="left" width="128" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+							<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="ine-height:0px; font-size:0px; display:block;">
+						</td>
+						<td valign="top" align="left" width="382" class="mobile" ><table width="100%" class="mobilepadded" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #DDD;">
+							<tr>
+									<td valign="top" align="left" height="10" style="line-height:0px; font-size:0px;"><img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="10" style="ine-height:0px; font-size:0px; display:block;" /></td>
+							</tr>
+								<tr>
+									<td valign="top" align="left" style="font-size: 11px; font-family: Arial, Helvetica, sans-serif; color: #999999; line-height: 135%;"><img src="http://image.message.fedex.com/lib/fe921372756d067475/m/1/envelope_icon.jpg" alt="email" style="display:inline-block"/>&nbsp;This email has been sent to: <span style="color: #878787;">rresendez@rigoresendez.com</span>. All future FedEx email communications will be sent to this address. You can <a description="Unsubscribe" href="https://click.message.fedex.com/?qs=8b00817ea42fa5bdd027e53a166fc59cd482f2ae53c1c508a873638c75bff2dc6cb4e4c0b4d55d70"  target="_blank" style="color: #878787;">unsubscribe</a> or <a description="Update" href="https://click.message.fedex.com/?qs=8b00817ea42fa5bdde2ec09592c3284d65450d8d5bf132ffa40397723f433bdaf29fbd1e57ab7216"  target="_blank" style="color: #878787;">update</a> your email profile at any time. To ensure this email is delivered to your inbox, please add 
+<a href="mailto:FedEx@message.fedex.com" style="color: #878787; text-decoration:underline;">FedEx@message.fedex.com</a> to your address&nbsp;book. <br />
+										<br />
+										FedEx Corporation, Attn: Email Address Update,
+										3640 Hacks Cross Rd, Building D, 2nd Floor, Memphis, TN, 38125, USA<br />
+										<br />
+										&copy;2016 FedEx. The content of this message is protected by copyright and trademark laws under U.S. and international&nbsp;law. <br />
+										<br />
+										Review our <a href="https://click.message.fedex.com/?qs=15d16f80c086d0efd3632df32fe2da1ccee6a317f0aca11025859d5aa1824c9deb4404994de4a571"  target="_blank" style="color: #878787;">privacy policy</a>. All rights&nbsp;reserved. <br />
+										<br />
+										<a description="Text link: View as webpage" href="https://click.message.fedex.com/?qs=15d16f80c086d0ef68b8d0d7a5a1e8fc93ae1bf3827c6d9c1f284abcfa74b110e9885ff27e8bf616"  target="_blank" style="color: #878787;">View as webpage</a><br />
+										<br />
+										<br />
+										1003145-1-6-US-EN-16488787<br /><br /></td>
+								</tr>
+						</table></td>
+						<td valign="top" align="left" width="24" class="hideonmobile"  style="line-height:0px; font-size:0px;">
+							<img border="0" src="http://image.message.fedex.com/lib/fe8d13727467027473/m/1/spacer_image.gif" width="1" height="1" style="ine-height:0px; font-size:0px; display:block;" >
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+
+<img src="https://click.message.fedex.com/open.aspx?ffcb10-fefd1176756205-fe501576716c0d7f7d1d-fe921372756d067475-ff9c1572-fe4e1576716c0c7a7d13-ff3415787566" width="1" height="1">
+
+</body></html>
+
+--cwQsJP5L3IHr=_?:--
+

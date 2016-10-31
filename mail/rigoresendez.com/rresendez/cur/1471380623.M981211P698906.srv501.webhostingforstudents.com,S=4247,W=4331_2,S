@@ -1,0 +1,84 @@
+Return-Path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id iYBxOo98s1caqgoATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 16:50:23 -0400
+Return-path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 16 Aug 2016 16:50:23 -0400
+Received: from o3.email.freshdesk.com ([167.89.33.2]:15688)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>)
+	id 1bZlJX-002vmR-8f
+	for rresendez@rigoresendez.com; Tue, 16 Aug 2016 16:50:23 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=freshdesk.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=Y0LWR3142nvqlwAyR4MoG9GD9ds=; b=ZDvGhN3BULz8D1gTSq
+	L7yLIP6E+G1gB0XVoG7LcPcW2F1UQ9tzewsA6xmbVUfqUyp7BJF0zv3js/nnxvTz
+	GVu7x3rRFFuxTbJm4ASvodxZzMSr80V50FKqXyOQDFJrOlah7BeyGyPttJOvzxIM
+	4cLMPUs9D/YqfrtSmllenkJBc=
+Received: by filter0431p1mdw1.sendgrid.net with SMTP id filter0431p1mdw1.24014.57B37C539
+        2016-08-16 20:49:23.370046081 +0000 UTC
+Received: from freshdesk.com (ec2-52-70-237-175.compute-1.amazonaws.com [52.70.237.175])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id hPAjVNO4T1uUMWrq916NxA
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 20:49:23.323 +0000 (UTC)
+Date: Tue, 16 Aug 2016 20:49:23 +0000
+From: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+Reply-To: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+To: rresendez@rigoresendez.com
+Message-ID: <57b37c533ed69_7674153480414565455.dispatcher-sidekiq-1@email.freshdesk.com>
+Subject: Gracias por contactarnos mediante nuestro LIVE CHAT Offline message
+ from Rigoberto Resendez on Tue, 16 Aug, 2016
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57b37c534336b_767415348041456555f";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+sent-on: 2016-08-16 20:49:23 +0000
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: DR, RN, OOF, AutoReply
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgYgWk9qOm1rSxT7LRxLNOwcJiynaSvVgcIblY
+ dJ6xO5DbIEm+Mm2xuuu6/JbUrGalCwcIx2tPmUEouAseNKoWadr8p1NZLYJH7lgmlJYn9lKe3KyMiq
+ gYwuoU4wMJZIN2d4AQksQMllYy3AnB1GhiPGTIygSSEIRDvAbFDEgpGSVqasKcKqCY90hWeAKodIPQ
+ Mt8wLfVFtAkJ1XzR4xHxdQ
+X-SG-ID: 07jdBcxxKzkTTnSHcra6oA1y2WMOzzIOyM5wj6P1seADO5j7CRkzBau5AKXaAgfvgsmdloysZJpBl9
+ w7und3BNPxmBIlfIgt3KzJ+cw77ps=
+
+----==_mimepart_57b37c534336b_767415348041456555f
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ Estimado(a) Rigoberto Resendez,=C2=A0     En tu nombre generamos un folio =
+de seguimiento   Si=C3=A9ntete con la confianza de regresar cada vez que lo=
+ necesites.   http://soporte.vivaaerobus.com/helpdesk/tickets/332708      C=
+ordialmente,  VIVAAEROBUS Support Team =E2=80=9CLo que necesitas para volar=
+=E2=80=9D=20=20=20=
+
+----==_mimepart_57b37c534336b_767415348041456555f
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Helvetica Neue, Helvetica, Arial, sans-serif; fon=
+t-size:13px;">
+	<p><span>Estimado(a) Rigoberto Resendez,&nbsp;</span></p><p><span><br></sp=
+an></p><p><span>En tu nombre generamos un folio de seguimiento<br></span></=
+p><p><span>Si=C3=A9ntete con la confianza de regresar cada vez que lo neces=
+ites.<br></span></p><p><span><a href=3D"http://soporte.vivaaerobus.com/help=
+desk/tickets/332708">http://soporte.vivaaerobus.com/helpdesk/tickets/332708=
+</a></span><br><span></span></p><p><span><br></span></p><p><span>Cordialmen=
+te, <br><span class=3D"caps">VIVAAEROBUS</span><br>Support Team<br>&#8220;L=
+o que necesitas para volar&#8221;</span></p><p><span style=3D"color: rgb(31=
+, 73, 125);"></span><p></p></p>
+<br/>
+
+
+<span title=3D"fd_tkt_identifier" style=3D'font-size:0px; font-family:"fdtk=
+tid"; min-height:0px; height:0px; opacity:0; max-height:0px; line-height:0p=
+x; color:#ffffff'>332708</span>
+
+</div>=
+
+----==_mimepart_57b37c534336b_767415348041456555f--

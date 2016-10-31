@@ -1,0 +1,71 @@
+Return-Path: <>
+Delivered-To: rigorese@srv501.webhostingforstudents.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id UV5OHAQA+1cz/AYATAh+fg
+	for <rigorese@srv501.webhostingforstudents.com>; Sun, 09 Oct 2016 22:42:12 -0400
+Return-path: <>
+Envelope-to: rigorese@srv501.webhostingforstudents.com
+Delivery-date: Sun, 09 Oct 2016 22:42:12 -0400
+Received: from mailnull by srv501.webhostingforstudents.com with local (Exim 4.87)
+	id 1btQXc-001vB1-3y
+	for rigorese@srv501.webhostingforstudents.com; Sun, 09 Oct 2016 22:42:12 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@srv501.webhostingforstudents.com>
+To: rigorese@srv501.webhostingforstudents.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1476067332-eximdsn-71620615
+MIME-Version: 1.0
+Subject: Warning: message 1bsD3R-0014Zf-Dm delayed 72 hours
+Message-Id: <E1btQXc-001vB1-3y@srv501.webhostingforstudents.com>
+Date: Sun, 09 Oct 2016 22:42:12 -0400
+
+--1476067332-eximdsn-71620615
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 72 hours on the queue on srv501.webhostingforstudents.com.
+
+The message identifier is:     1bsD3R-0014Zf-Dm
+The subject of the message is: From rigoresendez.com/sms.php
+The date of the message is:    Thu, 6 Oct 2016 13:06:00 -0500
+
+The address to which the message has not yet been delivered is:
+
+  9564292948@message.alltel.com
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1476067332-eximdsn-71620615
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; srv501.webhostingforstudents.com
+
+Action: delayed
+Final-Recipient: rfc822;9564292948@message.alltel.com
+Status: 4.0.0
+
+--1476067332-eximdsn-71620615
+Content-type: text/rfc822-headers
+
+Return-path: <rigorese@srv501.webhostingforstudents.com>
+Received: from rigorese by srv501.webhostingforstudents.com with local (Exim 4.87)
+	(envelope-from <rigorese@srv501.webhostingforstudents.com>)
+	id 1bsD3R-0014Zf-Dm
+	for 9564292948@message.alltel.com; Thu, 06 Oct 2016 14:06:01 -0400
+To: 9564292948@message.alltel.com
+Subject: From rigoresendez.com/sms.php
+X-PHP-Script: www.rigoresendez.com/sms.php for 64.88.198.54
+Date: Thu, 6 Oct 2016 13:06:00 -0500
+From: rresendez@rigoresendez.com
+Message-ID: <28643b6431c8df54b844b287463f0b1d@www.rigoresendez.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_28643b6431c8df54b844b287463f0b1d"
+
+
+--1476067332-eximdsn-71620615--

@@ -1,0 +1,210 @@
+Return-Path: <bounces+1199173-1d4a-rresendez=rigoresendez.com@mailtracking.ambitenergy.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 4TbHKz/J4ldcVQEATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 21 Sep 2016 13:54:07 -0400
+Return-path: <bounces+1199173-1d4a-rresendez=rigoresendez.com@mailtracking.ambitenergy.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 21 Sep 2016 13:54:07 -0400
+Received: from o2.mailtracking.ambitenergy.com ([192.254.115.246]:16691)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+1199173-1d4a-rresendez=rigoresendez.com@mailtracking.ambitenergy.com>)
+	id 1bmlih-000Mlj-Bq
+	for rresendez@rigoresendez.com; Wed, 21 Sep 2016 13:54:07 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=mailtracking.ambitenergy.com; 
+	h=content-transfer-encoding:content-type:from:mime-version:reply-to:subject:to; 
+	s=smtpapi; bh=X7CXBmhaNMDfNpAjyuwCvHTvLSk=; b=zsPDInEna8RXpOPb4w
+	A+tPadRkrM9o4X1jQO0nX2lu4NAvB/R7rKWtBBiFgu0DiRnRfpkW6BbSWg+s/8F3
+	e9iHKng4DndxiqH7ru4HI/7YiKD6ap7DJL3ZTMfALs+ClbIWQhTqq9w1NERRZQ7s
+	0xy/qw9vdpBdVu/Dh7DshvXMI=
+Received: by filter0216p1las1.sendgrid.net with SMTP id filter0216p1las1.20070.57E2C9167
+        2016-09-21 17:53:26.135663589 +0000 UTC
+Received: from MTE5OTE3Mw (64.125.102.133.IPYX-081224-ZYO.above.net [64.125.102.133])
+	by ismtpd0001p1sjc2.sendgrid.net (SG) with HTTP id zZUeTfaDQCiIY0gqfuYQ-A
+	for <rresendez@rigoresendez.com>; Wed, 21 Sep 2016 17:53:26.188 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 21 Sep 2016 17:53:26 +0000
+From: "Ambit Energy Advisor" <AmbitEnergy@AmbitEnergyAdvisor.com>
+Mime-Version: 1.0
+Reply-To: AmbitEnergy@AmbitEnergyAdvisor.com
+Subject: Electricity Use Update:  Your Ambit Energy Advisor for 9/11 - 9/17
+To: rresendez@rigoresendez.com
+Message-ID: <zZUeTfaDQCiIY0gqfuYQ-A@ismtpd0001p1sjc2.sendgrid.net>
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgYrnUKj0VMCUK0T4Gy/UNoEpnOxz/2wfySteH
+ BjQN8iJuGLgRGY0mjNcm8jBgfJYwB9//d3rtNcKDZ2wP8D2rmUYIcpLCs5PuoYPG6j7D567VNL6s6f
+ 7iPyaDxbzSQWtD15dCMJ3TU3TmIskcBbZtBWzlgY+O701hP8gYSC0bDPnMN5/KcjYQbNqDUR5afDmw
+ M6JxdcKWrOYsCvwcqITCUE
+X-SG-ID: N+BfrmqyfOfqRSgrjbQs7gi/m3/jKxPks5osN72IhOSoaVJbW09pmQGU3bRMGlTuyu2y+ZaxQLOLNc
+ DNH6hngA==
+
+<html> <head> <title>Usage Email EN v6, as of 8.30.16</title> <meta http-eq=
+uiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /> </head> <bod=
+y bgcolor=3D"#FFFFFF"> <div bgcolor=3D"#FFFFFF" style=3D"margin: 0pt; paddi=
+ng: 0pt;"> <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0"> 	<tbody> 		<tr> 			<td>&nbsp;</td> 			<td width=
+=3D"580" style=3D"padding:10px; background-color:#FFFFFF;"> 				<table widt=
+h=3D"560" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center"=
+ style=3D"background:#FFFFFF;" bgcolor=3D"#FFFFFF"> 					<tr> 					  <td><t=
+able width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> 					=
+	<tr> 						  <td align=3D"left" valign=3D"bottom"><div style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; color:#FF6319; font-size:24px; font-weight:=
+bold;">Ambit Energy Advisor</div></td> 						  <td align=3D"right"><a href=
+=3D"http://ww2.ambitenergy.com/?id=3Dsmartmeteremail" title=3D"Ambit Energy=
+" style=3D"color:#FF6319;"><img style=3D"display:block;" src=3D"http://ww2.=
+ambitenergy.com/e/img/ambit-logo.png" alt=3D"Ambit Energy" width=3D"195" he=
+ight=3D"47" border=3D"0" /></a></td> 						</tr> 						<tr> 						  <td col=
+span=3D"2" align=3D"left" valign=3D"bottom"><img style=3D"display:block;" s=
+rc=3D"http://ww2.ambitenergy.com/e/img/spacer.gif" width=3D"10" height=3D"5=
+" /></td> 						</tr> 					  </table></td> 				  </tr> 					<tr> 						<td =
+bgcolor=3D"#FF6319"><img style=3D"display:block;" src=3D"http://ww2.ambiten=
+ergy.com/e/img/spacer.gif" width=3D"10" height=3D"1"></td> 					</tr> 					=
+<tr> 					  <td><img src=3D"http://ww2.ambitenergy.com/e/img/spacer.gif" al=
+t=3D"" width=3D"10" height=3D"15" style=3D"display:block;"></td> 				  </tr=
+> 					<tr> 					  <td><div style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:18px; color:#FF6319; font-weight:bold;">Usage for the week be=
+ginning September 11, 2016</div> 					    <div style=3D"font-family:Arial, =
+Helvetica, sans-serif; font-size:12px; line-height:18px; color:#57504A;"><b=
+r> 					      <strong>Analyze your usage history and save</strong> &mdash; =
+Ambit Energy Advisor gives you the ability to anticipate your electricity b=
+ill.  Using the power of your Smart Meter, the Ambit Energy Advisor allows =
+you to see when <a href=3D"https://my.ambitenergy.com/email/redirect.php?to=
+=3Dmy-bill&tab=3Dtab_usage-history" title=3D"View your energy use in MyAmbi=
+t Account" target=3D"_blank" style=3D"color:#FF6319;">your energy use</a> s=
+pikes so you can make energy-savings decisions to lower your monthly bill. =
+</div></td> 				  </tr> 					<tr> 					  <td>&nbsp;</td> 				  </tr> 					<=
+tr> 						<td><table width=3D"560" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0"> 							<tr> 								<td colspan=3D"3"><img style=3D"display:block=
+;" src=3D"http://ww2.ambitenergy.com/e/img/smt-usage/prod/usage-email_13.jp=
+g" alt=3D"Usage this week" width=3D"276" height=3D"36"></td> 								<td ro=
+wspan=3D"2"><img style=3D"display:block;" src=3D"http://ww2.ambitenergy.com=
+/e/img/smt-usage/prod/usage-email_14.jpg" width=3D"8" height=3D"71"></td> 	=
+							<td colspan=3D"3"><img style=3D"display:block;" src=3D"http://ww2.am=
+bitenergy.com/e/img/smt-usage/prod/usage-email_15.jpg" width=3D"276" height=
+=3D"36" alt=3D"Usage last week"></td> 						  </tr> 							<tr> 								<td=
+ width=3D"131" align=3D"center" bgcolor=3D"#F6F2F1"><div style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:24px; color:#FF6319; font-weight=
+:bold;">118 kWh</div></td> 								<td width=3D"39" bgcolor=3D"#F6F2F1"><im=
+g style=3D"display:block;" src=3D"http://ww2.ambitenergy.com/e/img/smt-usag=
+e/prod/usage-email_17.jpg" width=3D"39" height=3D"35"></td> 								<td wid=
+th=3D"106" align=3D"center" bgcolor=3D"#F6F2F1"><div style=3D"font-family:A=
+rial, Helvetica, sans-serif; font-size:24px; color:#a2958a;">$13.15</div></=
+td> 								<td width=3D"130" align=3D"center" bgcolor=3D"#EEEAE7"><div sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-size:24px; color:#5750=
+4a; font-weight:bold;">150 kWh</div></td> 								<td width=3D"39" bgcolor=
+=3D"#EEEAE7"><img style=3D"display:block;" src=3D"http://ww2.ambitenergy.co=
+m/e/img/smt-usage/prod/usage-email_20.jpg" width=3D"39" height=3D"35"></td>=
+ 								<td width=3D"107" align=3D"center" bgcolor=3D"#EEEAE7"><div style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:24px; color:#a2958a=
+;">$16.80</div></td> 							</tr> 							<tr> 								<td colspan=3D"7"><im=
+g style=3D"display:block;" src=3D"http://ww2.ambitenergy.com/e/img/smt-usag=
+e/prod/usage-email_22.jpg" width=3D"560" height=3D"27"></td> 						  </tr> =
+						</table></td> 					</tr> 					<tr> 						<td><img style=3D"display:bl=
+ock;" src=3D"https://smt.ambitenergy.com/api/Chart/47FA1E6F-A33D-4C0E-AC65-=
+0D3E2B06D873" alt=3D"Weekly Usage Chart" width=3D"560" height=3D"322"></td>=
+ 					</tr> 					<tr> 						<td><table width=3D"560" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0"> 						  <tr> 						    <td height=3D"15" colspa=
+n=3D"2" align=3D"right"><div style=3D"font-family:Arial, Helvetica, sans-se=
+rif; color:#a2958a; font-size:10px;"><br> 						      Service Address: 				=
+		       615  S SUGAR RD UNIT 71 71, EDINBURG, TX  78539</div></td> 					  =
+    </tr> 						  <tr> 						    <td width=3D"90"><a href=3D"https://my.amb=
+itenergy.com/email/redirect.php?to=3Dmy-bill&tab=3Dtab_usage-history" targe=
+t=3D"_blank" title=3D"View usage in MyAmbit Account"><img style=3D"display:=
+block;" src=3D"http://ww2.ambitenergy.com/e/img/smt-usage/prod/usage-email_=
+28.jpg" width=3D"90" height=3D"82" alt=3D"MyAmbit Account"></a></td> 						=
+    <td><div style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+2px; line-height:18px; color:#FF6319; font-weight:bold;">Want more details?=
+</div> 						      <div style=3D"font-family:Arial, Helvetica, sans-serif; =
+font-size:12px; line-height:18px; color:#57504A;"> To track your energy use=
+ down to the minute, head over to <a href=3D"https://my.ambitenergy.com/ema=
+il/redirect.php?to=3Dmy-bill&tab=3Dtab_usage-history" title=3D"Go to MyAmbi=
+t Account" target=3D"_blank" style=3D"color:#ff6319;">MyAmbit Account</a> a=
+nd use the Usage Summary to view your actual history in weekly, daily or ev=
+en 15-minute increments.</div></td> 					      </tr> 					    </table></td>=
+ 					</tr> 					<tr> 						<td>&nbsp;</td> 					</tr> 					<tr> 						<td>=
+<table width=3D"560" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> 				=
+		  <tr> 						    <td valign=3D"top" bgcolor=3D"#F6F2F1"><img style=3D"dis=
+play:block;" src=3D"http://ww2.ambitenergy.com/e/img/smt-usage/prod/usage-e=
+mail_42_exp.jpg" width=3D"560" height=3D"32" alt=3D"Projected usage"></td> =
+					      </tr> 						  <tr> 						    <td align=3D"center" valign=3D"top"=
+ bgcolor=3D"#F6F2F1"><div style=3D"font-family:Arial, Helvetica, sans-serif=
+; font-size:24px; line-height:40px; color:#57504a; font-weight:bold;">619 k=
+Wh</div> 						      <div style=3D"font-family:Arial, Helvetica, sans-serif=
+; font-size:10px; line-height:14px; color:#a2958a;">Projected  for the curr=
+ent bill cycle ending 10/17/2016<br> 						        &nbsp;</div></td> 					 =
+     </tr> 					    </table></td> 					</tr> 					<tr> 						<td height=3D"=
+25" valign=3D"bottom"><div style=3D"font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; line-height:18px; color:#57504A;"><img src=3D"http://ww2=
+.ambitenergy.com/e/img/pdf.gif" alt=3D"PDF" style=3D"vertical-align:top;" /=
+> <a href=3D"http://ww2.ambitenergy.com/e/img/smt-usage/prod/smt_methodolog=
+y.pdf" title=3D"Read about these projections" target=3D"_blank" style=3D"co=
+lor:#A2958A;">Where do these estimates come from?</a> &nbsp; &nbsp; <img sr=
+c=3D"http://ww2.ambitenergy.com/e/img/pdf.gif" alt=3D"PDF" style=3D"vertica=
+l-align:top;" /> <a href=3D"http://ww2.ambitenergy.com/e/img/smt-usage/prod=
+/smt_faqs.pdf" title=3D"Read the FAQs" target=3D"_blank" style=3D"color:#A2=
+958A;">Frequently Asked Questions</a></div></td> 					</tr> 					<tr> 					=
+	<td height=3D"40"><img style=3D"display:block;" src=3D"http://ww2.ambitene=
+rgy.com/e/img/smt-usage/prod/usage-email_25.jpg" width=3D"560" height=3D"21=
+"></td> 					</tr> 					<tr> 						<td><table width=3D"560" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0"> 							<tbody> 							<tr> 							<td wi=
+dth=3D"110" valign=3D"top"><img width=3D"95" height=3D"75" src=3D"http://ww=
+2.ambitenergy.com/e/img/smt-usage/prod/power-payback.jpg" style=3D"display:=
+block;" alt=3D"Power Payback"></td> 							<td><div style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; font-size:18px; color:#FF6319; font-weight:bold=
+;">Get Paid for Saving Electricity</div> 							  <div style=3D"font-family=
+:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#575=
+04A;"><br> 								    Now, Texas Customers with Smart Meters can get paid =
+for saving electricity! Ambit's Power Payback=E2=84=A2 program rewards you =
+for reducing your electricity usage during periods of extreme demand. You c=
+an earn $1.00 of bill credit for every kilowatt-hour saved. It's just what =
+you'd expect from the company that brought you Free Energy.<br> 							    =
+<a style=3D"color:#FF6319;" target=3D"_blank" title=3D"Learn more about fre=
+e energy" href=3D"http://ww2.ambitenergy.com/rates-and-plans/ambit-advantag=
+es/power-payback">Visit powerpayback.com to learn more</a> <span style=3D"c=
+olor:#FF6319;">&rarr;</span></div></td> 							</tr> 							<tr> 								<t=
+d width=3D"110" valign=3D"top">&nbsp;</td> 								<td>&nbsp;</td> 							<=
+/tr> 							<tr> 								<td width=3D"110" valign=3D"top"><img width=3D"95"=
+ height=3D"61" src=3D"http://ww2.ambitenergy.com/e/img/smt-usage/prod/comps=
+.jpg" style=3D"display:block;" alt=3D"MyAmbit Account"></td> 								<td><d=
+iv style=3D"font-family:Arial, Helvetica, sans-serif; font-size:18px; color=
+:#FF6319; font-weight:bold;"> Manage your account from anywhere</div> 					=
+			  <div style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px=
+; line-height:18px; color:#57504A;"><br> 								    <strong>MyAmbit Accoun=
+t</strong> is available for your laptop, tablet and mobile phone. So wherev=
+er you are, you have the power to manage your account right at your fingert=
+ips. It's just one more bright idea from Ambit Energy that makes running yo=
+ur life a little bit easier. <a style=3D"color:#FF6319;" target=3D"_blank" =
+title=3D"Learn more about MyAmbit Account" href=3D"http://ww2.ambitenergy.c=
+om/rates-and-plans/online-account">Learn more about MyAmbit Account</a> <sp=
+an style=3D"color:#FF6319;">&rarr;</span></div></td> 							  </tr> 							=
+</tbody> 						</table></td> 					</tr> 					<tr> 						<td height=3D"40"><=
+img style=3D"display:block;" src=3D"http://ww2.ambitenergy.com/e/img/smt-us=
+age/prod/usage-email_25.jpg" width=3D"560" height=3D"21"></td> 					</tr> 	=
+				<tr> 					  <td><div style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:10px; line-height:14px; color:#a2958a;">  This email is intended=
+ to provide Ambit Energy Customers with information about their accounts. I=
+f you have received this message in error, or do not wish to receive future=
+ similar communications from Ambit Energy, please <a href=3D"https://Unsubs=
+cribe.ambitenergyAdvisor.com/?Email=3Drresendez@rigoresendez.com&Id=3D76ac1=
+312-1daa-460f-a294-9246ae7a09e3" title=3D"Unsubscribe" style=3D"color:#FF63=
+19;">UNSUBSCRIBE</a>.<br> 					    <br> 					    You can also contact us in=
+ writing at: <br> 					    Ambit Energy, Attn: Email Removal | 1801 N. Lama=
+r Street, Dallas, TX 75202<br> 					    <br> 					    Please do not respond=
+ to this email as this address is part of an unmonitored, automated respons=
+e system. <br> 					    Texas PUC License 10117 | &copy; 2014 Ambit Energy.=
+ All rights reserved </div></td> 				  </tr> 				</table> 		  </td> 			<td>=
+&nbsp;</td> 		</tr> 	</tbody> </table> </div>=20
+<img src=3D"http://mailtracking.ambitenergy.com/wf/open?upn=3Dxb69N2IWj9cpa=
+7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawQ-2BxlCPaflMOj3A=
+6L0TbMQt388aALPQppLLMQeQxhrCfq3qDUa2sVUNukI465xIZiQ-2BDrxbFgaGfHv0m4tFprA3l=
+Ue43IiDGBHLzTgZT0Myp-2FbQOrNf58R8noEvvs-2BTh2EjJ9NodbyJrfg0Y3Sedo1vTqlQcOTw=
+yKhZoIZ6zOYVgUWZAKxC9CsKDO-2FINfIQbwRqYpHLJ1juOX1L31xSE-2BJ73fDDztBYnxLIz-2=
+BoKFYyoJnWP4yF00sdG8-2FhbdzQx9c" alt=3D"" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body> </html>
+

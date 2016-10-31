@@ -1,0 +1,721 @@
+Return-Path: <news@goldandsilver.apmex.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 4baVCik3yFfaTAgATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 01 Sep 2016 10:11:53 -0400
+Return-path: <news@goldandsilver.apmex.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 01 Sep 2016 10:11:53 -0400
+Received: from omp.goldandsilver.apmex.com ([199.7.204.176]:48021)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <news@goldandsilver.apmex.com>)
+	id 1bfSie-002HOJ-NA
+	for rresendez@rigoresendez.com; Thu, 01 Sep 2016 10:11:52 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=apmex; d=goldandsilver.apmex.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:Message-ID; i=news@goldandsilver.apmex.com;
+ bh=kw20R4GU5mul3rgWIs8eDo9/bnM=;
+ b=kL8rfbb+eUcGoBU3nUL4LhP/l2oqJd1zVV23JJGM3Qd0Wwc58MeSpnwK9S3fsv48zUdqvWdIqi8M
+   vkUFp+uEu0vtKR2n7uCDTBgPnSvDwYSkwi6J/TF5jYRCUc3yJbWR5y2VvanUChvRzzTfxvZ1KvPy
+   5L9B+OdUe0ySqA1CZwQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=apmex; d=goldandsilver.apmex.com;
+ b=Nx1sI9+OEddtFfr4lRFTGpssAKn413e1Prhx+aeAESYbbxghI4CRTjn+ermDC/2qyi8bkWpeC+WZ
+   RKeYuksseetIhmIg8afZQm5zyMZkIbdotsC6w5A64imPMEOYO2OwEThnSgR3ZWORKj10pq4+uvWb
+   kGZloalWcR9kvrX7tVM=;
+Received: by omp.goldandsilver.apmex.com id hp0rii1615k4 for <rresendez@rigoresendez.com>; Thu, 1 Sep 2016 07:11:12 -0700 (envelope-from <news@goldandsilver.apmex.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 1 Sep 2016 07:11:11 -0700
+To: rresendez@rigoresendez.com
+From: "APMEX News" <news@goldandsilver.apmex.com>
+Reply-To: "APMEX News" <reply@goldandsilver.apmex.com>
+Subject: Days of Summer Savings: 100 oz Secondary Market Silver Bars on sale for 24 hours!
+Feedback-ID: 53131:424425:oraclersys
+X-sgxh1: jjLkLgKLFxjpnhjLkLgKLFQJhu
+X-rext: 5.interact5.Epw7h3CIOiC3bfwIEmq_gUgJSmIM-gyUDrfbYRDzzQ6z49afn0nsh6Q
+X-cid: apmex.3013385
+Message-ID: <0.0.1D.CC7.1D2045AB1D7FC4C.0@omp.goldandsilver.apmex.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html style=3D=22font-family: Arial, Helvetica, sans-serif; margin: 0; padd=
+ing: 0;=22 xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+   <meta content=3D=22width=3Ddevice-width=22 name=3D=22viewport=22 />
+   <meta content=3D=22text/html; charset=3Dutf-8=22 http-equiv=3D=22Content=
+-Type=22 />
+   <meta content=3D=22width=3Ddevice-width, initial-scale=3D1=22 name=3D=22=
+viewport=22 />
+   <meta content=3D=22IE=3Dedge=22 http-equiv=3D=22X-UA-Compatible=22 />
+   <title>You only have 24 hours to save=21</title>
+   <style type=3D=22text/css=22>/* CLIENT-SPECIFIC STYLES */
+    body, table, td, a=7B-webkit-text-size-adjust: 100%; -ms-text-size-adju=
+st: 100%;=7D /* Prevent WebKit and Windows mobile changing default text siz=
+es */
+    table, td=7Bmso-table-lspace: 0pt; mso-table-rspace: 0pt;=7D /* Remove =
+spacing between tables in Outlook 2007 and up */
+    img=7B-ms-interpolation-mode: bicubic;=7D /* Allow smoother rendering o=
+f resized image in Internet Explorer */
+
+/* RESET STYLES */
+    img=7Bborder: 0; height: auto; line-height: 100%; outline: none; text-d=
+ecoration: none;=7D
+    table=7Bborder-collapse: collapse =21important;=7D
+    body=7Bheight: 100% =21important; margin: 0 =21important; padding: 0 =
+=21important; width: 100% =21important;=7D=09
+=09
+/* iOS BLUE LINKS */
+a=5Bx-apple-data-detectors=5D =7B
+	color: inherit =21important;
+	text-decoration: none =21important;
+	font-size: inherit =21important;
+	font-family: inherit =21important;
+	font-weight: inherit =21important;
+	line-height: inherit =21important;
+	=7D
+
+=40media (max-width: 600px) =7B
+
+h1 =7B
+	font-size: 22px =21important;
+	=7D
+=09
+=2Emain-heading =7B
+	font-size: 22px =21important;
+	=7D
+=09
+=2Eheadline-text =7B
+	font-size: 14px =21important;
+	padding: 3% =21important;
+	=7D
+=09
+=2Epromo-text =7B
+	font-size: 16px =21important;
+	=7D
+=09
+=2Econtainer =7B
+    width: 100% =21important;=20
+    padding: 15px;
+  	=7D
+  =09
+=2Econtent =7B
+    padding: 15px =21important;
+  	=7D
+  =09
+=2Elogo-container =7B
+    width: 35%;
+  	=7D
+  =09
+=2Estack =7B
+	display: block;
+	width: 99% =21important;
+	max-width: 600px;
+	=7D
+=09
+=2Ebutton =7B
+	width:100% =21important;
+	font-size: 14px =21important;
+	=7D
+=09
+=2Eheader-blue =7B
+	height: 75px =21important;
+	width: 100% =21important;
+ 	=7D
+ =09
+=2Eheader-nav =7B
+	font-size: 14px =21important;
+	text-align: right =21important;
+	padding: 10px 0px 10px 25px =21important;
+ 	=7D
+ =09
+=2Eheader-image =7B
+	width: 75% =21important;
+	=7D
+=09
+=2Eheader-nav-table =7B
+	width: 100% =21important;
+	=7D
+=09
+=2Efull =7B
+	max-width: 600px =21important;
+	margin-bottom: 35px =21important;
+	=7D=20
+=09
+=2Efull-flag =7B
+	max-width: 100% =21important;
+	=7D=20
+=09
+=2Eproduct-image =7B
+	width: 100% =21important;
+	max-width: 300px =21important;
+	height: auto =21important;
+	=7D
+=09
+=2Ebanner-image =7B
+	width: 100% =21important;
+	height: auto =21important;
+	=7D
+
+=2Eflag-image =7B
+	width: 75% =21important;
+	height: auto =21important;
+	=7D
+=09
+=2Ecell-small-space =7B
+	height: 25px;
+	=7D
+=09
+=2Esection-header =7B
+	text-align: center =21important;
+	font-size: 28px =21important;
+	margin-bottom: 25px =21important;
+	padding-bottom: 10px =21important;
+	width: 100% =21important;
+	max-width: 600px;
+	=7D
+=09
+=2Efooter-grey =7B
+	width: 100% =21important;
+	=7D
+=09
+
+=7D
+=40media (max-width: 430px) =7B
+
+ =2Eheader-nav =7B
+	 font-size: 10px =21important;
+	 padding: 10px =21important;
+	 text-align: right =21important;
+	 =7D
+=7D
+   </style>
+</head>
+<=21-- Version 082316 -->
+<body bgcolor=3D=22=23FFFFFF=22 style=3D=22font-family: Arial, Helvetica, s=
+ans-serif; -webkit-font-smoothing: antialiased; height: 100%; color: rgb(51=
+, 51, 51); margin: 0px; padding: 0px; width: 100%;=22><=21-- SCHEMA DATA ST=
+ART -->
+<div itemscope=3D=22=22 itemtype=3D=22http://schema=2Eorg/EmailMessage=22>
+<div itemprop=3D=22publisher=22 itemscope=3D=22=22 itemtype=3D=22http://sch=
+ema=2Eorg/Organization=22>
+</div>
+</div>
+
+<div itemprop=3D=22about=22 itemscope=3D=22=22 itemtype=3D=22http://schema=
+=2Eorg/Offer=22>
+</div>
+<=21-- SCHEMA DATA END --><=21-- HEADER START -->
+
+<table align=3D=22center=22 bgcolor=3D=22=23002539=22 class=3D=22header-blu=
+e=22 height=3D=22100=22 style=3D=22font-family: Arial, Helvetica, sans-seri=
+f; display: table; border-collapse: separate; -webkit-border-horizontal-spa=
+cing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0 auto; p=
+adding: 0; =22>
+   <tbody>
+      <tr>
+         <td>
+         <table align=3D=22center=22 bgcolor=3D=22=23002539=22 class=3D=22h=
+eader-nav-table=22 style=3D=22font-family: Arial, Helvetica, sans-serif; di=
+splay: table; border-collapse: separate; -webkit-border-horizontal-spacing:=
+ 0; -webkit-border-vertical-spacing: 0; width: 600px; margin: 0 auto; paddi=
+ng: 0; =22>
+            <tbody>
+               <tr style=3D=22font-family: Arial, Helvetica, sans-serif; ma=
+rgin: 0; padding: 0;=22>
+                  <td align=3D=22left=22 style=3D=22font-family: Arial, Hel=
+vetica, sans-serif; text-align: left; display: block =21important; max-widt=
+h: 600px; clear: both =21important; margin: 0 auto; padding: 5px; mso-paddi=
+ng-alt: 55px; mso-padding: 55px;=22>
+                  <table style=3D=22font-family: Arial, Helvetica, sans-ser=
+if; display: table; border-collapse: separate; -webkit-border-horizontal-sp=
+acing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; paddi=
+ng: 0;=22>
+                     <tbody>
+                        <tr height=3D=222=22>
+                           <td align=3D=22center=22 class=3D=22textContent=
+=22 colspan=3D=222=22>
+                           <div style=3D=22display: none; font-family:Helve=
+tica,Arial,sans-serif;font-size:1px;color:=23002539;text-align:center;=22>
+                           <p>Days of Summer Savings continue today with th=
+is offer you don't want to miss=21
+                           </p>
+                           </div>
+                           </td>
+                        </tr>
+                        <tr style=3D=22font-family: Arial, Helvetica, sans-=
+serif; margin: 0; padding: 0;=22>
+                           <td align=3D=22left=22 class=3D=22logo-container=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: left;=
+ margin: 0; padding: 0;=22 valign=3D=22middle=22 width=3D=2225%=22><a href=
+=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJ=
+lYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBA=
+TY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvna=
+mrhbihi=2E=22 target=3D=22_blank=22><img class=3D=22logo=22 src=3D=22http:/=
+/www=2Eapmex=2Ecom/Resources/Banners/2015/Footers/Transactional/img/apmex_e=
+mail_logo=2Epng=22 style=3D=22font-family: Arial, Helvetica, sans-serif; ma=
+x-width: 166px; width: 100%; margin: 0; padding: 0;=22 /> </a></td>
+                           <=21-- THIS IS THE 3 NAV LINKS -->
+                           <td align=3D=22right=22 style=3D=22font-family: =
+Arial, Helvetica, sans-serif; text-align: right; margin: 0; padding: 0;=22 =
+valign=3D=22middle=22>
+                           <p class=3D=22header-nav=22 style=3D=22font-fami=
+ly: Arial, Helvetica, sans-serif; color: =23fff; text-decoration: none ; fo=
+nt-size: 14px; margin: 0; padding: 0;display: inline-block; font-weight: bo=
+ld;=22><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc=
+2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAza=
+VXtpKX%3DSUYBAWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL=
+8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22font-family: Arial, Helvetica, sans-=
+serif; color: =23ffffff; text-decoration: none ; font-size: 14px; margin: 0=
+; padding: 0;display: inline-block;=22 target=3D=22_blank=22>Gold</a> <span=
+ style=3D=22color:=23FFFFFF;=22>&nbsp;=7C&nbsp;</span> <a href=3D=22https:/=
+/goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp=
+8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBAAY&amp;_ei_=
+=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23ffffff;=
+ text-decoration: none; font-size: 14px; margin: 0; padding: 0;display: inl=
+ine-block;=22 target=3D=22_blank=22>Silver</a> <span style=3D=22color:=23FF=
+FFFF;=22>&nbsp;=7C&nbsp;</span> <a href=3D=22https://goldandsilver=2Eapmex=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP=
+39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBACY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9B=
+bkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22font-famil=
+y: Arial, Helvetica, sans-serif; color: =23ffffff; text-decoration: none; f=
+ont-size: 14px; margin: 0; padding: 0;display: inline-block;=22 target=3D=
+=22_blank=22>Education</a>
+                           </p>
+                           </td>
+                           <=21-- END OF THREE NAV LINKS --><=21-- JUST PHO=
+NE NUMBER=20
+											<td align=3D=22left=22 style=3D=22font-family: Arial, Helvetica,=
+ sans-serif; text-align: right; margin: 0; padding: 0;=22 valign=3D=22middl=
+e=22;>
+												<h3>
+													<a href=3D=22tel:+18003759006=22 style=3D=22font-family: Arial=
+, Helvetica, sans-serif; color: =23fff; text-decoration: none ; font-size: =
+14px; margin: 0; padding: 0;display: inline-block;=22>Call Us At 800=2E375=
+=2E9006</a>
+	                							</h3>
+                							</td>
+                							-->
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- HEADER END --><=21-- MAIN CONTENT START -->
+
+<table align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 cla=
+ss=3D=22stack=22 style=3D=22font-family: Arial, Helvetica, sans-serif; disp=
+lay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0=
+; -webkit-border-vertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=
+=3D=22600=22>
+   <tbody><=21-- LARGE PROMO BANNER AND CTA START -->
+      <tr style=3D=22font-family: Arial, Helvetica, sans-serif; margin: 0; =
+padding: 0;=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stac=
+k=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: left=
+; display: block =21important; width: 600px; clear: both =21important; marg=
+in: 0 auto; padding: 5px;=22>
+         <table style=3D=22font-family: Arial, Helvetica, sans-serif; displ=
+ay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0;=
+ -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+            <tbody>
+               <tr><=21-- PRODUCT ONE START -->
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; font-weight: normal =21important; font-family=
+: Helvetica,Arial,sans-serif =21important;=22 width=3D=22600=22><a href=3D=
+=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQ=
+GiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBBRY&=
+amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrh=
+bihi=2E=22 target=3D=22_blank=22><img alt=3D=22Daily Deal: 100 oz Secondary=
+ Market Silver Bars=22 class=3D=22banner-image=22 height=3D=22311=22 src=3D=
+=22http://www=2Eimages-apmex=2Ecom/images/Banners/2016/September/9-1/email_=
+banner2=2Ejpg=22 style=3D=22display:block;=22 title=3D=22Daily Deal: 100 oz=
+ Secondary Market Silver Bars=22 width=3D=22600=22 /> </a>
+
+                  <table align=3D=22center=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 class=3D=22full=22 style=3D=22border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal =21import=
+ant;=22 width=3D=22100%=22>
+                     <tbody>
+                        <tr>
+                        </tr>
+                        <tr>
+                           <td align=3D=22center=22 class=3D=22cell-small-s=
+pace=22 height=3D=2210=22 style=3D=22mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-we=
+ight: normal =21important; font-family: Helvetica,Arial,sans-serif =21impor=
+tant; max-width: 225px;=22 valign=3D=22top=22 width=3D=22225=22><=21-- BANN=
+ER COMMENT START -->
+                           <p class=3D=22promo-text=22 style=3D=22font-fami=
+ly: Arial, Helvetica, sans-serif; line-height: 1=2E1; color: =23878787; fon=
+t-size: 22px; margin: 15px 0 15px; padding: 0;=22>Save now with today's dea=
+l on 100 oz Secondary Market Silver Bars for 24 hours or while supplies las=
+t=21
+                           </p>
+                           <=21-- BANNER COMMENT END --></td>
+                        </tr>
+                        <tr><=21-- RED CTA BUTTON
+												<td valign=3D=22middle=22 align=3D=22center=22 class=3D=22butto=
+n=22 width=3D=22125=22 height=3D=2230=22 style=3D=22background: Linear-grad=
+ient(=23FBB574, =23F98D29); background-color:=23F98D29; font-size: 18px; pa=
+dding:10px; margin-top:15px; margin-bottom: 15px; max-width: 125px; border-=
+radius: 5px;
+													mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px;=
+ =22>
+													<a style=3D=22font-family: Arial, Helvetica, sans-serif; color=
+:=23ffffff; font-weight: bold; text-decoration: none; display:block; =22 hr=
+ef=3D=22http://apmex=2Epub/emailsummersale100ozsecondarymarketsilverbars=22=
+ target=3D=22_blank=22>
+														BUY NOW</a>
+												</td>
+												-->
+                           <td align=3D=22center=22 class=3D=22button=22 he=
+ight=3D=2230=22 style=3D=22background: Linear-gradient(=23F12D2D, =23C30000=
+); background-color:=23C30000; font-size: 18px; padding:10px; margin-top:15=
+px; margin-bottom: 15px; max-width: 125px; border-radius: 5px;
+													mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px;=
+ =22 valign=3D=22middle=22 width=3D=22125=22><a href=3D=22https://goldandsi=
+lver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzb=
+Xn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBBRY&amp;_ei_=3DEq2tf9zs5=
+9idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=
+=22font-family: Arial, Helvetica, sans-serif; color:=23ffffff; font-weight:=
+ bold; text-decoration: none; display:block; =22 target=3D=22_blank=22>ACT =
+NOW</a></td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+      <=21-- LARGE PROMO BANNER AND CTA END --><=21-- EMAIL FOOTER START --=
+><=21-- ADDITIONAL TEXT INFORMATION START -->
+   </tbody>
+</table>
+
+<table align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stack=22 s=
+tyle=3D=22font-family: Arial, Helvetica, sans-serif; display: table; border=
+-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-border-v=
+ertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=3D=22600=22>
+   <tbody>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 style=3D=22font-family: Arial, Helvetica,=
+ sans-serif; text-align: left; display: block =21important; max-width: 600p=
+x; clear: both =21important; margin: 0 auto; padding: 5px;=22>
+         <table align=3D=22center=22 class=3D=22stack=22 style=3D=22font-fa=
+mily: Arial, Helvetica, sans-serif; display: table; border-collapse: separa=
+te; -webkit-border-horizontal-spacing: 0; -webkit-border-vertical-spacing: =
+0; margin: 0; padding: 0;=22 width=3D=22600=22>
+            <tbody>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td height=3D=225=22></td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=
+=3D=22section-header=22 height=3D=2235=22 style=3D=22font-family: Arial, He=
+lvetica, sans-serif; border-top: =2324A186 solid 2px; text-align: center; d=
+isplay: block =21important; width: 600px; clear: both =21important;
+								padding: 0px ; margin: 0px ;mso-padding-alt: 10px 0px 0px 0px; mso-=
+padding: 10px 0px 0px 0px;=22 valign=3D=22middle=22></td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22text-align: center;font-=
+weight: normal;font-size: 14px;=22>
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22f=
+ont-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0;=22 valign=
+=3D=22top=22>
+                  <h2 align=3D=22center=22 style=3D=22text-align: center; c=
+olor: =23666; font-family: Arial, Helvetica, sans-serif; line-height: 1=2E6=
+;  font-size: 14px; font-weight: normal; margin: 0 0 15px 0; padding: 0px 0=
+px 0px 0px;=22><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHM=
+gRgkoAzaVXtpKX%3DSUYBATY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpO=
+fvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22font-size: 14px; text-align:=
+ center; color:=23f98d29;=22 target=3D=22_blank=22>Visit our website</a> ev=
+ery day for more ways to save with our Days of Summer Savings=21
+                  </h2>
+                  </td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=
+=3D=22section-header=22 height=3D=2235=22 style=3D=22font-family: Arial, He=
+lvetica, sans-serif; border-bottom: =2324A186 solid 2px; text-align: center=
+; display: block =21important; width: 600px; clear: both =21important;
+								padding: 0px; margin: 0px; mso-padding-alt: 0px 0px 10px 0px; mso-p=
+adding: 0px 0px 10px 0px;=22 valign=3D=22middle=22></td>
+               </tr>
+               <tr align=3D=22center=22 style=3D=22font-family: Arial, Helv=
+etica, sans-serif; margin: 0; padding: 0;=22>
+                  <td height=3D=2215=22></td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- ADDITIONAL TEXT INFORMATION END --><=21-- SMALL PROMO BANNER AND GHO=
+ST CTA START -->
+
+<table style=3D=22font-family: Arial, Helvetica, sans-serif; display: table=
+; border-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-=
+border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+   <tbody>
+      <tr>
+         <td align=3D=22left=22 class=3D=22stack=22 style=3D=22mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%; font-weight: normal =21important; font-family: Helvetica=
+,Arial,sans-serif =21important;=22 width=3D=22600=22>
+         <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 class=3D=22full=22 style=3D=22border-collapse: colla=
+pse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; font-weight: normal =21important;=22 wi=
+dth=3D=22100%=22>
+            <tbody>
+               <tr>
+                  <td align=3D=22center=22><a href=3D=22https://goldandsilv=
+er=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn=
+3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBBTY&amp;_ei_=3DEq2tf9zs59i=
+dfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 target=3D=
+=22_blank=22><img alt=3D=22APMEX Free Shipping=22 class=3D=22banner-image=
+=22 height=3D=22145=22 src=3D=22http://www=2Eimages-apmex=2Ecom/images/Bann=
+ers/2016/March/3-30/email_footer=2Ejpg=22 style=3D=22display:block;=22 titl=
+e=3D=22APMEX Free Shipping=22 width=3D=22600=22 /> </a></td>
+               </tr>
+               <tr>
+                  <td></td>
+               </tr>
+               <=21-- <tr>
+											<td valign=3D=22middle=22 align=3D=22center=22 class=3D=22button=
+=22 width=3D=22125=22 height=3D=2220=22 style=3D=22background-color:=230000=
+00; font-size: 12px; padding:10px; margin-top:15px; margin-bottom: 15px; ma=
+x-width: 125px; border-radius: 5px; border: =23F98D29 solid 1px;
+												mso-padding-alt: 5px; mso-padding: 5px; mso-cellspacing: 15px; =
+=22>
+													<a style=3D=22font-family: Arial, Helvetica, sans-serif; color=
+:=23F98D29; font-weight: bold; text-decoration: none; display:block; =22 hr=
+ef=3D=22=23=23=23 PRODUCT PAGE URL =23=23=23=22 target=3D=22_blank=22>
+												SHOP NOW</a>
+											</td>
+										</tr> -->
+            </tbody>
+         </table>
+
+         <table style=3D=22font-family: Arial, Helvetica, sans-serif; displ=
+ay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0;=
+ -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+            <tbody>
+               <tr>
+                  <td align=3D=22center=22 colspan=3D=222=22 valign=3D=22to=
+p=22 width=3D=22100%=22></td>
+               </tr>
+               <tr align=3D=22center=22><=21-- ORANGE GHOST CTA BUTTON=20
+															<td class=3D=22button=22 align=3D=22center=22 width=3D=22100=
+%=22 style=3D=22cursor: hand; background-color:=23FFFFFF; font-size: 14px; =
+padding:10px; margin-top:15px; margin-bottom: 15px; width: 100%; border-rad=
+ius: 5px; border: =23f98d29 solid 1px;  mso-padding-alt: 5px; mso-padding: =
+5px; mso-cellspacing: 15px;=22>
+																<a href=3D=22=23=23=23 GHOST CTA URL =23=23=22 target=3D=22=
+_blank=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color:=23F9=
+8D29; text-decoration: none; display:block;=22>
+																	LEARN MORE</a>
+															</td> --><=21-- RED GHOST CTA=20
+															<td class=3D=22button=22 align=3D=22center=22 width=3D=22100=
+%=22 style=3D=22cursor: hand; background-color:=23FFFFFF; font-size: 14px; =
+padding:10px; margin-top:15px; margin-bottom: 15px; width: 100%; border-rad=
+ius: 5px; border: =23C30000 solid 1px;  mso-padding-alt: 5px; mso-padding: =
+5px; mso-cellspacing: 15px;=22>
+																<a href=3D=22=23=23=23 GHOST CTA URL =23=23=22 target=3D=22=
+_blank=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color:=23C3=
+0000; text-decoration: none; display:block;=22>
+																	LEARN MORE</a>
+															-->
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<br />
+<=21-- SMALL PROMO BANNER AND GHOST CTA END -->
+<table align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stack=22 s=
+tyle=3D=22font-family: Arial, Helvetica, sans-serif; display: table; border=
+-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-border-v=
+ertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=3D=22600=22>
+   <tbody>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 style=3D=22font-family: Arial, Helvetica,=
+ sans-serif; text-align: left; display: block =21important; max-width: 600p=
+x; clear: both =21important; margin: 0 auto; padding: 5px;=22>&nbsp;
+         <table align=3D=22center=22 class=3D=22stack=22 style=3D=22font-fa=
+mily: Arial, Helvetica, sans-serif; display: table; border-collapse: separa=
+te; -webkit-border-horizontal-spacing: 0; -webkit-border-vertical-spacing: =
+0; margin: 0; padding: 0;=22 width=3D=22600=22>
+            <tbody>
+               <tr align=3D=22center=22 style=3D=22text-align: center;font-=
+weight: normal;font-size: 14px;=22>
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22f=
+ont-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0;=22><a href=
+=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJ=
+lYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBB=
+AY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvna=
+mrhbihi=2E=22 style=3D=22text-decoration:none =21important;display:inline-b=
+lock;font-family: Arial, Helvetica, sans-serif; color: =23FFFFFF; margin: 0=
+; padding: 0;=22 target=3D=22_blank=22><img alt=3D=22Follow Us on Twitter=
+=22 src=3D=22http://www=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFoote=
+rs/twitter-icon=2Epng=22 style=3D=22font-family: Arial, Helvetica, sans-ser=
+if; width: 100%; margin: 0; padding: 0;=22 title=3D=22Follow Us on Twitter=
+=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D=22https://goldandsilver=
+=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3n=
+c1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBBCY&amp;_ei_=3DEq2tf9zs59idf=
+PO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22te=
+xt-decoration:none =21important;display:inline-block;font-family: Arial, He=
+lvetica, sans-serif; color: =23FFFFFF; margin: 0; padding: 0;=22 target=3D=
+=22_blank=22> <img alt=3D=22Find Us on Facebook=22 src=3D=22http://www=2Eim=
+ages-apmex=2Ecom/images/Banners/2016/EmailFooters/facebook-icon=2Epng=22 st=
+yle=3D=22font-family: Arial, Helvetica, sans-serif; width: 100%; margin: 0;=
+ padding: 0;=22 title=3D=22Find Us on Facebook=22 /></a>&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3D=
+X0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRg=
+koAzaVXtpKX%3DSUYBCRY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo=
+8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22text-decoration:none =21importa=
+nt;display:inline-block;font-family: Arial, Helvetica, sans-serif; color: =
+=23FFFFFF; margin: 0; padding: 0;=22 target=3D=22_blank=22> <img alt=3D=22W=
+atch Us on YouTube=22 src=3D=22http://www=2Eimages-apmex=2Ecom/images/Banne=
+rs/2016/EmailFooters/youtube-icon=2Epng=22 style=3D=22font-family: Arial, H=
+elvetica, sans-serif; width: 100%; margin: 0; padding: 0;=22 title=3D=22Wat=
+ch Us on YouTube=22 /></a>
+
+                  <h6 align=3D=22center=22 style=3D=22text-align: center; c=
+olor: =23666666; font-family: Arial, Helvetica, sans-serif; line-height: 1=
+=2E4; font-weight: 500; font-size: 13px;
+									margin: 0 0 0px 0px; padding: 10px 0px 0px 0px;=22><span style=3D=
+=22font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size:=
+ 16px; text-transform: uppercase;=22>APMEX, INC=2E</span><br />
+                  226 Dean A McGee Ave=2E<br />
+                  Oklahoma City, OK 73102
+                  </h6>
+                  &nbsp;
+
+                  <h6 align=3D=22center=22 style=3D=22text-align: center; c=
+olor: =23666666; font-family: Arial, Helvetica, sans-serif; line-height: 1=
+=2E6; font-size: 10px; font-weight: normal; margin: 0 0 15px 0; padding: 10=
+px 0px 0px 0px;=22>Our Account Managers are available toll free at (800) 37=
+5-9006, Mondays through Thursdays from 8 a=2Em=2E to 8 p=2Em=2E and Fridays=
+ from 8 a=2Em=2E to 6 p=2Em=2E (ET)=2E At APMEX, our integrity is as tangib=
+le as the products we buy and sell=2E Visit <a href=3D=22https://goldandsil=
+ver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbX=
+n3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBCWY&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=
+=22font-size: 10px; text-align: center; color:=23f98d29;=22 target=3D=22_bl=
+ank=22>Why APMEX</a> and learn more=21
+                  </h6>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+<table align=3D=22center=22 bgcolor=3D=22=23D1D1D1=22 class=3D=22header-blu=
+e=22 height=3D=2250=22 style=3D=22font-family: Arial, Helvetica, sans-serif=
+; display: table; border-collapse: separate; -webkit-border-horizontal-spac=
+ing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0 auto; pa=
+dding: 0; =22>
+   <tbody>
+      <tr>
+         <td>
+         <table align=3D=22center=22 bgcolor=3D=22=23D1D1D1=22 class=3D=22h=
+eader-nav-table=22 style=3D=22font-family: Arial, Helvetica, sans-serif; di=
+splay: table; border-collapse: separate; -webkit-border-horizontal-spacing:=
+ 0; -webkit-border-vertical-spacing: 0; width: 600px; margin: 0 auto; paddi=
+ng: 0; =22>
+            <tbody>
+               <tr style=3D=22font-family: Arial, Helvetica, sans-serif; ma=
+rgin: 0; padding: 0;=22>
+                  <td></td>
+                  <td>
+                  <p align=3D=22center=22 style=3D=22color: =23828282; font=
+-size: 13px; line-height: 1=2E23em; text-align: center; font-family: Arial,=
+ Helvetica, sans-serif; font-weight: normal; padding: 0;=22><br />
+                  <strong><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI50=
+9FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBCCY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76=
+h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22text-decoration:n=
+one; color:=23828282=22 target=3D=22_blank=22>View Web Version</a> =7C <a h=
+ref=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSU=
+YBDRY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4C=
+vnamrhbihi=2E=22 style=3D=22text-decoration:none; color:=23828282=22 target=
+=3D=22_blank=22>Privacy Policy</a> =7C <a href=3D=22https://goldandsilver=
+=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3n=
+c1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBDWY&amp;_ei_=3DEq2tf9zs59idf=
+PO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22te=
+xt-decoration:none; color:=23828282=22 target=3D=22_blank=22>FAQs</a> =7C <=
+a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQp=
+glLjHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3=
+DSUYBDCY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSEr=
+W4Cvnamrhbihi=2E=22 style=3D=22text-decoration:none; color:=23828282=22 tar=
+get=3D=22_blank=22>Contact Us</a></strong><br />
+                  <br />
+                  Copyright &copy; 2016 <a href=3D=22https://goldandsilver=
+=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3n=
+c1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXtpKX%3DSUYBATY&amp;_ei_=3DEq2tf9zs59idf=
+PO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8GjJL8m62nSErW4Cvnamrhbihi=2E=22 style=3D=22te=
+xt-decoration:none;color:=23828282;=22 target=3D=22_blank=22><span style=3D=
+=22color:=23828282;=22>APMEX, Inc</span></a>=2E All&nbsp;rights&nbsp;reserv=
+ed=2E<br />
+                  <br />
+                  If you no longer want emails from APMEX,<br />
+                  you can <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/=
+pub/optout?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOBoU8bwp8UIMObGuzbXn3nc1ubfqnP39j=
+MI509FFzaAFWDHMgRgkoAza&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWNRdDiai44pXmCsSpFc=
+2cxJVjYDW1sV2Es9fw=22 style=3D=22color:=23828282;=22 target=3D=22_blank=22>=
+Unsubscribe here</a>=2E
+                  </p>
+                  <br />
+                  <br />
+                  &nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- FOOTER END --><table cellpadding=3D=220=22 cellspacing=3D=220=22 sty=
+le=3D=22border: 0px; padding: 0px; margin: 0px; position: absolute; display=
+: none; float: left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img height=3D=221=22 width=3D=221=22 style=3D =22padding: 0px 0px; =21=
+important; margin: 0px 0px; font-size: 1px; line-height: 1px;=22 src=3D=22h=
+ttps://goldandsilver=2Eapmex=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGiOB=
+oU8bwp8UIMObGuzbXn3nc1ubfqnP39jMI509FFzaAFWDHMgRgkoAzaVXHkMX%3Dw&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWNRdDiai44pXmCsSpFc2cxJVjYDW1sV2Es9fw=2E=22></img>
+</td>
+</tr>
+</table></body>
+</html>
+
+

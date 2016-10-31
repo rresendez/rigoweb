@@ -1,0 +1,313 @@
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 4XkIB5TRAljGzwUATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 15 Oct 2016 21:02:12 -0400
+Received: from mail-pa0-f65.google.com ([209.85.220.65]:36720)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <writemypaper11@gmail.com>)
+	id 1bvZq7-001b2J-13
+	for rresendez@rigoresendez.com; Sat, 15 Oct 2016 21:02:11 -0400
+Received: by mail-pa0-f65.google.com with SMTP id os4so3622124pac.3
+        for <rresendez@rigoresendez.com>; Sat, 15 Oct 2016 18:01:51 -0700 (PDT)
+Received: from ?IPv6:2405:204:920c:baa8:646a:8893:84de:82b4? ([2405:204:920c:baa8:646a:8893:84de:82b4])
+        by smtp.gmail.com with ESMTPSA id cp2sm5101962pad.3.2016.10.15.18.01.27
+        for <rresendez@rigoresendez.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 15 Oct 2016 18:01:29 -0700 (PDT)
+Return-Path: <writemypaper11@gmail.com>
+From: <writemypaper11@gmail.com>
+To: <rresendez@rigoresendez.com>
+References: <CAAqujWTQ0xCnOcp2a8VMOi1z3TTBfW1M+9r+zaCWNGHKWV3x9w@mail.gmail.com> <57e0a01f.c8d9620a.52795.2bb3@mx.google.com> <57f595af.8fdc620a.2e848.00f7@mx.google.com> <57f5ca74.458d620a.2991f.45a9@mx.google.com> <57f69f9a.cf18620a.4feee.5e2e@mx.google.com> <57f6acd1.8f1a620a.50bb5.6b8f@mx.google.com> <57f6aeb7.0110620a.e2452.6ed6@mx.google.com> <5800a05d.9d99620a.2ab1f.82e5@mx.google.com> <5800a33b.c3fe420a.a1db3.3e96@mx.google.com> <5800a406.8249420a.49156.47da@mx.google.com> <58011d79.b1a9420a.f9ed5.a4b0@mx.google.com> <58011dbe.015d620a.b6ef2.a0f6@mx.google.com> <58018930.83d8620a.b0907.f255@mx.google.com> <580190d7.4902620a.dc5e.0212@mx.google.com> <58019124.911b620a.b7e54.4ae9@mx.google.com> <580191d2.82a3420a.8b9be.00b4@mx.google.com>
+In-Reply-To: <580191d2.82a3420a.8b9be.00b4@mx.google.com>
+Subject: Your Search for Academic Paper Writing and editing Ends here
+Date: Sat, 15 Oct 2016 20:01:28 -0500
+Message-ID: <5802d169.e205430a.ddeba.be52@mx.google.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_008E_01D2271F.2E880020"
+X-Priority: 3
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQKUujCAb6HnVKgr7v8eK26M43WqqQMNJIACAYR3tykB+Kb3uwGaciUgApYeCzQBN9uEnwI7E3F1Al0tS/wBi1mLHQHoiq7IAfc5zBkCgwwryADBfC5WAUxNHnECFEP8YQHhaTBs
+X-OlkEid: 0000000081F65FB349B63843B67E378C5DC8CC78070034AD76187591974DBF6C4F76951C873A010001000000000055F05A82CEB58C45AC419DEA63B4EB120000000015B60000A2F91A204995DE45B4925192812D62E8
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :importance:in-reply-to:references;
+        bh=DL73g7r/RlPtB+E8XUvxBt8dNB/itZOn++sr3GBEV8k=;
+        b=GfHXy8dFUeckkTn5rKE0kHD52yji6jWKn8cdq8Iru5WYSwF5Yo3CybH6+itvzWtfij
+         XEVKg0E98km5O0XixK4r7MLcVHTciiT+JBVIu7AvYPEX4nRxw8RRUgvYUBXyRIVzV+QE
+         nADmsLMfiPLxmuIf/1KFnf8c3PYgzFx32v40Zoz7sA7pzey/cAbYMvWN/yN+tdh6hhD/
+         YDKAT3tpIF4Iupb0okce680Fjir45XoBT3hS6DE0NZQUxz590hzP3UXisxokRsl0opKb
+         CZHwSTzz4LNCZtMxLT1PnKjY1rT4xqkW4Cjvewg51W2PwUuBcAO+xbUKMR0RAvCg80+O
+         cTww==
+X-Gm-Message-State: AA6/9RmLfJsxBkrw+LNp6iRPIUB11v2RvqCmPI+JWFDZyEzfI3Iqb6ZQTSzOPXMUcvJ1dw==
+X-Received: by 10.66.217.227 with SMTP id pb3mr4629243pac.31.1476579689763;
+        Sat, 15 Oct 2016 18:01:29 -0700 (PDT)
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_008E_01D2271F.2E880020
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+
+
+Hello
+
+We are a team of professional writers, experts in academic writing,maths, 
+stats, SPSS,algebra accounts,content writing, resume writing, proof reading, 
+business plans, power point presentations,research papers, editing, 
+admission essays, thesis and dissertations in APA, MLA, CHICAGO/ TURABIAN, 
+AMA and HARVARD at attractive rates ranging from $10  to $15 per double 
+spaced page, depending upon the need and the turnaround time. We also handle 
+online classes of all subjects on behalf of the students at affordable price 
+ranging from $75 to $120 per week. We provide quality work before time 
+always.
+
+Our Specialties:
+
+*         Well researched material
+
+*         Professionally written
+
+*         Assurance of getting higher grades
+
+*         24 X 7 support
+
+*         Turnitin Approved
+
+*         Properly Referred
+
+*         Assurance of Privacy
+
+*          100% Plagiarism Free
+
+We will be grateful to help you out in any way we can. Provide us an 
+opportunity to work for you and to provide you quality work at unbeatable 
+price.
+
+Waiting for a reply from your side.
+
+For any assistance write to: writemypaper11@gmail.com 
+<mailto:writemypaper11@gmail.com>
+
+                                              Whatsapp me on 919-274-2942
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------=_NextPart_000_008E_01D2271F.2E880020
+Content-Type: text/html;
+	boundary="_8951E5E8-CAB0-42C7-B547-3D66BDB49364_";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DEN-IN link=3Dblue vlink=3D"#954F72"><div =
+class=3DWordSection1><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman",serif'>Hello</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman",serif'>We are a =
+team of professional writers, experts in&nbsp;<span =
+style=3D'background:yellow'>academic writing,</span></span><span =
+lang=3DEN-US style=3D'font-size:12.0pt;font-family:"Times New =
+Roman",serif;background:yellow'>maths, stats, SPSS,algebra </span><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman",serif;background:yellow'>accounts,content writing, resume =
+writing, proof reading, business plans, power point =
+presentations,research papers, editing, admission essays, thesis and =
+dissertations</span><span style=3D'font-size:12.0pt;font-family:"Times =
+New Roman",serif'>&nbsp;in APA, MLA, CHICAGO/ TURABIAN, AMA and HARVARD =
+at attractive rates ranging from&nbsp;<span =
+style=3D'background:yellow'>$</span></span><span lang=3DEN-US =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman",serif;background:yellow'>10 </span><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman",serif;background:yellow'>&nbsp;to $15 per double spaced =
+page</span><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman",serif'>, depending upon the need and the turnaround time. We also =
+handle online classes of all subjects on behalf of the students at =
+affordable price ranging from<span style=3D'background:yellow'> <span =
+style=3D'color:black'>$75 to $120 per week</span></span>. We provide =
+quality work before time always.</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'line-height:19.2pt'><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman",serif'>Our =
+Specialties:</span><o:p></o:p></p><p style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>Well researched material<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>Professionally written<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>Assurance of getting higher grades<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>24 X 7 support<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>Turnitin Approved<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>Properly Referred<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>Assurance of Privacy<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-family:Symbol'>=C2=B7</span><span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span>&nbsp;100% Plagiarism Free<span =
+style=3D'font-size:9.5pt'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman",serif'>We will =
+be grateful to help you out in any way we can. Provide us an opportunity =
+to work for you and to provide you quality work at unbeatable =
+price.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman",serif'>Waiting =
+for a reply from your side.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'line-height:19.2pt'><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman",serif'>For any =
+assistance write to: <a href=3D"mailto:writemypaper11@gmail.com" =
+target=3D"_blank">writemypaper11@gmail.com</a></span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'line-height:19.2pt'>&nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+Whatsapp me on&nbsp;<b>919-274-2942</b><o:p></o:p></p><p =
+class=3DMsoNormal><span style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.5pt;font-family:"Times New =
+Roman",serif'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_008E_01D2271F.2E880020--

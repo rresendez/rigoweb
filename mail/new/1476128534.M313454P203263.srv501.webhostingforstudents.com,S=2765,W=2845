@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: rigorese@srv501.webhostingforstudents.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 2Kd6ORXv+1f/GQMATAh+fg
+	for <rigorese@srv501.webhostingforstudents.com>; Mon, 10 Oct 2016 15:42:13 -0400
+Return-path: <>
+Envelope-to: rigorese@srv501.webhostingforstudents.com
+Delivery-date: Mon, 10 Oct 2016 15:42:13 -0400
+Received: from mailnull by srv501.webhostingforstudents.com with local (Exim 4.87)
+	id 1btgSj-000qsG-IS
+	for rigorese@srv501.webhostingforstudents.com; Mon, 10 Oct 2016 15:42:13 -0400
+X-Failed-Recipients: 9564292948@message.alltel.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@srv501.webhostingforstudents.com>
+To: rigorese@srv501.webhostingforstudents.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1476128533-eximdsn-997359707
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1btgSj-000qsG-IS@srv501.webhostingforstudents.com>
+Date: Mon, 10 Oct 2016 15:42:13 -0400
+
+--1476128533-eximdsn-997359707
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  9564292948@message.alltel.com
+    retry timeout exceeded
+
+--1476128533-eximdsn-997359707
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; srv501.webhostingforstudents.com
+
+Action: failed
+Final-Recipient: rfc822;9564292948@message.alltel.com
+Status: 5.0.0
+
+--1476128533-eximdsn-997359707
+Content-type: message/rfc822
+
+Return-path: <rigorese@srv501.webhostingforstudents.com>
+Received: from rigorese by srv501.webhostingforstudents.com with local (Exim 4.87)
+	(envelope-from <rigorese@srv501.webhostingforstudents.com>)
+	id 1bsD3R-0014Zf-Dm
+	for 9564292948@message.alltel.com; Thu, 06 Oct 2016 14:06:01 -0400
+To: 9564292948@message.alltel.com
+Subject: From rigoresendez.com/sms.php
+X-PHP-Script: www.rigoresendez.com/sms.php for 64.88.198.54
+Date: Thu, 6 Oct 2016 13:06:00 -0500
+From: rresendez@rigoresendez.com
+Message-ID: <28643b6431c8df54b844b287463f0b1d@www.rigoresendez.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_28643b6431c8df54b844b287463f0b1d"
+
+--b1_28643b6431c8df54b844b287463f0b1d
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+asd
+
+
+--b1_28643b6431c8df54b844b287463f0b1d
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+asd
+
+
+
+--b1_28643b6431c8df54b844b287463f0b1d--
+
+
+--1476128533-eximdsn-997359707--

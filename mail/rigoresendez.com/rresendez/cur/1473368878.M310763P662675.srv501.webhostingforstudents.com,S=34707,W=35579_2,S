@@ -1,0 +1,872 @@
+Return-Path: <bounce-mc.us8_27663843.2005885-rresendez=rigoresendez.com@mail96.atl161.mcsv.net>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id ASVzEi7T0VeTHAoATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 08 Sep 2016 17:07:58 -0400
+Return-path: <bounce-mc.us8_27663843.2005885-rresendez=rigoresendez.com@mail96.atl161.mcsv.net>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 08 Sep 2016 17:07:58 -0400
+Received: from mail96.atl161.mcsv.net ([198.2.138.96]:13223)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <bounce-mc.us8_27663843.2005885-rresendez=rigoresendez.com@mail96.atl161.mcsv.net>)
+	id 1bi6YA-002mPW-2W
+	for rresendez@rigoresendez.com; Thu, 08 Sep 2016 17:07:58 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail96.atl161.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=info=3Dcodergv.com@mail96.atl161.mcsv.net;
+ bh=tDTVBlYluSLa69oc6ZS+fQto4oY=;
+ b=pUrPJa6sdylyU+sFqTHJzcof0UyI0QEiVu0NNbe+cR4h+Tjx7bmC8tScn/+ctvEshUR0fdeaDDNG
+   Qzki7ueZoVln+L4rw8+km7Wl3RGs45p702I2ifmWKl4kf+y2EumnoYdBf7Vm5V77MD47pnHKRWo5
+   3+Ak0wymglUqQ1I3MgY=
+Received: from (127.0.0.1) by mail96.atl161.mcsv.net id hq79is1sb4g9 for <rresendez@rigoresendez.com>; Thu, 8 Sep 2016 21:07:18 +0000 (envelope-from <bounce-mc.us8_27663843.2005885-rresendez=rigoresendez.com@mail96.atl161.mcsv.net>)
+Subject: =?utf-8?Q?CodeRGV=20Graduation?=
+From: =?utf-8?Q?Code#RGV=20Boot?= <info@codergv.com>
+Reply-To: =?utf-8?Q?Code#RGV=20Boot?= <info@codergv.com>
+To: <rresendez@rigoresendez.com>
+Date: Thu, 8 Sep 2016 21:07:18 +0000
+Message-ID: <7a00dbd2356f7ab4647cd42067a1f31cf99.20160908210708@mail96.atl161.mcsv.net>
+X-Mailer: MailChimp Mailer - **CIDe9b0e41ce67a1f31cf99**
+X-Campaign: mailchimp7a00dbd2356f7ab4647cd4206.e9b0e41ce6
+X-campaignid: mailchimp7a00dbd2356f7ab4647cd4206.e9b0e41ce6
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=7a00dbd2356f7ab4647cd4206&id=e9b0e41ce6&e=7a1f31cf99
+X-MC-User: 7a00dbd2356f7ab4647cd4206
+X-Feedback-ID: 27663843:27663843.2005885:us8:mc
+List-ID: 7a00dbd2356f7ab4647cd4206mc list <7a00dbd2356f7ab4647cd4206.2045.list-id.mcsv.net>
+X-Accounttype: ff
+List-Unsubscribe: <mailto:unsubscribe-mc.us8_7a00dbd2356f7ab4647cd4206.e9b0e41ce6-7a1f31cf99@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://codergv.us8.list-manage2.com/unsubscribe?u=7a00dbd2356f7ab4647cd4206&id=5bcfd35dcf&e=7a1f31cf99&c=e9b0e41ce6>
+Sender: "Code#RGV Boot" <info=codergv.com@mail96.atl161.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_212616644"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_212616644
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+CodeRGV Presents its first graduates of CodeRGV Boot!
+View this email in your browser (http://us8.campaign-archive2.com/?u=3D7a0=
+0dbd2356f7ab4647cd4206&id=3De9b0e41ce6&e=3D7a1f31cf99)
+If you are in search for a software programmer to hire - CodeRGV is proud=
+ to present the graduates of CodeRGV's first Boot Program.
+
+Please RSVP to join us tomorrow at 11am at CEED for the graduation of thes=
+e hireable full-stack developers.
+
+The boot program and initiative was established in 2016 by CodeRGV=2C Inc=
+=2C a 501(c)3 nonprofit organization=2C to address the need for qualified=
+ candidates to fill local roles for computer programming professionals. Wi=
+th funding provided by the Texas Workforce Commission and the Mission Econ=
+omic Development Corporation=2C Boot was able to train individuals for hig=
+h demand jobs in our locally=2C statewide=2C & nationally. CodeRGV holds t=
+he honor of being the first high demand job training grant awarded in the=
+ State of Texas for a Computer Programming workforce development project.
+
+There were over 450 applicants for the first session=2C of which 10 indivi=
+duals were chosen to participate. Those 10 candidates were tasked with wor=
+king=2C studying=2C and being hands-on and immerse learning experience for=
+ up to 12 hours per day for 12 weeks in a row with an experienced instruct=
+or and guests flown in from all over the country and internationally as we=
+ekly guest instructors.
+
+The result of the boot program has been an absolute success. As final inte=
+rviews are taking place=2C we are reaching a very high percentage of gradu=
+ates who are already accepting positions from local and national companies=
+ while remaining in our area.  You too have a chance to offer these develo=
+pers work to start immediately.
+
+Please RSVP to join us celebrate the completion of our first cohort on Fri=
+day=2C September 9=2C 2016=2C 11am in the auditorium at the Mission Center=
+ for Educational and Economic Development located at 801 North Bryan Road=
+=2C Mission=2C Texas=2C 78572.
+
+For more info you can visit http://codergv.us8.list-manage.com/track/click=
+?u=3D7a00dbd2356f7ab4647cd4206&id=3D5642c08211&e=3D7a1f31cf99
+You can also individually send email to the director of the program: Joel=
+ Garza @ joel@codergv.org
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2016 Code#RGV=2C All rights reserved.
+ You signed up via our website to stay connected with us.
+
+Our mailing address is:
+Code#RGV
+P.O. Box 5631
+McAllen=2C TX 78502
+USA
+Want to change how you receive these emails?
+You can ** update your preferences (http://codergv.us8.list-manage.com/pro=
+file?u=3D7a00dbd2356f7ab4647cd4206&id=3D5bcfd35dcf&e=3D7a1f31cf99)
+or ** unsubscribe from this list (http://codergv.us8.list-manage2.com/unsu=
+bscribe?u=3D7a00dbd2356f7ab4647cd4206&id=3D5bcfd35dcf&e=3D7a1f31cf99&c=3De9b=
+0e41ce6)
+ Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7a00dbd2356f7ab4647=
+cd4206&afl=3D1
+--_----------=_MCPart_212616644
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+=09<head>
+=09=09<!-- NAME: 1 COLUMN -->
+=09=09<!--[if gte mso 15]>
+=09=09<xml>
+=09=09=09<o:OfficeDocumentSettings>
+=09=09=09<o:AllowPNG/>
+=09=09=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09=09=09</o:OfficeDocumentSettings>
+=09=09</xml>
+=09=09<![endif]-->
+=09=09<meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1">
+=09=09<title>CodeRGV Graduation</title>
+
+    <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:10px 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:10px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09a.mcnButton{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent{
+=09=09=09word-break:break-word;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09.mcnDividerBlock{
+=09=09=09table-layout:fixed !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#333333;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:22px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#202020;
+=09=09=09font-family:Tahoma=2C Verdana=2C Segoe=2C sans-serif;
+=09=09=09font-size:14px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#222222;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09color:#999999;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader .mcnTextContent a=2C#templatePreheader .mcnTextCo=
+ntent p a{
+=09=09=09color:#666666;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#000000;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:0px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateHeader .mcnTextContent a=2C#templateHeader .mcnTextContent=
+ p a{
+=09=09=09color:#2BAADF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:'Trebuchet MS'=2C 'Lucida Grande'=2C 'Lucida Sans Uni=
+code'=2C 'Lucida Sans'=2C Tahoma=2C sans-serif;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateBody .mcnTextContent a=2C#templateBody .mcnTextContent p a{
+=09=09=09color:#dc143c;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#222222;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09color:#999999;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#templateFooter .mcnTextContent a=2C#templateFooter .mcnTextContent=
+ p a{
+=09=09=09color:#656565;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (min-width:768px){
+=09=09.templateContainer{
+=09=09=09width:600px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-top:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImage{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCartContainer=2C.mcnCaptionTopContent=2C.mcnRecContentContainer=
+=2C.mcnCaptionBottomContent=2C.mcnTextContentContainer=2C.mcnBoxedTextCont=
+entContainer=2C.mcnImageGroupContentContainer=2C.mcnCaptionLeftTextContent=
+Container=2C.mcnCaptionRightTextContentContainer=2C.mcnCaptionLeftImageCon=
+tentContainer=2C.mcnCaptionRightImageContentContainer=2C.mcnImageCardLeftT=
+extContentContainer=2C.mcnImageCardRightTextContentContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer{
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupContent{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCaptionLeftContentOuter .mcnTextContent=2C.mcnCaptionRightConten=
+tOuter .mcnTextContent{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardTopImageContent=2C.mcnCaptionBlockInner .mcnCaptionTopC=
+ontent:last-child .mcnTextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardBottomImageContent{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockInner{
+=09=09=09padding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnTextContent=2C.mcnBoxedTextContentColumn{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardLeftImageContent=2C.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:22px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer .mcnTextContent=2C.mcnBoxedTextContent=
+Container .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}</style></head>
+    <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #333333=
+;">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;pad=
+ding: 0;width: 100%;background-color: #333333;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;height: 100%;margin: 0;padding: 10px;width: 100%;bord=
+er-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600" style=
+=3D"width:600px;">
+=09=09=09=09=09=09<![endif]-->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !importa=
+nt;">
+                            <tr>
+                                <td valign=3D"top" id=3D"templatePreheader=
+" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;background-color: #222222;border-top: 0;border-bo=
+ttom: 0;padding-top: 9px;padding-bottom: 9px;"><table class=3D"mcnTextBloc=
+k" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-=
+line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;" valign=3D"top">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"390" style=3D"width:390px;">
+=09=09=09=09<![endif]-->
+                <table style=3D"max-width: 390px;border-collapse: collapse=
+;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;" class=3D"mcnTextContentContainer" align=3D"=
+left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                    <tbody><tr>
+
+                        <td class=3D"mcnTextContent" style=3D"padding-top:=
+ 0;padding-left: 18px;padding-bottom: 9px;padding-right: 18px;mso-line-hei=
+ght-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;word-break: break-word;color: #999999;font-family: Helvetica;font-size:=
+ 12px;line-height: 150%;text-align: left;" valign=3D"top">
+
+                            <table class=3D"mcnTextBlock" style=3D"min-wid=
+th: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tbody class=3D"mcnTextBlockOuter">
+=09=09<tr>
+=09=09=09<td class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;" valign=3D"top">
+=09=09=09<table class=3D"mcnTextContentContainer" style=3D"max-width: 100%=
+;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table=
+-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" a=
+lign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td class=3D"mcnTextContent" style=3D"padding-top: 0;pad=
+ding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-ru=
+le: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word=
+-break: break-word;color: #999999;font-family: Helvetica;font-size: 12px;l=
+ine-height: 150%;text-align: left;" valign=3D"top">CodeRGV Presents its fi=
+rst graduates of CodeRGV Boot!</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"210" style=3D"width:210px;">
+=09=09=09=09<![endif]-->
+                <table style=3D"max-width: 210px;border-collapse: collapse=
+;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;" class=3D"mcnTextContentContainer" align=3D"=
+left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                    <tbody><tr>
+
+                        <td class=3D"mcnTextContent" style=3D"padding-top:=
+ 0;padding-left: 18px;padding-bottom: 9px;padding-right: 18px;mso-line-hei=
+ght-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;word-break: break-word;color: #999999;font-family: Helvetica;font-size:=
+ 12px;line-height: 150%;text-align: left;" valign=3D"top">
+
+                            <a href=3D"http://us8.campaign-archive2.com/?u=
+=3D7a00dbd2356f7ab4647cd4206&id=3De9b0e41ce6&e=3D7a1f31cf99" target=3D"_blan=
+k" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #666666;font-weight: normal;text-decorati=
+on: underline;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;background-color: #000000;border-top: 0;border-botto=
+m: 0;padding-top: 0px;padding-bottom: 0;"><table class=3D"mcnImageBlock" s=
+tyle=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td style=3D"padding: 9px;mso-line-height-rule: exactly;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnImag=
+eBlockInner" valign=3D"top">
+                    <table class=3D"mcnImageContentContainer" style=3D"min=
+-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rsp=
+ace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" style=3D"padding=
+-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align:=
+ center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;" valign=3D"top">
+
+
+                                        <img alt=3D"" src=3D"https://galle=
+ry.mailchimp.com/7a00dbd2356f7ab4647cd4206/images/aaa5eede-85f4-4721-905c-=
+fe4642d0598d.jpg" style=3D"max-width: 600px;padding-bottom: 0;display: inl=
+ine !important;vertical-align: bottom;border: 0;height: auto;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage=
+" align=3D"middle" width=3D"564">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;background-color: #FFFFFF;border-top: 0;border-bottom:=
+ 0;padding-top: 9px;padding-bottom: 9px;"><table class=3D"mcnTextBlock" st=
+yle=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso=
+-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-=
+line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;" valign=3D"top">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table style=3D"max-width: 100%;min-width: 100%;border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnTextContentConta=
+iner" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%">
+                    <tbody><tr>
+
+                        <td class=3D"mcnTextContent" style=3D"padding-top:=
+ 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-hei=
+ght-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;word-break: break-word;color: #202020;font-family: 'Trebuchet MS'=2C 'Lu=
+cida Grande'=2C 'Lucida Sans Unicode'=2C 'Lucida Sans'=2C Tahoma=2C sans-s=
+erif;font-size: 16px;line-height: 150%;text-align: left;" valign=3D"top">
+
+                            If you are in search for a software programmer=
+ to hire - CodeRGV is proud to present the graduates of CodeRGV's first Bo=
+ot Program.<br>
+<br>
+Please RSVP to join us tomorrow at 11am at CEED for the graduation of thes=
+e hireable full-stack developers.<br>
+<br>
+The boot program and initiative was established in 2016 by CodeRGV=2C Inc=
+=2C a 501(c)3 nonprofit organization=2C to address the need for qualified=
+ candidates to fill local roles for computer programming professionals. Wi=
+th funding provided by the Texas Workforce Commission and the Mission Econ=
+omic Development Corporation=2C Boot was able to train individuals for hig=
+h demand jobs in our locally=2C statewide=2C &amp; nationally. CodeRGV hol=
+ds the honor of being the first high demand job training grant awarded in=
+ the State of Texas for a Computer Programming workforce development proje=
+ct.<br>
+<br>
+There were over 450 applicants for the first session=2C of which 10 indivi=
+duals were chosen to participate. Those 10 candidates were tasked with wor=
+king=2C studying=2C and being hands-on and immerse learning experience for=
+ up to 12 hours per day for 12 weeks in a row with an experienced instruct=
+or and guests flown in from all over the country and internationally as we=
+ekly guest instructors.<br>
+<br>
+The result of the boot program has been an absolute success. As final inte=
+rviews are taking place=2C we are reaching a very high percentage of gradu=
+ates who are already accepting positions from local and national companies=
+ while remaining in our area.&nbsp; You too have a chance to offer these d=
+evelopers work to start immediately.<br>
+<br>
+Please <u><strong>RSVP</strong></u> to join us celebrate the completion of=
+ our first cohort on Friday=2C September 9=2C 2016=2C 11am in the auditori=
+um at the Mission Center for Educational and Economic Development located=
+ at 801 North Bryan Road=2C Mission=2C Texas=2C 78572.<br>
+<br>
+For more info you can visit <a href=3D"http://codergv.us8.list-manage.com/=
+track/click?u=3D7a00dbd2356f7ab4647cd4206&id=3Def3e09d386&e=3D7a1f31cf99"=
+ target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;color: #dc143c;font-weight: norm=
+al;text-decoration: underline;">http://www.codergv.org/boot </a><br>
+You can also individually send email to the director of the program: Joel=
+ Garza @ joel@codergv.org<br>
+<br>
+&nbsp;
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateFooter" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;background-color: #222222;border-top: 0;border-botto=
+m: 0;padding-top: 9px;padding-bottom: 9px;"><table class=3D"mcnTextBlock"=
+ style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-=
+line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;" valign=3D"top">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table style=3D"max-width: 100%;min-width: 100%;border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnTextContentConta=
+iner" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%">
+                    <tbody><tr>
+
+                        <td class=3D"mcnTextContent" style=3D"padding-top:=
+ 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-hei=
+ght-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;word-break: break-word;color: #999999;font-family: Helvetica;font-size:=
+ 12px;line-height: 150%;text-align: center;" valign=3D"top">
+
+                            <em>Copyright =C2=A9 2016 Code#RGV=2C All righ=
+ts reserved.</em><br>
+ You signed up via our website to stay connected with us.<br>
+<br>
+<strong>Our mailing address is:</strong><br>
+<div class=3D"vcard"><span class=3D"org fn">Code#RGV</span><div class=3D"a=
+dr"><div class=3D"street-address">P.O. Box 5631</div><span class=3D"locali=
+ty">McAllen</span>=2C <span class=3D"region">TX</span>  <span class=3D"pos=
+tal-code">78502</span></div><br><a href=3D"http://codergv.us8.list-manage.=
+com/vcard?u=3D7a00dbd2356f7ab4647cd4206&id=3D5bcfd35dcf" class=3D"hcard-do=
+wnload">Add us to your address book</a></div>
+<br>
+<br>
+Want to change how you receive these emails?<br>
+You can <a href=3D"http://codergv.us8.list-manage.com/profile?u=3D7a00dbd2=
+356f7ab4647cd4206&id=3D5bcfd35dcf&e=3D7a1f31cf99" style=3D"mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;col=
+or: #656565;font-weight: normal;text-decoration: underline;">update your p=
+references</a> or <a href=3D"http://codergv.us8.list-manage2.com/unsubscri=
+be?u=3D7a00dbd2356f7ab4647cd4206&id=3D5bcfd35dcf&e=3D7a1f31cf99&c=3De9b0e41c=
+e6" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decorat=
+ion: underline;">unsubscribe from this list</a><br>
+<br>
+ <a href=3D"http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium=
+_newsletter&utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7a00dbd=
+2356f7ab4647cd4206&afl=3D1"><img src=3D"http://cdn-images.mailchimp.com/mo=
+nkey_rewards/MC_MonkeyReward_15.png" border=3D"0" alt=3D"Email Marketing P=
+owered by MailChimp" title=3D"MailChimp Email Marketing" width=3D"139" hei=
+ght=3D"54"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                        </table>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://codergv.us8.list-manage.com/track/open.php?u=3D7a00=
+dbd2356f7ab4647cd4206&id=3De9b0e41ce6&e=3D7a1f31cf99" height=3D"1" width=
+=3D"1"></body>
+</html>
+--_----------=_MCPart_212616644--

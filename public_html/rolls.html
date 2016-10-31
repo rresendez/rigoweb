@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<style>
+p {color:#D40000;
+    font-size:50px;
+	font-family:"Impact";}
+body {background-color:black;}
+.button {font-size:50px;
+         border: none;
+		 background-color:#D40000;
+		 color:black;
+		 cursor:pointer;
+		 
+		 font-family:"Impact";
+}
+</style>
+
+<head>
+
+<script>
+ var coins  = [0.50,2.00,5.00,10.00];
+ var quant = [0,0,0,0];
+ var denom = ["Pennie rolls","Nickel rolls","Dime rolls","Quarters rolls"];
+
+ var remainder = 0;
+ 
+ function greedyAlg() {
+    var number = prompt("Please enter a dollar amount", 0);
+	
+    
+    if (number != null ) {
+	     document.getElementById("original").innerHTML =
+		 "Dollar amount enter was  " + number;
+	    
+		 for(var i= coins.length; i--;){
+		  if(number % coins[i] < number){
+		    quant[i]= Math.round(number / coins[i]);
+			remainder = number % coins[i];
+			number = remainder;
+		  }
+		 }
+		for(var j= quant.length; j--;){
+		 if(quant[j]>0){
+		
+		document.getElementById(j).innerHTML =
+        "Your number  of "+ denom[j] +" is "+ quant[j] ;
+		}
+		
+		}
+		
+    }
+}
+ 
+
+</script>
+
+
+</head>
+<body>
+<embed src="/music/lust.mp3" width="180" height="90" loop="true" autostart="true" hidden="true" />
+<title>
+"Hello everybody"
+</title>
+
+
+
+<button class="button" onclick="greedyAlg()">Calculate 
+rolls</button>
+<p id="original"> </p>
+<p id="0"></p>
+<p id="1"></p>
+<p id="2"></p>
+<p id="3"></p>
+
+</body>
+</html>

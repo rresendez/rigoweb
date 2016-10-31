@@ -1,0 +1,64 @@
+Return-path: <barefoo2@newserver.barefootstudent.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 11 Aug 2016 05:56:24 -0400
+Received: from [204.152.194.98] (port=42800 helo=newserver.barefootstudent.com)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bXmiu-000vW9-3l
+	for rresendez@rigoresendez.com; Thu, 11 Aug 2016 05:56:24 -0400
+Received: from barefoo2 by newserver.barefootstudent.com with local (Exim 4.87)
+	(envelope-from <barefoo2@newserver.barefootstudent.com>)
+	id 1bXmiF-0007hv-Bb
+	for rresendez@rigoresendez.com; Thu, 11 Aug 2016 03:55:43 -0600
+To: rresendez@rigoresendez.com
+Subject: Your Email Alert - Barefoot Student
+From: Barefoot Student <no-reply@barefootstudent.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bond-87777980bc8c74fbc924296a2e81aa37"
+Message-Id: <E1bXmiF-0007hv-Bb@newserver.barefootstudent.com>
+Date: Thu, 11 Aug 2016 03:55:43 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - newserver.barefootstudent.com
+X-AntiAbuse: Original Domain - rigoresendez.com
+X-AntiAbuse: Originator/Caller UID/GID - [501 512] / [47 12]
+X-AntiAbuse: Sender Address Domain - newserver.barefootstudent.com
+X-Get-Message-Sender-Via: newserver.barefootstudent.com: authenticated_id: barefoo2/from_h
+X-Authenticated-Sender: newserver.barefootstudent.com: no-reply@barefootstudent.com
+
+--bond-87777980bc8c74fbc924296a2e81aa37
+Content-type: text/html; charset="utf-8"
+
+<html>
+	<head>
+    	<title>Your Email Alert - Barefoot Student</title>
+	</head>
+	<body>
+		<div>Barefoot Student's Weekly alert for Jobs in Austin, TX with the keywords: No keywords selected.</div>
+		<div>
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/internship/web_design_marketing_internship_event_production_paid_1920245846?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Web Design & Marketing Internship (Event Production - PAID)</a></div>
+							<div class="description">*This is a paid, part-time internship*
+
+Program Initiatives Includes: Edit/update Wordpress-based company website, SEO implementation, sales promotional ads, marketing integration, social media targeting, and more.
+
+Must be knowledgable of Wordpress, Photoshop/Illustrator, and SEO-based initiati...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						
+						<div style="padding-top: 10px;">
+							<div class="title"><a href="http://www.barefootstudent.com/austin/jobs/part_time/event_production_crew_drivers_team_leaders_1920245844?utm_source=job&utm_medium=alerts&utm_campaign=jobs" target="_blank">Event Production Crew/Drivers/Team Leaders</a></div>
+							<div class="description">Looking for job opportunities at Intelligent Lighting Design? 
+
+We&rsquo;re a growing company and we&rsquo;re hiring hard working, energetic individuals that want to grow with us. As an ILD team member, you&rsquo;ll be a part of a unique network of individuals that value a commitment to excellence...</div>
+							<div class="location">Austin, TX, United States</div>
+						</div>
+						</div>
+		<div style="padding-top: 10px;">
+			<p>Please <a href="http://www.barefootstudent.com/user/email-alerts-unsubscribe/alertId/419292/code/1d5f1dd82d2674778ca884dfbfd4b4b1">click here</a> if you wish to modify or cancel this alert.</p>
+            <p>Max 100 results shown.</p>
+		</div>
+        <div><img src="http://www.barefootstudent.com/count_email.php?alert_id=419292&category_id=2" width="1" height="1" ></div>        
+	</body>
+</html>
+--bond-87777980bc8c74fbc924296a2e81aa37--

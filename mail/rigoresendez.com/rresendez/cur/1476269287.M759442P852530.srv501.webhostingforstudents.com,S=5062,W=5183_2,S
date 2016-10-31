@@ -1,0 +1,121 @@
+Return-Path: <01000157b8810a9b-540ea86d-9476-45f3-9374-e40239e5fec6-000000@amazonses.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id sRUwLecU/lcyAg0ATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 12 Oct 2016 06:48:07 -0400
+Return-path: <01000157b8810a9b-540ea86d-9476-45f3-9374-e40239e5fec6-000000@amazonses.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 12 Oct 2016 06:48:07 -0400
+Received: from a9-75.smtp-out.amazonses.com ([54.240.9.75]:60433)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <01000157b8810a9b-540ea86d-9476-45f3-9374-e40239e5fec6-000000@amazonses.com>)
+	id 1buH4x-003Zm7-Hi
+	for rresendez@rigoresendez.com; Wed, 12 Oct 2016 06:48:07 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1476269247;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=OPGYWGYM6x6LHcz8qhPYuO6fgjNUSz5Z3d7TeFm5nhY=;
+	b=t38z0HBWOJzWpiFmB6wAOXUwhrGE6B/CXhlSwGOfqsmLeWuijONtx170K0h0tUbP
+	oIrNQgWo1LT2dUqYEykZfk5QyK9EBWoVIIocHQFRQ9YXj27woF60kXu5Xv4f/flude9
+	pQASX1dkT7ZrYMjCqOYNfiHlOBWvYYShmIFbPZy8=
+Content-Type: multipart/alternative;
+ boundary="===============2734097873209800789=="
+MIME-Version: 1.0
+Subject: [PythonAnywhere] Scheduled downtime notification: Thursday 13th
+ October 2016
+From: support@pythonanywhere.com
+To: rresendez@rigoresendez.com
+Date: Wed, 12 Oct 2016 10:47:27 +0000
+Message-ID: <01000157b8810a9b-540ea86d-9476-45f3-9374-e40239e5fec6-000000@email.amazonses.com>
+X-SES-Outgoing: 2016.10.12-54.240.9.75
+Feedback-ID: 1.us-east-1.aqqnUrZmkJIrlKHtYGlEE4aeMYQu5NC3dm604Ru5da8=:AmazonSES
+
+--===============2734097873209800789==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear rresendez,
+
+We are scheduling a systems upgrade on Thursday 13th October 2016 (2016-10-13)
+at 06:00 AM UTC. We expect approximately 20 minutes of downtime.
+
+
+
+All the best,
+
+The PythonAnywhere team
+
+
+PS If you no longer wish to receive downtime notifications, you can
+use this link to unsubscribe:
+https://www.pythonanywhere.com/unsubscribe_downtime_alerts?email=rresendez%40rigoresendez.com&n=ab79f106797243be3496ee3d122e059a
+
+--
+PythonAnywhere: Develop and host Python from your browser
+https://www.pythonanywhere.com/
+
+A product from PythonAnywhere LLP
+17a Clerkenwell Road, London EC1M 5RD, UK
+VAT No.: GB 893 5643 79
+Registered in England and Wales as company number OC378414.
+Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK
+
+
+--===============2734097873209800789==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html><head><title>[PythonAnywhere] Scheduled downtime notification: Thursday 13th October 2016</title></head>
+<body style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><table width="100%" border="0" cellspacing="10" cellpadding="0" class="wrapper"><tr><td  align="center" valign="top" style="text-align:center;"><table border="0" cellspacing="0" cellpadding="10" class="main" style="text-align: left; margin-left: auto; margin-right: auto;"  width="600">
+
+<table cellpadding="10" cellspacing="0" align="center">
+    <tr>
+        <td width="600">
+
+<p style="font-family: Helvetica, Arial, sans-serif; text-align: left; font-size: 12pt;">
+Dear rresendez,
+</p>
+
+<p style="font-family: Helvetica, Arial, sans-serif; text-align: left; font-size: 12pt;">
+We are scheduling a systems upgrade on Thursday 13th October 2016 (2016-10-13)
+at 06:00 AM UTC. We expect approximately 20 minutes of downtime.
+</p>
+<p style="font-family: Helvetica, Arial, sans-serif; text-align: left; font-size: 12pt;">
+
+</p>
+
+<p style="font-family: Helvetica, Arial, sans-serif; text-align: left; font-size: 12pt;"><i>
+If you no longer wish to receive downtime notifications, you can
+<a href="https://www.pythonanywhere.com/unsubscribe_downtime_alerts?email=rresendez%40rigoresendez.com&amp;n=ab79f106797243be3496ee3d122e059a">click here</a>
+to be immediately unsubscribed.</i>
+</p>
+
+<p style="font-family: Helvetica, Arial, sans-serif; text-align: left; font-size: 12pt;">
+All the best,
+</p>
+
+<p style="font-family: Helvetica, Arial, sans-serif; text-align: left; font-size: 12pt;">
+The PythonAnywhere team
+</p>
+
+<p style="color: grey">
+    PythonAnywhere: Develop and host Python from your browser<br/>
+    <a href="http://www.pythonanywhere.com/">http://www.pythonanywhere.com/</a><br/>
+    <br/>
+    A product from PythonAnywhere LLP<br/>
+    17a Clerkenwell Road, London EC1M 5RD, UK<br/>
+    VAT No.: GB 893 5643 79<br/>
+    Registered in England and Wales as company number OC378414.<br/>
+    Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK<br/>
+</p>
+
+        </td>
+    </tr>
+</table>
+
+</table></td></tr></table></body></html>
+
+--===============2734097873209800789==--

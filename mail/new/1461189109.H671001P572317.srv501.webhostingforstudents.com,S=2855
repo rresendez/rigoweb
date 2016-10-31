@@ -1,0 +1,79 @@
+Return-path: <>
+Envelope-to: rigorese@srv501.webhostingforstudents.com
+Delivery-date: Wed, 20 Apr 2016 17:51:49 -0400
+Received: from mailnull by srv501.webhostingforstudents.com with local (Exim 4.86_1)
+	id 1at02H-002Oso-Fi
+	for rigorese@srv501.webhostingforstudents.com; Wed, 20 Apr 2016 17:51:49 -0400
+X-Failed-Recipients: 9564073249@tmomail.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@srv501.webhostingforstudents.com>
+To: rigorese@srv501.webhostingforstudents.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1461189109-eximdsn-1129273784
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1at02H-002Oso-Fi@srv501.webhostingforstudents.com>
+Date: Wed, 20 Apr 2016 17:51:49 -0400
+
+--1461189109-eximdsn-1129273784
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  9564073249@tmomail.net
+    host d79033a.ess.barracudanetworks.com [64.235.154.109]
+    SMTP error from remote mail server after end of data:
+    550 permanent failure for one or more recipients (9564073249@tmomail.net:554 rejecting banned content)
+
+--1461189109-eximdsn-1129273784
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; srv501.webhostingforstudents.com
+
+Action: failed
+Final-Recipient: rfc822;9564073249@tmomail.net
+Status: 5.0.0
+Remote-MTA: dns; d79033a.ess.barracudanetworks.com
+Diagnostic-Code: smtp; 550 permanent failure for one or more recipients (9564073249@tmomail.net:554 rejecting banned content)
+
+--1461189109-eximdsn-1129273784
+Content-type: message/rfc822
+
+Return-path: <rigorese@srv501.webhostingforstudents.com>
+Received: from rigorese by srv501.webhostingforstudents.com with local (Exim 4.86_1)
+	(envelope-from <rigorese@srv501.webhostingforstudents.com>)
+	id 1at02C-002OrQ-Ew
+	for 9564073249@tmomail.net; Wed, 20 Apr 2016 17:51:44 -0400
+To: 9564073249@tmomail.net
+Subject: Visit rigoresendez.com/sms.php to send a message
+X-PHP-Script: rigoresendez.com/sms.php for 66.68.207.33
+Date: Wed, 20 Apr 2016 16:51:44 -0500
+From: rresendez@rigoresendez.com
+Message-ID: <6b3af907c44fec7bcfd88b9c25f1a767@rigoresendez.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_6b3af907c44fec7bcfd88b9c25f1a767"
+
+--b1_6b3af907c44fec7bcfd88b9c25f1a767
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Sup nigga!
+
+
+--b1_6b3af907c44fec7bcfd88b9c25f1a767
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Sup nigga!
+
+
+
+--b1_6b3af907c44fec7bcfd88b9c25f1a767--
+
+
+--1461189109-eximdsn-1129273784--

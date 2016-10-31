@@ -1,0 +1,2138 @@
+Return-path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 03 Aug 2016 16:38:31 -0400
+Received: from o1.em2.juke.ly ([198.21.7.97]:60994)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>)
+	id 1bV2vu-001Bmm-JC
+	for rresendez@rigoresendez.com; Wed, 03 Aug 2016 16:38:31 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=juke.ly; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject; 
+	s=s1; bh=/P+gvhrg5vTkzoVkxohCi55tkOQ=; b=ag+xkeCyC26kbCWjs4K5fdh
+	QiW99kO+k4DIHqmS98/M7IRslaxGlsr1mPR+d34vm8mQu6kd4M+y+CYXt8f70K4A
+	ELnBWvLTj55pdk4jtD6EW/O7H743BFgW3K9trFTRF/cTOwzpa+33ZWMsrQuyZaoc
+	32CqZX3YHy6occ3YFRnk=
+Received: by filter0917p1mdw1.sendgrid.net with SMTP id filter0917p1mdw1.7409.57A2561AA
+        2016-08-03 20:37:46.199637971 +0000 UTC
+Received: from MjY4Nzk4OA (ec2-54-204-11-44.compute-1.amazonaws.com [54.204.11.44])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with HTTP id PimO0pvKTq-K3w9hy9PhXQ
+	Wed, 03 Aug 2016 20:37:46.106 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 03 Aug 2016 20:37:46 +0000
+From: "Jukely" <hi@juke.ly>
+Mime-Version: 1.0
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+Message-ID: <PimO0pvKTq-K3w9hy9PhXQ@ismtpd0006p1iad1.sendgrid.net>
+Subject: Members get GOTHAM: Mad Decent Block Party After Party ft Mad Decen...
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgZefXvngdwD0trUOK3c+SWwZpGPesDUkKCHZG
+ dXQx6Zne1qHL2+p2iN2twqzi7ovdP2e+OT6ZXw/gTGyvfVij5vvtkagE6KzFQz3Dxpc8FVZORAXlmd
+ 6Sx9Jl+O5IP+w6GAByrDiHoIuUvghnJIuy+JCC256nM/Xbk8TFPEl67C7w==
+X-SG-ID: h/wlQR4jJJQd+tl/W5NVfeg2OiKxm8QmtPLbYvE2Byc=
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Jukely.com_email-25</title>
+		<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+		<style type=3D"text/css">
+			a{
+				outline:none;
+				color:#9b02ff;
+				text-decoration:none;
+			}
+			a:hover{text-decoration:underline !important;}
+			.link:hover{text-decoration:none !important;}
+			.active a:hover{text-decoration:none !important;}
+			a[x-apple-data-detectors]{color:inherit !important; text-decoration:none=
+ !important;}
+			.active:hover{opacity:0.8;}
+			.active{
+				-webkit-transition:all 0.3s ease;
+				-moz-transition:all 0.3s ease;
+				-ms-transition:all 0.3s ease;
+				transition:all 0.3s ease;
+			}
+			a img{border:none;}
+			table td{mso-line-height-rule:exactly;}
+			.ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b,=
+ .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:inheri=
+t;}
+			@media only screen and (max-width:500px) {
+				/* default style */
+				table[class=3D"flexible"]{width:100% !important;}
+				table[class=3D"table-center"]{float:none !important; margin:0 auto !imp=
+ortant; width:auto !important;}
+				*[class=3D"hide"]{display:none !important; width:0 !important; height:0=
+ !important; padding:0 !important; font-size:0 !important; line-height:0 !i=
+mportant;}
+				span[class=3D"db"]{display:block !important;}
+				td[class~=3D"img-flex"] img{width:100% !important; height:auto !importa=
+nt;}
+				td[class~=3D"aligncenter"]{text-align:center !important;}
+				tr[class=3D"table-holder"]{display:table !important; width:100% !import=
+ant;}
+				th[class=3D"tcap"]{display:table-caption !important; width:100% !import=
+ant;}
+				th[class=3D"thead"]{display:table-header-group !important; width:100% !=
+important;}
+				th[class=3D"trow"]{display:table-row !important; width:100% !important;}
+				th[class=3D"tfoot"]{display:table-footer-group !important; width:100% !=
+important;}
+				th[class=3D"flex"]{display:block !important; width:100% !important;}
+				/* custom style */
+				td[class~=3D"block-holder"], td[class=3D"padding-reset"]{padding-left:0=
+ !important; padding-right:0 !important;}
+				td[class~=3D"frame"]{padding-left:8% !important; padding-right:8% !impo=
+rtant;}
+				td[class=3D"header"]{padding:23px 19px 32px 16px !important;}
+				td[class=3D"header-title"]{padding:0 5px !important;}
+				td[class=3D"header-row"]{padding:0 0 72px !important;}
+				td[class=3D"one-col"]{width: 48% !important;}
+				td[class=3D"empty-col"]{width: 52% !important;}
+				td[class=3D"col-img"] img{width: 100% !important; height: auto !importa=
+nt;}
+				td[class=3D"pb28"]{padding-bottom:28px !important;}
+				td[class=3D"post-title"]{font-size: 25px !important; line-height: 29px =
+!important; padding-bottom: 20px !important;}
+				td[class~=3D"pb70"]{padding-bottom:70px !important;}
+				td[class=3D"block-title"]{font-size: 25px !important; line-height: 29px=
+ !important; padding-bottom:15px !important;}
+				table[class~=3D"full-width"]{width:100% !important;}
+				td[class=3D"text"]{padding:0 0 34px !important;}
+				td[class=3D"pre-footer"]{padding:57px 30px 81px !important;}
+				td[class=3D"w55"]{width: 55px !important;}
+				td[class=3D"pick"]{font-size:11px !important; line-height:14px !importa=
+nt; padding:6px 5px !important;}
+			}
+		</style>
+	</head>
+	<body style=3D"margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%;" bgcolor=3D"#ffffff">
+		<table style=3D"min-width:320px;" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" bgcolor=3D"#ffffff">
+			<!-- fix for gmail -->
+			<tr>
+				<td style=3D"line-height:0;"><div style=3D"display:none; white-space:no=
+wrap; font:15px/1px courier;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div></td>
+			</tr>
+			<!-- header -->
+			<tr>
+				<td class=3D"block-holder" bgcolor=3D"#9b02ff" style=3D"padding:0 10px;=
+">
+					<table class=3D"flexible" width=3D"600" align=3D"center" style=3D"marg=
+in:0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+						<!-- fix for gmail -->
+						<tr>
+							<td class=3D"hide">
+								<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" style=3D"w=
+idth:600px !important;">
+									<tr>
+										<td style=3D"min-width:600px; font-size:0; line-height:0;">&nbsp;=
+</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td class=3D"header" style=3D"padding: 23px 0 29px;">
+								<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+									<tr>
+										<td class=3D"header-row" style=3D"padding: 0 0 111px;">
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<td style=3D"line-height:20px; mso-line-height-rule:at-least;">
+														<a href=3D"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V=
+0yoT65R22oy4bUoddl2GwKn35NS9yh8jgytkz-2BAD1uKVT6Fu7DR64uP-2FgrgDNs7-2B1StiM=
+BSA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAU=
+b-2BmXw1jn5N0kMbGMioExLf7QaRfURXEfEkKNKJIJFXT5tAqsC4mIT1ixHCqnsTTG-2FfGLMyy=
+VTjzWqb5Jh22D9BP6rUn8k1nLJvo-2Bs3dszikwiMlOWXHtOIn3BV7rsa6nbjtl886rsubzQ-2B=
+HTdVwYGYCjsBIKiRaQyzRQz-2FyxoMpLxZ9I6eYkprpo0-2FEFx-2BnhZhaY5" target=3D"_b=
+lank" style=3D"text-decoration:none;"><img src=3D"https://d2dhyi9s53vuf7.cl=
+oudfront.net/email/logo.png" style=3D"vertical-align:top; font:bold 20px/24=
+px Helvetica, Arial, sans-serif; color:#fff;" width=3D"99" height=3D"20" al=
+t=3D"JUKELY" /></a>
+													</td>
+													<td align=3D"right">
+														<a href=3D"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V=
+0yoT65R22oy4bUoddl2GwKn35NS9yh8jgytkz-2BAD1uKVT6Fu7DR64uP-2FgrgDNs7-2B1StiM=
+BSA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAU=
+b-2BmXw1jn5N0kMbGMioExLf7QaRVDMjSACZ6h30N8oDEglped4QcHCPfMEWiujAuHpNyL0WGt-=
+2FjEs7OedAMKuEnYyRJjE4Y4NDDZwyCob-2F-2Bm8YFfUxWOI6hnJg-2BS-2FSDIFUDKR83GbSy=
+Y4-2F-2FvuTokVZpq11aNStHzCF7-2BO72hp6h8GE4axShwwEqERunT-2FddJ82X3fm" target=
+=3D"_blank"><img src=3D"https://d2dhyi9s53vuf7.cloudfront.net/email/ico.png=
+" height=3D"26" width=3D"26" border=3D"0" style=3D"vertical-align:top;" alt=
+=3D"" /></a>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td class=3D"header-title" style=3D"font:30px/36px Arial, Helveti=
+ca, sans-serif; color:#fff; padding:0 2px;">
+											14 day free preview.
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<!-- content -->
+			<tr>
+				<td class=3D"block-holder" style=3D"padding:0 10px;">
+					<table class=3D"flexible" width=3D"600" align=3D"center" style=3D"marg=
+in:0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+						<!-- two-columns --> <!-- Start top shows -->
+						<tr>
+							<td class=3D"frame pb70" style=3D"padding:0 0 80px;">
+								<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+									<tr>
+										<td style=3D"font:bold 13px/15px Arial, Helvetica, sans-serif; co=
+lor:#3f3742; text-transform: uppercase; letter-spacing: 1.4px; padding: 43p=
+x 0 36px;">
+											TOP SHOWS COMING UP
+										</td>
+									</tr>
+									<!-- row-1 begin -->
+									<tr>
+										<td class=3D"pb28" style=3D"padding:0 0 43px;">
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<th class=3D"flex" width=3D"307" align=3D"left" style=3D"verti=
+cal-align:middle; padding:0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+																<td class=3D"img-flex">
+																	<img src=3D"https://jukely.imgix.net/2541d8dc438d20ab74e6b=
+4e8985478a1e3a5674a245865b35b13d2c55563?ixlib=3Drb-0.3.5&amp;w=3D307&amp;h=
+=3D280&amp;fit=3Dcrop&amp;s=3D27c0f4efe7a9b8eca232cd72884c17e6" style=3D"ve=
+rtical-align:top;" width=3D"307" height=3D"280" alt=3D"" />
+																</td>
+															</tr>
+<!-- 															<tr>
+																<td align=3D"center" bgcolor=3D"#27d86e" style=3D"font:700 =
+12px/14px Helvetica, Arial, sans-serif; color:#d6f4e3; padding:6px 30px;">
+																	<span style=3D"color:#156234;">81%</span> MATCH
+																</td>
+															</tr> -->
+														</table>
+													</th>
+													<th class=3D"flex" width=3D"30" height=3D"6" style=3D"padding:=
+0;"></th>
+													<th class=3D"flex" align=3D"left" style=3D"vertical-align:midd=
+le; padding:0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+																<td style=3D"padding: 15px 10px 5px 0;">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td style=3D"padding:0 0 13px;">
+																				<table cellpadding=3D"0" cellspacing=3D"0">
+																					<tr>
+																						<td style=3D"font:700 13px/15px Helvetica, Arial, san=
+s-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; borde=
+r: 2px solid #9b02ff; border-radius: 4px; padding:6px 9px;">
+																							Aug 6
+																						</td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:700 22px/26px Helvetica, Arial, sans-s=
+erif; color:#000; padding:0 0 2px;">
+																				GOTHAM: Mad Decent Block Party After Party ft Mad Decen=
+t All Stars
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:20px/24px Helvetica, Arial, sans-serif=
+; color:#000; padding:0 0 9px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:16px/20px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 9px;">
+																				10:00PM &bull; Webster Hall
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/22px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 16px;">
+																				GOTHAM NYC.
+																			</td>
+																		</tr>
+																		<tr>
+																			<td>
+																				<table cellpadding=3D"0" cellspacing=3D"0">
+																					<tr>
+																						<td class=3D"active" align=3D"center" style=3D"font:b=
+old 12px/12px Helvetica, Arial, sans-serif; color:#fff; text-transform: upp=
+ercase; letter-spacing: 1px; border-radius: 2px; mso-padding-alt:15px 31px;=
+" bgcolor=3D"#9b02ff">
+																						<a target=3D"_blank" style=3D"text-decoration:none; c=
+olor:#fff; display:block; padding:15px 31px;" href=3D"http://track.juke.ly/=
+wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgUaektrHpYXYlv8=
+IcnPI3kfdE2HMZDk-2BQ2EnmUoJs9dPL0-2BvTI8-2FtpREsSaSDmTNPyR4msgPWxc75qFkkBTW=
+Epv4Ez5x5HGJ8jtoQmqoCwWLng8jnC6bWBqqcgbRyNPyAXyRkoFov7AwaOA84QnUw0Bq0TfIADh=
+35JrNibtBsI3zjdnPdUAAjch5DQ7rxySc-2FIsxxCnADx3xY9ZUuMqlWCIwSwwlV6E-2FKnqo2x=
+KPAAWCcy39yPdBVzsoIOAulmYkio-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351=
+hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRRkQYNUpb6vhfDeBIozS0si-2F=
+qoZur8HTYnKDbxKDAGbZ5OU9NC-2Fgz2r32Lp9TjzNEau5cKEd-2FyJtrRCVRxzfpglk9rlasTX=
+EmTytYwjV5Kw0L0V9pAfUP2Z54HdITRH3oB36fwaRRyHi295EYB6zzHaMf772MfjwbbceQQabk6=
+mh">VIEW SHOW</a>
+																						</td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- row-1 begin -->
+									<!-- row-1 begin -->
+									<tr>
+										<td class=3D"pb28" style=3D"padding:0 0 43px;">
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<th class=3D"flex" width=3D"307" align=3D"left" style=3D"verti=
+cal-align:middle; padding:0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+																<td class=3D"img-flex">
+																	<img src=3D"https://jukely.imgix.net/a495cf3846b2899707f59=
+ea5df75dd3e812b5ce38961189e1c5ce1ec9320?ixlib=3Drb-0.3.5&amp;w=3D307&amp;h=
+=3D280&amp;fit=3Dcrop&amp;s=3D5b6fbcc9000cfe560aefff1705bd1297" style=3D"ve=
+rtical-align:top;" width=3D"307" height=3D"280" alt=3D"" />
+																</td>
+															</tr>
+<!-- 															<tr>
+																<td align=3D"center" bgcolor=3D"#27d86e" style=3D"font:700 =
+12px/14px Helvetica, Arial, sans-serif; color:#d6f4e3; padding:6px 30px;">
+																	<span style=3D"color:#156234;">81%</span> MATCH
+																</td>
+															</tr> -->
+														</table>
+													</th>
+													<th class=3D"flex" width=3D"30" height=3D"6" style=3D"padding:=
+0;"></th>
+													<th class=3D"flex" align=3D"left" style=3D"vertical-align:midd=
+le; padding:0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+																<td style=3D"padding: 15px 10px 5px 0;">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td style=3D"padding:0 0 13px;">
+																				<table cellpadding=3D"0" cellspacing=3D"0">
+																					<tr>
+																						<td style=3D"font:700 13px/15px Helvetica, Arial, san=
+s-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; borde=
+r: 2px solid #9b02ff; border-radius: 4px; padding:6px 9px;">
+																							Aug 5
+																						</td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:700 22px/26px Helvetica, Arial, sans-s=
+erif; color:#000; padding:0 0 2px;">
+																				The Fall Of Troy =E2=80=A2 <a href=3D"http://track.juke=
+.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy1aQADHWgo7IXV5=
+TYbWmVAWCXQjaFv-2FNMAcapEjnUX3Vg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2=
+BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRV-2BMW57XEdc6tfZTE=
+X7Mk-2Bn0MfLdrwPWCIEbhhhOL3XauREo7Y839cXczYcwZLZqlI1oYyeOndOwOvVOMUTSa0sS5T=
+vzrhfzG8DI26050FhC8rssKwDqCu55SJ2plsy7UPUgiXB-2BzV1cIUOgzyn81FGoIcBotRpIofX=
+PiHe81AZj"> =E2=99=AC</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:20px/24px Helvetica, Arial, sans-serif=
+; color:#000; padding:0 0 9px;">
+																				Illustrations, &#39;68
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:16px/20px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 9px;">
+																				 7:30PM &bull; Webster Hall
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/22px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 16px;">
+																				Experimental post-hardcore trio from Washington.
+																			</td>
+																		</tr>
+																		<tr>
+																			<td>
+																				<table cellpadding=3D"0" cellspacing=3D"0">
+																					<tr>
+																						<td class=3D"active" align=3D"center" style=3D"font:b=
+old 12px/12px Helvetica, Arial, sans-serif; color:#fff; text-transform: upp=
+ercase; letter-spacing: 1px; border-radius: 2px; mso-padding-alt:15px 31px;=
+" bgcolor=3D"#9b02ff">
+																						<a target=3D"_blank" style=3D"text-decoration:none; c=
+olor:#fff; display:block; padding:15px 31px;" href=3D"http://track.juke.ly/=
+wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWO1Hq9TnD6BGGx=
+xbOBrFBPDIVjMkEaTDkYCKDip4S81cDsxZFcQNvOZFE4Uo47tydrJKYUvI8kRRu0ON48JSulDg8=
+JTEyodb4f7SbHrKodDk9odd35hlPWmzjNHs7gV2fREdL0tq41SF3PyNUuOWsZYqsJIP09hbjNg-=
+2FGFfsiOVmcYsqnGWPCMragKE6hevow-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa=
+351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRZkdJwXoh59tmD04sip6Qyi=
+aZQRvONqMRzseQL8mPy-2BGt0a0Hb87d89BjcM40aea9pUi9SWcJ3-2BOppbyieFaCvFq2ypwKw=
+6AvDah7mly6MIYrbWCTzvJsUimSNnKk62A2cwcaxepGDy-2FZdp8sbILDtyuBqwW12OEn7IOuYf=
+i1ipa">VIEW SHOW</a>
+																						</td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- row-1 begin -->
+									<!-- row-1 begin -->
+									<tr>
+										<td class=3D"pb28" style=3D"padding:0 0 43px;">
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<th class=3D"flex" width=3D"307" align=3D"left" style=3D"verti=
+cal-align:middle; padding:0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+																<td class=3D"img-flex">
+																	<img src=3D"https://jukely.imgix.net/83283280552d77a5d4b07=
+a47b0f3d3b049d60487d51e886ba891ec12ba61?ixlib=3Drb-0.3.5&amp;w=3D307&amp;h=
+=3D280&amp;fit=3Dcrop&amp;s=3D48f55f888c2db75008ceda83d5aa6674" style=3D"ve=
+rtical-align:top;" width=3D"307" height=3D"280" alt=3D"" />
+																</td>
+															</tr>
+<!-- 															<tr>
+																<td align=3D"center" bgcolor=3D"#27d86e" style=3D"font:700 =
+12px/14px Helvetica, Arial, sans-serif; color:#d6f4e3; padding:6px 30px;">
+																	<span style=3D"color:#156234;">81%</span> MATCH
+																</td>
+															</tr> -->
+														</table>
+													</th>
+													<th class=3D"flex" width=3D"30" height=3D"6" style=3D"padding:=
+0;"></th>
+													<th class=3D"flex" align=3D"left" style=3D"vertical-align:midd=
+le; padding:0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+																<td style=3D"padding: 15px 10px 5px 0;">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td style=3D"padding:0 0 13px;">
+																				<table cellpadding=3D"0" cellspacing=3D"0">
+																					<tr>
+																						<td style=3D"font:700 13px/15px Helvetica, Arial, san=
+s-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; borde=
+r: 2px solid #9b02ff; border-radius: 4px; padding:6px 9px;">
+																							Aug 5
+																						</td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:700 22px/26px Helvetica, Arial, sans-s=
+erif; color:#000; padding:0 0 2px;">
+																				Bondax =E2=80=A2 <a href=3D"http://track.juke.ly/wf/cli=
+ck?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy3dcJhXsJKnzPafwM2P9VJqxG=
+DG07PFdfxIHCmD-2FLUuSw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvY=
+u8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRa3AmCsq27yAZxrQfUTQRsi-2Fkm3=
+PZq1QFsqUncmH6UuA4wZTLsdvj8IOYFTVHBfsxzNsIjR0ZZFVq-2FZvGvIc-2Fqq7uplGdeHuS4=
+e-2FufO4RSSnKqX15jDUQbrFHPjnj3RebbNQ-2FyPd5WeVf2iK4w0UEfy2qVIDZ2Y3jDHOzgc-2=
+BKnoM"> =E2=99=AC</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:20px/24px Helvetica, Arial, sans-serif=
+; color:#000; padding:0 0 9px;">
+																				Karma Kid, Alex English, Hiyawatha, Dali
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:16px/20px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 9px;">
+																				10:00PM &bull; Webster Hall
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/22px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 16px;">
+																				UK future-garage producing duo with clean, ambient-bass=
+ sounds that break into exciting electronic. Founders of Just Us Recordings=
+.=20
+																			</td>
+																		</tr>
+																		<tr>
+																			<td>
+																				<table cellpadding=3D"0" cellspacing=3D"0">
+																					<tr>
+																						<td class=3D"active" align=3D"center" style=3D"font:b=
+old 12px/12px Helvetica, Arial, sans-serif; color:#fff; text-transform: upp=
+ercase; letter-spacing: 1px; border-radius: 2px; mso-padding-alt:15px 31px;=
+" bgcolor=3D"#9b02ff">
+																						<a target=3D"_blank" style=3D"text-decoration:none; c=
+olor:#fff; display:block; padding:15px 31px;" href=3D"http://track.juke.ly/=
+wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgVWbvjcXkeZGO8T=
+kidB4VpfZQYFzyh2blAkfBO0C3jb5mEd1RDJKoxxp6Ar7otIszI0AKixACxWek947KOpTqxsQLU=
+zXHzsni3e5-2FsrOA3osrNWn8qCHUtA-2FDyS7ep8etmXwf4tl9gnBuAtJxdnQokIxl7bd9V7KO=
+Y70liRGmncRA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZy=
+WR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRQnlO2yKf02-2Fg-2FoRhRYmtV25vo74qw4Aa9M=
+bNc0VuBwJg4vBznQV1r0LdqFxFKR8bb4r-2FLxBPSU3YaJYbsnRGhnwfSmXXih6uJF4wcfqWYLS=
+6kH6AjlnlA4jo2Ql2yrmHcqc9aXyFPDY7nmAUn-2BR30OoMqH-2FE9jaai0TF-2F9q65O9">VIE=
+W SHOW</a>
+																						</td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- row-1 begin -->
+
+								</table>
+							</td>
+						</tr>
+						<!-- End Top Shows -->
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+						<!-- editorial content -->
+=09=09=09=09=09=09
+						<tr>
+							<td class=3D"frame" style=3D"padding:0 0 79px;">
+								<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09=09
+			      <tr>
+			        <td>
+			          <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+			            <tbody>
+			              <tr>
+			                <td style=3D"font:bold 13px/14px Arial, Helvetica, sans-=
+serif; color:#3f3742; text-transform: uppercase; letter-spacing: 1.5px; pad=
+ding: 0 0 35px;">
+			                  Recommended Reading
+			                </td>
+			              </tr>
+			              <!-- editorial pieces -->
+			              <tr>
+			                <td class=3D"pb50" style=3D"padding: 0 0 60px;">
+			                  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0">
+			                    <tbody>
+			                      <tr>
+			                        <td class=3D"post-title" style=3D"font:29px/33px=
+ Arial, Helvetica, sans-serif; color:#ad39ff; padding: 0 0 31px;">
+			                          Brillz Talks Musical Roots, TWONK Clothing Lin=
+e &amp; More
+			                        </td>
+			                      </tr>
+			                      <tr>
+			                        <td class=3D"img-flex" style=3D"padding: 0 0 16p=
+x;">
+			                          <img src=3D"http://www.fouroverfour.jukely.com=
+/wp-content/uploads/2016/07/BRILLZ-PRESS-2016-e1470165011806.jpg" height=3D=
+"349" width=3D"600" style=3D"vertical-align:top;" alt=3D"" />
+			                        </td>
+			                      </tr>
+			                      <tr>
+			                        <td class=3D"side-padding-reset" style=3D"font:1=
+6px/20px Arial, Helvetica, sans-serif; color:#2a1b2f; padding: 0 0 25px 0;">
+			                          We hope you all had an absolute blast at our J=
+ukely Sound Projects weekend! Still feeling the hype? Check out our intervi=
+ew with Brillz.
+			                        </td>
+			                      </tr>
+			                      <tr>
+			                        <td>
+			                          <table cellpadding=3D"0" cellspacing=3D"0">
+			                            <tbody><tr>
+			                              <td class=3D"active" align=3D"center" styl=
+e=3D"font:bold 12px/12px Arial, Helvetica, sans-serif; color:#fff; text-tra=
+nsform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-padding-alt=
+:14px 30px;" bgcolor=3D"#240033">
+			                              <a target=3D"_blank" style=3D"text-decorat=
+ion:none; color:#fff; display:block; padding:14px 30px;" href=3D"http://tra=
+ck.juke.ly/wf/click?upn=3DoExUV4rMo7aDsy-2B6fiwE6AMZd-2BaSz5polUNCTAmc2U7Pc=
+JzP-2BiIMR9vHjxuXksR39L-2B3snYWgCYqHxv79ltoy9KR2ywZFLlBFaAF-2BCkevQM-3D_xb6=
+9N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0=
+kMbGMioExLf7QaRfAi1yMexxaO5Sewv8M6h2WMDRFUOQOCkrb5b8LuHeirl9Q0po9gslKKP0wHx=
+WWZobLNqP26KstnD1ET9ba4WqE09akYeUBgAiXAwpPv8vm4DHZtP-2BIrmoUZWLaLmVKK1znzL9=
+4O7-2FncoXSFbDf2rIH9eA1Ms1gDgzpsJFD0iZGI">READ MORE</a>
+			                              </td>
+			                            </tr>
+			                          </tbody></table>
+			                        </td>
+			                      </tr>
+			                    </tbody>
+			                  </table>
+			                </td>
+			              </tr>
+			              <tr>
+			                <td class=3D"pb50" style=3D"padding: 0 0 60px;">
+			                  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0">
+			                    <tbody>
+			                      <tr>
+			                        <td class=3D"post-title" style=3D"font:29px/33px=
+ Arial, Helvetica, sans-serif; color:#ad39ff; padding: 0 0 31px;">
+			                          10 Can=E2=80=99t-Miss [Midsized] Acts on the 2=
+016 Festival Circuit
+			                        </td>
+			                      </tr>
+			                      <tr>
+			                        <td class=3D"img-flex" style=3D"padding: 0 0 16p=
+x;">
+			                          <img src=3D"http://www.fouroverfour.jukely.com=
+/wp-content/uploads/2016/07/musicfestival1.jpg" height=3D"349" width=3D"600=
+" style=3D"vertical-align:top;" alt=3D"" />
+			                        </td>
+			                      </tr>
+			                      <tr>
+			                        <td class=3D"side-padding-reset" style=3D"font:1=
+6px/20px Arial, Helvetica, sans-serif; color:#2a1b2f; padding: 0 0 25px 0;">
+			                          Below is a list of 10 up-and-coming acts on th=
+e 2016 festival circuit worth your attention. Catch them live, and they jus=
+t might become your new favorite.
+			                        </td>
+			                      </tr>
+			                      <tr>
+			                        <td>
+			                          <table cellpadding=3D"0" cellspacing=3D"0">
+			                            <tbody><tr>
+			                              <td class=3D"active" align=3D"center" styl=
+e=3D"font:bold 12px/12px Arial, Helvetica, sans-serif; color:#fff; text-tra=
+nsform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-padding-alt=
+:14px 30px;" bgcolor=3D"#240033">
+			                              <a target=3D"_blank" style=3D"text-decorat=
+ion:none; color:#fff; display:block; padding:14px 30px;" href=3D"http://tra=
+ck.juke.ly/wf/click?upn=3DoExUV4rMo7aDsy-2B6fiwE6AMZd-2BaSz5polUNCTAmc2U7Pc=
+JzP-2BiIMR9vHjxuXksR3Y9NYk-2BX-2F4NLRLaSP4HBQFA-3D-3D_xb69N2IWj9cpa7VY1jz2n=
+0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRclU=
+ICdfhS0BJRvi58wEAO-2BxVqKzthwKetwaRpNQXv-2BIi3-2BcBwD-2FFHNLN42z-2B0WVCUSap=
+M4Z4mjTWFfcP8dumwN-2F0N6BCS8t4JKJjq9DDkR-2FUN6HFVOEZaGVriZ7Mi3F-2Fco6b1Ck69=
+cj7-2FtP5d1yXjYud2YrZC6KPxEn6MZJL97K">READ MORE</a>
+			                              </td>
+			                            </tr>
+			                          </tbody></table>
+			                        </td>
+			                      </tr>
+			                    </tbody>
+			                  </table>
+			                </td>
+			              </tr>
+			              <!-- -->
+			            </tbody>
+			          </table>
+			        </td>
+			      </tr>=20=20=20=20
+=09=09=09=20=20=20=20=09
+					</table></td></tr>
+=09=09=09
+			      <!-- end editorial content -->
+
+=09=09=09=09=09=09
+							<!-- popular shows begin -->
+													<tr>
+														<td class=3D"frame" style=3D"padding:0 0 79px;">
+															<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																<tr>
+																	<td style=3D"font:bold 13px/14px Arial, Helvetica, sans-se=
+rif; color:#3f3742; text-transform: uppercase; letter-spacing: 1.4px; paddi=
+ng: 0 0 25px;">
+																		POPULAR SHOWS
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgUaektrHpYXYlv8IcnPI3kfdE2HMZDk-2BQ2E=
+nmUoJs9dPL0-2BvTI8-2FtpREsSaSDmTNPyR4msgPWxc75qFkkBTWEpv4Ez5x5HGJ8jtoQmqoCw=
+WLib78vG6w3dgK4N0m2bO5gSqIS-2FGbZbEsOx07jy8bHVz5tLtRRT4OFwPMnAQ79F2TkVajdx0=
+cFrmKv-2BDixqHUDPDhdzl-2FU5TlDx9KO8SVXm0GEzPalBWbPh3rNSA0klYLZfXiY1Q-2Fd0ll=
+ofq1ZeP-2F4Q-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7=
+vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRZWAEvJxcznVpGSEsbxVQMsubNwQEqZQjIQ0GTWhIU=
+V-2FUUyoCrdsJQ5KUpqYR0AiSHKIjQ5wW5zWJgMYGW8p2H3cBY2BGQ-2FofIOBccD64UHcXGzCP=
+CCGigkTbeouOVgaKYk3Rlh948sUrtzAfEvPXElU9X8f-2F4kG3tTWN4mtpeyc" style=3D"tex=
+t-decoration:none; color:#ad39ff;">
+								                            GOTHAM: Mad Decent Block Party After Pa=
+rty ft Mad Decent All Stars
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>GOTHAM NYC.</i>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 6, 10:00PM at Webster Hall
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWO1Hq9TnD6BGGxxbOBrFBPDIVjMkEaTDkYCK=
+Dip4S81cDsxZFcQNvOZFE4Uo47tydrJKYUvI8kRRu0ON48JSulDg8JTEyodb4f7SbHrKodDvgGZ=
+GXlZSToY7-2FZDrzwCypUGuNTV5PlszWl4pZ4u9pgAZvHOaeHZ7e4nqBPkKSLytE9uniWhaFvlj=
+2CG6F9SOI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6=
+TAUb-2BmXw1jn5N0kMbGMioExLf7QaRYWyrzLkfpNZCyvJzILP6VkIVfo1sl2TLFYoYkgX0A6jR=
+JUWB-2FV5JoWdPlDMu1zEnIg5OxjyNi2H1pS2gjSa6HsvfuFyTk0-2BCEzNl2UPXnqTS3TOz-2F=
+rPHku3uMvZ4babrFtxJuPDROorXKVaoZYfGaHQxbAbF6wQfdeDFnaX2n0K" style=3D"text-d=
+ecoration:none; color:#ad39ff;">
+								                            The Fall Of Troy
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Experimental post-hardcore trio from Washington.</i=
+> <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8Vt=
+KmWixmmOmCbuTDiy1aQADHWgo7IXV5TYbWmVAWCXQjaFv-2FNMAcapEjnUX3Vg-3D-3D_xb69N2=
+IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMb=
+GMioExLf7QaRc3qt2iHCuOBz1DpC4s2WaepKNCeznkIvSrPV-2FzjFFvF3DrMDhoZRJdjXooZXw=
+a4blBTSfWUGXuo-2Furn7Llgbzc72cKZB2D8ulMmTF4jdOMzTtw3-2BKaSn-2B60NK3fvaKnyh4=
+MWEREVEyYHn5qUN4vcl815fcOwzeRXTO5cLkelcdt">&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 5,  7:30PM at Webster Hall
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgVWbvjcXkeZGO8TkidB4VpfZQYFzyh2blAkfB=
+O0C3jb5mEd1RDJKoxxp6Ar7otIszI0AKixACxWek947KOpTqxsQLUzXHzsni3e5-2FsrOA3osn6=
+rNxCkh5dyn8HYHR5ybmfk-2BFR2HMpXTJKPQDA46GGVsdda6rLWA5bOpk2qREoSjQ-3D-3D_xb6=
+9N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0=
+kMbGMioExLf7QaRbxTf8ssx0YMYC6RuAO9SCPIhO8CqfE51kF77fbWtORDAhSvEejymvtPuJtzs=
+Zvdaqthl38NvgVY7f8UIGojLCFsFPXC-2Fz773FdJu7lsXaxcL97wvTNcPJjRMcoFMMPvJysOdf=
+aPcXNbfIGtlY2jeJFxw1cz8oWTZ-2FD01R2svI3u" style=3D"text-decoration:none; co=
+lor:#ad39ff;">
+								                            Bondax
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>UK future-garage producing duo with clean, ambient-=
+bass sounds that break into exciting electronic. Founders of Just Us Record=
+ings. </i> <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbO=
+HWoNdL8VtKmWixmmOmCbuTDiy3dcJhXsJKnzPafwM2P9VJqxGDG07PFdfxIHCmD-2FLUuSw-3D-=
+3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw=
+1jn5N0kMbGMioExLf7QaRchQyQmxgMTbWFvC01v-2BCv0nQ0i0PVttkTwhvtIycaQS9ImsqsnQG=
+TOv4WxJr0LSV-2FSbRw4TMcarz1eKXIOxNwhxLFUPHcoU7fx0a9H3PimsnipzUFd8WYbgrZd4st=
+eHIlKmfAoAd0uHHXL5IMYEf-2Bv6eII5oCl1z1wByiy1WCQV">&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 5, 10:00PM at Webster Hall
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgVoIsOOQ6r6VJ-2BO6-2FOivOw-2FQJjjyFie=
+I6Ce2smGwhKOv9ComDuWkok6vz9MQxRcr4yqe3fa-2B12rRh4HIJgE2jOL8g4h9C8d3QnaH0DTc=
+EDig-2F5Wsc7XYZwvLbFNlc03NXXjEB5yx4QlP-2BxsRRmeMYKxcY0CvmiVBavv2QxuQJ43Ji9n=
+tK1Resi0Xu6GWIcyIGDWos4GEQjsPeN55bI3Oq6h_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b=
+-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRUlMmAEUEn0mRZqvM=
+E390T-2FBR7OSE7ZjgUK55gHFE5kStdy-2FjEtPylirCxnAIG-2B3iwCI-2FYXfsC-2B0JOG89D=
+WU14u3aZCfRUtntwERDePCufRzraaCooP3xKBpZLMmNUKJwtIv16ko6-2FELjZ6PgLlX4v7XN9F=
+7o2RS-2Ff4Dn2LBKHdV" style=3D"text-decoration:none; color:#ad39ff;">
+								                            Johnny Osbourne LIVE w/ The Skadanks
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Jamaican dancehall and roots-reggae singer, songwri=
+ter and producer. </i> <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSP=
+phKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy3ieNW3FZFGX4UBM7yhaXmt5znz9eYpsh-2F7N7=
+GJfVaJRQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7v=
+E6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRS8m7E4XYEOI3qNvmE5c-2Fcpyygd200ks-2F1LCJ-2=
+BrXN6rOffAYd3UNfgeBXIrKvZBTXUpGHf7VCu9o60jrF3QLD-2FFXG0aiJnAeF7O4mjnxBN-2Fp=
+kCx5X1Xp2xepJInvEjdTjKIsAv2i7DpgPBD6JwPBOQSSQGfknUW0YGLLPzsALwN8">&nbsp;&nb=
+sp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 5,  8:00PM at Brooklyn Bowl
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWO6eJL3PKTJbhs7KiKM0CNBPC4e89x1kIBpG=
+DeWfPq30htEMwTu33R4m83MLDikWxq-2BWFY8o-2Fx215kro8-2FLN5koTWRS7HS0nrjhn1WoRU=
+ulWmGFBBsEeDK-2BwrgEBACJQmllVvvZ11S3tVFLjpf-2B1raoClPLDL3e4S0soH6p6XuOGRrd8=
+pflbi0ZPL2Fa2Q5Fo-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2Fnt=
+ZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRauvXYLsPmdyOvk6PWYjmI5g8Y0ZKDFxF72AZ=
+DoJ5F21S6hiK8g8JhINcd4d-2FN21P13mDXubru0jKeLkw2DlHNCR4CzNNEAwEXoWxRD-2B2Tgt=
+XWyMzUM9Hd9T4Ha5MZPG1O7aoRNGh7Yt07IMwJiOcYl4ZgrOK3jnk2u7xdSFyaBj" style=3D"=
+text-decoration:none; color:#ad39ff;">
+								                            Eric Burdon &amp; The Animals
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Legendary rock n&#39;roll vocalist, who is a member=
+ of the Rock and Roll Hall of Fame, and hailed by RS as one of the 100 Grea=
+test Voices OAT.</i> <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy3IzKUtDnPTwjWvS2fWA7ukbWS4XxbT-2B7TMLcJk=
+Hhc5NA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6=
+TAUb-2BmXw1jn5N0kMbGMioExLf7QaRYLalzWsCAMsdadv7acHk8Za1LOlAfweK0hPPPFnuyzcJ=
+7HLlh3Fl14K-2B1LzqYAYs4tZ0hlBUvnXK-2FwFjs-2BUJ7UiFZ-2Bo33t-2FI9EO3DJ6U-2BGA=
+3PvmwC60AQTwHc-2FPV54DL7f04UR79jalDq6Nn-2FQLmB8wiqCTCZHIciUPcXDS8PV8">&nbsp=
+;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 8,  8:00PM at City Winery NYC
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXbaqX4RLWqlKqIj-2FA1DHf70f8lp-2FD2MP=
+WvsI6V4XOpoY50zwxZ1L1RP8l4XhQw9KGpXfA-2FCVxYNWABxmiJSVBXE-2FnPBB9eAEFoJsGrx=
+C-2FF1dvw6iBxfWGU11-2BdMtjGbVB1VBdzxjoEXE8yGB202NszGkQBnKegss2MMIWRLVtk8A-3=
+D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2Bm=
+Xw1jn5N0kMbGMioExLf7QaRdbXnw-2B3mVNZNp8HujPGwn9fvlISW-2BunEOBaB-2Fi7K5bZGgP=
+GMZKTwHkflTd9KniWc61OtoQCkNww0PAUAkOlRq-2F7C-2BPBbfU1qM3OWzhrZp7PcX1ROMHi5-=
+2FOUrAHrpDghD3DS6MnX4YRqwJhkjIZ8Vn7jSPs6fzjC26-2BiiJazdsmz" style=3D"text-d=
+ecoration:none; color:#ad39ff;">
+								                            Andy C
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>British DJ and producer specializing in heavy drum-=
+n-bass and electro-jungle. Co-founder of RAM Records. </i> <a href=3D"http:=
+//track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy39=
+iakMrQor-2F9WMEN7Oy-2BB26YiYOOUlQZzNyJZPEvNDRA-3D-3D_xb69N2IWj9cpa7VY1jz2n0=
+Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRcIOu=
+CTOHp1CF8WgYVpJ4feXhio9m0lQyrwe7dMCAwRg1z8Fds7so43ggU0lVQ4UW223k9d5a-2Fu0XM=
+eW4soxfj9esrPUPBAczaE2Ecu2AvfVt5IL3hdSFlWx4FblUsLPX49EWSqTlitPubghfVbp-2F9a=
+pj-2Bpgfh0RRfr2AoRizc4o">&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 4, 10:00PM at Slake
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgVZOf0ZBLatktRXZaw2VKKxBny9kYqAAibwK1=
+ySMS5I7CqPZ64Yr8TrQH1i7YIM8fX1x5mPbDJhqxRMaXfUAMXepkvbY4VNcyaLRiWIR1J1L3wv-=
+2FhqbW5LrBYtbTDFzFw1vdQhqnl-2FSmKqrAgUZQ5FO5MYThVtX7vat3ozYZUQCZUpDRwZtCd7B=
+wzi9gbA-2BZIA-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR=
+7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRWhpcqHpJqFNT2LDfFEqsLAUDdeGuKi8UaOTs-2B0=
+IRRIewtAv4W8SztSjDEMqjVTBcKEayWSOUlNefuAB5z8-2Fu-2B4kBEhJL757MWGgZx9EBa4uaI=
+7y4ANsSZgkHkoi4MdglTqxYVky5bvUABoTXTLCaZZiaVAqbj2wboEUbsjMmSFY" style=3D"te=
+xt-decoration:none; color:#ad39ff;">
+								                            John Hammond &amp; Marcia Ball=20
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Critically acclaimed New Jersey-based blues-folk si=
+nger, songwriter and son of legendary producer John H. Hammond. </i> <a hre=
+f=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmO=
+mCbuTDiy3FTy7UqVo0p26K0ybzMn1ongVgXDW9aseg-2B1KPlzCQAg-3D-3D_xb69N2IWj9cpa7=
+VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf=
+7QaRVgg5C3JlHgFOOnlFMqq24EwRMcIIxJp0BNsTjLFiAOLsrVXenHq1xSgMETAV0Dxr7UIZhgi=
+AhC-2FJyrSEXQX5wqigriidw-2FqqIrO7TkMsq83hNJb7qZiakfIh-2BCF-2FjbGq3iCo7PSoxo=
+ohMr2NwhYjqFyk1jJY2ke6vP8T2yUFghA">&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 10,  8:00PM at City Winery NYC
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgX0bw4rhOqUzX87hA8r5e2XBXPwXYuO0gUum3=
+-2ByVQpyOiu0fa7RH-2FwPu5KSL7cgTm979JLJyiwtl3xr3RZr23hbnFKBF2Alm5AFIUBALVbs-=
+2B1Anl-2FSLieheFnMAcpC6PWFi8akJ3H1ioeDf8M5h6UWVjdDrGPVLk38R5Xs6FNnQ2u8VdnAD=
+Yepaeu0P9YEu6uU-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZy=
+WR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRUQ6YtFet4n8S46JPdXoCZelLqiqVhbzdjxIWi1=
+Jp-2BijPNHwEl5YCaBns0cPgckFVTk5iTGAUu5PXU4Gy8vcsOLYIpu1ZM-2Fhics59LyURGKEIs=
+UXVqS3ojXCGOyg1J4ZnLLCdRzNHaXrTpoxdbARAHIkHi3f5FJr70u4j-2Fq5zkzP" style=3D"=
+text-decoration:none; color:#ad39ff;">
+								                            The Donkeys
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>San Diego-based retro blues surf-rock band. Sweet, =
+groovy, downtempo sounds.</i>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 4,  8:00PM at Baby&#39;s All Right
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgUhf4QFtzqQP-2FJktX9UqbeDqvC0MqIs6GwS=
+fUgX6DKzz202a3gcBNQtP4nI4zD13bVvDTJqzmxkLVTURD09uY5im3FbMk5cEwGpCrTJeeJOh7k=
+BBsV8Uwm7-2Fm3RUCax-2Fzei3tD-2B-2BsWa4ItajwSC-2BPwoy-2FjYn-2F8Ah4BkbKHDRLAG=
+Uq7RJBxIHN757RW6TGM-2Bn3NdxQ8YQb5adzcQ0c6gb33i_xb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRdBkCH2-2BG=
+wpy9o8OMjQKybSD5rE9hy1dzQQMDtXgfekXAq3ACb-2FBeyF9BBfTMVp2ucYt-2B8zb6ZjQnzWa=
+ifJGKRcGpU7BMiegyWGPXvPsjw4Gyjyo5l5Iq3D7d3oN6DSkSCAkspt4DeEwuBD7kbVmeNlhCP-=
+2F6zJBIWTj3a6hNtyS6" style=3D"text-decoration:none; color:#ad39ff;">
+								                            Variance At Night ft Roy Davis Jr.
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Chicago based deep-house, deep-groove, and chillout=
+ lounge DJ and producer. </i> <a href=3D"http://track.juke.ly/wf/click?upn=
+=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy3FgcAvQL4VT-2BmJL63L-2B3rqvrcS=
+Kk-2FhC1bFo2wLUh1X4A-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8=
+I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRYQ-2FbcV-2BDekmMSdVVH-2Bikfa3w=
+Tw6c1EztcfcTIKx1PTDvPEgaXs0UPrzuC6Gj6OELtOPaEdTBk6IwD9tm5N93SEJQZRRMJ-2BI3Q=
+i0A2NV9SpQPp72c9sj-2FKmSPeTVV7Q-2FOMKsi-2FkaLTAGtG3ubZ2kcjlcTcRDsb6WpN2c3W-=
+2B0L7-2Bt">&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 6, 10:00PM at House of Yes
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWBk3G1tQkfDhKjHSCUijHJPIiVVCbjDoDRFC=
+ZvEJeMv-2FM-2FV2NFBBc1fZ0wa9JObNMa0WGCwSA09cyofNy9dSxOM8Yne0iL-2FldWgrv7QEt=
+TtSYdXheRpQIxAKRvsq4-2BB-2FMkbKK9PGT-2FAGOhezIdZWhYBUdGNcdKwu8XUSTFbiOCwC-2=
+BhH5nlVpDlHzWYbv5fZV7ciQlwuV5jXX5K6T3xPfhr_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ=
+1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRcDjU2gP-2FtvCB=
+3BCoGIY9O3mwnlv98iVPuXDwarsOGv89JeDfWe9222leKt558pgFzkwugjVkIgaaf0NWx1sWJ2e=
+xL-2FPNKVjVSXrgmQujhCfjbOEEIqEpRr3jObWDChrcXNSxMLUnPMTFv8UXeDhxdyxu0q9I22XX=
+EzLkk33u1Vl" style=3D"text-decoration:none; color:#ad39ff;">
+								                            Arms [Solo Set], Turtle Island
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Brooklyn-based upbeat, indie guitar-pop singer-song=
+writer, and guitarist. </i> <a href=3D"http://track.juke.ly/wf/click?upn=3D=
+VXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy2GlSnu1U6HIhOsW6vENWLlsAZhCN8Zjq7=
+TI-2FxEFRc2tg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZ=
+yWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRYxRFQN4baJ-2Ft8nfk-2Bv5FIhscZaC2oSg7j=
+KSw2mGLm2-2B5mLn6NR9OOVX5ACqHYTedlmbZEn4FY2GvoLdXojprAXyYy1WcDRzkBdf3MrXjOO=
+eka7w8MQnbdrnOmDyqijRkOV-2BJhdUCQwqQAviNmJzkmf5oWG5mKQw1cnMJCV6T8VC">&nbsp;=
+&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 5,  8:00PM at Cake Shop
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXImZPHwp3EQt-2BNK7x5XW5voSfDBdeE-2Be=
+iHlak1J87nNjVHeo-2Bj79XDpjRGuZ2jTXpnhjfd87d-2FF21l8td79YoqqhuOE1gfcHg-2Bkqz=
+Fl7MDLwOmHiDaYd7choPu6sF7I1FX7kMmFAvySXHEiQjzqiZSIGCVBnzszzhrUGWffIBcM2RnAn=
+62pIELxZh9d-2Fv3DRs-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2F=
+ntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRdLtxlSopFYYvyU-2BMBPbh66A3Q6QPh8wf=
+lKkAUx0Cvld3JyERZP2nOd96Y1eBz8xDO3rUncfqrCChkQRhM12fplWwoLn0MVBKyFPnxpdzf6a=
+AGcJlEaoOt91fOpUs613FunBWn1GG3lZ55M30BAZJlgcpNdF72phSATNfVaClIPN" style=3D"=
+text-decoration:none; color:#ad39ff;">
+								                            Dinky, Ryan Crosson
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Chilean ambient-pop, minimal house and techno produ=
+cer and DJ.</i> <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XD=
+eyZbOHWoNdL8VtKmWixmmOmCbuTDiy2AA3TdMTNNb1U1Eto-2FdHK3ByG4Od1ti9HPo-2F994PS=
+plw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAU=
+b-2BmXw1jn5N0kMbGMioExLf7QaRSVBV2kMiOtmqUZ0bzsORtI1q4A8N1SU41o-2Fnde1ont8u5=
+ySz8-2F8yhG2c3nRVQ4aXP45PvGh0YNSlNXuEzuMYtVA2ar54tBSFuGPPdWJ-2BCjqzkR-2FQVx=
+7bkxwhjVt8ShcXJ-2B1TAyDqFT6Ap985-2F5x9UHJTQV5WHri9hG6bxcD7IJY">&nbsp;&nbsp;=
+ =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 5, 10:00PM at Good Room
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgW12TwQ7cF-2Bmjw4AIXCLomUD4QlcPqYPIk0=
+yhT03-2BH4q9DgRs-2B7Gaqm2d0rhSjt3X83-2FJbkSfyEgBeYZb44oApUbQiFy4Irj2fj8ALCM=
+Mm6tBDcn5kPnuEEiFfNKyPjgZ9RT6I1KdAS9aiAPlLVjyGw8gq-2FkVigTxFzRX-2Beiqap6A-3=
+D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2Bm=
+Xw1jn5N0kMbGMioExLf7QaRb48aSgzfnc2JDxGjCTdq-2Fpsk43FI-2FWxM-2BSdjXkTfSbLglz=
+9-2FbVW7ewMPVeuY4ckpHfbss0VRBwilltbou-2FWvA-2FVPVx8mxBNNFEbVcldHyzaC6N0Z0Ey=
+XD28EWs5ogOXcQlZMB8DGJleSFwdRXCZ0rPAmxUKW-2BJxYMD0rJp14v6h" style=3D"text-d=
+ecoration:none; color:#ad39ff;">
+								                            SSION
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>New York City-based underground art-punk singer, so=
+ngwriter, and flamboyant performer. </i> <a href=3D"http://track.juke.ly/wf=
+/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy03vcnNaooxjYBTP8TfUy=
+7osLVsG4nwlUpnK0PfYiTKDg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351h=
+vYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRRpP4CDTxXVpQSUtfpfGy2O0smC=
+7-2F52te5Y4Xg48VvkgPl9GLOrAGVymX1jUjeLvrFM8LwuMItTPh8l1Sw6tkGQUdHjS-2BT-2BO=
+BVEIfTdAYYd8TW8tNTIXs0UoXbHbvUgzOaAAgDlahuGJ8NFT4jQsPfwPdZzNy5TsYtOXRuoBxXX=
+H">&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 4,  8:00PM at House of Yes
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgW2kTG5uAW1jnnI8M0qFGGxti-2FbnHkkGk26=
+4xL9geHjCYuLCPauVOuF7KPWeZTvy0H1l8lzzKFRw7uHzwdcuiUL0srgwq8RKHVyePWoIFPqGhU=
+eNhqQ9oXitBaD3ErQ9ScvEYYhLtD4lMKQmX884-2Bt1E1Oyn9tTTvs0UnNj4rR0dui3dwgPI-2F=
+V5zkm-2FzPf-2BQGc-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2Fnt=
+ZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRY1JVYxL7io-2B2LaoHe-2B0MRC3EXgtLsIe-=
+2B1fO83DrNnfz1FY1Mugg8HPPlPuj45MSdt-2Bzx6J8NfTvR8GGLTDkfklL4Yl-2BtNpxplTfIl=
+0xepqFzTES9-2BhtS6xOkdzAmHN751Y43ZVr3QON2sCNJgpEXFpH-2B1nC1IaN67UeWyas9w91"=
+ style=3D"text-decoration:none; color:#ad39ff;">
+								                            The Show Ponies
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Americana indie bluegrass and roots folk singing-so=
+ngwriting band. </i> <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy2PSckOqezqusnHLLMCbzgVk2y8QMb0vkUZRiXV2R=
+7fYg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TA=
+Ub-2BmXw1jn5N0kMbGMioExLf7QaRfLVr6Ne6h5FoI4as6szNvLV1kTRAh3JR12vtiWOkeOoEik=
+fXcLd-2B8DujsBCPony-2FQKqTUymbrojvojXwn9CimuRqIpAgyNcibOT81LlRIXx26cSK49KE1=
+WZs7X6iPU-2FEPt-2Bu66YIyNLODFZfrws58uA7ipwXNr36GJ7do7ljeP-2F">&nbsp;&nbsp; =
+=E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 9,  8:00PM at American Beauty NYC
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgUOJV-2B-2Bzt6hL6rZT-2BEyQXxjf5ZYYUgx=
+M5bLl3k6HPJ3TkZcY95Xk8bBgW-2F8ulisBkelK90NhrVbkkefi2IfmSZzK8yrNuksue-2BuT1p=
+KrAvqEx5bCmALSidVGTQ1xGmZr5wzsrD9Ho9RfZWMDDweZR25keh41ibxn-2FGq4Un0vvjZD-2B=
+g-2FnbKkOwWPnBcU-2B9lVHCqQScaq3wHgieZrnoQFccdu_xb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRWxRA-2F1XR=
+MEBoxTufKOvRj3j7sT-2BtYfMWWaWE2HBKzcaVhpKajbpdrybopa-2FsdOPL8Ma5VnpMe9Bn3yr=
+KDlOItTLQJeCnWumenmG345YMeVhGO8zWlNAycg-2FiTUEXFzQYFUIPsROzeCSozbFi3mvkcr7m=
+3-2FD4nhoLEBJwF4ZbmPS" style=3D"text-decoration:none; color:#ad39ff;">
+								                            Junior Brown w/ Jarrod Dickenson
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Cottonwood, Arizona-based Americana country singer,=
+ songwriter and guitarist. </i> <a href=3D"http://track.juke.ly/wf/click?up=
+n=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy2nQAN2SKdPPhXDfke6Gv8f5u6b65n=
+TGCdPFRLTJVxIOQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2Fn=
+tZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRZUwzcGW4-2BPyHw4PBkopqLDz9sgup6iukz=
+PKPm7yuklpDglC-2BZI7eYuz6eP90E7BsopgGieWxVBlTU1Sdk-2BqZhzVJtdu5pJU6GgSgxHpI=
+MHmO0CgMHd8-2FkQqtVnH-2Fe9FkB-2BwE5y2crQ0ZEDEl9kE3pepmLoWXrGJ6789x77DLQ8h">=
+&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 11,  8:00PM at City Winery NYC
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgVGz6D0QeMZCmbYPyigV5yTMI7SDMNClZ5ig6=
+HZLmvI2yr9C-2FIbHl0Cg2apGg6l7VtGUBk51sLqzlMedDTc1GdzeOcbx3XElmEcUpV0sppzoHo=
+FVzlYmaR230Iwdo5vS533IqxfXQo6LSuglqRgjThsjvDKhgv-2FEB3ZU-2BQrLhdsGvFbORkL15=
+jeI8Azras-2Fd1k-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZy=
+WR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRdLv1grGcBk7nvS7I1H-2BzBerPbllsaOtUiNJu=
+TKktB1Mdmtnt5ZTJ-2BH1we6oOKg0d7RHJfq2m54u61KXG1Ipp79O6bZmZA4YwhPxudMeuJ1SIg=
+safE7xYJNwVmekzmjMeq73bnkolKY4EEuj-2FsYsBK2MbFcyQTodzIjUPi3hHR0z" style=3D"=
+text-decoration:none; color:#ad39ff;">
+								                            Trus&#39;me, Justin Miller
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>North England-based deep, deep house and disco-elec=
+tro producer and DJ. </i> <a href=3D"http://track.juke.ly/wf/click?upn=3DVX=
+mSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy2yD6B51PQ4NtMNmj1jryS6dVgpxfohMNYc1=
+julahyI8A-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7=
+vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRfMgVenMCHX6U7OLH7pi9u6xWlGpIrOJYddiGObejd=
+uxWHpILlFbELMswmdnFlrQPmcCRB0V2Gj20bQdvsx1UpMQmBf-2FJPv5w5JLyuBYqUoXtBMk0nd=
+h51x5sfVe-2FiOiA-2Fzc5UhIv4ZWk-2BAElmaPXCDCHeED7ZKeNSrUVFyiMhqj">&nbsp;&nbs=
+p; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 4, 10:00PM at Good Room
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+						<!-- popular shows end -->
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+						<!-- three-columns --><!--start albums -->
+						<tr>
+							<td class=3D"frame" style=3D"padding: 43px 0 56px;">
+								<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+									<tr>
+										<td style=3D"font:bold 13px/15px Arial, Helvetica, sans-serif; co=
+lor:#3f3742; text-transform: uppercase; letter-spacing: 1.4px; padding: 0 0=
+ 36px;">
+											SHOWS SUPPORTING NEW RELEASES
+										</td>
+									</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+									<tr>
+										<td>
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<th class=3D"flex" width=3D"590" align=3D"left" style=3D"verti=
+cal-align: top; padding: 0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td class=3D"one-col" width=3D"295" valign=3D"top">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td class=3D"col-img" style=3D"padding: 0 0 10px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWO1Hq9TnD6BGGxxbOBrFBPDIVjMkEaTDkYCKD=
+ip4S81cDsxZFcQNvOZFE4Uo47tydrJKYUvI8kRRu0ON48JSulDg8JTEyodb4f7SbHrKodDlx6yQ=
+aXQQJaa-2Fx6asrY9OS5-2B-2B-2BZ5Ahq1Ritm34-2BWax2BgxMTfwr39WUFBrt-2F4la4DErq=
+EShzk39A9HMVEnEjMY-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2Fn=
+tZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRVypImXEKRnrpNRfLduyVZlu-2BGVrEUsUh7=
+UI7MOT-2B9HIGozS-2Bkhu06IAQeueQQ7Oo4erUnJTkkya5wTwyDxmIPeEzW7sZDhz94z9sSGA-=
+2Bzog7p8LfNAmUGsuyebnsMsxeHGySUJI3G6stv6qgW-2BI-2Bn91q3HdSRc7Hi4y2MxiVRgM" =
+target=3D"_blank"><img src=3D"https://i.scdn.co/image/27cdf4ea631fb59027099=
+a5e59400b92b993063b" height=3D"295" width=3D"295" border=3D"0" style=3D"ver=
+tical-align:top;" alt=3D"" /></a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				<i>OK#2 =E2=80=A2 <a href=3D"http://track.juke.ly/wf/cl=
+ick?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy1aQADHWgo7IXV5TYbWmVAWC=
+XQjaFv-2FNMAcapEjnUX3Vg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+Yu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRcsbGbsBndrCcd7fCIYKXFNmqvQP=
+XT6vuyoY0Ikv-2F3Z122aA7kDmZSqiv8cooOYIR0o-2BbF8Y-2BSntd2XS9bXifK-2BwY38DJ-2=
+B6J-2Fr7wSaUzICCx-2BOj30AdBtqUemWmnHRK34T9Y1ELYLgxKh-2BteODY0DgmFGMgnl6xW7e=
+SXwjphK9Op"> =E2=99=AC</a></i>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:17px/21px Arial, Helvetica, sans-serif=
+; color:#ad39ff; padding:0 0 1px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWO1Hq9TnD6BGGxxbOBrFBPDIVjMkEaTDkYCKD=
+ip4S81cDsxZFcQNvOZFE4Uo47tydrJKYUvI8kRRu0ON48JSulDg8JTEyodb4f7SbHrKodDlx6yQ=
+aXQQJaa-2Fx6asrY9OS5-2B-2B-2BZ5Ahq1Ritm34-2BWax2BgxMTfwr39WUFBrt-2F4la4DErq=
+EShzk39A9HMVEnEjMY-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2Fn=
+tZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRXTl-2FUHpDrosQs44R8Q5EphkcsYf-2BTmO=
+-2BnjXL9loizywHgK8epbifCmXT3KGjCgO7AMfUp9tf3wtLiPcuBDneDcOr-2BwG3cQ-2BjQPxx=
+pZzLPpc2z66CCoUyvXWqlUVTr0F3usTeshslzvPcb8fF3y-2BBWQV8BCujQ35eSZQrTMAfZ6N" =
+target=3D"_blank" style=3D"text-decoration:none; color:#ad39ff;">The Fall o=
+f Troy</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				Aug 5,  7:30PM at Webster Hall
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td class=3D"one-col" width=3D"295" valign=3D"top">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td class=3D"col-img" style=3D"padding: 0 0 10px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXImZPHwp3EQt-2BNK7x5XW5voSfDBdeE-2Bei=
+Hlak1J87nNjVHeo-2Bj79XDpjRGuZ2jTXpnhjfd87d-2FF21l8td79YoqqhuOE1gfcHg-2BkqzF=
+l7MDLwQC90Ds-2BBXG5cbTZHK1bBYmn7LARYTxNqK0CO1skezmXjYdDCRi5v2dIPipxdt4vp39-=
+2Bdg5PLUJ559szBaclTU-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2=
+FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRUVzqTT1sV1MNJr9Rx-2F43fHxih9PWqbT=
+texv-2BvRdHpK14PicelEBL08Kw47OT-2F2Otnotq5vKbyI5WbdoVQrN-2F5vfFmVeNcU1YNEUX=
+nDNjzmEL-2BK0VVILX2XX0o4A2wJFRrX4xmsqlZtThAJZE8x2O61FDsQJ0I9SZnciV9OdybIz" =
+target=3D"_blank"><img src=3D"https://i.scdn.co/image/0eec109569552b8232b0c=
+93e3db4f4f0d94fa36b" height=3D"295" width=3D"295" border=3D"0" style=3D"ver=
+tical-align:top;" alt=3D"" /></a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				<i>Casa =E2=80=A2 <a href=3D"http://track.juke.ly/wf/cl=
+ick?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy2AA3TdMTNNb1U1Eto-2FdHK=
+3ByG4Od1ti9HPo-2F994PSplw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351=
+hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRSEveUhudCp1RICiYwksK0Ulsn=
+0PdQOwrAhsr58Lr-2Fu2lTRf9al7yvDdutpgubvig3A2I9AQl5Y31RZ1rg72XYLOKsGtNMpBlGk=
+MjBAW8Pv9c8aDCilkRmhQO4RuEYzULFStRi8-2FjCE0Joxu66cFzNO3EGyut-2FKYRE1Gl-2Fgy=
+Q-2BMc"> =E2=99=AC</a></i>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:17px/21px Arial, Helvetica, sans-serif=
+; color:#ad39ff; padding:0 0 1px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXImZPHwp3EQt-2BNK7x5XW5voSfDBdeE-2Bei=
+Hlak1J87nNjVHeo-2Bj79XDpjRGuZ2jTXpnhjfd87d-2FF21l8td79YoqqhuOE1gfcHg-2BkqzF=
+l7MDLwQC90Ds-2BBXG5cbTZHK1bBYmn7LARYTxNqK0CO1skezmXjYdDCRi5v2dIPipxdt4vp39-=
+2Bdg5PLUJ559szBaclTU-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2=
+FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRXQd4c3U7fSE6RUY1aCQWMbYkZW3LsyKuM=
+XcrVJ3LkeKJ1mNqWyQEmJKXNp8uxeAaXgRYt9pz5PqyJ-2B113po6ScUmjkjUr4awnSeT96aVfh=
+TsFLrWvMk-2Be9F0uDXelgXvoCOWUL28gom2CCjGiKc3kZEeqOwL7cehJ-2FvxXdytLC-2B" ta=
+rget=3D"_blank" style=3D"text-decoration:none; color:#ad39ff;">Dinky</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				Aug 5, 10:00PM at Good Room
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+															</tr>
+														</table>
+													</th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+												</tr>
+											</table>
+										</td>
+									</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+									<tr><td>&nbsp;&nbsp;&nbsp;</td></tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+									<tr>
+										<td>
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<th class=3D"flex" width=3D"590" align=3D"left" style=3D"verti=
+cal-align: top; padding: 0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td class=3D"one-col" width=3D"295" valign=3D"top">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td class=3D"col-img" style=3D"padding: 0 0 10px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXce48zpuWJNlA8guyHTDgxPmxdS48O6n5Ktcm=
+-2BtubLsD5Z7EsX4Zp61mAdBhR7qmceu3jGmEDdK-2BJMzUYbs8odqqIdLv2720Zmv-2B8G85nI=
+ycXlceiKszXFG7bF7QjOJ3H9PAvcuK-2FsDT6vNlMBknRa0dGCLGa6EwYJC-2B9q0R2S-2FA-3D=
+-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmX=
+w1jn5N0kMbGMioExLf7QaRT9ojRXiTf9KDiWQvZjMnLkTGsQUDSDI4D3V-2BFu8EGqusLfEADyO=
+yZu36UT3lQX5vHhD0L0whrtmd9iu3pl7RAGvW2p7SU-2F08vboUoLVLWMa-2FgZYmXwHIgDRhPU=
+7LvSTVmjmMPpau5iloBVuFuVCu-2BRVwcSqUqfTrJQdWg825Gcs" target=3D"_blank"><img=
+ src=3D"https://i.scdn.co/image/1615e67a4bfca648f5b16e9bf40cb6a9583a2c91" h=
+eight=3D"295" width=3D"295" border=3D"0" style=3D"vertical-align:top;" alt=
+=3D"" /></a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				<i>See Me High - Single =E2=80=A2 <a href=3D"http://tra=
+ck.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy2B-2FaF=
+ZF7Yj1jOS6qd34nwlmHHt-2B-2FH1b7L4rtGrW0OLLg-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql=
+-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRUjMXNWN=
+sqTZyQW1phcXc9FLJJUmAHZ5p7kuQgAiCz7kTtnP3Aye2PCbMyzzeikJPILjQVA6S-2Blam-2F8=
+25dhGM-2FG7tllHBy4Dn7OF1CRMuwdUOoBV-2BPnoxCq1VrILegODq-2FQ7pxsEiqQkPYjx5Ysq=
+JDBEENYlZqA3fKhofPFePNgd"> =E2=99=AC</a></i>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:17px/21px Arial, Helvetica, sans-serif=
+; color:#ad39ff; padding:0 0 1px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXce48zpuWJNlA8guyHTDgxPmxdS48O6n5Ktcm=
+-2BtubLsD5Z7EsX4Zp61mAdBhR7qmceu3jGmEDdK-2BJMzUYbs8odqqIdLv2720Zmv-2B8G85nI=
+ycXlceiKszXFG7bF7QjOJ3H9PAvcuK-2FsDT6vNlMBknRa0dGCLGa6EwYJC-2B9q0R2S-2FA-3D=
+-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmX=
+w1jn5N0kMbGMioExLf7QaRUaFL-2B7JNTF6E6hstjKfwu4JuzS6hnx7PoagxxwjoyqMeu-2FNmA=
+7OImVSjhoObwMFhYyBRrkYrEX-2F8mK6WjbR9Y5XemYdxJVtymTmZkEEMmDGEXU3cM8O4klbVA6=
+bv04rTDIs1EAYKeoYqjWs0QDeCUOfXSTfu1Rfhl9Mb-2BkbmYGi" target=3D"_blank" styl=
+e=3D"text-decoration:none; color:#ad39ff;">Alex Wiley</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				Aug 4,  9:00PM at The Knitting Factory
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td class=3D"one-col" width=3D"295" valign=3D"top">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td class=3D"col-img" style=3D"padding: 0 0 10px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXb17FbZpbgK2hg-2FVx2rUbk-2Bwe7EULTeQM=
+yDmMDUHoBHrw5Wi8zd22Z-2FH-2Fn3-2BQOlvEXLi8dtztPBZWy9iSJGvkQ91qaY8utNCiFblLR=
+GOykfxExvjkf-2B2ut-2F3JOHFtbZj-2Bq4cMh5TwGp2CoCd-2BUvwB-2BNKlRSzFNm0b4tEiID=
+m9KCPnLMjfnhraMikq1NVVniXk5ldrxsf-2BIGuqA-2FplOIf3G_xb69N2IWj9cpa7VY1jz2n0H=
+ql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRaB8o-=
+2Bl6PXzaR5KwlvhfO5XisqapRcYnGdZJf6G5Ybi-2BGVDKArzW62ksjAkZO-2FqETF0ksFglNzq=
+nz5cK0cpLpqKe526iRjEXLpeqCem19c4xHEgUI7RtK9oDeVbBoJCyQVLVvqv-2F1tc8VGsnbwwJ=
+fG204zpc-2B4AJ7h88B-2BFFwVF7" target=3D"_blank"><img src=3D"https://i.scdn.=
+co/image/66edc9a934a013b9ab69def045739717b9be6034" height=3D"295" width=3D"=
+295" border=3D"0" style=3D"vertical-align:top;" alt=3D"" /></a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				<i>Seein You =E2=80=A2 <a href=3D"http://track.juke.ly/=
+wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy1haFpE44V8Ca-2Br0E=
+MYzOGC-2FlMfZe4N-2BpffnBjmtqNq7w-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2=
+BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRVVyYCEx-2FYzoEz-2B=
+Pf6Eh-2FXb-2FMyOcNCoY9vEF39WPJnEY86SLW7Gs1zvP1KlC21CI-2ByL94ti-2FRmj9xoYDPB=
+0Ejhunb0dLZwKCJvLnIm2bW4HM58pUf4Lmsxdz54WW79SgoxAtOUWZQbBrqyjGDZiHqojDQCQrV=
+rlpKlIQgYHkGx8E"> =E2=99=AC</a></i>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:17px/21px Arial, Helvetica, sans-serif=
+; color:#ad39ff; padding:0 0 1px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgXb17FbZpbgK2hg-2FVx2rUbk-2Bwe7EULTeQM=
+yDmMDUHoBHrw5Wi8zd22Z-2FH-2Fn3-2BQOlvEXLi8dtztPBZWy9iSJGvkQ91qaY8utNCiFblLR=
+GOykfxExvjkf-2B2ut-2F3JOHFtbZj-2Bq4cMh5TwGp2CoCd-2BUvwB-2BNKlRSzFNm0b4tEiID=
+m9KCPnLMjfnhraMikq1NVVniXk5ldrxsf-2BIGuqA-2FplOIf3G_xb69N2IWj9cpa7VY1jz2n0H=
+ql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRclPjj=
+3TeLIHWw3pBOIrBDBEdYQqqPSA-2BJPu1gSgw6yBYrF65tby9iJ4vRvUbqFUTcKv1s9cl6fOp3v=
+9Ndlfz8-2F9GSCL-2BJ-2F2zgVEvx8w5wlAbfSkqy8N9hB8aX77EKROFQ8KrOtzKRRj7lYEdTOU=
+X9kX9PXQ6h631MKoPXzKDDlX" target=3D"_blank" style=3D"text-decoration:none; =
+color:#ad39ff;">Eli Escobar</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				Aug 7,  2:00PM at The Well
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+															</tr>
+														</table>
+													</th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+												</tr>
+											</table>
+										</td>
+									</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+									<tr><td>&nbsp;&nbsp;&nbsp;</td></tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+									<tr>
+										<td>
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<th class=3D"flex" width=3D"590" align=3D"left" style=3D"verti=
+cal-align: top; padding: 0;">
+														<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+															<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td class=3D"one-col" width=3D"295" valign=3D"top">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td class=3D"col-img" style=3D"padding: 0 0 10px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWHZFsVIaFZWSqIWwHtfxAcIQjgT20-2BpHMca=
+uCOzT0X-2Bl6raxu9hnsOcf3SfNPHTp5oZyQaAXGoZS6Yvat6wmSOgm9ydQAo6MrcmQg1TcHQsI=
+70MpPZ3QgAPbl2X2WkoopEdHKvg3Dja3uLsWREzZn8KVe-2BdDjwby0fh0M51DoXzc5DKqzKyJg=
+mH-2BxbtEzFsLo-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyW=
+R7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRfsabG-2BWs83SfL-2BoTzgcbqwe1q5SfdGC1F8-=
+2FBf-2FgAXR028BA1rrGaPLVZ6aTQO7HIX8OnNgF9pqR99pbue6UMYXurX0R-2FCBGA31gwbWyu=
+G8qbn3eNHTRDguHJoxHQY2oXRH2q0mU-2Fs9tN-2BC-2BgHZe5-2FSB3KtVdPXvX2PfLG8EtZ4R=
+" target=3D"_blank"><img src=3D"https://i.scdn.co/image/d227614227a821327a4=
+e3dcc96154e99b973ab99" height=3D"295" width=3D"295" border=3D"0" style=3D"v=
+ertical-align:top;" alt=3D"" /></a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				<i>Flux =E2=80=A2 <a href=3D"http://track.juke.ly/wf/cl=
+ick?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy248xtzC1yHGtTRjnPDUhD-2=
+Bs7fPC7ljZPbogRMEMia7QA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+Yu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRVlRstcxNjWlz8drgv1TtkYceLH0=
+pPdEc2QVv8Er-2FBV1dFbxu7Y-2BZ7LvQ30mEq2KL5fVWRk2TzK1qMJ7Fzp2OuV6cBWOEBr5FSw=
+h09kXMyFeQthkIJlilpqjy-2BrZvbaDiv51u0EYx4tIDUl9lHOUdP06HW7t-2BI3QgPt7AuL6fA=
+Ud"> =E2=99=AC</a></i>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:17px/21px Arial, Helvetica, sans-serif=
+; color:#ad39ff; padding:0 0 1px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWHZFsVIaFZWSqIWwHtfxAcIQjgT20-2BpHMca=
+uCOzT0X-2Bl6raxu9hnsOcf3SfNPHTp5oZyQaAXGoZS6Yvat6wmSOgm9ydQAo6MrcmQg1TcHQsI=
+70MpPZ3QgAPbl2X2WkoopEdHKvg3Dja3uLsWREzZn8KVe-2BdDjwby0fh0M51DoXzc5DKqzKyJg=
+mH-2BxbtEzFsLo-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyW=
+R7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRaKndqIlSMG7pRW-2F65VnbRdBAEODlJfuixhPd9=
+U9VpXwM-2FYf3mH2-2FCgKgTwU-2BrIZ4E0qEbVN9Fen65DaWUSKymkTln1TLZQJDL0L30oWgyo=
+GMSzTTFSCUaDTz97ktbVcLguPfMyR2w210VmxXi6XXW2WU7yS6jvppKuU8KDGpmZW" target=
+=3D"_blank" style=3D"text-decoration:none; color:#ad39ff;">Rich Robinson</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				Aug 6,  8:00PM at Highline Ballroom
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+																<td class=3D"one-col" width=3D"295" valign=3D"top">
+																	<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																		<tr>
+																			<td class=3D"col-img" style=3D"padding: 0 0 10px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgUZR9aPiA-2FMQTq7xHwkHQKkkUTxI82SKu48C=
+fihniLF6tPw06c-2F-2BnLGby6hCRtNMv3U4SsukCGnMzb-2FItLpk7M1aOKtVkkFBLNgmni1-2=
+Bp1kWwt1BpVXoZPk3K6KzT0TDZwROFImVQ9yYGgCiqDxKDZxzSU5RDmnCvGZ0YgHCW2dyw-3D-3=
+D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1=
+jn5N0kMbGMioExLf7QaRWMrG5uzEejFjq3svugnT1HvjF6JOXFd22n2VshAhaWmNn-2FuUGqRQP=
+oOX9nrmzaBkqy3ChdS0q1jab3nX9-2FzIxxdjm7SHqdePGKBSStlIi02QFvE73QtlipXyu0mtDK=
+aKxVyVyzt62n-2BYWDQrprqqyPvNyrsQWslk8-2FaKr1T5kiF" target=3D"_blank"><img s=
+rc=3D"https://i.scdn.co/image/689648c715a63f678dd8b206176c54b4f5f0cc34" hei=
+ght=3D"295" width=3D"295" border=3D"0" style=3D"vertical-align:top;" alt=3D=
+"" /></a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				<i>Best of Raghu Dixit - Kannada Hits 2016 =E2=80=A2 <a=
+ href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWi=
+xmmOmCbuTDiy2ArK7rvDgqqnXgNo7mFdRflQVOE4CMFEZuhbpCtT7YoA-3D-3D_xb69N2IWj9cp=
+a7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioEx=
+Lf7QaRWyNkBL2o4hDiktKw0Nvl6yiqIGs1w8B8767cw9CJylbu-2Bcb2jTmpK6SnUYWM2HcAqXw=
+OX7ALZs225tM9eybejTN1zdmbiOyazerJomPQfLeboFXOYslsP0yhOMjJqCd7q7GYmFtaBOXU8i=
+NqWiOEkclbErse3LX69mf7G2SsRrt"> =E2=99=AC</a></i>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:17px/21px Arial, Helvetica, sans-serif=
+; color:#ad39ff; padding:0 0 1px;">
+																				<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgUZR9aPiA-2FMQTq7xHwkHQKkkUTxI82SKu48C=
+fihniLF6tPw06c-2F-2BnLGby6hCRtNMv3U4SsukCGnMzb-2FItLpk7M1aOKtVkkFBLNgmni1-2=
+Bp1kWwt1BpVXoZPk3K6KzT0TDZwROFImVQ9yYGgCiqDxKDZxzSU5RDmnCvGZ0YgHCW2dyw-3D-3=
+D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1=
+jn5N0kMbGMioExLf7QaRcRFUkmKGSflEtvEiUEn6KxJwVHt9adbpzDitRfk-2BO93-2FmND-2FN=
+DOwXy9n-2FnpMfWrBDjR3txlw4GjRqZzP4ogGdTjPr6MzW3Bpa6gtmm8BXcxYzhuucfkgBgAhmh=
+NnBIt3CVtqb-2BLiGpBUh3I3Rj5kj8fKtH7gvNIuPXMu43ncMNj" target=3D"_blank" styl=
+e=3D"text-decoration:none; color:#ad39ff;">Raghu Dixit</a>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font:14px/17px Arial, Helvetica, sans-serif=
+; color:#b8afbc; letter-spacing: -0.1px; padding: 0 0 7px;">
+																				Aug 5,  8:00PM at Highline Ballroom
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+															</tr>
+														</table>
+													</th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+												</tr>
+											</table>
+										</td>
+									</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09
+								</table>
+							</td>
+						</tr>
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+
+
+<!-- new release shows end-->
+
+
+
+
+<!-- shows you can walk to begin -->
+						<!-- shows you can walk to end -->
+=09=09=09=09=09=09
+
+							<!-- contests begin -->
+													<tr>
+														<td class=3D"frame" style=3D"padding:0 0 79px;">
+															<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+																<tr>
+																	<td style=3D"font:bold 13px/14px Arial, Helvetica, sans-se=
+rif; color:#3f3742; text-transform: uppercase; letter-spacing: 1.4px; paddi=
+ng: 0 0 25px;">
+																		UPCOMING CONTESTS
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNfthbT8z5U8idb0yKe9jtl29zkRODFRRWV6r0cd9GhPnOKXKCqX7BVZmDSverb=
+ytuNDBZhyrfIsm0-2FqAUM5NM6ZG-2FpxkyfD8g8dBl1S5GQILRcz5EeI-2BY2h2au8Yq8E88Ne=
+K-2Fm0vLv7yr1pooMcyIlgZMNRih5RFbNo76WOq9nisP0wxtT1J704wvrXwVHezuO88wNte0O-2=
+F9QLphN4vJ-2FMLoAMeTzXGYRkkHlUMeNZwY_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZ=
+Aa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRXQ0T1q7gNUBEk-2FTyYX=
+veSbAXyxt74XKsb5LFRBMzdU7aOgaA5noIDRavCbJA8RVIYKXskolzkJuocTmDMY0OsK2kPTQYS=
+KMOFkOcK8ZiEmLIkhQ7O0D7sZ-2ByDaNAxyU4if3y6y0ZvcsrLm-2FKPn7MKuOi-2BasylgWcDq=
+nsdBreFml" style=3D"text-decoration:none; color:#ad39ff;">
+								                            DJ Questlove Presents: Bowl Train
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>New York City-based pop, R&amp;B, and dance DJ, pro=
+ducer, and member of The Roots. </i>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 4, 11:30PM at Brooklyn Bowl
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNfthbT8z5U8idb0yKe9jtl3XZFDbquSju-2BBNk8K1B08Oai4cHV46b-2FOzLi=
+O9DcGLo5o5gmhZ2PKFhORGaynRM9TxmEmVn05zhu42gNW-2FVfZ339ICT6KPY-2FKHp4DWYuGmZ=
+QftsOgN-2B7-2FOwbgxUHaJEIfw1of89p69cxCAEtmYBl-2Bd4yNlhUOa154hh4y4bBGcppCmXN=
+icvk5d5-2BK67BnGQRg-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2F=
+ntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRZU7rswN67LgHoJm5cI3dbCaCfolceqgH8A=
+RR4EzFF4CTR7obveRJ9DXBVeqvO1EmMByPP3nFicdJHrpjuJ8KG5PXLK8WiQXBtfghxCW5rtS74=
+t7tuY05xpPyajXy01fbfNolqqg2iXgbjVk5gaVN0LtoK8kwM4v2lH5dFPZ7Br-2F" style=3D"=
+text-decoration:none; color:#ad39ff;">
+								                            Hank &amp; Cupcakes
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Tel Aviv + Melbourne to Brooklyn + Atlanta-based sy=
+nth-pop and modern-indie rock duo. </i> <a href=3D"http://track.juke.ly/wf/=
+click?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy0ayN2SjO6iDEBp7rnRn-2=
+Fb3SSkgn2RurqZ7SWGaQ8UOLQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351=
+hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRYgEH4XkdbwKDJuB3-2B2ekVuM=
+Z2TzLK9WU3O34M3X-2F3n2L8WAnjYp5AFjcoz6PCDFgqK84aQNhDv3pvNs3qYxRdyyC-2FhpElP=
+vycq16NGf2NvaRg6QOjkOHhm3zsRP7SniiqtRpczMk7J4c6TwDh6CjbZjH0-2F7GuC5lnX8w3KT=
+heMB">&nbsp;&nbsp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 11, 10:30PM at Le Poisson Rouge
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td style=3D"border-top: 1px solid #e1dee2; border-bottom:=
+ 1px solid #e1dee2; padding: 11px 0 12px;">
+																		<table width=3D"100%" cellpadding=3D"2" cellspacing=3D"0"=
+ border=3D0>
+																			<tr>=20
+																				<td style=3D"font:17px/21px Arial, Helvetica, sans-seri=
+f; color:#9b02ff;" width=3D'55%'  valign=3D'middle'>
+																					<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNfthbT8z5U8idb0yKe9jtl1skiigjLdbpaSpSmIp3y5WWywmcO0uW65jJyHuQv=
+b93lLA0AX4-2Fs7T-2FHeuQGfSngJL5blwMKx3m-2FxrZLtQEBx8CurUSBxk03ejSiXr68-2FV0=
+yT44iFENsIZMrRU4boQ8g2X0U-2B3wakWE5khIqL61qrNEAjuIwjy5HmjuoPEsL9hWdcJcXIi28=
+91yvwqdQ4t-2FpY-2F-2B-2BvFZoe47ZI5jiO7w00e_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ=
+1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRQspjUApbvjFEZK=
+3wm28alRBylxvMSwEK89FIGOg0X9Je4rPysUep6m5WH3WWoLtdl-2BlincVdvq7NbRZDSyCU7MH=
+yaV5S-2Bi3VIl-2FDMTHY-2Bmury-2BFddAz89Jje4URUCtjTPYwlhBiHyDmiN77jqxIskI3Sq0=
+C9ZdWl3CSA57AzOt0" style=3D"text-decoration:none; color:#ad39ff;">
+								                            Johnny Osbourne LIVE w/ The Skadanks
+								                          </a>
+																				</td>
+																				<td style=3D"font:11px/15px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  width=3D'45%' valign=3D'middle'=
+ rowspan=3D2>
+																					<i>Jamaican dancehall and roots-reggae singer, songwri=
+ter and producer. </i> <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSP=
+phKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy3ieNW3FZFGX4UBM7yhaXmt5znz9eYpsh-2F7N7=
+GJfVaJRQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7v=
+E6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRbtAHQymzhHUrvp7blfE7qqI-2FkzEXRoG2kRPscO2U=
+G32oxWlSCgajBwheSYK5eUeGRIclRiMHSKorfvcIJLiVBa8tbhrIMKol46VVK7Leuaa0xQhdDKy=
+zOW-2BQX5NASUYSbsmPmDR-2F4qCDm-2FCBih-2FEN2semJUffA12B0UyIcZoizQ">&nbsp;&nb=
+sp; =E2=99=AC</a>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td style=3D"font:14px/18px Arial, Helvetica, sans-seri=
+f; letter-spacing: -0.1px; color:#b8afbc;"  valign=3D'middle'>
+																					Aug 5,  8:00PM at Brooklyn Bowl
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+						<!-- UPCOMING CONTESTS end -->
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+
+					</table>
+				</td>
+			</tr>
+
+			<!-- violet-block -->
+			<tr>
+				<td class=3D"block-holder" bgcolor=3D"#2c004a">
+					<table class=3D"flexible" width=3D"600" align=3D"center" style=3D"marg=
+in:0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+						<tr>
+							<td class=3D"frame" style=3D"padding: 73px 160px 66px 0;">
+								<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+									<tr>
+										<td class=3D"block-title" style=3D"font:30px/36px Helvetica, Aria=
+l, sans-serif; color:#fff; padding: 0 0 11px;">
+											Go out with us, every night.
+										</td>
+									</tr>
+									<tr>
+										<td style=3D"font:16px/24px Helvetica, Arial, sans-serif; color:#=
+fff; padding: 0 0 39px;">
+											Get guest list access to all of these shows for free with a mont=
+hly membership. 14 day free preview.
+										</td>
+									</tr>
+									<tr>
+										<td style=3D"font:bold 12px/14px Helvetica, Arial, sans-serif; co=
+lor:#ff93dc; text-transform: uppercase; letter-spacing: 1.1px; padding: 0 0=
+ 41px;">
+											$25/MO
+											 &nbsp;&bull;&nbsp;NO OTHER FEES
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<table cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<td class=3D"active" align=3D"center" style=3D"font:bold 12px/=
+12px Helvetica, Arial, sans-serif; color:#fff; text-transform: uppercase; l=
+etter-spacing: 1px; border-radius: 2px; mso-padding-alt:14px 26px;" bgcolor=
+=3D"#9b02ff">
+													<a target=3D"_blank" style=3D"text-decoration:none; color:#fff=
+; display:block; padding:14px 26px;" href=3D"http://track.juke.ly/wf/click?=
+upn=3DYWrScHOWkkBE9V0yoT65R22oy4bUoddl2GwKn35NS9yh8jgytkz-2BAD1uKVT6Fu7DR64=
+uP-2FgrgDNs7-2B1StiMBSA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+Yu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRWbUIZOLiDbDOEL-2BZTjbRXCDOu=
+QKS6mQ4UQxWetG76-2BR0rwY3wKig-2F5BvmFD70zr77UD-2FqvVPWP-2FAnuKJSlvpqdLj-2Bh=
+Mf5vC5vTNF5UeXKAyilY7avbcYq-2FTpsyjnO4iPv2y4jtK14480g1Tt9eVEbcual66Y9jp3-2F=
+bSvZTY1xDh">LEARN MORE</a>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<!-- pre-footer -->
+			<tr>
+				<td class=3D"block-holder" style=3D"border-bottom: 1px solid #e1dee2; p=
+adding:0 10px;">
+					<table class=3D"flexible" width=3D"600" align=3D"center" style=3D"marg=
+in:0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+						<tr>
+							<td class=3D"pre-footer" style=3D"padding: 58px 0 63px;">
+								<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+									<tr>
+										<th class=3D"flex" width=3D"380" align=3D"left" style=3D"padding:=
+ 0;">
+											<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<td class=3D"aligncenter" style=3D"font:bold 13px/14px Arial, =
+Helvetica, sans-serif; color:#310842; text-transform: uppercase; letter-spa=
+cing: 1.4px; padding: 10px 0 0;">
+														GET ON THE JUKELY APP
+													</td>
+												</tr>
+											</table>
+										</th>
+										<th class=3D"flex" width=3D"43" height=3D"30" style=3D"padding: 0=
+;"></th>
+										<th class=3D"flex" width=3D"174" style=3D"padding: 0;">
+											<table class=3D"table-center" align=3D"right" cellpadding=3D"0" =
+cellspacing=3D"0">
+												<tr>
+													<td width=3D"46" class=3D"active">
+														<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDey=
+ZbOHWoNd8ffg6uHTK-2FIqFajoj7xN5rL7sSbDVTxGB3hw81xnNMEu8CrZh-2B7U0PkahJ4xEgZ=
+Q-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-=
+2BmXw1jn5N0kMbGMioExLf7QaRRlJHzYDzjvIgvpvwIgKXLwvnkvt1wI7K726nk2huDpbI91zOE=
+SRbt3cwFl5uC2YaIl8Kdx-2F56tb8h-2FmaOoEGebnAkpi03PGIrSnI6vdYiR0tWRJ9rywzUlZU=
+tgr88F1EDrL6Uxq48fTZXM6VCQQlo4Bz0NVgJZRwF0QZMXsQuwS" target=3D"_blank"><img=
+ src=3D"https://d2dhyi9s53vuf7.cloudfront.net/email/ico-android.png" height=
+=3D"57" width=3D"46" border=3D"0" style=3D"vertical-align:top;" alt=3D"andr=
+oid" /></a>
+													</td>
+													<td class=3D"w55" width=3D"82" ></td>
+													<td width=3D"46" class=3D"active">
+														<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDey=
+ZbOHWoNapuL9e3hDYgb5ezVvbBoWJ-2B8Gq1oMEuonIsixgWwV6ZTnPCLWpO-2BTjf9iQDmDXV-=
+2F2F-2BFmrmCI1RqSTiLcKWTb7R-2BsY-2BKB9r-2FWGMKNsjvG-2Fr_xb69N2IWj9cpa7VY1jz=
+2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRd=
+S70FU5VMmFdjTknJid8CpnEYQoihipE-2FIaLCAggdbpcQU-2BYctZzuVCHubu1dxX3-2BZ1p0P=
+EbquwbXcKM6rtLkTn8i0Ayt5aQuj6d55ojjo5uUHXmhubLjEb0ec-2BFgDWs4eJGsRnBgVuho3c=
+4EChMbDwyNc-2FD0uwJbLZ64NW2kdN" target=3D"_blank"><img src=3D"https://d2dhy=
+i9s53vuf7.cloudfront.net/email/ico-apple.png" height=3D"53" width=3D"46" bo=
+rder=3D"0" style=3D"vertical-align:top;" alt=3D"apple" /></a>
+													</td>
+												</tr>
+											</table>
+										</th>
+										<th class=3D"hide" width=3D"3" style=3D"padding:0;"></th>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<!-- footer -->
+			<tr>
+				<td class=3D"block-holder" style=3D"padding:0 10px;">
+					<table class=3D"flexible" width=3D"600" align=3D"center" style=3D"marg=
+in:0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+						<tr>
+							<td class=3D"frame" style=3D"padding: 51px 200px 40px 0;">
+								<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+									<tr>
+										<td style=3D"padding: 0 0 37px;">
+											<table cellpadding=3D"0" cellspacing=3D"0">
+												<tr>
+													<td class=3D"active" width=3D"28">
+														<a href=3D"http://track.juke.ly/wf/click?upn=3DFmrldxErjk26cy=
+mxNCOYaQOPF0-2FI1t-2FBahknMj8qHTEMh9vbU7sKJbZSvYerjEdd_xb69N2IWj9cpa7VY1jz2=
+n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRSR=
+hw9xX5ruRedFuoxW5LRbGDUKAhSTQTvJGUuD4srh65pat8wzL02qIKoLatNSrS40sQPMn8d-2FD=
+-2BSNV-2FIQbIDXZTI47dHmfvSYMAQC2wpdFP-2BfaYGH2qXFF7tDcBb2MwZeAjXJYC-2BIPkIU=
+548q7deYV4iWshQN-2B1P2K6sPdO64Z" target=3D"_blank"><img src=3D"https://d2dh=
+yi9s53vuf7.cloudfront.net/email/ico-instagram.png" height=3D"28" width=3D"2=
+8" border=3D"0" style=3D"vertical-align:top;" alt=3D"in" /></a>
+													</td>
+													<td width=3D"21"></td>
+													<td class=3D"active" width=3D"28">
+														<a href=3D"http://track.juke.ly/wf/click?upn=3Dq5GdJANgzHoODm=
+OQ9g28etjvoARZJGU8EJDCUp6x56kctoUhNZjUSLziKBTse5hz_xb69N2IWj9cpa7VY1jz2n0Hq=
+l-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRTrEzib=
+2sZWbXoGBZ3UTFHIiB-2ByLp8r8-2FZrvrLdVUKKWW5tPCy0JfJvqGLQROIBe0wr9j2nEn1AK3w=
+r8X9M26e7ViJXYaDY7H4hkQ5jqXJctOl-2FxvnJUTC3cy62dwLLfatkNLjvltmkoSCxo5FcF6u6=
+o-2FVmHokZ1G2nZplkt8JiK" target=3D"_blank"><img src=3D"https://d2dhyi9s53vu=
+f7.cloudfront.net/email/ico-facebook.png" height=3D"28" width=3D"28" border=
+=3D"0" style=3D"vertical-align:top;" alt=3D"fb" /></a>
+													</td>
+													<td width=3D"21"></td>
+													<td class=3D"active" width=3D"28">
+														<a href=3D"http://track.juke.ly/wf/click?upn=3D3QihKcNaduXmwD=
+LFG1HPsayBqYclg2yfoviy-2BmryIZhYQeAePxBLP9FyLZ2d3rDn_xb69N2IWj9cpa7VY1jz2n0=
+Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRWxAF=
+DnFCccUj-2BBOwD6XKsrg0WUtbqqpU9kK9iiXQm8ASgVJtr-2BwvIZEkP0T2dyxSQbL7u-2FI-2=
+F-2FkroZ63yYBRKj-2BgMXmuLxB3EaIUkBehXB1Npj6t0Mgn2S95y4u4gAH-2BZb-2FUXG5tJbg=
+gnIuH7zd5RlZRVfxbHagQCji6Qy6QfVyR" target=3D"_blank"><img src=3D"https://d2=
+dhyi9s53vuf7.cloudfront.net/email/ico-twitter.png" height=3D"23" width=3D"2=
+8" border=3D"0" style=3D"vertical-align:top;" alt=3D"tw" /></a>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; color:#=
+c5bdc8; padding: 0 0 10px;">
+											Copyright &copy; 2016 Jukely, Inc., All rights reserved.
+										</td>
+									</tr>
+									<tr>
+										<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; color:#=
+c5bdc8;">
+											If you wish to stop receiving the weekly digest simply <a href=
+=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNfthbT8z5U8idb0=
+yKe9jtl3PRmAXzA-2FnHGA-2FiKuM7sbkHI85hoRVSVXsZmVDbR30Gg-3D-3D_xb69N2IWj9cpa=
+7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExL=
+f7QaRSMCZCaZ1pfEyxrfpUp7xvKQ5i9g5QhYrAmidaFV2YZNsMsHhXARwNXghFxqR1iheYo83nI=
+4edVGMMWCUdCZA7c4mxjqzaxd7hb5D5aaKbCkJuAtXbWWdbYo5xLNHvrQAFsGIAD-2Fqjk1ogTI=
+dzoGfwXpEd3SRpl-2BR4hvXlZYFRn2" target=3D"_blank" style=3D"text-decoration:=
+underline; color:#c5bdc8;">update your preferences</a> or <a href=3D"http:/=
+/track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNZaTE-2BFP-2FtRzN1umYnV-2=
+BTnWVMTZussQkR1rwt2IIKvG5JM-2BGZ5BIG9GGqqVgMp3gSteCEa0PTrXavAaTz6oZqPqWHWQ7=
+c-2F41YG3f829E3GuffrWSSijji-2FEsOlFeBM49xUIIiV6rGvQo5snwNuxdV0Q-3D_xb69N2IW=
+j9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGM=
+ioExLf7QaRdWbdQ6s8DcYS5nI2aRmGkfofik9CdWRwXnT8-2Bs87wv-2FIwlBi3DPph6P5EsIxr=
+ot8-2B0ahsgEqjvAoUBgyhZPT0ZIObtcolPCib6M8QK80sg6z-2Buwp3PS2BqB63o5zRlQtNoKf=
+8VRHE7-2B5YIXfCk5hydqE0DQ-2F7Lqa0uyDnLMcwnM" style=3D"text-decoration:under=
+line; color:#c5bdc8;">opt-out</a>.
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+=09
+<img src=3D"http://track.juke.ly/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYu8I-2FntZyWR7vE6TAUb-2BmXw1jn5N0kMbGMioExLf7QaRaY4iU7QIRD=
+-2FK9ZclLiIaXPM8Ihpu8wIrm6nFhoJTU1hc4kDEsUM2ByYU597PlQFwq1V-2B4GUXSYEVNEY8u=
+5fwE-2FJU7WT-2FTEQv2ygo8x4srXmUV6OBD0PlAPzUxcPJcpRIk7dXQKij3hLSosdUlEUzQV8f=
+bF9hBAKYaTxzqae5t7a" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+

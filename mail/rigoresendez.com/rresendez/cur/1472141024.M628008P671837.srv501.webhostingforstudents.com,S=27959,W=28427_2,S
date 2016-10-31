@@ -1,0 +1,468 @@
+Return-Path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id CbRfJeAWv1ddQAoATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 25 Aug 2016 12:03:44 -0400
+Return-path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 25 Aug 2016 12:03:44 -0400
+Received: from o1.em2.juke.ly ([198.21.7.97]:35864)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>)
+	id 1bcx83-002pE8-Pc
+	for rresendez@rigoresendez.com; Thu, 25 Aug 2016 12:03:44 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=juke.ly; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject; 
+	s=s1; bh=v2gc9AGW4iUc3MXbbACFrJh/x5Q=; b=Xz+inbOF0uBzSIs64fl5nXc
+	tYABS4HAsVD4HiATjV/+/Cv7lUHDruoCQk1NpOH4saQZcn5KMxCeLNj884wSc3KD
+	ZRg9rSJZZ4jbc+siD+rbi89ooWy35c+9RcltUk+kU2ojiboa8gpcc45Em+0LmBj9
+	VgcQClm3v4zwdlJkhN4k=
+Received: by filter0926p1mdw1.sendgrid.net with SMTP id filter0926p1mdw1.18299.57BF16AF31
+        2016-08-25 16:02:55.857256337 +0000 UTC
+Received: from MjY4Nzk4OA (ec2-54-204-11-157.compute-1.amazonaws.com [54.204.11.157])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with HTTP id IhsYAZ7BTImYJSyvfNmy9A
+	Thu, 25 Aug 2016 16:02:55.818 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 25 Aug 2016 16:02:55 +0000
+From: "Jukely" <hi@juke.ly>
+Mime-Version: 1.0
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+Message-ID: <IhsYAZ7BTImYJSyvfNmy9A@ismtpd0003p1iad1.sendgrid.net>
+Subject: Rigoberto, win 2 tickets to Chrome Sparks!
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgY/1BkNJwonYcvvt+w/OIYyAWc298+SgkR7Ro
+ jpf/h9Vn8dXggwF0Oxlpri0xXTFCub96hdXfa4Q2vhzB7okY0UNq5ac2VMJJc/oHXiAqshDs0zOSk3
+ Hwpw3cC3WKLi2WYbJ6j9SL0QLvpT33kExA1ECzN/yuh9zXC4wLlEzTOfLA==
+X-SG-ID: YH5d4/1v5/Fxu07BGLsJZws9AS4pgzUpP6ix3nNrRLnD2Ivaoxc3xV1ktuT0WP0x
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html lang=3D"en" id=3D"email_html" style=3D"padding:0;margin:0;width:100%">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+  </head>
+  <body id=3D"email_body" class=3D"" leftmargin=3D"0" marginwidth=3D"0" top=
+margin=3D"0" marginheight=3D"0" offset=3D"0" style=3D"font-family:'Helvetic=
+a Neue', HelveticaNeue, 'Helvetica', Arial, sans-serif;font-size:100%;line-=
+height:1.5;text-rendering:optimizeLegibility;-webkit-text-rendering:optimiz=
+eLegibility;-moz-text-rendering:optimizeLegibility;-webkit-font-smoothing:a=
+ntialiased;-moz-font-smoothing:antialiased;font-smoothing:antialiased;color=
+:#444;padding:0;margin:0;width:100%">
+    <center>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100=
+%" width=3D"100%" id=3D"backgroundTable" style=3D"background-color:#F6F7F7;=
+font-family:'Helvetica Neue', HelveticaNeue, 'Helvetica', Arial, sans-serif=
+;font-size:100%;line-height:1.5;text-rendering:optimizeLegibility;-webkit-t=
+ext-rendering:optimizeLegibility;-moz-text-rendering:optimizeLegibility;-we=
+bkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;font-smooth=
+ing:antialiased;color:#444">
+        <tr>
+          <td align=3D"center" valign=3D"top">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"600" id=3D"templateContainer" style=3D"background-color:#F6F7F7">
+              <tr>
+                <td align=3D"center" valign=3D"top">
+                  <!-- // Begin Template Header \\ -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"600" id=3D"templateHeader" style=3D"padding:32px;position:relative">
+                    <tr>
+                      <td class=3D"headerContent">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                          <tr>
+                            <td valign=3D"top">
+                              <a href=3D"http://track.juke.ly/wf/click?upn=
+=3DF-2F6yQrANqnqeh-2FLAw-2Bgadhjif-2FzBqMdSAb2ouV8qhPUmCUiHTApCp2KcLzLFHy3P=
+_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-=
+2FcIJ1lB80X3Df2IP0bQ-2BbbLn4E-2F2aKXvdFMWQlwTTj0skKy7RkNgjbmoZ7lG1gbrQyoOfW=
+qRe9bdnut-2BohwIAaYOEnWU3X4cDRfS7QOGCGxSFyPMEkeNOPJz9WyWA-2BWx7H8fZe9jG6OG9=
+dTvcyg2iPEGG5aDg-2BlLFM06dxUXO-2B6-2B2FlP6qQCMk8c6f3kYvacFCER7yPkUi1QWJicxl=
+w-3D-3D" class=3D"right appstore" title=3D"Download on the App Store" style=
+=3D"display:inline;float:right;display:inline;float:right;margin-top:5px;ma=
+rgin-right:-2px">
+                                <img alt=3D"Download on the App Store" heig=
+ht=3D"32" src=3D"https://d2dhyi9s53vuf7.cloudfront.net/email/appstore.png" =
+width=3D"112">
+                              </a>
+                              <a href=3D"http://track.juke.ly/wf/click?upn=
+=3DVXmSPphKY4XDeyZbOHWoNT4fjWgl1N8ETpyKmLkKla4-3D_xb69N2IWj9cpa7VY1jz2n0Hql=
+-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bYktcNGU=
+Xu0AuECN636xP62YixA9Dduyl1CpMQbeO-2FHsiMFbwjhdvWkj6a-2B0SKV-2Fyhv-2Bd9YKI7r=
+5QA9UeYQiAFqj90vdc3SDENR6fbMLXhLB0a8yXj3wlnk3PcDjfL8K8dKXeMcwhAircjpv6KhMv0=
+wm6XFZ-2Bfm-2F2bbg2MzEjToNR8chnOF989UBugJI5IMnGg-3D-3D" class=3D"logo" styl=
+e=3D"display:block;text-align:center;padding-left:110px">
+                                <img alt=3D"Jukely" height=3D"40" src=3D"ht=
+tps://d2dhyi9s53vuf7.cloudfront.net/email/jukely_logo.png" title=3D"Jukely.=
+com" width=3D"140">
+                              </a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // End Template Header \\ -->
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"center" valign=3D"top">
+                  <!-- // Begin Template Body \\ -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"600" id=3D"templateBody" style=3D"padding-top:0;padding-bottom:0;ba=
+ckground-color:#fff;-webkit-box-shadow:rgba(0,0,0,0.05) 0 0 0 1px,rgba(0,0,=
+0,0.1) 0 1px 3px 0;-moz-box-shadow:rgba(0,0,0,0.05) 0 0 0 1px,rgba(0,0,0,0.=
+1) 0 1px 3px 0;box-shadow:rgba(0,0,0,0.05) 0 0 0 1px,rgba(0,0,0,0.1) 0 1px =
+3px 0;-webkit-border-radius:6px;-moz-border-radius:6px;-ms-border-radius:6p=
+x;-o-border-radius:6px;border-radius:6px">
+                    <tr>
+                      <td valign=3D"top" class=3D"bodyContent" style=3D"pad=
+ding-top:0">
+                        <!-- // Begin Module: Standard Content \\ -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                          <tr>
+                            <td valign=3D"top">
+                              <div class=3D"row alpha" style=3D"border-top:=
+1px dotted #d9d9d9;margin-top:10px;padding-left:32px;padding-right:32px;bor=
+der-bottom:1px solid white;color:#4c4c4c;overflow:hidden;*zoom:1;margin-top=
+:10px;border:0">
+  <h1 style=3D"margin:30px 0 10px;color:#111;font-family:'Avenir LT W01 65 =
+Medium', Avenir-Medium, HelveticaNeue-Medium, HelveticaNeue, 'Helvetica Neu=
+e', Arial, sans-serif;font-weight:500;font-size:24px;line-height:32px;margi=
+n-top:20px">Chrome Sparks competition!</h1>
+  <p class=3D"alpha" style=3D"color:#666;font-family:'Avenir LT W01 45 Book=
+', Avenir-Book, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-wei=
+ght:300;margin:10px 0;font-size:14px;line-height:22px;font-size:18px;line-h=
+eight:28px">
+   Hi Rigoberto, win 2 tickets to Chrome Sparks on Saturday, October 15</a>=
+. We thought it'd be right up your alley.
+  </p>
+  <br>
+  <a href=3D"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65R2IkB4=
+yhzf1pyRN3s-2F2G5xnIkLpWP3F7mQQwZvYuYxOn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b=
+-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0beevz0UxPWxpNpqKk=
+M-2F45vRWx7fK8VtwV9fBX1j7Xiu79TSpEl2lkrD6dGD1zcY4nSvyWHlbsq5lq3tm508QeekRzU=
+dHmKUJJfuiL0vm5NU-2BFgpfxGxjclU54OswX7CaFd6XkP8a2QxFDek3NmQTD40pwyBAiCLJObv=
+1GEjRrhfAilNEM6fi2B1I3ToEmyiwdA-3D-3D" style=3D"color:#4c4c4c"><img src=3D"=
+https://jukely.imgix.net/4ac7c77e663ca524fb135295499b10b78bef48d9ccc8d17b09=
+084d8ee19a?ixlib=3Drb-0.3.5&amp;w=3D750&amp;h=3D656&amp;fit=3Dcrop&amp;s=3D=
+f40aa34a52dfb151676a0e456d9a7bf6" width=3D"170" class=3D"art left" style=3D=
+"display:inline;float:left;margin:0 20px 0 0"></a>
+  <p style=3D"color:#666;font-family:'Avenir LT W01 45 Book', Avenir-Book, =
+HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-weight:300;margin:1=
+0px 0;font-size:14px;line-height:22px">
+    <strong class=3D"tout" style=3D"font-weight:500;color:#262626;font-weig=
+ht:500;color:#333;font-family:'Avenir LT W01 65 Medium', Avenir-Medium, Hel=
+veticaNeue-Medium, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-=
+weight:500"><a href=3D"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0y=
+oT65R2IkB4yhzf1pyRN3s-2F2G5xnIkLpWP3F7mQQwZvYuYxOn_xb69N2IWj9cpa7VY1jz2n0Hq=
+l-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bRTs3Rv=
+FnMzcKzftH9lBrRutU2gPfWu4ML14x0u3yJl7pUBhMgKLMMd4KHbm-2FfmmOBe4CgIGt-2F-2Ba=
+yGZmj5QAMYuvgDoED8O-2FSF4GUrw92nXZ5wUwzjlGV-2FXR4MRTCjzwly52Oz1swwwgoBA7Wwp=
+DuZsKxAlFzRYS1LYkI9GWOZUYzaqYhmKojU2Wic9ANY12dA-3D-3D" style=3D"color:#4c4c=
+4c">Chrome Sparks at Le Poisson Rouge</a></strong>
+  </p>
+  <ul class=3D"details" style=3D"list-style:none;margin:10px 0;padding:0;fo=
+nt-size:12px;color:#4c4c4c">
+    <li style=3D"list-style-image:none;list-style-type:none;margin-left:0;p=
+adding:2px 0">
+<strong style=3D"font-weight:500;width:65px;color:#262626;display:inline;fl=
+oat:left;color:#333;font-family:'Avenir LT W01 65 Medium', Avenir-Medium, H=
+elveticaNeue-Medium, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;fon=
+t-weight:500">When</strong> Saturday, October 15, 2016</li>
+    <li style=3D"list-style-image:none;list-style-type:none;margin-left:0;p=
+adding:2px 0">
+<strong style=3D"font-weight:500;width:65px;color:#262626;display:inline;fl=
+oat:left;color:#333;font-family:'Avenir LT W01 65 Medium', Avenir-Medium, H=
+elveticaNeue-Medium, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;fon=
+t-weight:500">Where</strong> Le Poisson Rouge</li>
+    <li style=3D"list-style-image:none;list-style-type:none;margin-left:0;p=
+adding:2px 0">
+    <strong style=3D"font-weight:500;width:65px;color:#262626;display:inlin=
+e;float:left;color:#333;font-family:'Avenir LT W01 65 Medium', Avenir-Mediu=
+m, HelveticaNeue-Medium, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif=
+;font-weight:500">Address</strong> 158 Bleecker St., New York, NY</li>
+    <li style=3D"list-style-image:none;list-style-type:none;margin-left:0;p=
+adding:2px 0">
+      <strong style=3D"font-weight:500;width:65px;color:#262626;display:inl=
+ine;float:left;color:#333;font-family:'Avenir LT W01 65 Medium', Avenir-Med=
+ium, HelveticaNeue-Medium, HelveticaNeue, 'Helvetica Neue', Arial, sans-ser=
+if;font-weight:500">Time</strong>
+       7:30pm
+    </li>
+  </ul>
+</div>
+<div class=3D"row" style=3D"border-top:1px dotted #d9d9d9;margin-top:10px;p=
+adding-left:32px;padding-right:32px;border-bottom:1px solid white;color:#4c=
+4c4c;overflow:hidden;*zoom:1">
+  <h2 class=3D"light" style=3D"margin:30px 0 10px;color:#111;font-family:'A=
+venir LT W01 65 Medium', Avenir-Medium, HelveticaNeue-Medium, HelveticaNeue=
+, 'Helvetica Neue', Arial, sans-serif;font-weight:500;font-size:18px;color:=
+#bfbfbf;font-family:'Avenir LT W01 45 Book', Avenir-Book, HelveticaNeue, 'H=
+elvetica Neue', Arial, sans-serif;font-weight:300">Would you be interested?=
+</h2>
+  <p style=3D"color:#666;font-family:'Avenir LT W01 45 Book', Avenir-Book, =
+HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-weight:300;margin:1=
+0px 0;font-size:14px;line-height:22px">Let us know if you're interested so =
+we can enter you in the competition.</p>
+  <p class=3D"omega" style=3D"color:#666;font-family:'Avenir LT W01 45 Book=
+', Avenir-Book, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-wei=
+ght:300;margin:10px 0;font-size:14px;line-height:22px;margin-top:32px">
+    <a href=3D"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65R2Ik=
+B4yhzf1pyRN3s-2F2G5xltqnoGyoYspOAnCq9i038S-2BFsyWTUV6w10NYO2SJW5KAbXXgSkMJi=
+gcEQq0t-2BP7n2S5VZXOfo9H8xnfFpT-2FVtAu7w6Bm3JtnsCIVg-2FLxApGpcW4JnwuN4bKJbl=
+pnwSEi4-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsR=
+q3mgzZv4K-2FcIJ1lB80X3Df2IP0bQKXGAFm0et5g916f5NP4Nn4OOS-2FscSJ5cS-2B-2BggJ0=
+322E5F9c3XqrqpV-2FmfpVVCKWGHa6cDe24LncS8Idt2Y8BHzOWsqm08Pu-2FX8TOqQNdRe3aGw=
+d9a7yJ27sWRfJ5wEN-2F-2F6zyFtkWe8T-2FG-2FHk55F1AFsxdQDM-2FoP6Drs3xmr5O5N-2B6=
+3GOkPTgpek3Yiy3YdDQ-3D-3D" class=3D"action" style=3D"color:#4c4c4c;border:2=
+px solid #00e5a1;display:inline-block;vertical-align:middle;*vertical-align=
+:auto;zoom:1;*display:inline;-webkit-border-radius:5px;-moz-border-radius:5=
+px;-ms-border-radius:5px;-o-border-radius:5px;border-radius:5px;padding:8px=
+ 16px;color:#00cc8f;text-decoration:none;font-weight:500;width:148px;text-a=
+lign:center;margin-bottom:5px">Yes, definitely!</a>=C2=A0=C2=A0<a href=3D"h=
+ttp://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65R2IkB4yhzf1pyRN3s-2F=
+2G5xltqnoGyoYspOAnCq9i038S-2BFsyWTUV6w10NYO2SJW5KAbXXgSkMJigcEQq0t-2BP7n2S5=
+VZXOfo9H8xnfFpT-2FVtAu7w6Bm3JtnsCIVg-2FLxApGnd6PBS8Qu8RERR4oyUe64A-3D_xb69N=
+2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1=
+lB80X3Df2IP0bXj-2BxQoNwa3U4b5vX6wVFb7-2B29cGaoCfJpDtx31MkfmDrfg9xnKapDD4nXK=
+3rptv7wOEWa6syrLidcKohartrXlkUPDOlEH-2Fu-2FfS7OEjghYwiQ-2BFGknBmCZrtoYJMtrW=
+SAVPeMy5u5NXkDqO44vKnUgfHUOmBzu5RDoMFh23oAkR4pekGWOUFq9FsGrvq9TqEQ-3D-3D" c=
+lass=3D"action nope" style=3D"color:#4c4c4c;border:2px solid #00e5a1;displa=
+y:inline-block;vertical-align:middle;*vertical-align:auto;zoom:1;*display:i=
+nline;-webkit-border-radius:5px;-moz-border-radius:5px;-ms-border-radius:5p=
+x;-o-border-radius:5px;border-radius:5px;padding:8px 16px;color:#00cc8f;tex=
+t-decoration:none;font-weight:500;width:148px;text-align:center;margin-bott=
+om:5px;border-color:#d9d5db;color:#c0bac3">No, not this time</a>
+  </p>
+</div>
+<div class=3D"row contest_info" style=3D"border-top:1px dotted #d9d9d9;marg=
+in-top:10px;padding-left:32px;padding-right:32px;border-bottom:1px solid wh=
+ite;color:#4c4c4c;overflow:hidden;*zoom:1">
+  <h2 class=3D"light" style=3D"margin:30px 0 10px;color:#111;font-family:'A=
+venir LT W01 65 Medium', Avenir-Medium, HelveticaNeue-Medium, HelveticaNeue=
+, 'Helvetica Neue', Arial, sans-serif;font-weight:500;font-size:18px;color:=
+#bfbfbf;font-family:'Avenir LT W01 45 Book', Avenir-Book, HelveticaNeue, 'H=
+elvetica Neue', Arial, sans-serif;font-weight:300">How it works</h2>
+  <p style=3D"color:#666;font-family:'Avenir LT W01 45 Book', Avenir-Book, =
+HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-weight:300;margin:1=
+0px 0;font-size:14px;line-height:22px;margin:20px 0">
+      <strong style=3D"font-weight:500;color:#333;font-family:'Avenir LT W0=
+1 65 Medium', Avenir-Medium, HelveticaNeue-Medium, HelveticaNeue, 'Helvetic=
+a Neue', Arial, sans-serif;font-weight:500">Earn 20 points for each signup =
+through your link.</strong>
+      Simply share <em>"Win 2 tickets from @Jukely to @ChromeSparks 10/15 a=
+t @LprNYC!"</em>=C2=A0=C2=A0<a href=3D"http://track.juke.ly/wf/click?upn=3D=
+VXmSPphKY4XDeyZbOHWoNe48Bok4VeW58IX20I2x7nAUFVTmmvgp3sa-2FKJkr00P3wl6sTVtre=
+oDV3JNVhaZNc9ZGlWAkUw0f853qhArHI-2FLFFFRAzYZE8prWVjrkMvg0C27FXSj-2BJq4y8bBm=
+xIYKmKN-2FO5sQhBQUtvgIJP9YdeINwL0W6LfKRi-2F-2FHUwcZ0Qo_xb69N2IWj9cpa7VY1jz2=
+n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bbi=
+Z77-2Frql46Ux8DPSUXHG7bm7L1RtIZoB3ZEWZOJOwQ2fSvroWOGy-2FsdIDmMPQ2LcAlbL-2Br=
+wGJBL-2FfmC-2BHWCSmLmBpisge5GB45M165Q4GPgnuymWztAmAvwTItLxxSmhnOSrvJz9vXu0F=
+O-2BUqKsrc7DVwFU-2FaaBU1BebRC7FljK8ndxCkaMShCc9SY3t7vmQ-3D-3D" class=3D"twi=
+tter_link" style=3D"color:#4c4c4c;font-family:'Avenir LT W01 65 Medium', Av=
+enir-Medium, HelveticaNeue-Medium, HelveticaNeue, 'Helvetica Neue', Arial, =
+sans-serif;font-weight:500;color:#00aced">Tweet</a>=C2=A0=C2=B7=C2=A0<a hre=
+f=3D"http://track.juke.ly/wf/click?upn=3DoExUV4rMo7aDsy-2B6fiwE6ONVb3uNDDLz=
+L6TCdzJxGrkTk7qg6phL1rX5qKaUG5CEyd9rxw-2Biisv79eZk-2FityPDx3nSUKPO-2BWetZLu=
+Ga7ZnnLj1iicwyHzRXDWtho011t_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYv=
+jaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bW54-2FijkBVT3AbLERpH01sP88I6H=
+ITjPwAIGEDgK-2FLlg0U-2FGxWOhTftLnNwLraFIU4JiX300vBToNXfUpnmvTGvyGOxxYbe-2BH=
+BCBtB7lPaHzjDUCfLx5oTFTaWA-2Bi-2FDwsDchWdaWl62zdxojVOCe6W0CvQOCief9P2IqOBVs=
+hZvTEXqxLxg594xG2C0byQv5-2FA-3D-3D" class=3D"facebook_link" style=3D"color:=
+#4c4c4c;font-family:'Avenir LT W01 65 Medium', Avenir-Medium, HelveticaNeue=
+-Medium, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-weight:500=
+;color:#3b5998">Share</a>
+  </p>
+  <p style=3D"color:#666;font-family:'Avenir LT W01 45 Book', Avenir-Book, =
+HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-weight:300;margin:1=
+0px 0;font-size:14px;line-height:22px;margin:20px 0"><strong style=3D"font-=
+weight:500;color:#333;font-family:'Avenir LT W01 65 Medium', Avenir-Medium,=
+ HelveticaNeue-Medium, HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;f=
+ont-weight:500">For fast leader notification</strong>, <a href=3D"http://tr=
+ack.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNRTY-2BHfeihyg-2FjLtrgXpDbhe=
+78dBPpfv1YhghO1btHcV_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2=
+BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bcCr6ABw9yQWP1gpnI3-2BCiMtsp7kyAIbTB7=
+iL8SUJfF-2BUCBJmYabZF3taBCDIpie7-2F2-2FN2SvrQAGXRdEUlKMhCgoEQrRtVUxyzVBnJ0S=
+BQGtWON9fk-2Bl0oSXnbY-2BNWy7jqF5kN-2F35fXoZF0DQ3OeGV980AeI83cr8fgecJFKTF2dw=
+VPi8XyZvx-2FFRx8MRmRJXA-3D-3D" style=3D"color:#4c4c4c">enter your mobile # =
+and real name in settings</a>.</p>
+  <p style=3D"color:#666;font-family:'Avenir LT W01 45 Book', Avenir-Book, =
+HelveticaNeue, 'Helvetica Neue', Arial, sans-serif;font-weight:300;margin:1=
+0px 0;font-size:14px;line-height:22px;margin:20px 0">
+    <strong style=3D"font-weight:500;color:#333;font-family:'Avenir LT W01 =
+65 Medium', Avenir-Medium, HelveticaNeue-Medium, HelveticaNeue, 'Helvetica =
+Neue', Arial, sans-serif;font-weight:500">For reliable future delivery</str=
+ong>, please add hi@juke.ly to your contacts. If our email ended up in your=
+ spam folder, mark it as "not spam" and move it to your Inbox.
+  </p>
+</div>
+
+
+                            </td>
+                          </tr>
+                        </table>
+
+<!--
+ANNOUNCEMENTS
+-->
+<table class=3D"section white" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"background: #fff; border: 0; font-family: 'Helvetica Neue', 'Helvetica', H=
+elvetica, Arial, sans-serif; font-size: 100%; font-weight: 400; outline: 0;=
+ width: 100%" bgcolor=3D"#fff">
+  <tbody style=3D"border: 0; font-family: 'Helvetica Neue', 'Helvetica', He=
+lvetica, Arial, sans-serif; font-size: 100%; font-weight: 400; outline: 0">
+    <tr style=3D"border: 0; font-family: 'Helvetica Neue', 'Helvetica', Hel=
+vetica, Arial, sans-serif; font-size: 100%; font-weight: 400; outline: 0">
+      <td style=3D"border: 0; font-family: 'Helvetica Neue', 'Helvetica', H=
+elvetica, Arial, sans-serif; font-size: 100%; font-weight: 400; outline: 0;=
+ padding: 20px 0 20px 20px"><img class=3D"remove-space" width=3D"230" heigh=
+t=3D"164" src=3D"https://d2dhyi9s53vuf7.cloudfront.net/email/jukely.jpg" st=
+yle=3D"display: block !important; font-family: 'Helvetica Neue', 'Helvetica=
+', Helvetica, Arial, sans-serif; font-size: 100%; font-weight: 400" /></td>
+      <td class=3D"callout-meta-cell" style=3D"border: 0; font-family: 'Hel=
+vetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; f=
+ont-weight: 400; outline: 0; padding: 20px; vertical-align: middle" valign=
+=3D"middle">
+        <h4 style=3D"color: #6227af; font-family: 'Helvetica Neue', 'Helvet=
+ica', Helvetica, Arial, sans-serif; font-size: 21px; font-weight: 200; line=
+-height: 1.5; margin: 10px 0"><strong style=3D"font-family: 'Helvetica Neue=
+', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; font-weight:=
+ 600">Jukely Concert Pass</strong></h4>
+        <p style=3D"font-family: 'Helvetica Neue', 'Helvetica', Helvetica, =
+Arial, sans-serif; font-size: 100%; font-weight: 400; line-height: 1.4; mar=
+gin: 0 0 10px">Get into a different show every night for an affordable mont=
+hly fee. Live in 17 cities. Start your trial.</p>
+        <p style=3D"font-family: 'Helvetica Neue', 'Helvetica', Helvetica, =
+Arial, sans-serif; font-size: 100%; font-weight: 400; line-height: 1.4; mar=
+gin: 0 0 10px"><a href=3D"http://track.juke.ly/wf/click?upn=3DoExUV4rMo7aDs=
+y-2B6fiwE6HknTwmm-2F6eIQmKr-2F-2FQggpWieDBdwom4QrA-2FetFaN-2F3Q4J9vQYKuOyui=
+TcM3Wc2uS6-2FJpNKiUulNLGMe2AOObmgvG2P8GuxN6BW2tJooDjaa_xb69N2IWj9cpa7VY1jz2=
+n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bSk=
+e9YclcRw-2BiT8fpzO9dNkJTplMCf7ltw6W-2BaFozX8-2FkBIOd-2BrJfoL8l03lhyofB7yh1C=
+qujZAck3pAf5hqSv4-2F-2Bhhu0Eath35DlrSF9c0VThrloi8vCMQtAp76wkBcFfc6UlljXpJut=
+QQztV1QCqemEL58z-2BeeGKSqRZpcwTdHHGlgVLRr-2BktLgqNEtZQ1Xw-3D-3D" class=3D"u=
+nderlined" style=3D"color: #a050e6; font-family: 'Helvetica Neue', 'Helveti=
+ca', Helvetica, Arial, sans-serif; font-size: 100%; font-weight: 400; text-=
+decoration: underline">Learn more</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+                        <!-- // End Module: Standard Content \\ -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // End Template Body \\ -->
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"center" valign=3D"top">
+                  <!-- // Begin Template Footer \\ -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"600" id=3D"templateFooter" style=3D"padding-bottom:40px;padding-top=
+:20px">
+                    <tr>
+                      <td valign=3D"top" class=3D"footerContent" style=3D"p=
+adding-left:32px">
+                        <!-- // Begin Module: Standard Footer \\ -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                          <tr>
+                            <td valign=3D"top">
+                              <!-- <h4>Sharing is caring :)</h4>
+                              <p>Follow and win concert tickets on <a href=
+=3D"http://track.juke.ly/wf/click?upn=3Dq5GdJANgzHoODmOQ9g28etjvoARZJGU8EJD=
+CUp6x56kctoUhNZjUSLziKBTse5hz_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+YvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bb9VEY6IG5c9sARHrm2oxYwUHToD=
+Qgrkq9k3-2FQUWuGsr7hSecAz62AtWYP0jzyLL9OYPyNWjZxyZ1qpg6MG8JOrWG-2BDOpF04Bq5=
+BGga3NcdAxPQAmOxqPuwPu2sv4nDMEpBbt3A2nJ4g2ZqLZRjjblwRziPmINXaDX0usedvwn4Rc9=
+4cwrb28rpIe2ep00jN3g-3D-3D" class=3D"swatch_fb">Facebook</a> and <a href=3D=
+"http://track.juke.ly/wf/click?upn=3D3QihKcNaduXmwDLFG1HPsayBqYclg2yfoviy-2=
+BmryIZhYQeAePxBLP9FyLZ2d3rDn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvY=
+vjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bYA1FKSA0OudvnVpJMB-2BF8KtzoU=
+3rIzbbM-2F2B-2BaPRbwdVdbHl3cRgBhXtT4xH1u9OHpU5nPjfqPkMnDcke-2FqKniChVPaOO4G=
+8HtHygmoGHvz3oPYWYZoUBfLlpGKDcrkUL8OyCMCaf6M4bDzRtLc-2F5z0vxmQoOGKvvlZWM38x=
+iDrA9iDQOiOQJ5KnRK5upQ6yw-3D-3D" class=3D"swatch_twitter">Twitter</a></p>
+                              <p>Subscribe to our playlists on <a href=3D"h=
+ttp://track.juke.ly/wf/click?upn=3D7mKrBrxIgP5RfI7a0RpPdFn-2B0hWGCawSpMicKk=
+CLQhK1hxKCL62A6A4DLty0zSB4_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYvj=
+aIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bXM8hFwscxZhqxRU-2B1Ds8sEdlM1Mf=
+qvcpGbXn3ZmxQ060XHaZ7v6okGF43lwgx-2B6nQ6Y6AfhlB6Nj3qwRqStq24yrhBHibHUGFhMod=
+tqf5wbhE-2BQwqS5hgnk8pfYiWzVeRK-2Fs12aTNcX4E6Q130VIMq5OLxlEtGrqFIZrnzXJS8hm=
+z6-2FUtAMnGKYCQQkT2u7Yg-3D-3D" class=3D"swatch_spotify">Spotify</a>, <a hre=
+f=3D"http://track.juke.ly/wf/click?upn=3DoExUV4rMo7aDsy-2B6fiwE6F4fwl39LxxR=
+XYoBgrofeNcLdvjXIjtXJ6-2Fj1EPEq4sT_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa=
+351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bRa5duVGd5sL8L1zrrUi2mu=
+fNbhA2pqdCzw240enadxZVUIdBjhd4MBqbzTTYI2U5zvbj7k-2B6J1fVHDrbRV7RLqTyRr1YJ53=
+-2FUyZCKNx2JNjW6SvahHR5yqkni5ZptpeDqMaLmedrJE-2B4vJpxZ0DPZ2A7K-2FBpGwKznXJB=
+L9MJQlGvLLfZVq0GFHH-2FSESg5lZyQ-3D-3D" class=3D"swatch_rdio">Rdio</a>, and =
+<a href=3D"http://track.juke.ly/wf/click?upn=3DoExUV4rMo7aDsy-2B6fiwE6E3ysT=
+LofdkOlp7cdSW0-2BCTggS9rIzbMUIQYlYzOiAzg_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b=
+-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0bXJm0bg4cty-2BdDM=
+t6aSJVA9uiVZ2N19nkxD3s7hGJMIJQ7PZxTdySRVIsrQl9S0WLrD8ptkp8UlSPqVBGrS0uzxijR=
+zXC1VRbyrENva1kTrzkv5MoaLTWjpXhPkyXqauGLHN01IkYyzr2hp92MBPoLky2vrCR5ibqnS60=
+rd1RdgH4s3qjNIanTqQALtTlE3Zmg-3D-3D" class=3D"swatch_youtube">Youtube</a></=
+p>
+                              <p>Discover new music daily on our <a href=3D=
+"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65RzXLDmIjEgBp7VuBta=
+8ccWM-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3=
+mgzZv4K-2FcIJ1lB80X3Df2IP0bcciLNGNg-2FVThNedhJZafBBZYvDSTGl9uX1r9ZiuMTBS2XA=
+zgs3OqA1jiRzYNUO6o7u8mFqmKNBCJB6YylkF-2FbVVfMtx-2F8NVjWfd-2FnKFTcnoQRlz-2BH=
+BKkL8GLpCPz8miNfybxUNnX79rEvK1hE5H4kPUmWNbsRaOMTec3HrYkiJg8U0OqFDmSpzV3LVLC=
+zxivA-3D-3D" class=3D"swatch_tumblr">Tumblr</a></p> -->
+                              <br>
+                              <small style=3D"font-size:11px;color:#bcbcbc;=
+display:block">=C2=A9 2015 Jukely Inc. 36 E 20th St., New York, NY 10003</s=
+mall>
+                              <small style=3D"font-size:11px;color:#bcbcbc;=
+display:block">  If you'd like to opt out of contest emails, <a href=3D"htt=
+p://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNZaTE-2BFP-2FtRzN1umYn=
+V-2BTnXPI3cbTGzWDQ1WSmVj62Cj2yJ25h3FjiQjzYrOSfaLpJvTKzV2gzVQd-2Fc0Wh56JXhHJ=
+vOYe-2FO4zO7pGg8W2-2FasfLF465mnUdM1YM0Sl9R5Ye9Uqo32NjueF6GocA2df6A-3D_xb69N=
+2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1=
+lB80X3Df2IP0bc1VZUpOIrVKJOJsnUyiOrFCyGwJtA763Il2287Jp7ijyoRz5f3ccwR-2F-2BJO=
+1MQdOj-2F2SQ9eSk1O4fk8-2BDymLpR7GJyruXB-2BXxI7g9rdD2jMcrZoz7L6fTt3ESYpODOPQ=
+8Yh8NqQ-2BZWp3cMHxb-2FQg8obOz9qD8x-2F8-2BBMshJEjegyDCTaiGyfRqivCZ4m62cZ6Kg-=
+3D-3D" style=3D"font-weight:500;text-decoration:none;font-size:11px;color:#=
+969696">leave here</a>
+</small>
+                            </td>
+                            <td valign=3D"top" class=3D"omega" style=3D"tex=
+t-align:right;padding-right:32px">
+                              <!-- <span class=3D"sticker"><img alt=3D"#Mus=
+icSoundsBetterWithYou" height=3D"170" src=3D"https://d2dhyi9s53vuf7.cloudfr=
+ont.net/email/stamp.png" width=3D"170" /></span> -->
+                            </td>
+                          </tr>
+                        </table>
+                        <!-- // End Module: Standard Footer \\ -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // End Template Footer \\ -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </center>
+=20=20
+<img src=3D"http://track.juke.ly/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYvjaIrR-2BDnqH0ZxsRq3mgzZv4K-2FcIJ1lB80X3Df2IP0baBdRN9y2qd=
+-2BYOE-2FEg8d0mZKWvQ8Rn-2Fq9qDvYQmdHRTpMCapxfar6PDbi8z2LY7-2Bw6mKH6-2BufpBF=
+Roi9DbAqfN2iF-2FstL6II0Ky5DoXBkOclYzY603hoJSFQyeB02ou5aQbYVZ88-2FY6eRC5uduk=
+VwkGuHcvxv9sdPH0gaIkHpBWUT1W8TtgCYCQMAVoN507k5Q-3D-3D" alt=3D"" width=3D"1"=
+ height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !import=
+ant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !impo=
+rtant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !imp=
+ortant;padding-bottom:0 !important;padding-right:0 !important;padding-left:=
+0 !important;"/>
+</body>
+</html>
+

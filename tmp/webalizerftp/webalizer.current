@@ -1,0 +1,153 @@
+# Webalizer V2.23-05 Incremental Data - 10/29/2016 19:08:48
+2016 10 29 19 8 48
+44 44 4 11 0 0 55247 0 0 1
+1 9 9 3 29
+0 0 0 0 0 0
+0 0 0 0 0 0
+10 10 12066 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 25948 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 12 9602 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+18 18 7631 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+5 5 2921 0
+6 6 4007 0
+0 0 0 0
+2 2 12976 0
+4 4 15272 0
+8 8 9766 0
+0 0 0 0
+0 0 0 0
+9 9 2821 0
+9 9 4810 0
+0 0 0 0
+1 1 2674 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+44
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/rigorese/public_html/maps.html
+0 3 28309472 714 0 0
+/home/rigorese/public_html/stack.html
+0 1 0 2674 0 0
+/home/rigorese/public_html/css/main.css
+0 1 0 4444 0 0
+/home/rigorese/public_html/sms.php
+0 4 0 25948 0 0
+/home/rigorese/public_html/form2.php
+0 7 0 3516 0 0
+/home/rigorese/public_html/api.html
+0 14 28309344 6917 0 0
+/home/rigorese/api.html
+0 1 129 0 0 0
+/home/rigorese/public_html/favicon.ico
+0 3 0 3450 0 0
+/home/rigorese/public_html/test.html
+0 6 0 4172 0 0
+/home/rigorese/public_html/calc2.php
+0 1 0 1242 0 0
+/home/rigorese/public_html/form.html
+0 3 0 2170 0 0
+# End Of Table - urls
+# -sites- (monthly)
+cpe-24-243-100-162.rgv.res.rr.com
+0 18 18 7631 0 0
+-
+64-88-198-54-available.sc2000.net
+0 15 15 32876 0 0
+-
+customer-189-217-6-53.cablevision.net.mx
+0 10 10 12066 0 0
+-
+cpe-67-10-80-25.rgv.res.rr.com
+0 1 1 2674 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cpe-24-243-100-162.rgv.res.rr.com
+0 18 18 7631 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+rigorese
+0 44 44 55247 1 0
+# End Of Table - usernames

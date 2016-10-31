@@ -1,0 +1,468 @@
+Return-Path: <CustomerService@nadex.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id yZR4DCKk0ldRtwcATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 09 Sep 2016 07:59:30 -0400
+Return-path: <CustomerService@nadex.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 09 Sep 2016 07:59:30 -0400
+Received: from mail0.iggroup.com ([195.234.39.199]:35010)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <CustomerService@nadex.com>)
+	id 1biKSv-0027Zb-NZ
+	for rresendez@rigoresendez.com; Fri, 09 Sep 2016 07:59:30 -0400
+Received: from ukvmprdvon601.igi.ig.local (HELO BMPRDEXC144.IGI.IG.LOCAL) ([172.27.11.142])
+  by lrprdirn001-int.igi.ig.local with ESMTP/TLS/AES256-SHA256; 09 Sep 2016 12:58:48 +0100
+Received: from LMPRDEXC142.igi.ig.local (172.27.11.72) by
+ BMPRDEXC144.igi.ig.local (172.24.11.74) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6; Fri, 9 Sep 2016 12:58:48 +0100
+Received: from csgrprdtomb03.hs.local (10.206.2.152) by
+ LMPRDEXC142.igi.ig.local (172.27.11.195) with Microsoft SMTP Server id
+ 15.0.1156.6 via Frontend Transport; Fri, 9 Sep 2016 12:58:47 +0100
+Date: Fri, 9 Sep 2016 07:58:47 -0400
+From: Nadex <customerservice@nadex.com>
+To: <rresendez@rigoresendez.com>
+Message-ID: <1243156855.2296655.1473422327824.JavaMail.tomcat@csgrprdtomb03.hs.local>
+Subject: Demo: Your Order has been executed: SELL Tera Bitcoin Price Index
+ >620.5 (3PM)
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_2296653_1999668246.1473422327560"
+X-IG-Disclaimer: IG-Disclaimer-Set (NADEX)
+X-CFilter-Loop: Reflected
+
+------=_Part_2296653_1999668246.1473422327560
+Content-Type: multipart/related;
+	boundary="----=_Part_2296654_2132538027.1473422327560"
+
+------=_Part_2296654_2132538027.1473422327560
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<title></title>
+<meta name=3D"viewport" content=3D"width=3D320, target-densitydpi=3Ddevice-=
+dpi">
+<style type=3D"text/css">
+/* Mobile-specific Styles */
+@media only screen and (max-width: 660px) {=20
+
+img[class=3Dw292] { width:127px !important; }
+img[class=3Dw249] { width:124px !important; }
+img[class=3Dw99] { width:47px !important; }
+
+table[class=3Dw0], td[class=3Dw0] { width: 0 !important; }
+table[class=3Dw10], td[class=3Dw10], img[class=3Dw10] { width:10px !importa=
+nt; }
+table[class=3Dw15], td[class=3Dw15], img[class=3Dw15] { width:5px !importan=
+t; }
+table[class=3Dw30], td[class=3Dw30], img[class=3Dw30] { width:10px !importa=
+nt; }
+table[class=3Dw35], td[class=3Dw35], img[class=3Dw35] { width:20px !importa=
+nt; }
+table[class=3Dw60], td[class=3Dw60], img[class=3Dw60] { width:10px !importa=
+nt; }
+table[class=3Dw125], td[class=3Dw125], img[class=3Dw125] { width:80px !impo=
+rtant; }
+table[class=3Dw130], td[class=3Dw130], img[class=3Dw130] { width:55px !impo=
+rtant; }
+table[class=3Dw140], td[class=3Dw140], img[class=3Dw140] { width:90px !impo=
+rtant; }
+table[class=3Dw160], td[class=3Dw160], img[class=3Dw160] { width:180px !imp=
+ortant; }
+table[class=3Dw170], td[class=3Dw170], img[class=3Dw170] { width:100px !imp=
+ortant; }
+table[class=3Dw180], td[class=3Dw180], img[class=3Dw180] { width:80px !impo=
+rtant; }
+table[class=3Dw195], td[class=3Dw195], img[class=3Dw195] { width:80px !impo=
+rtant; }
+table[class=3Dw220], td[class=3Dw220], img[class=3Dw220] { width:80px !impo=
+rtant; }
+table[class=3Dw240], td[class=3Dw240], img[class=3Dw240] { width:180px !imp=
+ortant; }
+table[class=3Dw255], td[class=3Dw255], img[class=3Dw255] { width:185px !imp=
+ortant; }
+table[class=3Dw275], td[class=3Dw275], img[class=3Dw275] { width:135px !imp=
+ortant; }
+table[class=3Dw280], td[class=3Dw280], img[class=3Dw280] { width:135px !imp=
+ortant; }
+table[class=3Dw300], td[class=3Dw300], img[class=3Dw300] { width:140px !imp=
+ortant; }
+table[class=3Dw325], td[class=3Dw325], img[class=3Dw325] { width:95px !impo=
+rtant; }
+table[class=3Dw360], td[class=3Dw360], img[class=3Dw360] { width:140px !imp=
+ortant; }
+table[class=3Dw410], td[class=3Dw410], img[class=3Dw410] { width:180px !imp=
+ortant; }
+table[class=3Dw470], td[class=3Dw470], img[class=3Dw470] { width:200px !imp=
+ortant; }
+table[class=3Dw580], td[class=3Dw580], img[class=3Dw580] { width:280px !imp=
+ortant; }
+table[class=3Dw640], td[class=3Dw640], img[class=3Dw640] { width:300px !imp=
+ortant; }
+table[class*=3Dhide], td[class*=3Dhide], img[class*=3Dhide], p[class*=3Dhid=
+e], span[class*=3Dhide] { display:none !important; }
+table[class=3Dh0], td[class=3Dh0] { height: 0 !important; }
+p[class=3Dfooter-content-left] { text-align: center !important; }
+#headline p { font-size: 30px !important; }
+.article-content, #left-sidebar{ -webkit-text-size-adjust: 90% !important; =
+-ms-text-size-adjust: 90% !important; }
+.header-content, .footer-content-left {-webkit-text-size-adjust: 80% !impor=
+tant; -ms-text-size-adjust: 80% !important;}
+img { height: auto; line-height: 100%;}
+ }=20
+/* Client-specific Styles */
+#outlook a { padding: 0; }	/* Force Outlook to provide a "view in browser" =
+button. */
+body { width: 100% !important; }
+.ReadMsgBody { width: 100%; }
+.ExternalClass { width: 100%; display:block !important; } /* Force Hotmail =
+to display emails at full width */
+/* Reset Styles */
+/* Add 100px so mobile switch bar doesn't cover street address. */
+body { background-color: #ececec; margin: 0; padding: 0; }
+img { outline: none; text-decoration: none; display: block;}
+br, strong br, b br, em br, i br { line-height:100%; }
+h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothi=
+ng: antialiased; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; }
+h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:acti=
+ve {	color: red !important; }
+/* Preferably not the same color as the normal header link color.  There is=
+ limited support for psuedo classes in email clients, this was added just f=
+or good measure. */
+h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a=
+:visited { color: purple !important; }
+/* Preferably not the same color as the normal header link color. There is =
+limited support for psuedo classes in email clients, this was added just fo=
+r good measure. */ =20
+table td, table tr { border-collapse: collapse; }
+.yshortcuts, .yshortcuts a, .yshortcuts a:link,.yshortcuts a:visited, .ysho=
+rtcuts a:hover, .yshortcuts a span {
+color: black; text-decoration: none !important; border-bottom: none !import=
+ant; background: none !important;
+}	/* Body text color for the New Yahoo.  This example sets the font of Yaho=
+o's Shortcuts to black. */
+/* This most probably won't work in all email clients. Don't include code b=
+locks in email. */
+code {
+  white-space: normal;
+  word-break: break-all;
+}
+#background-table { background-color: #ececec; }
+/* Webkit Elements */
+#top-bar { -webkit-font-smoothing: antialiased; background-color: #303A43; =
+color: #ffffff; }
+#top-bar a { font-weight: bold; color: #ffffff; text-decoration: none;}
+#footer { -webkit-font-smoothing: antialiased; }
+/* Fonts and Content */
+body, td, p, b, li { font-family: Arial, HelveticaNeue, sans-serif; line-he=
+ight: 1.428; }
+.header-content, .footer-content-left, .footer-content-right { -webkit-text=
+-size-adjust: none; -ms-text-size-adjust: none; }
+/* Prevent Webkit and Windows Mobile platforms from changing default font s=
+izes on header and footer. */
+.header-content { font-size: 12px; color: #ffffff; }
+.header-content a { font-weight: bold; color: #9D9797; text-decoration: non=
+e; }
+#headline p { color: #d9fffd; font-family: HelveticaNeue, sans-serif; font-=
+size: 36px; text-align: center; margin-top:0px; margin-bottom:30px; }
+#headline p a { color: #d9fffd; text-decoration: none; }
+.article-title { font-size: 18px; line-height:1.42857143; color: #44484a; f=
+ont-weight:bold; margin-top:0px; margin-bottom:18px; font-family: Helvetica=
+Neue, sans-serif; }
+.article-title-large { font-size: 20px; line-height: 1.42857143; color: #44=
+484a; font-weight:bold; margin-top:0px; margin-bottom:18px; font-family: He=
+lveticaNeue, sans-serif; }
+.article-title a { color: #44484a; text-decoration: none; }
+.article-title.with-meta {margin-bottom: 0;}
+.article-meta { font-size: 13px; line-height: 20px; color: #ccc; font-weigh=
+t: bold; margin-top: 0;}
+.article-content { font-size: 13px; line-height: 18px; color: #444444; marg=
+in-top: 0px; margin-bottom: 18px; font-family: HelveticaNeue, sans-serif; }
+.article-content a { color: #4eb5f1; font-weight:bold; text-decoration:none=
+; }
+.article-content img { max-width: 100% }
+.article-content ol, .article-content ul { margin-top:0px; margin-bottom:18=
+px; margin-left:19px; padding:0; }
+.article-content li { font-size: 13px; line-height: 18px; color: #444444; }
+.article-content li a { color: #4eb5f1; text-decoration:underline; }
+.article-content p {margin-bottom: 15px;}
+.footer-content-left { font-size: 12px; line-height: 15px; color: #ffffff; =
+margin-top: 0px; margin-bottom: 15px; }
+.footer-content-left a { color: #9d9797; font-weight: bold; text-decoration=
+: none; }
+.footer-content-right { font-size: 11px; line-height: 16px; color: #ffffff;=
+ margin-top: 0px; margin-bottom: 15px; }
+.footer-content-right a { color: #9d9797; font-weight: bold; text-decoratio=
+n: none; }
+#footer { background-color: #303a43; color: #ffffff; }
+#footer a { color: #9d9797; text-decoration: none; font-weight: bold; }
+#permission-reminder { white-space: normal; }
+#street-address { color: #ffffff; white-space: normal; }
+.cta {background-color:#4eb5f1;color:#ffffff !important;padding:10px;}
+</style><!--[if gte mso 9]>
+<style _tmplitem=3D"511" >
+.article-content ol, .article-content ul {
+   margin: 0 0 0 24px;
+   padding: 0;
+   list-style-position: inside;
+}
+</style>
+<![endif]-->
+</head>
+<body>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=
+=3D"background-table" style=3D"table-layout:fixed" align=3D"center">
+<tbody>
+<tr>
+<td align=3D"center" bgcolor=3D"#ececec">
+<table class=3D"w640" style=3D"margin:0 10px;" width=3D"640" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"w640" width=3D"640" height=3D"20"></td>
+</tr>
+<tr>
+<td class=3D"w640" width=3D"640" height=3D"20">
+<table class=3D"w640" width=3D"640" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+<tbody>
+<tr>
+<td class=3D"w292" width=3D"292" align=3D"center" bgcolor=3D"#FFFFFF"><a ti=
+tle=3D"Nadex logo" href=3D"http://www.nadex.com"><img alt=3D"Nadex logo" wi=
+dth=3D"292" height=3D"103" src=3D"https://www.nadex.com/content/dam/nadex/e=
+mail/responsive-template/nadex-logo.png" class=3D"w292" border=3D"0" align=
+=3D"top" style=3D"display: inline"></a></td>
+<td class=3D"w249" width=3D"249" align=3D"center" bgcolor=3D"#FFFFFF"><a ti=
+tle=3D"Open an Account for Free" href=3D"https://www.nadex.com/create-accou=
+nt"><img alt=3D"Open an Account for Free" width=3D"249" height=3D"103" src=
+=3D"https://www.nadex.com/content/dam/nadex/email/responsive-template/open-=
+account-button.png" class=3D"w249" border=3D"0" align=3D"top" style=3D"disp=
+lay: inline"></a></td>
+<td class=3D"w99" width=3D"99" align=3D"center" bgcolor=3D"#FFFFFF"><a titl=
+e=3D"Login" href=3D"https://www.nadex.com/login"><img alt=3D"Login" width=
+=3D"99" height=3D"103" src=3D"https://www.nadex.com/content/dam/nadex/email=
+/responsive-template/login-button.png" class=3D"w99" border=3D"0" align=3D"=
+top" style=3D"display: inline"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"w640" width=3D"640" height=3D"30" bgcolor=3D"#ffffff"></td>
+</tr>
+<tr id=3D"simple-content-row">
+<td class=3D"w640" width=3D"640" bgcolor=3D"#ffffff">
+<table align=3D"left" class=3D"w640" width=3D"640" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"w30" width=3D"30"></td>
+<td class=3D"w580" width=3D"580">
+<table class=3D"w580" width=3D"580" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+<tbody>
+<tr>
+<td class=3D"w580" width=3D"580">
+<p align=3D"center" class=3D"article-title-large"><b>Your demo order has be=
+en executed</b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"w580" width=3D"580" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+<tbody>
+<tr>
+<td class=3D"w580" width=3D"580">
+<div align=3D"left" class=3D"article-content">
+<p>Your order was executed on: Fri Sep 09 07:58:47 EDT 2016. The details of=
+ your matched trade are shown below for your reference:<br>
+<br>
+<b>Trade Details</b>: <br>
+Contract: Tera Bitcoin Price Index &gt;620.5 (3PM) <br>
+Expiration: Fri Sep 09 15:00:00 EDT 2016 <br>
+Direction: SELL <br>
+Quantity: 1 <br>
+Price: 59.25<br>
+<br>
+Your positions and balances have been updated. The transaction number assig=
+ned to this trade is:
+<b>2016090904419LM400541892O</b>.<br>
+<br>
+<b>Now that you have practiced trading in our virtual demo environment, exp=
+erience the real thing by opening a live account now!</b>
+<br>
+<br>
+How to open a live account<br>
+</p>
+<ol>
+<li>Take a few minutes to create an account<br>
+<br>
+</li><li>Fund your account with a low minimum opening balance via: <br>
+- Bank transfer (ACH) <br>
+- Debit Card<br>
+- Wire Transfer </li></ol>
+<a href=3D"https://www.nadex.com/create-account" target=3D"_blank">Apply no=
+w for an account</a><br>
+<br>
+Start maximizing your trading potential today!<br>
+<br>
+If you have questions or need assistance, please contact Customer Service a=
+t 1-877-77-NADEX.<br>
+<br>
+Best Regards,<br>
+<br>
+The Nadex Team<br>
+Phone: 1-877-77-NADEX (877-776-2339)<br>
+Email: <a href=3D"mailto:customerservice@nadex.com">customerservice@nadex.c=
+om</a><br>
+Website: <a href=3D"http://www.nadex.com/">www.nadex.com</a>
+<p></p>
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"w580" width=3D"580" height=3D"10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"w30" width=3D"30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"w640" width=3D"640">
+<table id=3D"footer" class=3D"w640" width=3D"640" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" bgcolor=3D"#303a43">
+<tbody>
+<tr>
+<td class=3D"w30" width=3D"30"></td>
+<td class=3D"w580" width=3D"580" height=3D"15"></td>
+<td class=3D"w30" width=3D"30"></td>
+</tr>
+<tr>
+<td class=3D"w30" width=3D"30"></td>
+<td class=3D"w580" width=3D"580">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"w580" widt=
+h=3D"580">
+<tbody>
+<tr>
+<td align=3D"left">&nbsp;</td>
+<td align=3D"right">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td><a href=3D"https://twitter.com/Nadex_US" target=3D"_blank" lang=3D"en">=
+<img src=3D"https://www.nadex.com/content/dam/nadex/email/responsive-templa=
+te/twitter.png" border=3D"0" width=3D"38" height=3D"38" alt=3D"Follow Nadex=
+ on Twitter" class=3D"w35"></a></td>
+<td width=3D"10"></td>
+<td><a href=3D"https://www.facebook.com/nadexUS" target=3D"_blank" lang=3D"=
+en"><img src=3D"https://www.nadex.com/content/dam/nadex/email/responsive-te=
+mplate/facebook.png" border=3D"0" width=3D"38" height=3D"38" alt=3D"Like Na=
+dex on Facebook" class=3D"w35"></a></td>
+<td width=3D"10"></td>
+<td><a href=3D"https://plus.google.com/100888174125428974043/about" target=
+=3D"_blank" lang=3D"en"><img src=3D"https://www.nadex.com/content/dam/nadex=
+/email/responsive-template/google-plus.png" border=3D"0" width=3D"38" heigh=
+t=3D"38" alt=3D"Follow Nadex on Google&#43;" class=3D"w35"></a></td>
+<td width=3D"10"></td>
+<td><a href=3D"https://www.youtube.com/user/nadex" target=3D"_blank" lang=
+=3D"en"><img src=3D"https://www.nadex.com/content/dam/nadex/email/responsiv=
+e-template/youtube.png" border=3D"0" width=3D"38" height=3D"38" alt=3D"Watc=
+h Nadex on YouTube" class=3D"w35"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"w30" width=3D"30"></td>
+</tr>
+<tr>
+<td class=3D"w30" width=3D"30"></td>
+<td class=3D"w580" width=3D"580" height=3D"15"></td>
+<td class=3D"w30" width=3D"30"></td>
+</tr>
+<tr>
+<td class=3D"w30" width=3D"30"></td>
+<td class=3D"w580" width=3D"580">
+<p id=3D"street-address" align=3D"left" class=3D"footer-content-right" styl=
+e=3D"color:#ffffff;">
+<span>North American Derivatives Exchange, Inc.</span><br>
+<span>311 South Wacker Drive</span><br>
+<span>Suite 2675</span><br>
+<span>Chicago, IL 60606</span></p>
+</td>
+<td class=3D"w30" width=3D"30"></td>
+</tr>
+<tr>
+<td class=3D"w30" width=3D"30"></td>
+<td class=3D"w580" width=3D"580">
+<p class=3D"footer-content-right" style=3D"color:#ffffff;">Nadex is subject=
+ to U.S. regulatory oversight by the CFTC. Futures, options, and swaps trad=
+ing involves risk and may not be appropriate for all investors. This is an =
+advertisement or promotional email from
+ Nadex. The contents hereof are not an offer, or a solicitation of an offer=
+, to buy or sell any particular financial instrument listed on Nadex.</p>
+<p class=3D"footer-content-right" style=3D"color:#ffffff;">=C2=A9 Nadex</p>
+</td>
+<td class=3D"w30" width=3D"30"></td>
+</tr>
+<tr>
+<td class=3D"w30" width=3D"30"></td>
+<td class=3D"w580" width=3D"580" height=3D"15"></td>
+<td class=3D"w30" width=3D"30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"w640" width=3D"640" height=3D"60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<font face=3D"Arial" color=3D"Black" size=3D"2"><br>
+This electronic mail message and any attachments may contain confidential a=
+nd/or privileged information that is only intended for use by, North Americ=
+an Derivatives Exchange, Inc. (&quot;Nadex&quot;) or third-parties to whom =
+it is directed. The contents of this electronic
+ mail message are not to be copied, modified, published, transmitted, distr=
+ibuted, performed, displayed, or sold in any way. If you are not the addres=
+see, you are prohibited from disclosing, copying, distributing or taking an=
+y action based on the contents of
+ this message. If you have received this message by mistake, please contact=
+ the sender immediately. All email sent to or from the Nadex corporate emai=
+l system may be retained, monitored and/or reviewed by Nadex personnel. Nad=
+ex is located at 311 South Wacker
+ Drive, Suite 2675, Chicago, IL 60606. Nadex is subject to U.S. regulatory =
+oversight by the CFTC. Futures, options and swaps trading involves risk and=
+ may not be appropriate for all investors. The contents hereof are not an o=
+ffer, or a solicitation of an offer,
+ to buy or sell any particular financial instrument listed on Nadex.-</font=
+>
+</body>
+</html>
+
+------=_Part_2296654_2132538027.1473422327560--
+
+------=_Part_2296653_1999668246.1473422327560--

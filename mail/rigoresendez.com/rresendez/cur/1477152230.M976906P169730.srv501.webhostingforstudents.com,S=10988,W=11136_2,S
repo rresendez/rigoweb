@@ -1,0 +1,148 @@
+Return-Path: <msprvs1=17103MamfvvsL=bounces-17534@bounce.codepen.io>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id YB0mOuaNC1gClwIATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 22 Oct 2016 12:03:50 -0400
+Return-path: <msprvs1=17103MamfvvsL=bounces-17534@bounce.codepen.io>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 22 Oct 2016 12:03:50 -0400
+Received: from mta414a.sparkpostmail.com ([52.39.255.131]:33536)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <msprvs1=17103MamfvvsL=bounces-17534@bounce.codepen.io>)
+	id 1bxyly-000iX4-O6
+	for rresendez@rigoresendez.com; Sat, 22 Oct 2016 12:03:50 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=codepen.io;
+	s=scph0416; t=1477152189; i=@codepen.io;
+	bh=YtZ0YRzMTz64VR5Cc/5uBLmpOBpwajkkZC8IcZJX1RU=;
+	h=To:Date:Subject:From:List-Unsubscribe:List-Id;
+	b=BrzvcOx1ShAueBjbEr1jEAMyyIZ1VSJgwmoWaS/R9AW26LOt7CYyYGocYz4UEYEAE
+	 m4I4dL+CXZDMqEBqd5wuSER5ot2CraD7tRHpi2hxuOT0F5sfsZN8Aqa3Q5B/y/zmHF
+	 vFeJqXcHshxHL6k+k0SMaNz7oTHWBGF0/UfFd5yg=
+X-MSFBL: OUHkaBOKkj5ZFh0gR2lBKN9NolecwEx+zdieFaZ6xE0=|eyJzdWJhY2NvdW50X2l
+	kIjoiMCIsInIiOiJycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbSIsInRlbXBsYXR
+	lX3ZlcnNpb24iOiIwIiwiYiI6ImlwXzUyLjM5LjI1NS4xMzEiLCJtZXNzYWdlX2l
+	kIjoiMDAwNWJkOGQwYjU4YjYxODg1NzIiLCJyY3B0X3RhZ3MiOlsgXSwicmNwdF9
+	tZXRhIjp7IH0sImciOiIxNzUzNDppcF9wb29sMSIsInRlbXBsYXRlX2lkIjoidGV
+	tcGxhdGVfMTAyNDYxODg0ODQ0NzE4NTUyIiwiaXBfcG9vbF9yYXciOiJpcF9wb29
+	sMSIsInRlbmFudF9pZCI6InNwYyIsImZyaWVuZGx5X2Zyb20iOiJzdXBwb3J0QGN
+	vZGVwZW4uaW8iLCJjdXN0b21lcl9pZCI6IjE3NTM0IiwidHJhbnNtaXNzaW9uX2l
+	kIjoiMTAyNDYxODg0ODQ0NzE4NTUyIiwiaXBfcG9vbCI6ImlwX3Bvb2wxIiwic2V
+	uZGluZ19pcCI6IjUyLjM5LjI1NS4xMzEifQ==
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+To: "Rigoberto " <rresendez@rigoresendez.com>
+Message-ID: <58.27.06326.DBD8B085@momentum5.platform1.us-west-2.aws.cl.messagesystems.com>
+Date: Sat, 22 Oct 2016 16:03:09 +0000
+MIME-Version: 1.0
+Subject: A few things to know about CodePen.
+From: support@codepen.io
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:7Klt_nYrMfQCodzvnmiFf5zwCkgjAWVDhe3MiLXaa60~|eyAicmNwdF90byI6ICJycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbSIsICJyY3B0X21ldGEiOiAie30iLCAicmNwdF90YWdzIjogIlsgXSIsICJ0ZW5hbnRfaWQiOiAic3BjIiwgInRlbXBsYXRlX2lkIjogInRlbXBsYXRlXzEwMjQ2MTg4NDg0NDcxODU1MiIsICJ0cmFuc21pc3Npb25faWQiOiAiMTAyNDYxODg0ODQ0NzE4NTUyIiwgInNlbmRpbmdfaXAiOiAiNTIuMzkuMjU1LjEzMSIsICJ0ZW1wbGF0ZV92ZXJzaW9uIjogIjAiLCAibWFpbGZyb20iOiAibXNwcnZzMT0xNzEwM01hbWZ2dnNMPWJvdW5jZXMtMTc1MzRAYm91bmNlLmNvZGVwZW4uaW8iLCAiaXBfcG9vbCI6ICJpcF9wb29sMSIsICJpcF9wb29sX3JhdyI6ICJpcF9wb29sMSIsICJjdXN0b21lcl9pZCI6ICIxNzUzNCIsICJmcmllbmRseV9mcm9tIjogInN1cHBvcnRAY29kZXBlbi5pbyIsICJtZXNzYWdlX2lkIjogIjAwMDViZDhkMGI1OGI2MTg4NTcyIiwgInN1YmFjY291bnRfaWQiOiAiMCIgfQ~~>
+List-Id: <spc-17534-0>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">=0A<html xmlns=3D"http://www.w3.org/1999/=
+xhtml" xmlns=3D"http://www.w3.org/1999/xhtml">=0A=0A<head>=0A=0A  =0A=0A  <=
+meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />=
+=0A  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />=0A=0A</head>=0A=0A   <body style=3D"margin: 0"><style type=3D"te=
+xt/css">=0Abody {=0Amargin: 0;=0A}=0A</style><table class=3D"entire-page" s=
+tyle=3D"background: #C7C7C7; font-family: 'Lucida Grande', 'Lucida Sans Uni=
+code', Verdana, sans-serif; line-height: 1.5; padding: 20px 0; width: 100%"=
+ bgcolor=3D"#C7C7C7">=0A=0A  <tr>=0A=0A    <td style=3D"color: #878787; fon=
+t-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font=
+-size: 13px">=0A=0A      <table class=3D"email-body" style=3D"background: w=
+hite; border-collapse: collapse; margin: 0 auto; max-width: 600px; min-widt=
+h: 320px" bgcolor=3D"white">=0A=0A        <tr>=0A          <td class=3D"ema=
+il-header" style=3D"background: black; color: #878787; font-family: 'Lucida=
+ Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: 13px; padd=
+ing: 20px 30px" bgcolor=3D"black">=0A            =0A            <table clas=
+s=3D"email-header-table">=0A              <tr>=0A                <td class=
+=3D"email-header-logo" style=3D"color: #878787; font-family: 'Lucida Grande=
+', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: 13px; padding-rig=
+ht: 20px; vertical-align: top" valign=3D"top">=0A                  <img src=
+=3D"https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-1/logo-white-badge.png" =
+alt=3D"" class=3D"header-logo" style=3D"float: left; height: 50px; opacity:=
+ 0.5; width: 50px" align=3D"left" />=0A                </td>=0A            =
+    <td style=3D"color: #878787; font-family: 'Lucida Grande', 'Lucida Sans=
+ Unicode', Verdana, sans-serif; font-size: 13px; vertical-align: top" valig=
+n=3D"top">=0A=0A<h1 style=3D"color: white; font-family: sans-serif; font-si=
+ze: 25px; line-height: 1.3; margin: 0; padding: 0">Thanks again for signing=
+ up for CodePen.</h1>=0A<p style=3D"color: #878787; font-family: 'Lucida Gr=
+ande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: 13px">Here's =
+a few interesting things you might not know.</p>=0A                =0A     =
+           </td>=0A                =0A              </tr>=0A               =
+ =0A            </table>=0A                =0A            =0A              =
+  =0A          </td>=0A                =0A        </tr> <!-- header -->=0A =
+               =0A=0A                =0A        <tr>=0A                =0A =
+         =0A                =0A          <td class=3D"body-of-email" style=
+=3D"color: #878787; font-family: 'Lucida Grande', 'Lucida Sans Unicode', Ve=
+rdana, sans-serif; font-size: 13px; padding: 30px 30px 30px 100px">=0A     =
+     =0A<h3 style=3D"color: black">You can customize the heck out of the ed=
+itor.</h3>=0A<p style=3D"color: #878787; font-family: 'Lucida Grande', 'Luc=
+ida Sans Unicode', Verdana, sans-serif; font-size: 13px">Go to <a href=3D"h=
+ttp://mailer.codepen.io/f/a/XfYiuYP4lP6obBL8W9G14Q~~/AABEfgA~/RgRZ7hK9P0EIA=
+WwEipkvudhXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoA=
+Bb2NC1i2GIVyUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEJmh0dHBzOi8vY29=
+kZXBlbi5pby95b3Uvc2V0dGluZ3MjZWRpdG9yRwJ7fQ~~" style=3D"color: #2F82DE; fon=
+t-weight: bold; text-decoration: none">this page</a> of your User Settings =
+and go nuts. You can do things like change the syntax highlighting colors, =
+turn on and off code folding, and set default preprocessing languages.</p>=
+=0A=0A<h3 style=3D"color: black">Searching CodePen can be pretty useful.</h=
+3>=0A<p style=3D"color: #878787; font-family: 'Lucida Grande', 'Lucida Sans=
+ Unicode', Verdana, sans-serif; font-size: 13px">There are millions and mil=
+lions of Pens on CodePen and you can search through all of them. Needs to f=
+ind an accessible version of tabs=3F <a href=3D"http://mailer.codepen.io/f/=
+a/Pn35gOD_fRA-tZ6fjs5gUQ~~/AABEfgA~/RgRZ7hK9P0EIAWwEipkvudhXA3NwY1gEAAAAAFk=
+IaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABb2NC1i2GIVyUhpycmVzZW5kZX=
+pAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEVmh0dHA6Ly9jb2RlcGVuLmlvL3NlYXJjaD9xPWFjY=
+2Vzc2libGUrdGFicyZsaW1pdD1hbGwmZGVwdGg9ZXZlcnl0aGluZyZzaG93X2ZvcmtzPWZhbHNl=
+RwJ7fQ~~" style=3D"color: #2F82DE; font-weight: bold; text-decoration: none=
+">You can.</a> You can also search only your own Pens, or only people you f=
+ollow, as an example of some of the Advanced Options. Whatever you find on =
+CodePen, you can use, thanks to the <a href=3D"http://mailer.codepen.io/f/a=
+/99bEojIiD8W3qSNvbt_Z1w~~/AABEfgA~/RgRZ7hK9P0EIAWwEipkvudhXA3NwY1gEAAAAAFkI=
+aXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABb2NC1i2GIVyUhpycmVzZW5kZXp=
+Acmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEJ2h0dHA6Ly9ibG9nLmNvZGVwZW4uaW8vbGVnYWwvbG=
+ljZW5zaW5nL0cCe30~" style=3D"color: #2F82DE; font-weight: bold; text-decora=
+tion: none">open licensing</a> of public Pens.</p>=0A=0A<h3 style=3D"color:=
+ black">People write on CodePen.</h3>=0A<p style=3D"color: #878787; font-fa=
+mily: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-siz=
+e: 13px">CodePen isn't just a code editor, it's a text editor too! Anybody =
+can <a href=3D"http://mailer.codepen.io/f/a/EcurgjHOHa65NAXvFxSjBg~~/AABEfg=
+A~/RgRZ7hK9P0EIAWwEipkvudhXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4z=
+OS4yNTUuMTMxQgoABb2NC1i2GIVyUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAAB=
+EGGh0dHA6Ly9jb2RlcGVuLmlvL3dyaXRlL0cCe30~" style=3D"color: #2F82DE; font-we=
+ight: bold; text-decoration: none">write posts</a>, the best of which are <=
+a href=3D"http://mailer.codepen.io/f/a/iuYxBy_VBLfz482CtiLxFQ~~/AABEfgA~/Rg=
+RZ7hK9P0EIAWwEipkvudhXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yN=
+TUuMTMxQgoABb2NC1i2GIVyUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEGGh0=
+dHA6Ly9jb2RlcGVuLmlvL3Bvc3RzL0cCe30~" style=3D"color: #2F82DE; font-weight:=
+ bold; text-decoration: none">featured</a>.</p>=0A=0A<hr style=3D"border-bo=
+ttom-color: #ccc; border-bottom-style: solid; border-width: 0 0 1px; margin=
+: 25px 0" />=0A=0A<p style=3D"color: #878787; font-family: 'Lucida Grande',=
+ 'Lucida Sans Unicode', Verdana, sans-serif; font-size: 13px">If you have a=
+ny questions about CodePen, don't hesistate to <a href=3D"http://mailer.cod=
+epen.io/f/a/NYg8643xmEP1oCMW7lwPyw~~/AABEfgA~/RgRZ7hK9P0EIAWwEipkvudhXA3NwY=
+1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABb2NC1i2GIVyUhpy=
+cmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABEGWh0dHA6Ly9jb2RlcGVuLmlvL3N1cHB=
+vcnRHAnt9" style=3D"color: #2F82DE; font-weight: bold; text-decoration: non=
+e">ask</a>.</p>=0A=0A</td>=0A=0A          =0A=0A        </tr>=0A=0A=0A=0A  =
+      <tr>=0A=0A          <td class=3D"footer" style=3D"background: #eee; c=
+olor: #878787; font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana=
+, sans-serif; font-size: 10px; padding: 10px; text-align: center" align=3D"=
+center" bgcolor=3D"#eee">=0A=0A            You're receiving this email beca=
+use you are a member of CodePen. You can <a href=3D"http://mailer.codepen.i=
+o/f/a/DmFYSkd3evz1dLdXw0HpBg~~/AABEfgA~/RgRZ7hK9P0EIAWwEipkvudhXA3NwY1gEAAA=
+AAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABb2NC1i2GIVyUhpycmVzZW=
+5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAAAURCRodHRwOi8vY29kZXBlbi5pby9hZG1pbi91b=
+nN1YnNjcmliZWRHAnt9" title=3D"Unsubscribe from CodePen email" style=3D"colo=
+r: #2F82DE; font-weight: bold; text-decoration: none">instantly opt out</a>=
+ any time.=0A=0A          </td>=0A=0A        </tr>=0A=0A      =0A=0A      <=
+/table>=0A=0A        =0A=0A    </td>=0A=0A=0A=0A  </tr>=0A=0A=0A=0A</table>=
+=0A=0A=0A=0D=0A<img border=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"h=
+ttp://mailer.codepen.io/q/kbZeVz1tMekyJE1TiDXWqw~~/AABEfgA~/RgRZ7hK9PkEIAWw=
+EipkvudhXA3NwY1gEAAAAAFkIaXBfcG9vbDFhCGlwX3Bvb2wxYA01Mi4zOS4yNTUuMTMxQgoABb=
+2NC1i2GIVyUhpycmVzZW5kZXpAcmlnb3Jlc2VuZGV6LmNvbQlRBAAAAABHAnt9">=0D=0A</bod=
+y></html>=0A
+

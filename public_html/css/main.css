@@ -1,0 +1,319 @@
+/*******************
+GENERAL
+******************/
+@import url(http://fonts.googleapis.com/css?family=Dosis:300,400);
+
+body {
+font-family: 'Dosis',sans-serif;
+  margin: 0 auto;
+  
+  
+}
+#rapper {
+  max-width: 940px;
+  padding: 0 5%;
+  margin: 0 auto;
+  }
+a {
+  color:#000;
+}
+
+a {
+  text-decoration:none
+}
+img {
+  max-width: 100%;
+}
+ h3  {
+  margin: 0 0 1em 0;
+}
+
+
+
+  /*******************
+HEADING
+*******************/
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+#logo {
+  text-align:center;
+  margin: 0;
+}
+h1 {
+  font-family: 'Changa One', sans-serif;
+  margin:15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+  letter-spacing: 0.30em;
+}
+h2 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 4.0em;
+  margin: -5px 0 0;
+  font-weight: bolder;
+  letter-spacing:2.5em;
+}
+
+ 
+
+/*******************
+NAVIGATION
+*******************/
+nav{
+text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+  font-family: 'Dosis', sans-serif;
+  letter-spacing:0.72em;
+  
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+nav li{
+  display: inline-block
+}
+  nav a {
+  
+  font-weight: 1000;
+  padding: 15px 0px 15px 55px;
+  transition-duration: 1.8s;
+  font-size: 1.3em;
+}
+
+/*******************
+FOOTER
+*******************/
+footer {
+  font-size: 1.00em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #ccc;
+  line-height:inherit;
+}
+
+.social-icon{
+  height: 20px;
+  width: 20px;
+  padding: 0 5px;
+}
+  
+
+
+/*******************
+PAGE PORTFOLIO
+******************/
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  
+  
+    
+}
+
+#gallery li {
+  
+  float: left;
+  width: 30%;
+  margin: 2.5%;
+  background-color: #f5f5f5;
+  color: #cdc3c7;
+  height:18em;
+  border-radius: 10%;
+  
+  
+
+
+}
+#gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 0.90em;
+  color: #ada3a7;
+  font-family:'Dosis',sans-serif;
+  letter-spacing:0.15em;
+  transition-duration: 1.2s;
+
+  
+ 
+}
+#gallery{
+  list-style:none;
+}
+#gallery li a img {
+ 
+border-radius: 10%;
+  transition: 1.3s ease-in-out 0.3s;
+ 
+}
+
+
+
+/*******************
+PAGE ABOUT
+******************/ 
+.profile-photo {
+  display: block;
+  max-width: 250px;
+  margin: 0 auto 30px;
+  border-radius: 20px;
+  align-self:center;
+}
+
+
+
+
+
+/*******************
+PAGE CONTACT
+******************/ 
+
+.contact-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.contact-info a{
+  display: block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+
+  transition: 0.5s ease-in-out ;
+  
+   
+}
+  
+.contact-info li.phone a {
+    background-image: url('../Img/phone.png');
+}
+
+.contact-info li.mail a {
+    background-image: url('../Img/mail.png');
+}
+
+.contact-info li.twitter a {
+    background-image: url('../Img/twitter.png');
+}
+
+/*******************
+COLORS
+*******************/
+
+/*Site body*/
+body {
+  background-color: #fff;
+  color: #999;
+}
+
+/*blue header*/
+header{
+/*background:#00c4fb;*/
+   background: linear-gradient(#00a4f0,#00c4fb 50%,#00d9ff);
+ 
+
+border-color: #599a68;
+}
+h1,h2{
+  color: #fff;
+}
+/*nav background on mobile devices*/
+nav{
+  background:#00a4f0
+}
+ /* nav links*/
+nav a, nav a:visited {
+  color: #fff;
+}
+    /*selected links*/
+nav a.selected, nav a:hover {
+  color: #323f67;
+}
+/*HOVER*/
+
+#gallery p:hover {
+  font-weight:bold;
+ font-size:15.2px;
+ color: black;
+  
+/****************
+  Crazy New Shit 
+  **************/
+}
+.contact-info li:hover {
+  font-weight:bold;
+ font-size:16px;
+ color: #00a4f0;
+}
+p {
+ letter-spacing:0.15em; 
+line-height:1.8em;
+font-family:'Dosis',sans-serif;
+}
+
+#logo h2 {
+  font-family: 'Dosis', sans-serif;
+    font-size: 1.3em;
+   letter-spacing:0.313em; 
+  
+  
+}
+#about {
+line-height: 2.0em;
+letter-spacing:0.15em; 
+ font-size: 1.2em;
+
+  
+}
+#primary h3 {
+  
+   font-size: 2em;
+  padding: 1em 0 0.5em 0;
+}
+
+#primary p {
+ 
+letter-spacing:0.10em; 
+ font-size: 1.2em;
+  
+
+}
+
+#secondary h3 {
+
+   font-size: 2em;
+  padding: 1em 0 0.5em 0;
+}
+
+h3 {
+
+   font-size: 2em;
+}
+
+
+
+
+.contact-info a {
+ margin-bottom: 1.5em; 
+   font-size: 1.4em;
+  line-height:.6;
+  letter-spacing:0.15em; 
+  
+ 
+}

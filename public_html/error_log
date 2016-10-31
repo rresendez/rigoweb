@@ -1,0 +1,13 @@
+[22-Sep-2016 23:28:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rigorese/public_html/sms.php:58) in /home/rigorese/public_html/sms.php on line 97
+[22-Sep-2016 23:28:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rigorese/public_html/sms.php:58) in /home/rigorese/public_html/sms.php on line 97
+[22-Sep-2016 23:41:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting variable (T_VARIABLE) or '$' in /home/rigorese/public_html/sms.php on line 56
+[22-Sep-2016 23:42:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/rigorese/public_html/sms.php on line 36
+[22-Sep-2016 23:43:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/rigorese/public_html/sms.php on line 36
+[22-Sep-2016 23:43:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/rigorese/public_html/sms.php on line 36
+[22-Sep-2016 23:43:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/rigorese/public_html/sms.php on line 36
+[22-Sep-2016 23:44:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rigorese/public_html/sms.php:58) in /home/rigorese/public_html/sms.php on line 97
+[22-Sep-2016 23:51:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rigorese/public_html/sms.php:58) in /home/rigorese/public_html/sms.php on line 97
+[06-Oct-2016 12:54:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rigorese/public_html/sms.php:58) in /home/rigorese/public_html/sms.php on line 97
+[06-Oct-2016 12:56:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rigorese/public_html/sms.php:58) in /home/rigorese/public_html/sms.php on line 97
+[06-Oct-2016 12:56:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rigorese/public_html/sms.php:58) in /home/rigorese/public_html/sms.php on line 97
+[14-Oct-2016 10:03:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rigorese/public_html/form2.php on line 21

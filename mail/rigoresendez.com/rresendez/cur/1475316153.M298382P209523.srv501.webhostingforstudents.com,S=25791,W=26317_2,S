@@ -1,0 +1,526 @@
+Return-Path: <alert@indeed.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id nhavEbmJ71dzMgMATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 01 Oct 2016 06:02:33 -0400
+Return-path: <alert@indeed.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 01 Oct 2016 06:02:33 -0400
+Received: from mail67.indeed.com ([198.58.75.67]:51367)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <alert@indeed.com>)
+	id 1bqH7o-000sNt-Sg
+	for rresendez@rigoresendez.com; Sat, 01 Oct 2016 06:02:33 -0400
+Received: from aus-post2 (unknown [10.1.0.112])
+	by mail67.indeed.com (Postfix) with ESMTP id 42095692F9
+	for <rresendez@rigoresendez.com>; Sat,  1 Oct 2016 05:01:52 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1475316112;
+	s=default; d=indeed.com; i=@indeed.com;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=ezQ7mJh5xTN++jLVqZuYewpNUpI2samWWigGDgFSEJs=;
+	b=qFYkce6QW5QdfvpDSe45UEWH2TfB0qaQn+Y2lTkj2JQHYhPQasGWJIxOf0tDu8UU
+	uhRc0hPIY7Dkuyuz53UeB3457o3Aie1EVP3XYjKsqcyyZo4UoKrpmwxmNeTimfG/Fh6
+	ZynCLbWjjmYvMez7+wTXAbhIIvz1Luc+dLdl7i8w=
+From: Indeed Job Alert <alert@indeed.com>
+Reply-To: Indeed Job Alert <do-not-reply@indeed.com>
+To: rresendez@rigoresendez.com
+Message-ID: <1atvo7fa805363fr.1475313163271.Railgunner@aus-gensvc2>
+Subject: it internship jobs in Austin, TX: GE Healthcare and Texas Alcoholic
+ Beverage Commission have opportunities for you!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_18668406_2060829672.1475316112142"
+Date: Sat,  1 Oct 2016 05:01:52 -0500 (CDT)
+
+------=_Part_18668406_2060829672.1475316112142
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Indeed Job Alert
+it internship jobs in Austin, TX
+
+2 new jobs found
+See matching results on Indeed: http://www.indeed.com/jobs?q=it+internship&l=Austin%2C+TX&r=25&hl=en&from=ja&alid=5759ee8fe4b07e8cbc03612e
+
+
+Clerk II
+Texas Alcoholic Beverage Commission - Austin, TX
+The internship position performs routine (journey-level) clerical work for the Tax Division. The Texas Alcoholic Beverage Commission is looking for applicants...
+Texas Alcoholic Beverage Commission - Sep 30
+http://www.indeed.com/rc/clk?jk=e0e9fccf96db4681&from=ja&qd=UVUbJoLrijrFL7f9aiENaUuE1iSnqbPoHWE8Crppu4PEFQwvLsj5oQMvjsTp-ywCKLENNVx1pLRZmzenJj7uaX2LhTYP0op_TBenMVhVTPM&rd=8i0xAbEkuWUhy6dasPEQkTf1r4gtVO6iFKRsXcLvFus&tk=1atvo7fa805363fr&alid=5759ee8fe4b07e8cbc03612e
+
+Technician 1 - Biomedical
+GE Healthcare - Austin, TX
+OR participant in the formal GEHC Biomed/FE Services Internship or Military Externship program; OR High School Diploma/GED and 2+ years of experience servicing...
+GE Careers - Sep 30
+http://www.indeed.com/rc/clk?jk=4830cfbccdd1511f&from=ja&qd=UVUbJoLrijrFL7f9aiENaUuE1iSnqbPoHWE8Crppu4PEFQwvLsj5oQMvjsTp-ywCKLENNVx1pLRZmzenJj7uaX2LhTYP0op_TBenMVhVTPM&rd=v7_ZQyGHijdq7ng-cswbFPjl0TZdzt_QvGjJX2Poj_o&tk=1atvo7fa805363fr&alid=5759ee8fe4b07e8cbc03612e
+
+
+Edit this Job Alert: http://www.indeed.com/alert/manage/5759ee8fe4b07e8cbc03612e?hl=en&from=ja&alid=5759ee8fe4b07e8cbc03612e
+Cancel this Job Alert: https://subscriptions.indeed.com/alerts/cancel?subId=5759ee8fe4b07e8cbc03612e&token=CkAtz1K37DrZZLOmwgOT7PZzPh_kmLBYM6msAA17gQSzD4cOG_3m7TyLKXVYsVpeJLnn5eVzTh1pAMLoyZgq_LeQEiAyOcUeT-LF9qlegVOyZ6y1UADtpEFR_sYjZm_IEa7u9RoQDTB-0LPzAqWIbIXvCtrwdQ%3D%3D&co=US&hl=en&tmtk=1atvo7fa805363fr&rgtk=1atvo8mup1d9ea4s&from=ja
+
+Indeed - one search. all jobs. | 6433 Champion Grandview Way, Building 1, Austin, TX 78750
+
+------=_Part_18668406_2060829672.1475316112142
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width = device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<style type="text/css">
+a,a:link{color:#00c}
+.nolink{unicode-bidi: embed;}
+a[href=""] {-webkit-touch-callout:none;-webkit-tap-highlight-color:rgba(0,0,0,0);cursor:default;}
+@media only screen and (max-width: 800px) {
+*[class].image_ad_desktop {
+display: none!important;
+}
+}
+@media only screen and (max-width: 800px) {
+*[class].snippet {
+display: none!important;
+}
+}
+*[class].image_ad_desktop {
+max-width: 688px;
+height: auto;
+}
+</style>
+<style type="text/css">
+a,a:link{color:#00c}
+/* Attribute selectors hack is to make mail clients like Yahoo play nice with responsive CSS */
+@media only screen and (max-width: 800px) {
+html, body {
+margin: 0;
+overflow-x: hidden;
+min-width: 100%;
+padding: 0;
+}
+*[class].desktop {
+display: none!important;
+}
+*[class].snippet {
+display: none!important;
+}
+*[class].section_header {
+padding: 6px 10px!important;
+font-size: 100%!important;
+display: block;
+background-color: #EEE;
+color: #222!important;
+font-weight: bold;
+text-decoration: none;
+margin: 0;
+}
+*[class].section_header a {
+text-decoration: none;
+color: #222;
+}
+a[class].jobtitle {
+color: #000;
+font-weight: bold;
+font-size: 16px;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+position: absolute;
+padding-top: 5px;
+padding-left: 10px;
+}
+*[class].alert_title {
+font-size: 16px;
+color: #444!important;
+margin-bottom: 0!important;
+margin-top: 6px;
+margin-left: 10px;
+}
+*[class].job_company_location_wrapper {
+margin-top: 15px;
+}
+*[class].job_company {
+font-size: 14px;
+}
+*[class].job {
+font-size: smaller;
+border-top: 1px solid #DEDEDE;
+padding: 7px 28px 7px 10px;
+position: relative;
+text-decoration: none;
+margin-bottom: 0!important;
+}
+*[class].tap_item {
+position: relative;
+background-repeat: no-repeat;
+background-position: 97% 50%;
+background-color: #fff;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAANCAIAAAAboLhvAAAABnRSTlMA/wD/AP83WBt9AAAAfElEQVQYV2XQMQtGERTG8fPRLQYpIoPF7GsZDVKUxXLvOdft9r48ZfD/DQqMMUIIKaXrf+C9Z4xxzjcDrTV7thm01owxpwGe3ru1djOCZc65X3sBh5cFOHz4hVKKUmpVKWXOmeCsGKHWelaCrwohvkqA/3FWgjlnjHGruBsKXPPQp1ND2gAAAABJRU5ErkJggg==);
+}
+*[class].tap_item_link {
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+color: #000;
+text-decoration: none;
+font-weight: bold;
+}
+*[class].job_age {
+color: #848484;
+font-size: 14px;
+text-decoration: none;
+}
+*[id]#job_header {
+margin-left: 10px;
+}
+*[id]#related_job_header {
+margin-left: 10px;
+}
+*[id]#tsjads {
+border: none!important;
+margin-bottom: 0!important;
+}
+*[id]#bsjads {
+border: none!important;
+padding-top:0!important;
+}
+hr {
+margin-left: -10px;
+margin-right: -10px;
+}
+*[class].indeed_footer {
+font-size: 9px;
+text-align: center;
+}
+*[id]#job_results {
+width: 100%;
+padding-top: 0!important;
+}
+*[id]#recJobs {
+width: 100%!important;
+}
+*[class].mobile_promo {
+margin-left: 10px!important;
+}
+*[id]#p10dRecPromo {
+border-top: 1px solid #DEDEDE;
+margin: 0!important;
+height: 29px;
+padding-top: 9px;
+}
+*[id]#p10d_promo_decoration {
+display:none;
+}
+*[id]#p10d_promo_link {
+color: #000;
+padding-top: 10px;
+padding-left: 10px;
+}
+*[id]#alert_actions {
+list-style-type: none;
+margin-left: 10px!important;
+}
+*[id]#bot_view_jobs_bar {
+border-top: 1px solid #DEDEDE;
+font-size: 16px!important;
+font-weight: bold;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 0!important;
+}
+*[id]#bot_view_jobs_label {
+width: 100%;
+height: 100%;
+top: 0;
+font-weight: bold;
+font-size: 16px;
+cursor: auto!important;
+padding: 10px 2px 21px 10px;
+}
+*[id]#bot_view_jobs_link {
+width: 100%;
+height: 100%;
+top: 0;
+position: absolute;
+color: #000;
+text-decoration: none;
+font-weight: bold;
+font-size: 16px;
+padding-left:2px;
+padding-top: 11px;
+}
+}
+/* Follow buttons */
+#follow_cmp_promo.show-pc-promo {
+display: block;
+}
+#follow_cmp_promo.hide-pc-promo {
+display: none;
+}
+#follow_cmp_promo.show-pc-promo .show-pc-button {
+display: block;
+}
+#follow_cmp_promo.show-pc-promo .hide-pc-button {
+display: none;
+}
+@media only screen and (max-width: 800px) {
+*[id]#follow_cmp_promo.show-mobile-promo {
+display: block;
+}
+*[id]#follow_cmp_promo.hide-mobile-promo {
+display: none;
+}
+*[id]#follow_cmp_promo.show-mobile-promo .show-mobile-button {
+display: block;
+margin: 0 10px 10px 10px;
+}
+*[id]#follow_cmp_promo.show-mobile-promo .hide-mobile-button {
+display: none;
+}
+}
+</style>
+<style type="text/css" >
+@media only screen and (max-width: 800px) {
+*[id]#responsive_css_ping { background-image: url(http://www.indeed.com/ja/jrailrespcss.png?rgtk=1atvo7fa805363fr); }
+}
+</style>
+</head>
+<body style="background:#fff">
+<div id="responsive_css_ping">
+<div style="font-family:Arial,sans-serif;direction:ltr">
+<div style="margin-left:0;margin-top:24px;margin-bottom:12px;">
+<a href="http://www.indeed.com">
+<img src="http://www.indeed.com/images/email/indeed.gif" width="87px" height="24px" alt="Indeed" style="text-decoration: none; border: 0px">
+</a>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td valign="top" style="font-family:Arial,sans-serif">
+<div style="margin-bottom:0.5em; font-size:18px;" class="alert_title">
+<a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">it internship jobs in Austin, TX</a>
+</div>
+</td>
+</tr>
+</table>
+<div class="mobile_promo" style="margin:1em 0.5em 1em 0;">
+<table style="background: #EBEBEB; padding: 15px; max-width:43em; width:100%;" cellpadding="0" cellspacing="0"
+border="0">
+<tr>
+<td style="width: 42px;">
+<img src="http://www.indeed.com/images/email/app_icon_84x84.png" alt="Indeed" width="42" height="42"/>
+</td>
+<td style="padding: 0 15px;">
+<span>Find jobs wherever you are. Download the <a href="http://www.indeed.com/mobileapp?campaign=jobalert&from=jsrailtxtapppromotst3&referrer=utm_source%3Djobseeker_emails%26utm_medium%3Demail%26utm_campaign%3Djob_alerts%26utm_content%3Djsrailtxtapppromotst3&alid=5759ee8fe4b07e8cbc03612e&trk.origin=jobalertsearch&trk.variant=tpromo&trk.tk=1atvo7fa805363fr">Indeed app</a> now.</span>
+</td>
+</tr>
+</table>
+</div>
+<img id="promo_track_img" src="http://www.indeed.com/rpc/log/promo?trk.origin=jobalertsearch&trk.pos=nav&target=mobile-app&trk.tk=1atvo7fa805363fr"/>
+<div id="job_header" style="font-size:13px; margin-bottom: 10px" class="job_count_title">
+<b>2 new jobs found</b>
+</div>
+<table id="job_results" cellpadding=0 cellspacing=0 border=0><tr><td style="width:43em;font-family:Arial,sans-serif ">
+<!--ON_RESULTS-->
+<!--BEGIN-->
+<!-- From imgadresponsivecss.ftl -->
+<style type="text/css">
+*[id]#image_ad_b4a6fd9198bae30a0158e3055c04bf0c {
+background-repeat: no-repeat;
+}
+@media only screen and (max-width: 800px) {
+*[id]#image_ad_b4a6fd9198bae30a0158e3055c04bf0c {
+min-height: 80px;
+min-width: 750px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spt_0&hide_snippet=1&mobile=1&width=750&retina=1&hideDate=1");
+border-top: 1px solid #DEDEDE;
+background-size: contain;
+}
+}
+@media only screen and (max-width: 700px) {
+*[id]#image_ad_b4a6fd9198bae30a0158e3055c04bf0c {
+min-width: 650px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spt_0&hide_snippet=1&mobile=1&width=650&retina=1&hideDate=1");
+background-size: contain;
+}
+}
+@media only screen and (max-width: 600px) {
+*[id]#image_ad_b4a6fd9198bae30a0158e3055c04bf0c {
+min-width: 550px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spt_0&hide_snippet=1&mobile=1&width=550&retina=1&hideDate=1");
+background-size: contain;
+}
+}
+@media only screen and (max-width: 500px) {
+*[id]#image_ad_b4a6fd9198bae30a0158e3055c04bf0c {
+min-width: 450px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spt_0&hide_snippet=1&mobile=1&width=450&retina=1&hideDate=1");
+background-size: contain;
+}
+}
+@media only screen and (max-width: 400px) {
+*[id]#image_ad_b4a6fd9198bae30a0158e3055c04bf0c {
+min-width: 350px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spt_0&hide_snippet=1&mobile=1&width=350&retina=1&hideDate=1");
+}
+}
+</style>
+<div class="image_ad_wrapper">
+<a href="http://www.indeed.com/ja/clk?q=it+internship&l=Austin%2C+TX&tk=1atvo7fa805363fr&alid=5759ee8fe4b07e8cbc03612e&from=ja&slid=spt_0">
+<div id="image_ad_b4a6fd9198bae30a0158e3055c04bf0c">
+<img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spt_0&retina=1&hideDate=1&boldJobTitle=1" border="0">
+</div>
+</a>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+<div style="font-size:13px;"><a class="jobtitle tap_item_link" style="font-weight: bold;" href="http://www.indeed.com/rc/clk?jk=e0e9fccf96db4681&from=ja&qd=UVUbJoLrijrFL7f9aiENaUuE1iSnqbPoHWE8Crppu4PEFQwvLsj5oQMvjsTp-ywCKLENNVx1pLRZmzenJj7uaX2LhTYP0op_TBenMVhVTPM&rd=8i0xAbEkuWUhy6dasPEQkTf1r4gtVO6iFKRsXcLvFus&tk=1atvo7fa805363fr&alid=5759ee8fe4b07e8cbc03612e">Clerk II</a></div>
+<div style="font-size:13px;" class="job_company_location_wrapper">
+<span class="job_company">Texas Alcoholic Beverage Commission</span>
+<a class="desktop" href="http://www.indeed.com/cmp/Texas-Alcoholic-Beverage-Commission/reviews?campaignid=JobAlertStars&from=ja&alid=5759ee8fe4b07e8cbc03612e&jt=Clerk II" style="white-space:nowrap;">
+<span style="display: -moz-inline-box; display:inline-block; height: 11px; line-height: 11px; width: 55px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:36.3px;"><!-- --></span></span></a>
+<a class="desktop" href="http://www.indeed.com/cmp/Texas-Alcoholic-Beverage-Commission/reviews?campaignid=JobAlertStars&from=ja&alid=5759ee8fe4b07e8cbc03612e&jt=Clerk II" style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;">10 reviews</a>
+<span class="desktop"> - </span>
+<span style="color: #666;;"><font color="#666666"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Austin, TX</a>
+</font>
+</span>
+</div>
+<div style="font-size:13px;">
+<nobr>$12 an hour</nobr>
+</div>
+<div class="snippet" style="font-size:13px;">The <b>internship</b> position performs routine (journey-level) clerical work for the Tax Division. The Texas Alcoholic Beverage Commission is looking for applicants...</div>
+<div style="font-size:13px;">
+<span class="job_age" style="color: #666;;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Sep 30</a>
+</span>
+</div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+<div style="font-size:13px;"><a class="jobtitle tap_item_link" style="font-weight: bold;" href="http://www.indeed.com/rc/clk?jk=4830cfbccdd1511f&from=ja&qd=UVUbJoLrijrFL7f9aiENaUuE1iSnqbPoHWE8Crppu4PEFQwvLsj5oQMvjsTp-ywCKLENNVx1pLRZmzenJj7uaX2LhTYP0op_TBenMVhVTPM&rd=v7_ZQyGHijdq7ng-cswbFPjl0TZdzt_QvGjJX2Poj_o&tk=1atvo7fa805363fr&alid=5759ee8fe4b07e8cbc03612e">Technician 1 - Biomedical</a></div>
+<div style="font-size:13px;" class="job_company_location_wrapper">
+<span class="job_company">GE Healthcare</span>
+<a class="desktop" href="http://www.indeed.com/cmp/GE-Healthcare/reviews?campaignid=JobAlertStars&from=ja&alid=5759ee8fe4b07e8cbc03612e&jt=Technician 1 - Biomedical" style="white-space:nowrap;">
+<span style="display: -moz-inline-box; display:inline-block; height: 11px; line-height: 11px; width: 55px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:44.0px;"><!-- --></span></span></a>
+<a class="desktop" href="http://www.indeed.com/cmp/GE-Healthcare/reviews?campaignid=JobAlertStars&from=ja&alid=5759ee8fe4b07e8cbc03612e&jt=Technician 1 - Biomedical" style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;">682 reviews</a>
+<span class="desktop"> - </span>
+<span style="color: #666;;"><font color="#666666"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Austin, TX</a>
+</font>
+</span>
+</div>
+<div class="snippet" style="font-size:13px;">OR participant in the formal GEHC Biomed/FE Services <b>Internship</b> or Military Externship program; OR High School Diploma/GED and 2+ years of experience servicing...</div>
+<div style="font-size:13px;">
+<span class="job_source desktop" style="color: #080;;">
+GE Careers
+</span>
+<span class="desktop"> - </span>
+<span class="job_age" style="color: #666;;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Sep 30</a>
+</span>
+</div>
+</div>
+<!-- From imgadresponsivecss.ftl -->
+<style type="text/css">
+*[id]#image_ad_4f3fc902c170af3c02ac3396e0ff9b91 {
+background-repeat: no-repeat;
+}
+@media only screen and (max-width: 800px) {
+*[id]#image_ad_4f3fc902c170af3c02ac3396e0ff9b91 {
+min-height: 80px;
+min-width: 750px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spb_0&hide_snippet=1&mobile=1&width=750&retina=1&hideDate=1");
+border-top: 1px solid #DEDEDE;
+background-size: contain;
+}
+}
+@media only screen and (max-width: 700px) {
+*[id]#image_ad_4f3fc902c170af3c02ac3396e0ff9b91 {
+min-width: 650px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spb_0&hide_snippet=1&mobile=1&width=650&retina=1&hideDate=1");
+background-size: contain;
+}
+}
+@media only screen and (max-width: 600px) {
+*[id]#image_ad_4f3fc902c170af3c02ac3396e0ff9b91 {
+min-width: 550px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spb_0&hide_snippet=1&mobile=1&width=550&retina=1&hideDate=1");
+background-size: contain;
+}
+}
+@media only screen and (max-width: 500px) {
+*[id]#image_ad_4f3fc902c170af3c02ac3396e0ff9b91 {
+min-width: 450px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spb_0&hide_snippet=1&mobile=1&width=450&retina=1&hideDate=1");
+background-size: contain;
+}
+}
+@media only screen and (max-width: 400px) {
+*[id]#image_ad_4f3fc902c170af3c02ac3396e0ff9b91 {
+min-width: 350px;
+background-image: url("http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spb_0&hide_snippet=1&mobile=1&width=350&retina=1&hideDate=1");
+}
+}
+</style>
+<div class="image_ad_wrapper">
+<a href="http://www.indeed.com/ja/clk?q=it+internship&l=Austin%2C+TX&tk=1atvo7fa805363fr&alid=5759ee8fe4b07e8cbc03612e&from=ja&slid=spb_0">
+<div id="image_ad_4f3fc902c170af3c02ac3396e0ff9b91">
+<img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/img/pNDis.png?q=it+internship&l=Austin%2C+TX&hl=en&tk=1atvo7fa805363fr&ld=spb%3A1%2Cspt%3A1&publisher=pub-indeed&alertEmail=rresendez%40rigoresendez.com&aluidhash=e8fd2ecb3b5d4aa3c3aca456a97b8a45&eh=lkr7o6b40r&slid=spb_0&retina=1&hideDate=1&boldJobTitle=1" border="0">
+</div>
+</a>
+</div>
+</td></tr></table>
+<!--END-->
+<!--ON_RESULTS_END-->
+<div id="bot_view_jobs_bar" class="tap_item" style="margin-bottom:1em; font-size:13px;">
+<a id="bot_view_jobs_label" style="text-decoration: none; color:#000; padding-right:2px; cursor:default;" href="http://www.indeed.com/jobs?q=it internship&l=Austin, TX&fromage=1&from=ja&fr=b&of=1&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts&hl=en
+">View jobs:</a>
+<a id="bot_view_jobs_link" href="http://www.indeed.com/jobs?q=it internship&l=Austin, TX&fromage=1&from=ja&fr=b&of=1&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts&hl=en
+">since yesterday</a> <span class="desktop"> - </span>
+<a class="desktop" href="http://www.indeed.com/jobs?q=it internship&l=Austin, TX&fromage=7&from=ja&fr=b&of=1&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts&hl=en
+">for last 7 days</a> <span class="desktop"> - </span>
+<a class="desktop" href="http://www.indeed.com/jobs?q=it internship&l=Austin, TX&&from=ja&fr=t&of=1&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts&hl=en
+">all jobs</a>
+</div>
+<hr noshade size="1" style="color:#ccc;background-color:#ccc;border-color:#ccc">
+<div id="follow_cmp_promo" class="show-pc-promo show-mobile-promo" style="margin-bottom: 25px;">
+<div style="margin-bottom: 15px;">
+Get job updates from these companies
+</div>
+<div style="font-size:small;margin-bottom: 10px;">
+<div id="followButtonWrapper" style="display:inline-block; margin-right:10px;" class="show-pc-button show-mobile-button">
+<span style="width:auto;padding-right:0;border:1px solid #1C4ED9;border-top-color:#2F62F1;border-bottom-color:#133FBB;display:inline-block;">
+<span style="border-top:1px solid #69F;display:inline-block;padding:4px;background:#2B57D5;">
+<a href="http://www.indeed.com/cmp/GE-Healthcare?msg=a%3DfolCmp%26email%3Drresendez%2540rigoresendez.com%26sig%3D4d3a8722c4ce90f80c5797d5fa604b59%26followCompany%3D37f707092ea814c3&10,259&from=ja&alid=5759ee8fe4b07e8cbc03612e&jaclick=folbtnc&tk=1atvo7fa805363fr" id="followButton" style="background:transparent;border:0;color:#ffffff;margin:0;padding:4px 4px;cursor:pointer;text-decoration:none;font-size:15px;">Follow</a>
+</span>
+</span>
+</div>
+<div id="followButtonCaption" style="display: inline-block;white-space:normal;max-width:60%;">
+GE Healthcare
+</div>
+</div>
+<div style="font-size:small;margin-bottom: 10px;">
+<div id="followButtonWrapper" style="display:inline-block; margin-right:10px;" class="show-pc-button show-mobile-button">
+<span style="width:auto;padding-right:0;border:1px solid #1C4ED9;border-top-color:#2F62F1;border-bottom-color:#133FBB;display:inline-block;">
+<span style="border-top:1px solid #69F;display:inline-block;padding:4px;background:#2B57D5;">
+<a href="http://www.indeed.com/cmp/Texas-Alcoholic-Beverage-Commission?msg=a%3DfolCmp%26email%3Drresendez%2540rigoresendez.com%26sig%3D432930e27830b508aeb3465f4ae69305%26followCompany%3D7be402a692e39380&185,551&from=ja&alid=5759ee8fe4b07e8cbc03612e&jaclick=folbtnc&tk=1atvo7fa805363fr" id="followButton" style="background:transparent;border:0;color:#ffffff;margin:0;padding:4px 4px;cursor:pointer;text-decoration:none;font-size:15px;">Follow</a>
+</span>
+</span>
+</div>
+<div id="followButtonCaption" style="display: inline-block;white-space:normal;max-width:60%;">
+TEXAS ALCOHOLIC BEVERAGE COMMISSION
+</div>
+</div>
+</div>
+<hr noshade size="1" style="color:#ccc;background-color:#ccc;border-color:#ccc">
+<ul id="alert_actions" style="margin-top:0.5em;margin-bottom:1em;margin-left:1.5em;padding-left:0">
+<li style="margin-bottom:0.25em"><font size="-1"><a href="http://www.indeed.com/alert/manage/5759ee8fe4b07e8cbc03612e?hl=en&from=ja&alid=5759ee8fe4b07e8cbc03612e&utm_medium=email&utm_campaign=job_alerts&utm_source=jobseeker_emails&fr=b&of=1">Edit</a> this Job Alert</font></li>
+<li style="margin-bottom:0.25em"><font size="-1"><a href="https://subscriptions.indeed.com/alerts/cancel?subId=5759ee8fe4b07e8cbc03612e&token=CkCdeTqGYcxEsculUtXol4stDHxjUNMcKx9symbYvc0WFOcn7iDrAVtzUqRZEObrFIdyy4uycPaU71RdQK9V5W0OEiD3ZiJOnINwDXReTsrJV9PHsCrzKBwy5pvMIJw9gSpYjRoQpNHcwol0JPld5Rc-Xz6t6g%3D%3D&co=US&hl=en&tmtk=1atvo7fa805363fr&rgtk=1atvo8mup1d9ea4s&from=ja">Cancel</a> this Job Alert</font></li>
+</ul>
+<hr noshade size="1" style="color:#ccc;background-color:#ccc;border-color:#ccc">
+<div class="indeed_footer">
+<div style="margin-left:6px;padding-top:12px;font-size:10px;color:#000;">
+<a href="" class="nolink" style="text-decoration:none;color:inherit;cursor:default;"></a>
+<a href="http://www.indeed.com?from=ja"><font color="#2164f3"><b>Indeed</b></font></a> - one search. all jobs. | 6433 Champion Grandview Way, Building 1, Austin, TX 78750
+</div>
+</div>
+<img src="http://www.indeed.com/imgping?type=ja&tk=1atvo7fa805363fr&aluidhash=5759ee8fe4b07e8cbc03612e" height="1" width="1">
+</body>
+</html>
+------=_Part_18668406_2060829672.1475316112142--

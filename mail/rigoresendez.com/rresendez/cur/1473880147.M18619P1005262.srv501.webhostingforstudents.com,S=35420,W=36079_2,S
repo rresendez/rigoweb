@@ -1,0 +1,659 @@
+Return-Path: <bounces+3566835-1fa6-rresendez=rigoresendez.com@sendgrid.net>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id AQsNAVOg2VfOVg8ATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 14 Sep 2016 15:09:07 -0400
+Return-path: <bounces+3566835-1fa6-rresendez=rigoresendez.com@sendgrid.net>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 14 Sep 2016 15:09:07 -0400
+Received: from o1678967x54.outbound-mail.sendgrid.net ([167.89.67.54]:30662)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+3566835-1fa6-rresendez=rigoresendez.com@sendgrid.net>)
+	id 1bkFYQ-004DmL-Oa
+	for rresendez@rigoresendez.com; Wed, 14 Sep 2016 15:09:06 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.net; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=SO/S3KKMx9LtdzfRNXA5yp0xPtM=; b=cMNp2XgXN6abU0885+
+	lpaIPU2xld07hlzLrTpn6uNSzaj2pJ0W6spspv+v6UNROhoKLy990A+Z2Lhyc35H
+	yg/t6r6lngsqmlmytmlH5+UOXTpGvVHkrxyhRoIk7Uy1kkhnXNKYxhTiwJBOn3Ti
+	c0yyUeDeM8izwospJnYEDOXeM=
+Received: by filter0556p1mdw1.sendgrid.net with SMTP id filter0556p1mdw1.17806.57D99E21F
+        2016-09-14 18:59:45.308422597 +0000 UTC
+Received: from MzU2NjgzNQ (o16789125x251.outbound-mail.sendgrid.net [167.89.125.251])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with HTTP id glNHLaLnS7Wu7P3OnelkCA
+	for <newsletter@getmouse.com>; Wed, 14 Sep 2016 18:59:45.258 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=72cc30d491dad8a34fa4a1bff7cfc9ca25687d450a1bdaa8323579b003c0
+Date: Wed, 14 Sep 2016 18:59:45 +0000
+From: "GetMouse Magazine" <newsletter@getmouse.com>
+Mime-Version: 1.0
+Reply-To: newsletter@getmouse.com
+Subject: Welcome to GetMouse Magazine
+To: rresendez@rigoresendez.com
+Message-ID: <glNHLaLnS7Wu7P3OnelkCA@ismtpd0006p1iad1.sendgrid.net>
+List-Unsubscribe: <https://u3566835.ct.sendgrid.net/asm/unsubscribe/?user_id=3566835&data=AdQN-1IhB9-n5RaAORfR6P5k20rD1iJaP8Js-zjFfn1kpob0DADfSAtWqE6t01F5SlrRLHNINchBn2rj5YPdSRpsKYGq6irX4U0i1GzriqXlfFpp7dxcHidUGKX_fCfn65D8Ir_hwSf_NmK0MWrY3Az6k3S-yoxo1FUih5ZBC36kgYXJG2BHInU4QVuZWlRGdamkzkuSawVpMEN1VnLA1VvyyFJ7-jAFkbI7W1uivtPol78AOGwBxpHunpavMrw7bsB4XHUrbEtg2kxsmNzXHyzPonx39kqHp4lTZ-DXBGPjIM18LVlpRj8qXBcmAMdgfkSl3tbeEb_Wu1lgrVSKLQLiMS9OeTrK8QhlhICE1h8Bfjia7OQEkdZwG1bvvrXsZ7anWvEsWY8KN7rLA-RC6dx1N3QNzUAehkzZUxbid8S6ohm62n1z9XQnRwsx4RBRDQXvvonDdN7VGvWeGQpHCqWlcbPdr_fNNvKnwodPZLlq_um1tsPBU0AiBmZyBqap2nAjAK3s6Y7YfbP5pUo6ffOMRQNaiSRWU2R955hyL7_gaWwO8I1Z-OYqXTkAsyfG>, <mailto:unsubscribe@sendgrid.net?subject=https://u3566835.ct.sendgrid.net/asm/unsubscribe/*q*user_id=3566835&data=AdQN-1IhB9-n5RaAORfR6P5k20rD1iJaP8Js-zjFfn1kpob0DADfSAtWqE6t01F5SlrRLHNINchBn2rj5YPdSRpsKYGq6irX4U0i1GzriqXlfFpp7dxcHidUGKX_fCfn65D8Ir_hwSf_NmK0MWrY3Az6k3S-yoxo1FUih5ZBC36kgYXJG2BHInU4QVuZWlRGdamkzkuSawVpMEN1VnLA1VvyyFJ7-jAFkbI7W1uivtPol78AOGwBxpHunpavMrw7bsB4XHUrbEtg2kxsmNzXHyzPonx39kqHp4lTZ-DXBGPjIM18LVlpRj8qXBcmAMdgfkSl3tbeEb_Wu1lgrVSKLQLiMS9OeTrK8QhlhICE1h8Bfjia7OQEkdZwG1bvvrXsZ7anWvEsWY8KN7rLA-RC6dx1N3QNzUAehkzZUxbid8S6ohm62n1z9XQnRwsx4RBRDQXvvonDdN7VGvWeGQpHCqWlcbPdr_fNNvKnwodPZLlq_um1tsPBU0AiBmZyBqap2nAjAK3s6Y7YfbP5pUo6ffOMRQNaiSRWU2R955hyL7_gaWwO8I1Z-OYqXTkAsyfG>
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgafS+kewDnZBSpTB6UY5SBLyIaPcnQu6+Z0Or
+ oiFXpa72+x430QlaUTWhrdu3kLqB1v3E9f/++i3alAeMZPju9qeBoykfB+GeiZEP1Es6aJVPSyUkZy
+ 0m/8xwZ8JqT2pFathp6MfS1Vq4ardVxKqSWWnenLqC9GE9Pt2B4Nr7TV2HwcftcwlCIRLz6Ahs1q2h
+ vMdFPmrzEskhyTuUJ3xVgJ
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP0b0AzyPthFilL7+LdkcTyQONvOSE5XisZwTx
+ Q5a3Hw1kE662sZwHuSNNQ0CkbYKXMicRoFPWwgn8QezeczcnFgTdAEuE70MrYgLIXhIlmxHjJzZY7V
+ BvqdA7fvsfRQynOAcEJc1OSTHhJdDzW9ydrI
+
+--72cc30d491dad8a34fa4a1bff7cfc9ca25687d450a1bdaa8323579b003c0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+http://getmouse.com
+
+=E2=80=9CNever doubt that a small group of thoughtful, committed, citizens =
+can change the world.=C2=A0Indeed, it is the only thing that ever has.=E2=
+=80=9D =C2=A0
+
+=E2=80=95=C2=A0Margaret Mead
+
+Welcome to GetMouse
+
+Want to make a difference? And not just a buck? It=E2=80=99s why we created=
+ the online magazine GetMouse. Come Monday, you can take a look.=C2=A0
+
+Yep. GetMouse is a funny name. Came to one of our founders in a dream.=C2=
+=A0Gotta pay attention to your dreams, people!
+
+One of our waking dreams is to help. Improve the things we can. That=E2=80=
+=99s the whole purpose of GetMouse. To share those stories. And show others=
+ how we are all walking on the same =E2=80=9Cpale, blue dot.=E2=80=9D So, w=
+e need to look out for each other.
+
+Our stories are inspiring. They=E2=80=99re also useful. We want to motivate=
+ our readers to get involved. And we want to give them information on how t=
+o take those first steps.=C2=A0But we will never be boring. We promise.
+
+We also promise not to get preachy. Because we know that the charitable lif=
+estyle is fun. And what=E2=80=99s better than that? Having fun and helping =
+make a better world?=C2=A0
+
+You=E2=80=99ll get GetMouse (see what we did there?) come Monday. Give it a=
+ look.=E2=80=8B
+
+And never forget to share your cheese.=C2=A0
+
+LEARN MORE http://getmouse.com
+
+https://www.facebook.com/GetMouseMag
+
+https://www.twitter.com/getmousemag
+
+GetMouse Magazine |=C2=A02700 W Anderson Lane, Suite 410 |=C2=A0Austin, TX =
+78757 To unsubscribe click: here https://u3566835.ct.sendgrid.net/asm/unsub=
+scribe/?user_id=3D3566835&data=3DAdQN-1IhB9-n5RaAORfR6P5k20rD1iJaP8Js-zjFfn=
+1kpob0DADfSAtWqE6t01F5SlrRLHNINchBn2rj5YPdSRpsKYGq6irX4U0i1GzriqXlfFpp7dxcH=
+idUGKX_fCfn65D8Ir_hwSf_NmK0MWrY3Az6k3S-yoxo1FUih5ZBC36kgYXJG2BHInU4QVuZWlRG=
+damkzkuSawVpMEN1VnLA1VvyyFJ7-jAFkbI7W1uivtPol78AOGwBxpHunpavMrw7bsB4XHUrbEt=
+g2kxsmNzXHyzPonx39kqHp4lTZ-DXBGPjIM18LVlpRj8qXBcmAMdgfkSl3tbeEb_Wu1lgrVSKLQ=
+LiMS9OeTrK8QhlhICE1h8Bfjia7OQEkdZwG1bvvrXsZ7anWvEsWY8KN7rLA-RC6dx1N3QNzUAeh=
+kzZUxbid8S6ohm62n1z9XQnRwsx4RBRDQXvvonDdN7VGvWeGQpHCqWlcbPdr_fNNvKnwodPZLlq=
+_um1tsPBU0AiBmZyBqap2nAjAK3s6Y7YfbP5pUo6ffOMRQNaiSRWU2R955hyL7_gaWwO8I1Z-OY=
+qXTkAsyfG=
+
+--72cc30d491dad8a34fa4a1bff7cfc9ca25687d450a1bdaa8323579b003c0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" data-dnd=3D"true">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1, minimum-scale=3D1, maximum-scale=3D1" />
+  <!--[if !mso]><!-->
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" />
+  <!--<![endif]-->
+
+  <!--[if (gte mso 9)|(IE)]><style type=3D"text/css">
+  table {border-collapse: collapse;}
+  table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+  img {-ms-interpolation-mode: bicubic;}
+  </style>
+  <![endif]-->
+  <style type=3D"text/css">
+  body {
+    color: #000000;
+  }
+  body a {
+    color: #1188e6;
+    text-decoration: none;
+  }
+  p { margin: 0; padding: 0; }
+  table[class=3D"wrapper"] {
+    width:100% !important;
+    table-layout: fixed;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  img[class=3D"max-width"] {
+    max-width: 100% !important;
+  }
+  @media screen and (max-width:480px) {
+    .preheader .rightColumnContent,
+    .footer .rightColumnContent {
+        text-align: left !important;
+    }
+    .preheader .rightColumnContent div,
+    .preheader .rightColumnContent span,
+    .footer .rightColumnContent div,
+    .footer .rightColumnContent span {
+      text-align: left !important;
+    }
+    .preheader .rightColumnContent,
+    .preheader .leftColumnContent {
+      font-size: 80% !important;
+      padding: 5px 0;
+    }
+    table[class=3D"wrapper-mobile"] {
+      width: 100% !important;
+      table-layout: fixed;
+    }
+    img[class=3D"max-width"] {
+      height: auto !important;
+    }
+    a[class=3D"bulletproof-button"] {
+      display: block !important;
+      width: auto !important;
+      font-size: 80%;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    // 2 columns
+    #templateColumns{
+        width:100% !important;
+    }
+
+    .templateColumnContainer{
+        display:block !important;
+        width:100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+  }
+  </style>
+  <style>
+  body, p, div { font-family: arial,sans-serif; }
+</style>
+  <style>
+  body, p, div { font-size: 14px; }
+</style>
+</head>
+<body yahoofix=3D"true" style=3D"min-width: 100%; margin: 0; padding: 0; fo=
+nt-size: 14px; font-family: arial,sans-serif; color: #000000; background-co=
+lor: #FFFFFF; color: #000000;" data-attributes=3D'%7B%22dropped%22%3Atrue%2=
+C%22bodybackground%22%3A%22%23FFFFFF%22%2C%22bodyfontname%22%3A%22arial%2Cs=
+ans-serif%22%2C%22bodytextcolor%22%3A%22%23000000%22%2C%22bodylinkcolor%22%=
+3A%22%231188e6%22%2C%22bodyfontsize%22%3A14%7D'>
+  <center class=3D"wrapper">
+    <div class=3D"webkit">
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%=
+" class=3D"wrapper" bgcolor=3D"#FFFFFF">
+      <tr><td valign=3D"top" bgcolor=3D"#FFFFFF" width=3D"100%">
+      <!--[if (gte mso 9)|(IE)]>
+      <table width=3D"800" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+        <tr>
+          <td>
+          <![endif]-->
+            <table width=3D"100%" role=3D"content-container" class=3D"outer=
+" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22containerpadding%22%3A%22=
+0%2C0%2C0%2C0%22%2C%22containerwidth%22%3A800%2C%22containerbackground%22%3=
+A%22%23FFFFFF%22%7D' align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+              <tr>
+                <td width=3D"100%"><table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">
+                  <tr>
+                    <td>
+                    <!--[if (gte mso 9)|(IE)]>
+                      <table width=3D"800" align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+                        <tr>
+                          <td>
+                            <![endif]-->
+                              <table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"width: 100%; max-width:800px;" align=3D"=
+center">
+                                <tr><td role=3D"modules-container" style=3D=
+"padding: 0px 0px 0px 0px; color: #000000; text-align: left;" bgcolor=3D"#F=
+FFFFF" width=3D"100%" align=3D"left">
+                                  <table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" align=3D"center" width=3D"100%" style=3D"display:none !impor=
+tant; visibility:hidden; opacity:0; color:transparent; height:0; width:0;" =
+class=3D"module preheader preheader-hide" role=3D"module" data-type=3D"preh=
+eader">
+  <tr><td role=3D"module-content"><p></p></td></tr>
+</table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22http%3A//getmouse.com%22%2C%22width%22%3A%22250%22%2C%22height%22%3=
+A%2297%22%2C%22imagebackground%22%3A%22%23FFFFFF%22%2C%22url%22%3A%22https%=
+3A//marketing-image-production.s3.amazonaws.com/uploads/77ee0de3993bc2e89f5=
+ba31c656094cb4120593f1fcffe19bae9f68602061614ced5534096de8e1656148e0046b554=
+aa105ea25c045f419226950f53693e0e7f.png%22%2C%22alt_text%22%3A%22%22%2C%22dr=
+opped%22%3Atrue%2C%22imagemargin%22%3A%220%2C0%2C20%2C0%22%2C%22alignment%2=
+2%3A%22center%22%2C%22responsive%22%3Atrue%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 0px 0px 20px 0px;" valign=3D"top" align=3D"center" role=3D"module-cont=
+ent"><!--[if mso]>
+<center>
+<table width=3D"250" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed;">
+  <tr>
+    <td width=3D"250" valign=3D"top">
+<![endif]-->
+<a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq-2FTp17MY1=
+-2BCzpX-2BocjExzzMYOotT-2B1NMMXlwvE-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2=
+BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2=
+c3uDF7H7g2owemTo-2BecJuA7TPhviiloiWkg-2BagecIPhw1K1k0GgbhKbKJsE-2B1e1JpFUeg=
+nJZe6wMQK9xpcp0m4NuE7TBr0e5qdobMGQGPJpWC7ye7EZGHo1W71l077hwALnwkEtTn9PEj8vL=
+-2FrQwE1eHO4pASiQyfcUsuTfKVP1RAzjUAe2o6iLrM7OAgPlJWXKb9a8UlsheOwO0yfTepPSdn=
+hPD1aAfVkurZfarakbKwlah2-2Fl2VhqEZLYB7qxyJZicInqKiYtBTyySyYsOTym00P1a4lg5Ib=
+KqZFsF5xh043wBEcSN-2B4VuqvpngcTAh5K42lbYSdS5UteamMgbcXGjJQoRx" target=3D"_b=
+lank">
+  <img class=3D"max-width"  width=3D"250"   height=3D""  src=3D"https://mar=
+keting-image-production.s3.amazonaws.com/uploads/77ee0de3993bc2e89f5ba31c65=
+6094cb4120593f1fcffe19bae9f68602061614ced5534096de8e1656148e0046b554aa105ea=
+25c045f419226950f53693e0e7f.png" alt=3D"" border=3D"0" style=3D"display: bl=
+ock; color: #000; text-decoration: none; font-family: Helvetica, arial, san=
+s-serif; font-size: 16px;  max-width: 250px !important; width: 100% !import=
+ant; height: auto !important; " />
+</a>
+<!--[if mso]>
+</td></tr></table>
+</center>
+<![endif]--></td>
+</tr>
+</table><table class=3D"module" role=3D"module" data-type=3D"wysiwyg" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-l=
+ayout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3=
+A%2220%2C50%2C20%2C50%22%2C%22containerbackground%22%3A%22%23fbb03b%22%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 20px 50px 20px 50px;" bgc=
+olor=3D"#fbb03b"><div style=3D"text-align: center;"> <p style=3D"font-style=
+: normal; font-variant-caps: normal; font-size: 12px; line-height: normal; =
+font-family: Geneva; color: rgb(20, 20, 20); -webkit-text-stroke-color: rgb=
+(20, 20, 20); -webkit-text-stroke-width: initial;"><span style=3D"font-fami=
+ly:lucida sans unicode,lucida grande,sans-serif;"><span style=3D"font-size:=
+18px;"><span style=3D"color:#FFFFFF;"><span style=3D"font-kerning: none">=
+=E2=80=9CNever doubt that a small group of thoughtful, committed, citizens =
+can change the world.&nbsp;</span></span></span><span style=3D"font-size:18=
+px;"><span style=3D"color:#FFFFFF;"><span style=3D"font-kerning: none">Inde=
+ed, it is the only thing that ever has.=E2=80=9D &nbsp;</span></span></span=
+></span></p>  <p style=3D"margin-left: 288px; font-style: normal; font-vari=
+ant-caps: normal; font-size: 12px; line-height: normal; font-family: Geneva=
+; color: rgb(39, 39, 39); -webkit-text-stroke-color: rgb(39, 39, 39); -webk=
+it-text-stroke-width: initial;"><span style=3D"font-family:lucida sans unic=
+ode,lucida grande,sans-serif;"><span style=3D"color:#FFFFFF;"><span style=
+=3D"-webkit-font-kerning: none; -webkit-text-stroke-color: rgb(20, 20, 20);=
+">=E2=80=95&nbsp;</span></span><span style=3D"font-size:14px;"><span style=
+=3D"-webkit-font-kerning: none; -webkit-text-stroke-color: rgb(20, 20, 20);=
+"><span style=3D"-webkit-font-kerning: none; -webkit-text-stroke-color: rgb=
+(39, 39, 39);"><span style=3D"color:#FFFFFF;">Margaret Mead</span></span></=
+span></span></span></p> </div> </td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0"  width=3D"100%" style=3D"table-layout: fix=
+ed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22child%22%3Afalse%2C%22=
+padding%22%3A%2225%2C10%2C0%2C10%22%2C%22containerbackground%22%3A%22%23FFF=
+FFF%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 25px 10px 0px 10px;" bgcolor=3D"#FFFFFF"><div> <p style=3D"font-style:=
+ normal; font-variant-caps: normal; font-size: 12px; line-height: normal; f=
+ont-family: Geneva; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-s=
+troke-width: initial; text-align: center;"><span style=3D"font-family:verda=
+na,geneva,sans-serif;"><span style=3D"font-size:26px;"><strong>Welcome to G=
+etMouse</strong></span></span></p>  <p style=3D"font-style: normal; font-va=
+riant-caps: normal; font-size: 12px; line-height: normal; font-family: Gene=
+va; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: ini=
+tial; text-align: center;">&nbsp;</p>  <p style=3D"font-style: normal; font=
+-variant-caps: normal; font-size: 12px; line-height: normal; font-family: G=
+eneva; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: =
+initial;"><span style=3D"color:#000000;"><span style=3D"font-family:trebuch=
+et ms,helvetica,sans-serif;"><span style=3D"font-size:18px;"><span style=3D=
+"font-kerning: none">Want to make a difference? And not just a buck? It=E2=
+=80=99s why we created the online magazine GetMouse. Come Monday, you can t=
+ake a look.&nbsp;</span></span></span></span></p>  <p style=3D"font-style: =
+normal; font-variant-caps: normal; font-size: 12px; line-height: normal; fo=
+nt-family: Geneva; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-st=
+roke-width: initial;">&nbsp;</p>  <hr> <div> <p style=3D"font-style: normal=
+; font-variant-caps: normal; font-size: 12px; line-height: normal; font-fam=
+ily: Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-wi=
+dth: initial;">&nbsp;</p>  <p style=3D"font-style: normal; font-variant-cap=
+s: normal; font-size: 12px; line-height: normal; font-family: Arial; -webki=
+t-text-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: initial;"><sp=
+an style=3D"color:#000000;"><span style=3D"font-family:trebuchet ms,helveti=
+ca,sans-serif;"><span style=3D"font-size:18px;"><span style=3D"font-kerning=
+: none">Yep. GetMouse is a funny name. Came to one of our founders in a dre=
+am.&nbsp;</span></span></span></span><span style=3D"font-style: normal; fon=
+t-variant-caps: normal; font-size: 12px; line-height: normal; font-family: =
+Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: =
+initial; text-align: center;"><span style=3D"color:#000000;"><span style=3D=
+"font-family:trebuchet ms,helvetica,sans-serif;"><span style=3D"font-size:1=
+8px;"><span style=3D"font-kerning: none">Gotta pay attention to your dreams=
+, people!</span></span></span></span></span></p>  <p style=3D"font-style: n=
+ormal; font-variant-caps: normal; font-size: 12px; line-height: normal; fon=
+t-family: Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stro=
+ke-width: initial; min-height: 14px;">&nbsp;</p>  <p style=3D"font-style: n=
+ormal; font-variant-caps: normal; font-size: 12px; line-height: normal; fon=
+t-family: Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stro=
+ke-width: initial;"><span style=3D"color:#000000;"><span style=3D"font-fami=
+ly:trebuchet ms,helvetica,sans-serif;"><span style=3D"font-size:18px;"><spa=
+n style=3D"font-kerning: none">One of our waking dreams is to help. Improve=
+ the things we can. That=E2=80=99s the whole purpose of GetMouse. To share =
+those stories. And show others how we are all walking on the same =E2=80=9C=
+pale, blue dot.=E2=80=9D So, we need to look out for each other.</span></sp=
+an></span></span></p>  <p style=3D"font-style: normal; font-variant-caps: n=
+ormal; font-size: 12px; line-height: normal; font-family: Arial; -webkit-te=
+xt-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: initial; min-heig=
+ht: 14px;">&nbsp;</p>  <p style=3D"font-style: normal; font-variant-caps: n=
+ormal; font-size: 12px; line-height: normal; font-family: Arial; -webkit-te=
+xt-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: initial;"><span s=
+tyle=3D"color:#000000;"><span style=3D"font-family:trebuchet ms,helvetica,s=
+ans-serif;"><span style=3D"font-size:18px;"><span style=3D"font-kerning: no=
+ne">Our stories are inspiring. They=E2=80=99re also useful. We want to moti=
+vate our readers to get involved. And we want to give them information on h=
+ow to take those first steps.&nbsp;</span></span></span></span><span style=
+=3D"font-style: normal; font-variant-caps: normal; font-size: 12px; line-he=
+ight: normal; font-family: Arial; -webkit-text-stroke-color: rgb(0, 0, 0); =
+-webkit-text-stroke-width: initial; text-align: center;"><span style=3D"col=
+or:#000000;"><span style=3D"font-size:18px;"><span style=3D"font-family:tre=
+buchet ms,helvetica,sans-serif;"><span style=3D"font-kerning: none">But we =
+will never be boring.</span></span><span style=3D"font-family:lucida sans u=
+nicode,lucida grande,sans-serif;"><span style=3D"font-kerning: none"> <u>We=
+ promise</u>.</span></span></span></span></span></p>  <p style=3D"font-styl=
+e: normal; font-variant-caps: normal; font-size: 12px; line-height: normal;=
+ font-family: Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-=
+stroke-width: initial; min-height: 14px;">&nbsp;</p>  <p style=3D"font-styl=
+e: normal; font-variant-caps: normal; font-size: 12px; line-height: normal;=
+ font-family: Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-=
+stroke-width: initial;"><span style=3D"color:#000000;"><span style=3D"font-=
+size:18px;"><span style=3D"font-family:lucida sans unicode,lucida grande,sa=
+ns-serif;"><span style=3D"font-kerning: none"><strong>We also promise not t=
+o get preachy. </strong></span></span><span style=3D"font-family:trebuchet =
+ms,helvetica,sans-serif;"><span style=3D"font-kerning: none">Because we kno=
+w that the charitable lifestyle is fun. And what=E2=80=99s better than that=
+? Having fun and helping make a better world?&nbsp;</span></span></span></s=
+pan></p>  <p style=3D"font-style: normal; font-variant-caps: normal; font-s=
+ize: 12px; line-height: normal; font-family: Arial; -webkit-text-stroke-col=
+or: rgb(0, 0, 0); -webkit-text-stroke-width: initial; min-height: 14px;">&n=
+bsp;</p>  <p style=3D"font-style: normal; font-variant-caps: normal; font-s=
+ize: 12px; line-height: normal; font-family: Arial; -webkit-text-stroke-col=
+or: rgb(0, 0, 0); -webkit-text-stroke-width: initial;"><span style=3D"color=
+:#000000;"><span style=3D"font-family:trebuchet ms,helvetica,sans-serif;"><=
+span style=3D"font-size:18px;"><span style=3D"font-kerning: none">You=E2=80=
+=99ll get GetMouse (see what we did there?) come Monday. Give it a look.</s=
+pan></span>=E2=80=8B</span></span></p>  <p style=3D"font-style: normal; fon=
+t-variant-caps: normal; font-size: 12px; line-height: normal; font-family: =
+Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: =
+initial; min-height: 14px;">&nbsp;</p>  <p style=3D"font-style: normal; fon=
+t-variant-caps: normal; font-size: 12px; line-height: normal; font-family: =
+Arial; -webkit-text-stroke-color: rgb(0, 0, 0); -webkit-text-stroke-width: =
+initial;"><span style=3D"color:#000000;"><span style=3D"font-family:trebuch=
+et ms,helvetica,sans-serif;"><span style=3D"font-size:18px;"><span style=3D=
+"font-kerning: none">And never forget to share your cheese.&nbsp;</span></s=
+pan></span></span></p> </div> </div> </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"button" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%22%3A6%2=
+C%22buttonpadding%22%3A%2212%2C18%2C12%2C18%22%2C%22text%22%3A%22LEARN%2520=
+MORE%22%2C%22alignment%22%3A%22center%22%2C%22fontsize%22%3A12%2C%22url%22%=
+3A%22http%253A//getmouse.com%22%2C%22height%22%3A%22%22%2C%22width%22%3A%22=
+%22%2C%22containerbackground%22%3A%22%23FFFFFF%22%2C%22padding%22%3A%2215%2=
+C0%2C0%2C0%22%2C%22buttoncolor%22%3A%22%23FFFFFF%22%2C%22textcolor%22%3A%22=
+%23fbb03b%22%2C%22bordercolor%22%3A%22%23FFFFFF%22%7D'>
+<tr>
+  <td style=3D"padding: 15px 0px 0px 0px;" align=3D"center" bgcolor=3D"#FFF=
+FFF">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"center" style=3D"-webkit-border-radius: 6px; -moz-bord=
+er-radius: 6px; border-radius: 6px; font-size: 12px;" bgcolor=3D"#FFFFFF">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BocjExzzMYOotT-2B1NMMXlwvE-3D_xb69N2IWj9cpa7VY1jz2n0Hql-=
+2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MP=
+pPRMexCpf2c3uDF7H7g2owemTo-2BecJuA7TPhviiloiWkg-2BagecIPhw1K1k0GgbhKbKJsE-2=
+B1e1JpFUegnJZe6wMQK9xpcp0m4NuE7TBr0e5qdobMGQGPJpWC7ye7EZGHo1W71l077hwALnwkE=
+tRTSb3ukVLKot-2Bkgiqs2DCQ09hjfm7V8DutXIjpprUo0YzpafD5Wi14dVC1XhINJBZ2ffYbf7=
+jx3xWtkaEtQEFdraojrDWeyf95fDjTePOQ32N6K74JG5X7FH6VJS447TxOQqnIbqcHrm8SNjWs4=
+z5G7Nh1HziMuSHkEVr5RHpJCS4yvunKmAGZ1a3nBw7-2F-2B0rlT-2FWah1glMCaP4DH0qsyb" =
+class=3D"bulletproof-button" target=3D"_blank" style=3D"height: px; width: =
+px; font-size: 12px; line-height: px; font-family: Helvetica, Arial, sans-s=
+erif; color: #fbb03b; padding: 12px 18px 12px 18px; text-decoration: none; =
+color: #fbb03b; text-decoration: none; -webkit-border-radius: 6px; -moz-bor=
+der-radius: 6px; border-radius: 6px; border: 1px solid #FFFFFF; display: in=
+line-block;">LEARN MORE</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22%22%2C%22width%22%3A150%2C%22height%22%3A80%2C%22imagebackground%22=
+%3A%22%23ffffff%22%2C%22url%22%3A%22https%3A//marketing-image-production.s3=
+.amazonaws.com/uploads/0f455dafafc8e69bf23af78ba9ff6f582699a191bb85005a8ca2=
+4de3a6a874915a302f8b15e41b6cada14b5d73c07caf800d3e64e62e84e0b41473f85d0fb30=
+1.png%22%2C%22alt_text%22%3A%22%22%2C%22dropped%22%3Atrue%2C%22imagemargin%=
+22%3A%2215%2C0%2C10%2C0%22%2C%22alignment%22%3A%22center%22%2C%22responsive=
+%22%3Atrue%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#ffffff;padd=
+ing: 15px 0px 10px 0px;" valign=3D"top" align=3D"center" role=3D"module-con=
+tent"><!--[if mso]>
+<center>
+<table width=3D"150" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed;">
+  <tr>
+    <td width=3D"150" valign=3D"top">
+<![endif]-->
+
+  <img class=3D"max-width"  width=3D"150"   height=3D""  src=3D"https://mar=
+keting-image-production.s3.amazonaws.com/uploads/0f455dafafc8e69bf23af78ba9=
+ff6f582699a191bb85005a8ca24de3a6a874915a302f8b15e41b6cada14b5d73c07caf800d3=
+e64e62e84e0b41473f85d0fb301.png" alt=3D"" border=3D"0" style=3D"display: bl=
+ock; color: #000; text-decoration: none; font-family: Helvetica, arial, san=
+s-serif; font-size: 16px;  max-width: 150px !important; width: 100% !import=
+ant; height: auto !important; " />
+
+<!--[if mso]>
+</td></tr></table>
+</center>
+<![endif]--></td>
+</tr>
+</table><table role=3D"module" data-type=3D"social" border=3D"0" align=3D"c=
+enter" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" class=3D"wrapper" data-attributes=3D'%7B%22backgroundcolor%22=
+%3A%22%23FFFFFF%22%2C%22iconsize%22%3A30%2C%22iconcolor%22%3A%22AUTO%22%2C%=
+22borderradius%22%3A2%2C%22padding%22%3A%2210%2C0%2C50%2C0%22%2C%22alignmen=
+t%22%3A%22center%22%2C%22option_facebook%22%3A%7B%22checked%22%3Atrue%2C%22=
+text%22%3A%22https%3A//www.facebook.com/GetMouseMag%22%2C%22filename%22%3A%=
+22facebook.png%22%2C%22title%22%3A%22Facebook%22%2C%22backgroundcolor%22%3A=
+%22%233B579D%22%7D%2C%22option_twitter%22%3A%7B%22checked%22%3Atrue%2C%22te=
+xt%22%3A%22https%3A//www.twitter.com/getmousemag%22%2C%22filename%22%3A%22t=
+witter.png%22%2C%22title%22%3A%22Twitter%22%2C%22backgroundcolor%22%3A%22%2=
+37AC4F7%22%7D%2C%22option_instagram%22%3A%7B%22checked%22%3Atrue%2C%22text%=
+22%3A%22%22%2C%22filename%22%3A%22instagram.png%22%2C%22title%22%3A%22Insta=
+gram%22%2C%22backgroundcolor%22%3A%22%237F4B30%22%7D%2C%22option_googleplus=
+%22%3A%7B%22checked%22%3Atrue%2C%22text%22%3A%22%22%2C%22filename%22%3A%22g=
+oogle-plus.png%22%2C%22title%22%3A%22Google+%22%2C%22backgroundcolor%22%3A%=
+22%23D44132%22%7D%2C%22option_pinterest%22%3A%7B%22checked%22%3Atrue%2C%22t=
+ext%22%3A%22%22%2C%22filename%22%3A%22pinterest.png%22%2C%22title%22%3A%22P=
+interest%22%2C%22backgroundcolor%22%3A%22%23CB2027%22%7D%2C%22option_linked=
+in%22%3A%7B%22checked%22%3Atrue%2C%22text%22%3A%22%22%2C%22filename%22%3A%2=
+2linkedin.png%22%2C%22backgroundcolor%22%3A%22%230077B5%22%7D%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:;padding: 10=
+px 0px 50px 0px;" valign=3D"top" align=3D"center" role=3D"module-content">
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"" al=
+ign=3D"center">
+        <tr><td style=3D"padding: 0px 5px;"><a
+role=3D"social-icon-link"
+href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3DFkRJwWYfdx8h77bc7GO=
+Y9FfcptlYJJdf44i0a8MSKJtGlrpQvzUAQLOOtsYDDhKs_xb69N2IWj9cpa7VY1jz2n0Hql-2Bt=
+cgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPR=
+MexCpf2c3uDF7H7g2owemTo-2BecJuA7TPhviiloiWkg-2BagecIPhw1K1k0GgbhKbKJsE-2B1e=
+1JpFUegnJZe6wMQK9xpcp0m4NuE7TBr0e5qdobMGQGPJpWC7ye7EZGHo1W71l077hwALnwkEtSU=
+-2Blg0711oH40iCl-2Fja6Z15rqnBT107z5OT8maPShSgDhSE-2FLZZGb31ejx510oaEPJ3IQxc=
+OoPlgszvi-2BS00qe35XLBE-2F6LFqNpnsZ9vNzGAdLf2KX4W3ohswmc0Z5gBZNeyrbtmvNf6GH=
+jMWQkfs9RsU1MXEjifWg3tmBZhWgQRcUpKBcQIgLCrUizXqDg1VBe8n3as-2B6IGsX2ZPj-2BjH=
+7"
+target=3D"_blank"
+border=3D"0"
+alt=3D"Facebook"
+title=3D"Facebook"
+style=3D"background-color: #3B579D; border-radius: 2px; -webkit-border-radi=
+us:2px; -moz-border-radius:2px; -ms-border-radius:2px; -o-border-radius:2px=
+; color: white; display: inline-block; outline: none; text-decoration:none;=
+ border: none; font-family: Helvetica, arial, sans-serif;">
+  <img
+    role=3D"social-icon"
+    alt=3D"Facebook"
+    title=3D"Facebook"
+    border=3D"0"
+    height=3D"30"
+    width=3D"30"
+    style=3D"height: 30px; width: 30px; border:none; color: white; font-fam=
+ily: Helvetica, arial, sans-serif;"
+    src=3D"https://marketing-image-production.s3.amazonaws.com/social/white=
+/facebook.png"
+  />
+</a></td><td style=3D"padding: 0px 5px;"><a
+role=3D"social-icon-link"
+href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3DFkRJwWYfdx8h77bc7GO=
+Y9MOr7OmUFaLKopKJ67kSJbcj7-2FPbMjtWCD4SCdc9EFl5_xb69N2IWj9cpa7VY1jz2n0Hql-2=
+BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPp=
+PRMexCpf2c3uDF7H7g2owemTo-2BecJuA7TPhviiloiWkg-2BagecIPhw1K1k0GgbhKbKJsE-2B=
+1e1JpFUegnJZe6wMQK9xpcp0m4NuE7TBr0e5qdobMGQGPJpWC7ye7EZGHo1W71l077hwALnwkEt=
+SL10GeLdcP8xkmPYr5pT9vG-2FHOYjn2R3uiZ9B-2Bt5n2k-2F9gJO9tiwHwUaXfUMaFt2nu4cR=
+pcZnotF26A6TpmGIj3qcAmmpO15NdYZaFqDeNYAgUrBo2fWs1D7-2FxmCy0z8v4cGKZH5hfpWFq=
+3PixOFxo05508p5HTlY1965WGpJ0geUqnF6q2geJLqdppJJvPWQ8uQ7uixQbxewbIaV5yj29"
+target=3D"_blank"
+border=3D"0"
+alt=3D"Twitter"
+title=3D"Twitter"
+style=3D"background-color: #7AC4F7; border-radius: 2px; -webkit-border-radi=
+us:2px; -moz-border-radius:2px; -ms-border-radius:2px; -o-border-radius:2px=
+; color: white; display: inline-block; outline: none; text-decoration:none;=
+ border: none; font-family: Helvetica, arial, sans-serif;">
+  <img
+    role=3D"social-icon"
+    alt=3D"Twitter"
+    title=3D"Twitter"
+    border=3D"0"
+    height=3D"30"
+    width=3D"30"
+    style=3D"height: 30px; width: 30px; border:none; color: white; font-fam=
+ily: Helvetica, arial, sans-serif;"
+    src=3D"https://marketing-image-production.s3.amazonaws.com/social/white=
+/twitter.png"
+  />
+</a></td></tr>
+      </table>
+  </td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"ce=
+nter" width=3D"100%" class=3D"module footer" role=3D"module" data-type=3D"f=
+ooter" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22columns%22%3A1%2C%22=
+padding%22%3A%2250%2C5%2C10%2C5%22%2C%22containerbackground%22%3A%22%23ffff=
+ff%22%7D'>
+  <tr><td style=3D"padding: 50px 5px 10px 5px;" bgcolor=3D"#ffffff">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center=
+" width=3D"100%">
+      <tr role=3D"module-content">
+=20=20=20=20=20=20=20=20
+        <td align=3D"center" valign=3D"top" width=3D"100%" height=3D"100%" =
+class=3D"templateColumnContainer">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" height=3D"100%">
+            <tr>
+              <td class=3D"leftColumnContent" role=3D"column-one" height=3D=
+"100%" style=3D"height:100%;"><table class=3D"module" role=3D"module" data-=
+type=3D"text" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  width=3D"10=
+0%" style=3D"table-layout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atr=
+ue%2C%22child%22%3Afalse%2C%22padding%22%3A%220%2C0%2C0%2C0%22%2C%22contain=
+erbackground%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 0px 0px 0px 0px;" bgcolor=3D"#ffffff"><div style=3D"font-size:12px;lin=
+e-height:150%;margin:0;text-align:center;">GetMouse Magazine |&nbsp;2700 W =
+Anderson Lane, Suite 410 |&nbsp;Austin, TX 78757</div>  <div style=3D"font-=
+size:12px;line-height:150%;margin:0;text-align:center;">To unsubscribe clic=
+k: <a href=3D"https://u3566835.ct.sendgrid.net/asm/unsubscribe/?user_id=3D3=
+566835&data=3DAdQN-1IhB9-n5RaAORfR6P5k20rD1iJaP8Js-zjFfn1kpob0DADfSAtWqE6t0=
+1F5SlrRLHNINchBn2rj5YPdSRpsKYGq6irX4U0i1GzriqXlfFpp7dxcHidUGKX_fCfn65D8Ir_h=
+wSf_NmK0MWrY3Az6k3S-yoxo1FUih5ZBC36kgYXJG2BHInU4QVuZWlRGdamkzkuSawVpMEN1VnL=
+A1VvyyFJ7-jAFkbI7W1uivtPol78AOGwBxpHunpavMrw7bsB4XHUrbEtg2kxsmNzXHyzPonx39k=
+qHp4lTZ-DXBGPjIM18LVlpRj8qXBcmAMdgfkSl3tbeEb_Wu1lgrVSKLQLiMS9OeTrK8QhlhICE1=
+h8Bfjia7OQEkdZwG1bvvrXsZ7anWvEsWY8KN7rLA-RC6dx1N3QNzUAehkzZUxbid8S6ohm62n1z=
+9XQnRwsx4RBRDQXvvonDdN7VGvWeGQpHCqWlcbPdr_fNNvKnwodPZLlq_um1tsPBU0AiBmZyBqa=
+p2nAjAK3s6Y7YfbP5pUo6ffOMRQNaiSRWU2R955hyL7_gaWwO8I1Z-OYqXTkAsyfG"><span st=
+yle=3D"color:#0000FF;">here</span></a></div> </td>
+</tr>
+</table>
+</td>
+            </tr>
+          </table>
+        </td>
+=20=20=20=20=20=20=20=20
+      </tr>
+    </table>
+  </td></tr>
+</table>
+
+                                </tr></td>
+                              </table>
+                            <!--[if (gte mso 9)|(IE)]>
+                          </td>
+                        </td>
+                      </table>
+                    <![endif]-->
+                    </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+          <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+      </table>
+      <![endif]-->
+      </tr></td>
+      </table>
+    </div>
+  </center>
+
+<img src=3D"https://u3566835.ct.sendgrid.net/wf/open?upn=3Dxb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeF=
+px7H16I6MPpPRMexCpf2c3uDF7H7g2owemTo-2BecJuA7TPhviiloiWkg-2BagecIPhw1K1k0Gg=
+bhKbKJsE-2B1e1JpFUegnJZe6wMQK9xpcp0m4NuE7TBr0e5qdobMGQGPJpWC7ye7EU-2BidKqiF=
+m-2Fw8AWQ8J-2F0PxtUhwkAIctvra4fppu9OSzdyZfvWQxoG4mNPmvMiHj-2F7nGUh6MHFfHMX-=
+2BQUWjKpkd-2FLvfEfntxyHS1gimYS0PaPJtyitgTQ-2BM9LjxOaBSQjYq9JUJyIWOJD4MAScN9=
+gZPb0dDZSRFZnD18rv4olTRbx8ILcCgBRo95gkHHwSUVDIJ8ktLLdjdRvyR9YIKLkD7aFGlHE76=
+mGvXazDMN25kGU" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"hei=
+ght:1px !important;width:1px !important;border-width:0 !important;margin-to=
+p:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-=
+left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padd=
+ing-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--72cc30d491dad8a34fa4a1bff7cfc9ca25687d450a1bdaa8323579b003c0--

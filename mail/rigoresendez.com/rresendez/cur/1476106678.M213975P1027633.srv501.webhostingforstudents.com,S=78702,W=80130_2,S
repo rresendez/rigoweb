@@ -1,0 +1,1428 @@
+Return-Path: <bounces+3566835-1fa6-rresendez=rigoresendez.com@sendgrid.net>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id KeimDLaZ+1cxrg8ATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 10 Oct 2016 09:37:58 -0400
+Return-path: <bounces+3566835-1fa6-rresendez=rigoresendez.com@sendgrid.net>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 10 Oct 2016 09:37:58 -0400
+Received: from o1678967x54.outbound-mail.sendgrid.net ([167.89.67.54]:29205)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+3566835-1fa6-rresendez=rigoresendez.com@sendgrid.net>)
+	id 1btamD-004JKt-SK
+	for rresendez@rigoresendez.com; Mon, 10 Oct 2016 09:37:58 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.net; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=nEeafuf3I1IHQxrOvaANMi9L1cc=; b=ABRgFi7NxYc/uRDXP2
+	60/Okull6PV5lTVLKqv2kVsOLK0QYXMaZP/oLtn2Ifjm/vOztNYng1cojv0zzrc0
+	v5Y+ueUL6L4UY6QjmIusc13Bu/p8zokoMVKUYTmG9K+3mvrJIXGa6CeqR5CrVZdf
+	nmSil9YayjrdBzvRDhvbfZyRE=
+Received: by filter0633p1mdw1.sendgrid.net with SMTP id filter0633p1mdw1.24593.57FB994C57
+        2016-10-10 13:36:12.685701471 +0000 UTC
+Received: from MzU2NjgzNQ (o16789125x238.outbound-mail.sendgrid.net [167.89.125.238])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with HTTP id MUAPREpcTgmiQjnGTim6ng
+	for <newsletter@getmouse.com>; Mon, 10 Oct 2016 13:36:12.705 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=9dde0a091dfcbaab7b6183494b64306847a62003897b9b6f2d01b0bbb932
+Date: Mon, 10 Oct 2016 13:36:12 +0000
+From: "GetMouse Magazine" <newsletter@getmouse.com>
+Mime-Version: 1.0
+Reply-To: newsletter@getmouse.com
+Subject: Stories in the Spotlight
+To: rresendez@rigoresendez.com
+Message-ID: <MUAPREpcTgmiQjnGTim6ng@ismtpd0001p1iad1.sendgrid.net>
+List-Unsubscribe: <https://u3566835.ct.sendgrid.net/asm/unsubscribe/?user_id=3566835&data=rFXs6FqKFCSeu0SnXeB-zEYlGlPYbsAmizPOL-_Ohapl5jvUZS4G-WH902QjMFObwmLTN2dD3DE81XPIVid68sV5jo3azsP96XIcAtx9RM1ZH8ma7xKruRoR7K3QGfZUlQYiUJa9bVFj5CLlo76lL7LYOB_OX7Jw7dwlTlMNk0JYW8wz1cNyOsC-eIgKVPlxTqGoGxr7v8aYNj9lyecLGvkrzkiEDUD4lLkFRWyLddeaa6Vg2j2qeQQ4hlJfU44dZJZQHcglWbmt4W4rA7g5ld_TKnMuF89v-9wMVV3e1oLj6qwC3Jrq6iw0NCmik-eiDY7iHpbfEwjN0tMXWzK--p2vcyqtQavizRLLdCoWWzg-ugqDpbtoqT7qjyDWmbcp9Ugtg1b9oEI9eN4q6P4nzJYjOBPk3vvthfDwmhwoxFQ_H1KDUT_kXdr0XWAfcxdyhkWGxDcQWNIoFBtuqBksDjRY_kI7qaNPmGxDV8tGO0uKyNCXKqoKHRCjTY4E2NGABp0WSi7-R0IqMW7KjzfQXpyOLz03_U9XLn1bX5IIfDs5KV1lUjDfDc0vUIfzr2y0pxhBf9b0QFHwC1M4kV4B0YCetifeAyyfsyhqzT2oPnM=>, <mailto:unsubscribe@sendgrid.net?subject=https://u3566835.ct.sendgrid.net/asm/unsubscribe/*q*user_id=3566835&data=rFXs6FqKFCSeu0SnXeB-zEYlGlPYbsAmizPOL-_Ohapl5jvUZS4G-WH902QjMFObwmLTN2dD3DE81XPIVid68sV5jo3azsP96XIcAtx9RM1ZH8ma7xKruRoR7K3QGfZUlQYiUJa9bVFj5CLlo76lL7LYOB_OX7Jw7dwlTlMNk0JYW8wz1cNyOsC-eIgKVPlxTqGoGxr7v8aYNj9lyecLGvkrzkiEDUD4lLkFRWyLddeaa6Vg2j2qeQQ4hlJfU44dZJZQHcglWbmt4W4rA7g5ld_TKnMuF89v-9wMVV3e1oLj6qwC3Jrq6iw0NCmik-eiDY7iHpbfEwjN0tMXWzK--p2vcyqtQavizRLLdCoWWzg-ugqDpbtoqT7qjyDWmbcp9Ugtg1b9oEI9eN4q6P4nzJYjOBPk3vvthfDwmhwoxFQ_H1KDUT_kXdr0XWAfcxdyhkWGxDcQWNIoFBtuqBksDjRY_kI7qaNPmGxDV8tGO0uKyNCXKqoKHRCjTY4E2NGABp0WSi7-R0IqMW7KjzfQXpyOLz03_U9XLn1bX5IIfDs5KV1lUjDfDc0vUIfzr2y0pxhBf9b0QFHwC1M4kV4B0YCetifeAyyfsyhqzT2oPnM=>
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgYbKnBSQ8mbn1Sam9ADbH8SgrwsmM88cWWn6I
+ eFz4d6d2vatc2ZaNcG52pkmXFxdalkrFyZXjv0sBY2Eb5krHpFaoSgym0R1Ps92GY5JCxvD+PfD4vX
+ mVQvYpGKsKMtdN1v5rP0jOW16svjFYScyNlB7BMdlF07bjknE5vwEGS6UIWQeNxWwwKo7lCvD+sAU9
+ OXU2iSvlAXVhi5DJlBLrdj
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP1CGQelO02LDw0JTQWpfx+YcBc4nwS9nRL06E
+ 1xvGDdy27duqJ8RNCIz4HtqhJVm4G4SupgXaLtI99+Yly4BET/XPE+2iCMHFky/jCshbHAXMc8CZcT
+ 3hZ8mpoY/VVv2zzLIdSbMyr0DmG6W0gSv6oh45bpTOpYj6iarXiulENcsskStGzHxIzPn2BwxqJ3F0
+ Y=
+
+--9dde0a091dfcbaab7b6183494b64306847a62003897b9b6f2d01b0bbb932
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+http://getmouse.com/2016/08/bordering-on-equality/
+
+10.10.16
+
+http://getmouse.com/2016/09/i-have-the-best-temperament/
+
+I have the best temperament http://getmouse.com/2016/09/i-have-the-best-tem=
+perament/
+
+In a world where it is common to venture far from home in you adult life, w=
+eddings provide an opportunity to catch up and remind us of why it's import=
+ant to care about what's happening around the country. http://getmouse.com/=
+2016/09/i-have-the-best-temperament/
+
+http://getmouse.com/2016/09/what-the-hell-is-a-donor-advised-fund-and-why-s=
+hould-i-care/
+
+What the Hell Is a Donor Advised Fund and Why Should I Care? http://getmous=
+e.com/2016/09/what-the-hell-is-a-donor-advised-fund-and-why-should-i-care/
+
+Much like the 401K and HSA were once new workplace benefits, the Donor Advi=
+sed Fund is now the new guy in the office. http://getmouse.com/2016/09/what=
+-the-hell-is-a-donor-advised-fund-and-why-should-i-care/
+
+http://getmouse.com/2016/10/the-why-that-fuels-me/
+
+The 'Why' That Fuels Me http://getmouse.com/2016/10/the-why-that-fuels-me/
+
+This man wants to empower the masses to improve the world - and that desire=
+ started thanks to his father. http://getmouse.com/2016/10/the-why-that-fue=
+ls-me/
+
+http://getmouse.com/2016/07/latinitas-empowering-latina-youth/
+
+Latinitas =E2=80=93 Empowering Latina Youth http://getmouse.com/2016/07/lat=
+initas-empowering-latina-youth/
+
+With almost 85% Latinitas alumni going on to graduate from four year instit=
+utions, this organization is a phenomenal source of positive change. http:/=
+/getmouse.com/2016/07/latinitas-empowering-latina-youth/
+
+http://getmouse.com/2016/09/there-are-places-your-money-can-see-a-5-to-1-re=
+turn/
+
+There are Places Your Money Can See a 5-to-1 Return http://getmouse.com/201=
+6/09/there-are-places-your-money-can-see-a-5-to-1-return/
+
+Time helps. Food donations help. But check with your local food bank next t=
+ime you're donating to see if they have greater buying power when using mon=
+ey. Your cash donation could go a lot further then you ever dreamed possibl=
+e. http://getmouse.com/2016/09/there-are-places-your-money-can-see-a-5-to-1=
+-return/
+
+"In order to carry a positive action we must develop here a positive vision=
+." =C2=A0 - Dalai Lama=20
+
+M=20
+
+Follow Us on Social Media!=20
+
+https://www.facebook.com/GetMouseMag
+
+https://twitter.com/getmousemag
+
+GetMouse Magazine 2700 W Anderson Lane, Suite 410 |=C2=A0Austin, TX 78757=
+=20
+
+U https://u3566835.ct.sendgrid.net/asm/unsubscribe/?user_id=3D3566835&data=
+=3DrFXs6FqKFCSeu0SnXeB-zEYlGlPYbsAmizPOL-_Ohapl5jvUZS4G-WH902QjMFObwmLTN2dD=
+3DE81XPIVid68sV5jo3azsP96XIcAtx9RM1ZH8ma7xKruRoR7K3QGfZUlQYiUJa9bVFj5CLlo76=
+lL7LYOB_OX7Jw7dwlTlMNk0JYW8wz1cNyOsC-eIgKVPlxTqGoGxr7v8aYNj9lyecLGvkrzkiEDU=
+D4lLkFRWyLddeaa6Vg2j2qeQQ4hlJfU44dZJZQHcglWbmt4W4rA7g5ld_TKnMuF89v-9wMVV3e1=
+oLj6qwC3Jrq6iw0NCmik-eiDY7iHpbfEwjN0tMXWzK--p2vcyqtQavizRLLdCoWWzg-ugqDpbto=
+qT7qjyDWmbcp9Ugtg1b9oEI9eN4q6P4nzJYjOBPk3vvthfDwmhwoxFQ_H1KDUT_kXdr0XWAfcxd=
+yhkWGxDcQWNIoFBtuqBksDjRY_kI7qaNPmGxDV8tGO0uKyNCXKqoKHRCjTY4E2NGABp0WSi7-R0=
+IqMW7KjzfQXpyOLz03_U9XLn1bX5IIfDs5KV1lUjDfDc0vUIfzr2y0pxhBf9b0QFHwC1M4kV4B0=
+YCetifeAyyfsyhqzT2oPnM=3Dnsubscribe https://u3566835.ct.sendgrid.net/asm/un=
+subscribe/?user_id=3D3566835&data=3DrFXs6FqKFCSeu0SnXeB-zEYlGlPYbsAmizPOL-_=
+Ohapl5jvUZS4G-WH902QjMFObwmLTN2dD3DE81XPIVid68sV5jo3azsP96XIcAtx9RM1ZH8ma7x=
+KruRoR7K3QGfZUlQYiUJa9bVFj5CLlo76lL7LYOB_OX7Jw7dwlTlMNk0JYW8wz1cNyOsC-eIgKV=
+PlxTqGoGxr7v8aYNj9lyecLGvkrzkiEDUD4lLkFRWyLddeaa6Vg2j2qeQQ4hlJfU44dZJZQHcgl=
+Wbmt4W4rA7g5ld_TKnMuF89v-9wMVV3e1oLj6qwC3Jrq6iw0NCmik-eiDY7iHpbfEwjN0tMXWzK=
+--p2vcyqtQavizRLLdCoWWzg-ugqDpbtoqT7qjyDWmbcp9Ugtg1b9oEI9eN4q6P4nzJYjOBPk3v=
+vthfDwmhwoxFQ_H1KDUT_kXdr0XWAfcxdyhkWGxDcQWNIoFBtuqBksDjRY_kI7qaNPmGxDV8tGO=
+0uKyNCXKqoKHRCjTY4E2NGABp0WSi7-R0IqMW7KjzfQXpyOLz03_U9XLn1bX5IIfDs5KV1lUjDf=
+Dc0vUIfzr2y0pxhBf9b0QFHwC1M4kV4B0YCetifeAyyfsyhqzT2oPnM=3D=C2=A0=C2=A0| =C2=
+=A0Update Preferences https://u3566835.ct.sendgrid.net/asm/?user_id=3D35668=
+35&data=3DEUt-M9JWsO5u5mBebqr_fka2UnrcWJqfKO3cMyVs-LvHvCDNAycVFrfIHpivLKULF=
+zImiyqait5AReFOj7ZGAynqx_qqhCDShgBmSZ9IEAjOFvnHl46XgKVAlXwyX6q5b8TMyZcbMSDF=
+y1q3f5VLnHWU9VAL8H-dzDymBqm_5H5RMkMCEXzximL_iVqylEXu6BfDOvD7glTyjwZjf3VNm70=
+lFifFfu1F8UO51QaSk0Qd8XY8_xp1VxOPQfS55KDNQ9QphRqDVHk29-SCBN3yBs5XbsJIozQTkc=
+zr2t-wSMiuMThQdKf5oAD0MvvtD5neB2tBG0vYhACO-Hr1YNPwkO682Hwgn1hLS3x_8usQmZts4=
+Rr7cQbqUyWDP5IkCad5WgkWkH_CroPt-8VQrBdf-4f7ii0KpMtC98Z_0RT5J-3TjSpdgP8sOWqm=
+FNIi_IcxugZZAZIXAw7OOj8gWf_K3IrFl40Xq8GmxV_OU_aC9r1BS51dzm9H9NXNHZycEe73H-n=
+JyKCtOPPJXDUr3eLLd-P00Z2omUtdfBfW7rCrjdDONehfICqKSxyOwbCE4oP1gLtotfAA3o9-Uq=
+T4-B4kon-CQdUNIk_u2dTxZ-THFZw=3D=
+
+--9dde0a091dfcbaab7b6183494b64306847a62003897b9b6f2d01b0bbb932
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" data-dnd=3D"true">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1, minimum-scale=3D1, maximum-scale=3D1" />
+  <!--[if !mso]><!-->
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" />
+  <!--<![endif]-->
+
+  <!--[if (gte mso 9)|(IE)]><style type=3D"text/css">
+  table {border-collapse: collapse;}
+  table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+  img {-ms-interpolation-mode: bicubic;}
+  </style>
+  <![endif]-->
+  <style type=3D"text/css">
+  body {
+    color: #000000;
+  }
+  body a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  p { margin: 0; padding: 0; }
+  table[class=3D"wrapper"] {
+    width:100% !important;
+    table-layout: fixed;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  img[class=3D"max-width"] {
+    max-width: 100% !important;
+  }
+  @media screen and (max-width:480px) {
+    .preheader .rightColumnContent,
+    .footer .rightColumnContent {
+        text-align: left !important;
+    }
+    .preheader .rightColumnContent div,
+    .preheader .rightColumnContent span,
+    .footer .rightColumnContent div,
+    .footer .rightColumnContent span {
+      text-align: left !important;
+    }
+    .preheader .rightColumnContent,
+    .preheader .leftColumnContent {
+      font-size: 80% !important;
+      padding: 5px 0;
+    }
+    table[class=3D"wrapper-mobile"] {
+      width: 100% !important;
+      table-layout: fixed;
+    }
+    img[class=3D"max-width"] {
+      height: auto !important;
+    }
+    a[class=3D"bulletproof-button"] {
+      display: block !important;
+      width: auto !important;
+      font-size: 80%;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    // 2 columns
+    #templateColumns{
+        width:100% !important;
+    }
+
+    .templateColumnContainer{
+        display:block !important;
+        width:100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+  }
+  </style>
+  <style>
+  body, p, div { font-family: tahoma,sans-serif; }
+</style>
+  <style>
+  body, p, div { font-size: 14px; }
+</style>
+</head>
+<body yahoofix=3D"true" style=3D"min-width: 100%; margin: 0; padding: 0; fo=
+nt-size: 14px; font-family: tahoma,sans-serif; color: #000000; background-c=
+olor: #fbb03b; color: #000000;" data-attributes=3D'%7B%22dropped%22%3Atrue%=
+2C%22bodybackground%22%3A%22%23fbb03b%22%2C%22bodyfontname%22%3A%22tahoma%2=
+Csans-serif%22%2C%22bodytextcolor%22%3A%22%23000000%22%2C%22bodylinkcolor%2=
+2%3A%22%23ffffff%22%2C%22bodyfontsize%22%3A14%7D'>
+  <center class=3D"wrapper">
+    <div class=3D"webkit">
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%=
+" class=3D"wrapper" bgcolor=3D"#fbb03b">
+      <tr><td valign=3D"top" bgcolor=3D"#fbb03b" width=3D"100%">
+      <!--[if (gte mso 9)|(IE)]>
+      <table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+        <tr>
+          <td>
+          <![endif]-->
+            <table width=3D"100%" role=3D"content-container" class=3D"outer=
+" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22containerpadding%22%3A%22=
+0%2C0%2C0%2C0%22%2C%22containerwidth%22%3A600%2C%22containerbackground%22%3=
+A%22%23ffffff%22%7D' align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+              <tr>
+                <td width=3D"100%"><table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">
+                  <tr>
+                    <td>
+                    <!--[if (gte mso 9)|(IE)]>
+                      <table width=3D"600" align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+                        <tr>
+                          <td>
+                            <![endif]-->
+                              <table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"width: 100%; max-width:600px;" align=3D"=
+center">
+                                <tr><td role=3D"modules-container" style=3D=
+"padding: 0px 0px 0px 0px; color: #000000; text-align: left;" bgcolor=3D"#f=
+fffff" width=3D"100%" align=3D"left">
+                                  <table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" align=3D"center" width=3D"100%" style=3D"display:none !impor=
+tant; visibility:hidden; opacity:0; color:transparent; height:0; width:0;" =
+class=3D"module preheader preheader-hide" role=3D"module" data-type=3D"preh=
+eader">
+  <tr><td role=3D"module-content"><p></p></td></tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"divider" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3A%220%2C=
+0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22linecolor%2=
+2%3A%22%23fbb03b%22%2C%22height%22%3A3%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"3"  style=3D"font-size: 3px; line-height: 3px;">
+    <tr><td bgcolor=3D"#fbb03b">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22http%3A//getmouse.com/2016/08/bordering-on-equality/%22%2C%22width%=
+22%3A%22250%22%2C%22height%22%3A%2263%22%2C%22imagebackground%22%3A%22%23FF=
+FFFF%22%2C%22url%22%3A%22https%3A//marketing-image-production.s3.amazonaws.=
+com/uploads/fa60f9a846d41788f8f0be71ee02d1c55d1da0667ca40c37b01e85d1d3ec3fb=
+a21775b89792f88b6a177538beddbeef2ccd392774b28fa8110e4af62c27be753.png%22%2C=
+%22alt_text%22%3A%22%22%2C%22dropped%22%3Atrue%2C%22imagemargin%22%3A%225%2=
+C0%2C0%2C0%22%2C%22alignment%22%3A%22center%22%2C%22responsive%22%3Afalse%7=
+D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 5px 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-conte=
+nt">
+<a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq-2FTp17MY1=
+-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv1tNhw8LYEflvIgmrCtm5bVqluLnuV93bqfcxU=
+frC-2FBVA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2T=
+qg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHb=
+zXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEG=
+aU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2BXzXf6ZFXNz=
+6ztUYbm2f8Qkv2htqsIu5ky1Ki72lYSUtIxqSWaxiKDiKfyvg-2BrwJir-2FXwfolj6shmRXLA-=
+2FITPm9M4nfBJYI3vZ0B-2FNewSAM4JMsWA3nj0ZK51qSKYeWDzXcZo2W1LUQTHiYmrPNRVaEyV=
+TCQg6XYaKWCpQuq5wKzQvHzljfXqbJqiyj3oFbGML36ejl4rsVe8OnITVktcWTBu4in11rh5Ew-=
+2Fb5ASKkwE-3D" target=3D"_blank">
+  <img class=3D"max-width"  width=3D"250"   height=3D"63"  src=3D"https://m=
+arketing-image-production.s3.amazonaws.com/uploads/fa60f9a846d41788f8f0be71=
+ee02d1c55d1da0667ca40c37b01e85d1d3ec3fba21775b89792f88b6a177538beddbeef2ccd=
+392774b28fa8110e4af62c27be753.png" alt=3D"" border=3D"0" style=3D"display: =
+block; color: #000; text-decoration: none; font-family: Helvetica, arial, s=
+ans-serif; font-size: 16px; " />
+</a>
+</td>
+</tr>
+</table><table class=3D"module" role=3D"module" data-type=3D"divider" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-l=
+ayout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3=
+A%220%2C0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22lin=
+ecolor%22%3A%22%23FBB03B%22%2C%22height%22%3A2%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"2"  style=3D"font-size: 2px; line-height: 2px;">
+    <tr><td bgcolor=3D"#FBB03B">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0"  width=3D"100%" style=3D"table-layout: fix=
+ed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22child%22%3Afalse%2C%22=
+padding%22%3A%220%2C0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff=
+%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 0px 0px 0px 0px;" bgcolor=3D"#ffffff"><div> <p style=3D"font-family: A=
+rial; font-size: 14px; font-style: normal; font-variant-caps: normal; line-=
+height: normal; color: rgb(0, 0, 0); -webkit-text-stroke-width: initial; -w=
+ebkit-text-stroke-color: rgb(0, 0, 0); text-align: right;"><span style=3D"f=
+ont-family: tahoma, geneva, sans-serif; font-size: 12px; font-style: normal=
+; font-variant-caps: normal; color: rgb(169, 169, 169); text-align: right; =
+-webkit-text-stroke-color: rgb(0, 0, 0);">10.10.16</span></p> </div> </td>
+</tr>
+</table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22http%3A//getmouse.com/2016/09/i-have-the-best-temperament/%22%2C%22=
+width%22%3A%22600%22%2C%22height%22%3A%22411%22%2C%22imagebackground%22%3A%=
+22%23FFFFFF%22%2C%22url%22%3A%22https%3A//marketing-image-production.s3.ama=
+zonaws.com/uploads/8583e64f3dd34b8001ba1fd4ea69892edb62f7da674ddbe22a484718=
+065133ce34f39fed9cd11dbf614b9c5790128acba51eb72c42519b181f8153c1d150d35e.jp=
+g%22%2C%22alt_text%22%3A%22%22%2C%22dropped%22%3Atrue%2C%22imagemargin%22%3=
+A%220%2C0%2C0%2C0%22%2C%22alignment%22%3A%22center%22%2C%22responsive%22%3A=
+true%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 0px 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-conte=
+nt"><!--[if mso]>
+<center>
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed;">
+  <tr>
+    <td width=3D"600" valign=3D"top">
+<![endif]-->
+<a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq-2FTp17MY1=
+-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv1caVF07ZzLWQvw6SWbB9GQqrf-2FTKcPM6B-2=
+FE9MFCAfpHw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB=
+2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlU=
+HbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlA=
+EGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2B8tNyyBio=
+MPTC4PlVwGyJweiZgB-2FWt36i-2BrIEIJ-2B2MedGivRnqv8hvurPuPqSpVsCPRZ5z3jI56X-2=
+FCnxy8xW4kMFKbqR6fb1qsISkQJvldVO-2B183Sb7aWtOUjQPi45Gdsm3q86yYt14MwncqOrSiT=
+ra-2FVZvcrZPqo86j8D5xCfecTIcjGwL-2Fkjw8G3JyiVp8cQEk68DdjgOqKSNt9ZtRy6lQ8HG6=
+gjSV5R969V4O-2BgSE-3D" target=3D"_blank">
+  <img class=3D"max-width"  width=3D"600"   height=3D""  src=3D"https://mar=
+keting-image-production.s3.amazonaws.com/uploads/8583e64f3dd34b8001ba1fd4ea=
+69892edb62f7da674ddbe22a484718065133ce34f39fed9cd11dbf614b9c5790128acba51eb=
+72c42519b181f8153c1d150d35e.jpg" alt=3D"" border=3D"0" style=3D"display: bl=
+ock; color: #000; text-decoration: none; font-family: Helvetica, arial, san=
+s-serif; font-size: 16px;  max-width: 600px !important; width: 100% !import=
+ant; height: auto !important; " />
+</a>
+<!--[if mso]>
+</td></tr></table>
+</center>
+<![endif]--></td>
+</tr>
+</table><table class=3D"module" role=3D"module" data-type=3D"button" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%=
+22%3A2%2C%22buttonpadding%22%3A%2210%2C18%2C2%2C18%22%2C%22text%22%3A%22I%2=
+520have%2520the%2520best%2520temperament%22%2C%22alignment%22%3A%22left%22%=
+2C%22fontsize%22%3A22%2C%22url%22%3A%22http%253A//getmouse.com/2016/09/i-ha=
+ve-the-best-temperament/%22%2C%22height%22%3A%22%22%2C%22width%22%3A%22%22%=
+2C%22containerbackground%22%3A%22%23ffffff%22%2C%22padding%22%3A%220%2C0%2C=
+0%2C0%22%2C%22buttoncolor%22%3A%22%23ffffff%22%2C%22textcolor%22%3A%22%2300=
+0000%22%2C%22bordercolor%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 2px; -moz-border=
+-radius: 2px; border-radius: 2px; font-size: 22px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv1caVF07ZzLWQvw6SWbB9GQqrf-2=
+FTKcPM6B-2FE9MFCAfpHw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu=
+85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Q=
+o3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0y=
+MjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-=
+2BwVvllTp5ZYzKGoOx-2BC8xDeGbi7eVtM-2FZ0QkqV447Q8Y2OaOn-2FZF05w4euVE-2FZMyKu=
+yjrLlZJMaAHdFXLu3bHqp7awGo1RadwfkMGWkPUQAi-2B9WrIb2o-2Bk3ZHa9Ig5AP-2Bb5PaMB=
+-2B1cM-2BDPpA1iuIiToltLaNLI6yjnH-2FPpk1tOe9uajPA81cYkAwaJne5eRW-2BF9guB7LYv=
+tgD1cl5J74XkGxcCPo2QSo6GqodOIGGtik-3D" class=3D"bulletproof-button" target=
+=3D"_blank" style=3D"height: px; width: px; font-size: 22px; line-height: p=
+x; font-family: Helvetica, Arial, sans-serif; color: #000000; padding: 10px=
+ 18px 2px 18px; text-decoration: none; color: #000000; text-decoration: non=
+e; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px;=
+ border: 1px solid #ffffff; display: inline-block;">I have the best tempera=
+ment</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"button" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%22%3A6%2=
+C%22buttonpadding%22%3A%2210%2C18%2C10%2C18%22%2C%22text%22%3A%22In%2520a%2=
+520world%2520where%2520it%2520is%2520common%2520to%2520venture%2520far%2520=
+from%2520home%2520in%2520you%2520adult%2520life%252C%2520weddings%2520provi=
+de%2520an%2520opportunity%2520to%2520catch%2520up%2520and%2520remind%2520us=
+%2520of%2520why%2520it%2527s%2520important%2520to%2520care%2520about%2520wh=
+at%2527s%2520happening%2520around%2520the%2520country.%22%2C%22alignment%22=
+%3A%22left%22%2C%22fontsize%22%3A14%2C%22url%22%3A%22http%253A//getmouse.co=
+m/2016/09/i-have-the-best-temperament/%22%2C%22height%22%3A%22%22%2C%22widt=
+h%22%3A%22%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22padding%22=
+%3A%220%2C0%2C0%2C0%22%2C%22buttoncolor%22%3A%22%23ffffff%22%2C%22textcolor=
+%22%3A%22%23000000%22%2C%22bordercolor%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 6px; -moz-border=
+-radius: 6px; border-radius: 6px; font-size: 14px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv1caVF07ZzLWQvw6SWbB9GQqrf-2=
+FTKcPM6B-2FE9MFCAfpHw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu=
+85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Q=
+o3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0y=
+MjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-=
+2B-2Fl3PEv6Nt2EEzgd-2BTYXOO7Aq08eEdNyBis4P-2B4VPKdb-2B3sCwvnkniafky1Np0vUuh=
+X6naSpWG6rRIGESfwj-2F3nPt-2BSkRmBQ8jkZ1lClqO22AHAZbyl-2BBoVzASDjL1fL-2BddO0=
+F-2BMFmTFHNCTsdEAIkTXQTGAk2-2BUvJpYTJJnA2HIUzMeymTb87hv6SOpy8boDJT3-2FExGyG=
+-2BYyEz7NCeom-2FXCZGbmTOeRaslW4o5xiQB8-3D" class=3D"bulletproof-button" tar=
+get=3D"_blank" style=3D"height: px; width: px; font-size: 14px; line-height=
+: px; font-family: Helvetica, Arial, sans-serif; color: #000000; padding: 1=
+0px 18px 10px 18px; text-decoration: none; color: #000000; text-decoration:=
+ none; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: =
+6px; border: 1px solid #ffffff; display: inline-block;">In a world where it=
+ is common to venture far from home in you adult life, weddings provide an =
+opportunity to catch up and remind us of why it's important to care about w=
+hat's happening around the country.</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"divider" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3A%220%2C=
+0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22linecolor%2=
+2%3A%22%23d3ccbc%22%2C%22height%22%3A2%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"2"  style=3D"font-size: 2px; line-height: 2px;">
+    <tr><td bgcolor=3D"#d3ccbc">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"spacer" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22spacing%22%3A15%2C%22=
+containerbackground%22%3A%22%23ffffff%22%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 15px 0px;" bgcolo=
+r=3D"#ffffff"></td></tr></table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22http%3A//getmouse.com/2016/09/what-the-hell-is-a-donor-advised-fund=
+-and-why-should-i-care/%22%2C%22width%22%3A%22600%22%2C%22height%22%3A%2238=
+6%22%2C%22imagebackground%22%3A%22%23FFFFFF%22%2C%22url%22%3A%22https%3A//m=
+arketing-image-production.s3.amazonaws.com/uploads/7f38d60f1dd16834b34b40d6=
+42ebe5a2ca4c2cdf820ccd9de685a80dd94f88ea5474522b434048579b7c17f40477768442e=
+8548053619d97d2b407f42755623d.jpg%22%2C%22alt_text%22%3A%22%22%2C%22dropped=
+%22%3Atrue%2C%22imagemargin%22%3A%220%2C0%2C0%2C0%22%2C%22alignment%22%3A%2=
+2center%22%2C%22responsive%22%3Atrue%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 0px 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-conte=
+nt"><!--[if mso]>
+<center>
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed;">
+  <tr>
+    <td width=3D"600" valign=3D"top">
+<![endif]-->
+<a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq-2FTp17MY1=
+-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv2fqbqsZYjhegf-2BNmzgOv9WFCz0PoK2xqGGk=
+euU76bp1RZBnDeaBdALe0-2FTkiyflzzQkXQIgLY2wN-2FY-2FBiduabS_xb69N2IWj9cpa7VY1=
+jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFp=
+x7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3=
+S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlF=
+iDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2BLSkpkKMYXgeoReLexTmtIWmGFBkHAJ3dObl9xuz1agd=
+cni-2BjWlzZBYae6-2FSc6VaH88gO1m6JT2LR7o-2FqQbc2X5REDDCQVQLwMvi0hDe2XdeqwC1b=
+SLMOvmSHK2TW0UL62b7TZhh5HQdmWYq9jhhNx5qTWE2wHDNhqwcUNj-2FAME9KiSmB9wVcqVXV4=
+N28Emmll8Ey56ZrEkhNENvnA62jpb92Ad6qcYSe5qjqbkTw2LU-3D" target=3D"_blank">
+  <img class=3D"max-width"  width=3D"600"   height=3D""  src=3D"https://mar=
+keting-image-production.s3.amazonaws.com/uploads/7f38d60f1dd16834b34b40d642=
+ebe5a2ca4c2cdf820ccd9de685a80dd94f88ea5474522b434048579b7c17f40477768442e85=
+48053619d97d2b407f42755623d.jpg" alt=3D"" border=3D"0" style=3D"display: bl=
+ock; color: #000; text-decoration: none; font-family: Helvetica, arial, san=
+s-serif; font-size: 16px;  max-width: 600px !important; width: 100% !import=
+ant; height: auto !important; " />
+</a>
+<!--[if mso]>
+</td></tr></table>
+</center>
+<![endif]--></td>
+</tr>
+</table><table class=3D"module" role=3D"module" data-type=3D"button" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%=
+22%3A2%2C%22buttonpadding%22%3A%2210%2C18%2C2%2C18%22%2C%22text%22%3A%22Wha=
+t%2520the%2520Hell%2520Is%2520a%2520Donor%2520Advised%2520Fund%2520and%2520=
+Why%2520Should%2520I%2520Care%253F%22%2C%22alignment%22%3A%22left%22%2C%22f=
+ontsize%22%3A22%2C%22url%22%3A%22http%253A//getmouse.com/2016/09/what-the-h=
+ell-is-a-donor-advised-fund-and-why-should-i-care/%22%2C%22height%22%3A%22%=
+22%2C%22width%22%3A%22%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%=
+22padding%22%3A%220%2C0%2C0%2C0%22%2C%22buttoncolor%22%3A%22%23ffffff%22%2C=
+%22textcolor%22%3A%22%23000000%22%2C%22bordercolor%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 2px; -moz-border=
+-radius: 2px; border-radius: 2px; font-size: 22px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv2fqbqsZYjhegf-2BNmzgOv9WFCz=
+0PoK2xqGGkeuU76bp1RZBnDeaBdALe0-2FTkiyflzzQkXQIgLY2wN-2FY-2FBiduabS_xb69N2I=
+Wj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2=
+BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvB=
+FKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-=
+2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2Bh5UirGqHGhc-2Be7M4mbzBOm1Iow6Psnu=
+z2sOt2Id5F7juGWls4Bintnq4W8kNQk1f5JWPnR2hUkiKuc-2BA3E9li5o50sJBmLvkn-2BbZEG=
+fPz0ZSWh4SYAIv-2BJV8MrfKbZSOd7iDcAt9C5cWrpQWp-2B6SLj3EmMx6Z0sqM8Ieve9jVbff3=
+wuLgpvZTQLNvDrV0STqf7DbxbzDFQE2kxZPzAh1tSq0EnyNRFP2zeOqq2lz-2Foo-3D" class=
+=3D"bulletproof-button" target=3D"_blank" style=3D"height: px; width: px; f=
+ont-size: 22px; line-height: px; font-family: Helvetica, Arial, sans-serif;=
+ color: #000000; padding: 10px 18px 2px 18px; text-decoration: none; color:=
+ #000000; text-decoration: none; -webkit-border-radius: 2px; -moz-border-ra=
+dius: 2px; border-radius: 2px; border: 1px solid #ffffff; display: inline-b=
+lock;">What the Hell Is a Donor Advised Fund and Why Should I Care?</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"button" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%22%3A6%2=
+C%22buttonpadding%22%3A%2210%2C18%2C10%2C18%22%2C%22text%22%3A%22Much%2520l=
+ike%2520the%2520401K%2520and%2520HSA%2520were%2520once%2520new%2520workplac=
+e%2520benefits%252C%2520the%2520Donor%2520Advised%2520Fund%2520is%2520now%2=
+520the%2520new%2520guy%2520in%2520the%2520office.%22%2C%22alignment%22%3A%2=
+2left%22%2C%22fontsize%22%3A14%2C%22url%22%3A%22http%253A//getmouse.com/201=
+6/09/what-the-hell-is-a-donor-advised-fund-and-why-should-i-care/%22%2C%22h=
+eight%22%3A%22%22%2C%22width%22%3A%22%22%2C%22containerbackground%22%3A%22%=
+23ffffff%22%2C%22padding%22%3A%220%2C0%2C0%2C0%22%2C%22buttoncolor%22%3A%22=
+%23ffffff%22%2C%22textcolor%22%3A%22%23000000%22%2C%22bordercolor%22%3A%22%=
+23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 6px; -moz-border=
+-radius: 6px; border-radius: 6px; font-size: 14px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv2fqbqsZYjhegf-2BNmzgOv9WFCz=
+0PoK2xqGGkeuU76bp1RZBnDeaBdALe0-2FTkiyflzzQkXQIgLY2wN-2FY-2FBiduabS_xb69N2I=
+Wj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2=
+BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvB=
+FKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-=
+2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2BlUCuGyjKxHmkkf0cHGkgc-2FzzRMqE9SM=
+weldP9kLhzZGbZiXvTFlOG3eV4wbDfidlhpbyoCOQnwSU3EmTPqCxdBgd5B1FSPtDvKiRgFPnyM=
+KG2JumCBxS09oZ4n03xykS6gxk3YPIcPkH2LO-2FG-2FfZph2SuW6iBd-2FtPfisK-2BuZ7jhV5=
+-2Bqi957UB1jz1KRG8QPNA0RbLPHst-2BVlOqEBblLoso5kikKs7lrUwaXHB4nsnaY-3D" clas=
+s=3D"bulletproof-button" target=3D"_blank" style=3D"height: px; width: px; =
+font-size: 14px; line-height: px; font-family: Helvetica, Arial, sans-serif=
+; color: #000000; padding: 10px 18px 10px 18px; text-decoration: none; colo=
+r: #000000; text-decoration: none; -webkit-border-radius: 6px; -moz-border-=
+radius: 6px; border-radius: 6px; border: 1px solid #ffffff; display: inline=
+-block;">Much like the 401K and HSA were once new workplace benefits, the D=
+onor Advised Fund is now the new guy in the office.</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"divider" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3A%220%2C=
+0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22linecolor%2=
+2%3A%22%23d3ccbc%22%2C%22height%22%3A2%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"2"  style=3D"font-size: 2px; line-height: 2px;">
+    <tr><td bgcolor=3D"#d3ccbc">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"spacer" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22spacing%22%3A15%2C%22=
+containerbackground%22%3A%22%23ffffff%22%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 15px 0px;" bgcolo=
+r=3D"#ffffff"></td></tr></table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22http%3A//getmouse.com/2016/10/the-why-that-fuels-me/%22%2C%22width%=
+22%3A%22600%22%2C%22height%22%3A%22350%22%2C%22imagebackground%22%3A%22%23F=
+FFFFF%22%2C%22url%22%3A%22https%3A//marketing-image-production.s3.amazonaws=
+.com/uploads/5c0dfff9473b8661da65462f8df37c5aa576368f3164fe75b8a5a8fe34dc36=
+3dc74c833104fda5fa7440cdee8d279ae6a18ced5b2e85dad722762a1b11d78e46.jpg%22%2=
+C%22alt_text%22%3A%22%22%2C%22dropped%22%3Atrue%2C%22imagemargin%22%3A%220%=
+2C0%2C0%2C0%22%2C%22alignment%22%3A%22center%22%2C%22responsive%22%3Atrue%7=
+D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 0px 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-conte=
+nt"><!--[if mso]>
+<center>
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed;">
+  <tr>
+    <td width=3D"600" valign=3D"top">
+<![endif]-->
+<a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq-2FTp17MY1=
+-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv09Oq-2BueBgsvsh4C9dF7JoMFvWpipjsBXg4M=
+itTlML7Uw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2T=
+qg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHb=
+zXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEG=
+aU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2B000IlaCV9D=
+zesvDhyHJzOwyFZHkOvpHfYVdnOV-2B8WA-2BxLwXE7Ei4abXmMuvsFWNv804WkiMG4-2BBzTgh=
+v5uNDPV1XG8qMNYSfFl5I6ppp1gxdi0snRX5NC7h-2FIAhO7rKUkVFfOAvujAtp5LBnJusADz3U=
+u-2FfNu-2Bc3lx38L2dcdccJOk0r25n-2F7lYBcSR5kfo2X-2BfvhnhV-2F-2FqxWkYNC84SgRr=
+mjlezPgVe2CgtrjsfNj0-3D" target=3D"_blank">
+  <img class=3D"max-width"  width=3D"600"   height=3D""  src=3D"https://mar=
+keting-image-production.s3.amazonaws.com/uploads/5c0dfff9473b8661da65462f8d=
+f37c5aa576368f3164fe75b8a5a8fe34dc363dc74c833104fda5fa7440cdee8d279ae6a18ce=
+d5b2e85dad722762a1b11d78e46.jpg" alt=3D"" border=3D"0" style=3D"display: bl=
+ock; color: #000; text-decoration: none; font-family: Helvetica, arial, san=
+s-serif; font-size: 16px;  max-width: 600px !important; width: 100% !import=
+ant; height: auto !important; " />
+</a>
+<!--[if mso]>
+</td></tr></table>
+</center>
+<![endif]--></td>
+</tr>
+</table><table class=3D"module" role=3D"module" data-type=3D"button" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%=
+22%3A2%2C%22buttonpadding%22%3A%2210%2C18%2C2%2C18%22%2C%22text%22%3A%22The=
+%2520%2527Why%2527%2520That%2520Fuels%2520Me%22%2C%22alignment%22%3A%22left=
+%22%2C%22fontsize%22%3A22%2C%22url%22%3A%22http%253A//getmouse.com/2016/10/=
+the-why-that-fuels-me/%22%2C%22height%22%3A%22%22%2C%22width%22%3A%22%22%2C=
+%22containerbackground%22%3A%22%23ffffff%22%2C%22padding%22%3A%220%2C0%2C0%=
+2C0%22%2C%22buttoncolor%22%3A%22%23ffffff%22%2C%22textcolor%22%3A%22%230000=
+00%22%2C%22bordercolor%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 2px; -moz-border=
+-radius: 2px; border-radius: 2px; font-size: 22px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv09Oq-2BueBgsvsh4C9dF7JoMFvW=
+pipjsBXg4MitTlML7Uw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85=
+-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3=
+vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMj=
+sXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2B=
+qEPaIyjXVKmEe-2BSL4ruvJpL23k-2FlcR4N1Uh9oESfDE1o-2BLJ4CmXQD288p2XbyokZJjsDP=
+d188g3AqDAfzombM182j18J3nSv49Pb7xsYAFLWkW3tHHe5MLLLnfjEZ3bLQsyBGRGBlDAlszE-=
+2FfWOIo6R9vWsqHOt2X4Hj-2FYeXpDS1vJAlDa8kaVRJlqYJRZ1DIQcGktTkgMkJ3CEGoB1z7rP=
+sn3fHu-2BZrLVJKc5IZqFM-3D" class=3D"bulletproof-button" target=3D"_blank" s=
+tyle=3D"height: px; width: px; font-size: 22px; line-height: px; font-famil=
+y: Helvetica, Arial, sans-serif; color: #000000; padding: 10px 18px 2px 18p=
+x; text-decoration: none; color: #000000; text-decoration: none; -webkit-bo=
+rder-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; border: 1px =
+solid #ffffff; display: inline-block;">The 'Why' That Fuels Me</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"button" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%22%3A6%2=
+C%22buttonpadding%22%3A%2210%2C18%2C10%2C18%22%2C%22text%22%3A%22This%2520m=
+an%2520wants%2520to%2520empower%2520the%2520masses%2520to%2520improve%2520t=
+he%2520world%2520-%2520and%2520that%2520desire%2520started%2520thanks%2520t=
+o%2520his%2520father.%22%2C%22alignment%22%3A%22left%22%2C%22fontsize%22%3A=
+14%2C%22url%22%3A%22http%253A//getmouse.com/2016/10/the-why-that-fuels-me/%=
+22%2C%22height%22%3A%22%22%2C%22width%22%3A%22%22%2C%22containerbackground%=
+22%3A%22%23ffffff%22%2C%22padding%22%3A%220%2C0%2C0%2C0%22%2C%22buttoncolor=
+%22%3A%22%23ffffff%22%2C%22textcolor%22%3A%22%23000000%22%2C%22bordercolor%=
+22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 6px; -moz-border=
+-radius: 6px; border-radius: 6px; font-size: 14px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv09Oq-2BueBgsvsh4C9dF7JoMFvW=
+pipjsBXg4MitTlML7Uw-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85=
+-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3=
+vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMj=
+sXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2B=
+mGOQHISDcRgireNyCgKEfdaIU9phrWnn6NkK666VDR51EQlTfc6VxHV0PFSd0-2Fo3SoOMXmcsT=
+lLd3fnzjNTBV8vwm6Z5t0hJJkrR4US7ScokW7YpREkTndR2iHmcgmN-2FLEFhj3RluViVr3T157=
+R6bKkt7bVx1ZQRu0bSvdsZorA-2B7RRSOjE616Z2n0-2BQLK5sSW6yySWDzOIm-2B-2BXpeWHXJ=
+XKEvmpPlM4CROz4FrTehiE-3D" class=3D"bulletproof-button" target=3D"_blank" s=
+tyle=3D"height: px; width: px; font-size: 14px; line-height: px; font-famil=
+y: Helvetica, Arial, sans-serif; color: #000000; padding: 10px 18px 10px 18=
+px; text-decoration: none; color: #000000; text-decoration: none; -webkit-b=
+order-radius: 6px; -moz-border-radius: 6px; border-radius: 6px; border: 1px=
+ solid #ffffff; display: inline-block;">This man wants to empower the masse=
+s to improve the world - and that desire started thanks to his father.</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"divider" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3A%220%2C=
+0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22linecolor%2=
+2%3A%22%23d3ccbc%22%2C%22height%22%3A2%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"2"  style=3D"font-size: 2px; line-height: 2px;">
+    <tr><td bgcolor=3D"#d3ccbc">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"spacer" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22spacing%22%3A15%2C%22=
+containerbackground%22%3A%22%23ffffff%22%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 15px 0px;" bgcolo=
+r=3D"#ffffff"></td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"divider" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3A%220%2C=
+0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22linecolor%2=
+2%3A%22%23d3ccbc%22%2C%22height%22%3A2%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"2"  style=3D"font-size: 2px; line-height: 2px;">
+    <tr><td bgcolor=3D"#d3ccbc">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22http%3A//getmouse.com/2016/07/latinitas-empowering-latina-youth/%22=
+%2C%22width%22%3A%22600%22%2C%22height%22%3A%22400%22%2C%22imagebackground%=
+22%3A%22%23FFFFFF%22%2C%22url%22%3A%22https%3A//marketing-image-production.=
+s3.amazonaws.com/uploads/d6a94b7081e6539646b35f6945a65a4532cba8d12097d10b48=
+bea37b81878b158fc6aea75e5d6337db9786e9342157ccf2e8cad8e03aed74a513f16a9a621=
+acd.jpg%22%2C%22alt_text%22%3A%22%22%2C%22dropped%22%3Atrue%2C%22imagemargi=
+n%22%3A%220%2C0%2C0%2C0%22%2C%22alignment%22%3A%22center%22%2C%22responsive=
+%22%3Atrue%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 0px 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-conte=
+nt"><!--[if mso]>
+<center>
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed;">
+  <tr>
+    <td width=3D"600" valign=3D"top">
+<![endif]-->
+<a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq-2FTp17MY1=
+-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv1eLuY0Qj-2BWD4TOx9sr7UQAk81c8hn2CPs9a=
+R2snGXmojkPBnDUtj277q8ldOH6-2FsI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZA=
+a351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPRMexCpf2c3u=
+DF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFGByvJmjpWcf=
+k0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2BpUtigeEg0yq=
+eHOL2Yf-2BTzQqht33ZDnsFqLmRKfO2k7VoCodUJh-2BleSjnUInvKawcgdzEZF7uNJzmaLA9z6=
+RKV8oBTcX1xAP5etE2-2BQogC8N-2F5FXkSlq8lN-2FU8u4UN5aKdY-2Fu2snNHPl99OH0mMOJA=
+GUjO3-2FeQQ1O7oNOnk50RMMbgYf0IAI-2FldCwRYeoMMYDo2oITl9DIwONedaZoCPjwH2EuTnT=
+pqO49e8Q-2B6N2anEK7byHmWSzOxNLqzWolY-3D" target=3D"_blank">
+  <img class=3D"max-width"  width=3D"600"   height=3D""  src=3D"https://mar=
+keting-image-production.s3.amazonaws.com/uploads/d6a94b7081e6539646b35f6945=
+a65a4532cba8d12097d10b48bea37b81878b158fc6aea75e5d6337db9786e9342157ccf2e8c=
+ad8e03aed74a513f16a9a621acd.jpg" alt=3D"" border=3D"0" style=3D"display: bl=
+ock; color: #000; text-decoration: none; font-family: Helvetica, arial, san=
+s-serif; font-size: 16px;  max-width: 600px !important; width: 100% !import=
+ant; height: auto !important; " />
+</a>
+<!--[if mso]>
+</td></tr></table>
+</center>
+<![endif]--></td>
+</tr>
+</table><table class=3D"module" role=3D"module" data-type=3D"button" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%=
+22%3A2%2C%22buttonpadding%22%3A%2210%2C18%2C2%2C18%22%2C%22text%22%3A%22Lat=
+initas%2520%25u2013%2520Empowering%2520Latina%2520Youth%22%2C%22alignment%2=
+2%3A%22left%22%2C%22fontsize%22%3A22%2C%22url%22%3A%22http%253A//getmouse.c=
+om/2016/07/latinitas-empowering-latina-youth/%22%2C%22height%22%3A%22%22%2C=
+%22width%22%3A%22%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22pad=
+ding%22%3A%220%2C0%2C0%2C0%22%2C%22buttoncolor%22%3A%22%23ffffff%22%2C%22te=
+xtcolor%22%3A%22%23000000%22%2C%22bordercolor%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 2px; -moz-border=
+-radius: 2px; border-radius: 2px; font-size: 22px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv1eLuY0Qj-2BWD4TOx9sr7UQAk81=
+c8hn2CPs9aR2snGXmojkPBnDUtj277q8ldOH6-2FsI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2Bt=
+cgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPR=
+MexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFG=
+ByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2Bp=
+UtigeEg0yqeHOL2Yf-2BO8-2FS5NaOZ26TkhxOTUEPmwyN2IQUeA-2BQTrwYBGjzMm-2BBt4gZW=
+j-2BbOkIR6f9mydIbVZCjSKB1DxQRU1Y0aCdqf3aFAUSlyhwM-2FlkNjuwGGW16XTMLhVC08v-2=
+BbqQ0-2BaJTY42FD2TMNVcBlOQKjEclGrHCChYDtjvM54L66ryYXg9-2BibO1vjTIRNaJKkO0BR=
+GecMgVV7amhJMAfrenHAW9wKZUrvp-2FYxAZFaJ7WLP66Pnw-3D" class=3D"bulletproof-b=
+utton" target=3D"_blank" style=3D"height: px; width: px; font-size: 22px; l=
+ine-height: px; font-family: Helvetica, Arial, sans-serif; color: #000000; =
+padding: 10px 18px 2px 18px; text-decoration: none; color: #000000; text-de=
+coration: none; -webkit-border-radius: 2px; -moz-border-radius: 2px; border=
+-radius: 2px; border: 1px solid #ffffff; display: inline-block;">Latinitas =
+=E2=80=93 Empowering Latina Youth</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"button" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%22%3A6%2=
+C%22buttonpadding%22%3A%2210%2C18%2C10%2C18%22%2C%22text%22%3A%22With%2520a=
+lmost%252085%2525%2520Latinitas%2520alumni%2520going%2520on%2520to%2520grad=
+uate%2520from%2520four%2520year%2520institutions%252C%2520this%2520organiza=
+tion%2520is%2520a%2520phenomenal%2520source%2520of%2520positive%2520change.=
+%22%2C%22alignment%22%3A%22left%22%2C%22fontsize%22%3A14%2C%22url%22%3A%22h=
+ttp%253A//getmouse.com/2016/07/latinitas-empowering-latina-youth/%22%2C%22h=
+eight%22%3A%22%22%2C%22width%22%3A%22%22%2C%22containerbackground%22%3A%22%=
+23ffffff%22%2C%22padding%22%3A%220%2C0%2C0%2C0%22%2C%22buttoncolor%22%3A%22=
+%23ffffff%22%2C%22textcolor%22%3A%22%23000000%22%2C%22bordercolor%22%3A%22%=
+23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 6px; -moz-border=
+-radius: 6px; border-radius: 6px; font-size: 14px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv1eLuY0Qj-2BWD4TOx9sr7UQAk81=
+c8hn2CPs9aR2snGXmojkPBnDUtj277q8ldOH6-2FsI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2Bt=
+cgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPR=
+MexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFG=
+ByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2Bp=
+UtigeEg0yqeHOL2Yf-2BZXBD36PzrsRNDefLtxxojn6RbVqOVa27cG-2FPAzzJLj94-2BMA-2BX=
+oiohd21Mb47tXHe6SVx3izfggr3fdBJ2nfTFerG-2FZJhAqTjScJls0epNlE2ozIblC-2B1j-2F=
+FeMgn-2BFiLYjsXKKN1lOoaEd1GuWfx6nwWIXjXIxh9gq5pNYNlux5SeGRRa10UDn82VGYTVxCB=
+hYbQZCtJ8VuCDenqV7w1ldPB9SOYeiT9FHOEP0c6aqvM-3D" class=3D"bulletproof-butto=
+n" target=3D"_blank" style=3D"height: px; width: px; font-size: 14px; line-=
+height: px; font-family: Helvetica, Arial, sans-serif; color: #000000; padd=
+ing: 10px 18px 10px 18px; text-decoration: none; color: #000000; text-decor=
+ation: none; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-ra=
+dius: 6px; border: 1px solid #ffffff; display: inline-block;">With almost 8=
+5% Latinitas alumni going on to graduate from four year institutions, this =
+organization is a phenomenal source of positive change.</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"divider" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3A%220%2C=
+0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22linecolor%2=
+2%3A%22%23d3ccbc%22%2C%22height%22%3A2%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"2"  style=3D"font-size: 2px; line-height: 2px;">
+    <tr><td bgcolor=3D"#d3ccbc">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"spacer" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22spacing%22%3A15%2C%22=
+containerbackground%22%3A%22%23ffffff%22%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 15px 0px;" bgcolo=
+r=3D"#ffffff"></td></tr></table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22http%3A//getmouse.com/2016/09/there-are-places-your-money-can-see-a=
+-5-to-1-return/%22%2C%22width%22%3A%22600%22%2C%22height%22%3A%22450%22%2C%=
+22imagebackground%22%3A%22%23FFFFFF%22%2C%22url%22%3A%22https%3A//marketing=
+-image-production.s3.amazonaws.com/uploads/3a5ae6e4af8504cd2573b8bcf69ea24c=
+a729de7dd51c50f742eeeac2bb415a95446ec799ad0194c3db6600bbcf200b3985856d0cd9a=
+c3f3423044c138acaad24.jpg%22%2C%22alt_text%22%3A%22%22%2C%22dropped%22%3Atr=
+ue%2C%22imagemargin%22%3A%220%2C0%2C0%2C0%22%2C%22alignment%22%3A%22center%=
+22%2C%22responsive%22%3Atrue%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 0px 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-conte=
+nt"><!--[if mso]>
+<center>
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed;">
+  <tr>
+    <td width=3D"600" valign=3D"top">
+<![endif]-->
+<a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq-2FTp17MY1=
+-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv15qLnWiljotMT6tdJfmz1-2FFAP5Agv9RotYi=
+-2BIuTC7M2xwBPagnxAcTwYS5c1rE1ueReIiQDUKuGwX0zV-2FrN7kV_xb69N2IWj9cpa7VY1jz=
+2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7=
+H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6=
+kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiD=
+uk3p7a-2BpUtigeEg0yqeHOL2Yf-2BpwyE3WPvHKh0UhonhoxjktP9Wnx8EnGjm2gsitE3FCqgN=
+pcU2fhlqJAsQotd-2BQamZLp-2Bie1Fk54Whodd5DBzQUJdaQXygiSutYD2y9uOJU3kigueL6Pc=
+izoGej-2BlTiqNm4BJFzC0eGpJf7i0v-2BZkBfR5skGJmqTXN1oCenvL4rJsq5iZG-2BmY5QjWH=
+JruOFMG6-2Fm6BDOyVPwLLngFiCxarfT2LOj7EfbHDUPlSvxifNk-3D" target=3D"_blank">
+  <img class=3D"max-width"  width=3D"600"   height=3D""  src=3D"https://mar=
+keting-image-production.s3.amazonaws.com/uploads/3a5ae6e4af8504cd2573b8bcf6=
+9ea24ca729de7dd51c50f742eeeac2bb415a95446ec799ad0194c3db6600bbcf200b3985856=
+d0cd9ac3f3423044c138acaad24.jpg" alt=3D"" border=3D"0" style=3D"display: bl=
+ock; color: #000; text-decoration: none; font-family: Helvetica, arial, san=
+s-serif; font-size: 16px;  max-width: 600px !important; width: 100% !import=
+ant; height: auto !important; " />
+</a>
+<!--[if mso]>
+</td></tr></table>
+</center>
+<![endif]--></td>
+</tr>
+</table><table class=3D"module" role=3D"module" data-type=3D"button" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%=
+22%3A2%2C%22buttonpadding%22%3A%2210%2C18%2C2%2C18%22%2C%22text%22%3A%22The=
+re%2520are%2520Places%2520Your%2520Money%2520Can%2520See%2520a%25205-to-1%2=
+520Return%22%2C%22alignment%22%3A%22left%22%2C%22fontsize%22%3A22%2C%22url%=
+22%3A%22http%253A//getmouse.com/2016/09/there-are-places-your-money-can-see=
+-a-5-to-1-return/%22%2C%22height%22%3A%22%22%2C%22width%22%3A%22%22%2C%22co=
+ntainerbackground%22%3A%22%23ffffff%22%2C%22padding%22%3A%220%2C0%2C0%2C0%2=
+2%2C%22buttoncolor%22%3A%22%23ffffff%22%2C%22textcolor%22%3A%22%23000000%22=
+%2C%22bordercolor%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 2px; -moz-border=
+-radius: 2px; border-radius: 2px; font-size: 22px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv15qLnWiljotMT6tdJfmz1-2FFAP=
+5Agv9RotYi-2BIuTC7M2xwBPagnxAcTwYS5c1rE1ueReIiQDUKuGwX0zV-2FrN7kV_xb69N2IWj=
+9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BA=
+jAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFK=
+X3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2F=
+qmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2Bts9nBjPJYCqOxe3Nmz6Yr4ayINUeHyjqQY3=
+SpDSEqBPMWjQu7-2B5gaBoxIVfvjRV5jACUPTWeH05xKEbdKvusrkpTUeLQru312KZEi2lsTWbu=
+kyuzIs3x5bhD-2B5GajkGZn7-2FVu7cV3cTS0NkI-2FupWldwzXcWMo1-2BeIJtEZe5Jv5NKS3J=
+thtWTO0m7HZRGREb2hsaHLL-2FQ7lQJ5i42Ff0b946DNdPWTqFM7k9Ehlu30HY-3D" class=3D=
+"bulletproof-button" target=3D"_blank" style=3D"height: px; width: px; font=
+-size: 22px; line-height: px; font-family: Helvetica, Arial, sans-serif; co=
+lor: #000000; padding: 10px 18px 2px 18px; text-decoration: none; color: #0=
+00000; text-decoration: none; -webkit-border-radius: 2px; -moz-border-radiu=
+s: 2px; border-radius: 2px; border: 1px solid #ffffff; display: inline-bloc=
+k;">There are Places Your Money Can See a 5-to-1 Return</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"button" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22borderradius%22%3A6%2=
+C%22buttonpadding%22%3A%2210%2C18%2C10%2C18%22%2C%22text%22%3A%22Time%2520h=
+elps.%2520%2520Food%2520donations%2520help.%2520%2520But%2520check%2520with=
+%2520your%2520local%2520food%2520bank%2520next%2520time%2520you%2527re%2520=
+donating%2520to%2520see%2520if%2520they%2520have%2520greater%2520buying%252=
+0power%2520when%2520using%2520money.%2520%2520Your%2520cash%2520donation%25=
+20could%2520go%2520a%2520lot%2520further%2520then%2520you%2520ever%2520drea=
+med%2520possible.%22%2C%22alignment%22%3A%22left%22%2C%22fontsize%22%3A14%2=
+C%22url%22%3A%22http%253A//getmouse.com/2016/09/there-are-places-your-money=
+-can-see-a-5-to-1-return/%22%2C%22height%22%3A%22%22%2C%22width%22%3A%22%22=
+%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22padding%22%3A%220%2C0%2=
+C0%2C0%22%2C%22buttoncolor%22%3A%22%23ffffff%22%2C%22textcolor%22%3A%22%230=
+00000%22%2C%22bordercolor%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td style=3D"padding: 0px 0px 0px 0px;" align=3D"left" bgcolor=3D"#ffffff=
+">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrappe=
+r-mobile">
+      <tr>
+        <td align=3D"left" style=3D"-webkit-border-radius: 6px; -moz-border=
+-radius: 6px; border-radius: 6px; font-size: 14px;" bgcolor=3D"#ffffff">
+          <a href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3Dv4nrjq=
+-2FTp17MY1-2BCzpX-2BoWClJS-2FOuCmH-2FrTXJS-2Bwtv15qLnWiljotMT6tdJfmz1-2FFAP=
+5Agv9RotYi-2BIuTC7M2xwBPagnxAcTwYS5c1rE1ueReIiQDUKuGwX0zV-2FrN7kV_xb69N2IWj=
+9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BA=
+jAZojeFpx7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFK=
+X3xMC8u3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2F=
+qmaPEOlFiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2B00xOT72GE7xqq9m-2FNKsOJKvYffw9enhXw=
+K0ER76qLrTTZL6470WF2ZW-2Bn2RG-2FjAMGUazGw8Rn3DsXYRHyVUsQzGxOGErLAFXvF6ITasq=
+AgxCm2kod3nQLAtrTrS4UgWPEL-2F8EtQ7T7hrpTsaLsCNScYMNgBHjjtv9jh7NLNCDOgFM3r5Y=
+XwnbfYVLceiT6wH-2B71KV4q-2FxRYggXSR5PXdVxE8A-2B8gE5m71UKw8IYdBDk-3D" class=
+=3D"bulletproof-button" target=3D"_blank" style=3D"height: px; width: px; f=
+ont-size: 14px; line-height: px; font-family: Helvetica, Arial, sans-serif;=
+ color: #000000; padding: 10px 18px 10px 18px; text-decoration: none; color=
+: #000000; text-decoration: none; -webkit-border-radius: 6px; -moz-border-r=
+adius: 6px; border-radius: 6px; border: 1px solid #ffffff; display: inline-=
+block;">Time helps.  Food donations help.  But check with your local food b=
+ank next time you're donating to see if they have greater buying power when=
+ using money.  Your cash donation could go a lot further then you ever drea=
+med possible.</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table class=3D"module" role=3D"module" data-type=3D"divider" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22padding%22%3A%220%2C=
+0%2C0%2C0%22%2C%22containerbackground%22%3A%22%23ffffff%22%2C%22linecolor%2=
+2%3A%22%23d3ccbc%22%2C%22height%22%3A2%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" bgcolor=
+=3D"#ffffff">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+width=3D"100%" height=3D"2"  style=3D"font-size: 2px; line-height: 2px;">
+    <tr><td bgcolor=3D"#d3ccbc">&nbsp;</td></tr>
+  </table>
+</td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"spacer" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22spacing%22%3A15%2C%22=
+containerbackground%22%3A%22%23ffffff%22%7D'>
+<tr><td role=3D"module-content" style=3D"padding: 0px 0px 15px 0px;" bgcolo=
+r=3D"#ffffff"></td></tr></table>
+<table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0"  width=3D"100%" style=3D"table-layout: fix=
+ed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22child%22%3Afalse%2C%22=
+padding%22%3A%2230%2C10%2C30%2C10%22%2C%22containerbackground%22%3A%22%23fb=
+b03b%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 30px 10px 30px 10px;" bgcolor=3D"#fbb03b"><div style=3D"text-align: ce=
+nter;"><span style=3D"font-family:tahoma,geneva,sans-serif;"><span style=3D=
+"font-size:18px;"><strong><span style=3D"color:#FFFFFF;">"In order to carry=
+ a positive action we must develop here a positive vision.</span></strong><=
+/span></span><strong style=3D"font-size: 18px; font-style: inherit;"><span =
+style=3D"color:#FFFFFF;">"</span></strong></div>  <div style=3D"text-align:=
+ center;">&nbsp;</div>  <div style=3D"text-align: center;"><span style=3D"f=
+ont-family:tahoma,geneva,sans-serif;"><span style=3D"font-size:16px;"><stro=
+ng><span style=3D"color:#FFFFFF;">- Dalai Lama</span></strong></span></span=
+></div> </td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" wi=
+dth=3D"100%" role=3D"module" data-type=3D"columns" data-attributes=3D'%7B%2=
+2dropped%22%3Atrue%2C%22columns%22%3A2%2C%22padding%22%3A%225%2C10%2C0%2C10=
+%22%2C%22cellpadding%22%3A0%2C%22containerbackground%22%3A%22%22%7D'>
+  <tr><td style=3D"padding: 5px 10px 0px 10px;" bgcolor=3D"">
+    <table class=3D"columns--container-table" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" align=3D"center" width=3D"100%">
+      <tr role=3D"module-content">
+        <td style=3D"padding: 0px 0px 0px 0px" role=3D"column-0" align=3D"c=
+enter" valign=3D"top" width=3D"50%" height=3D"100%" class=3D"templateColumn=
+Container column-drop-area ">
+  <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0"  width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22child%22%3Afalse%2C%=
+22padding%22%3A%220%2C0%2C5%2C0%22%2C%22containerbackground%22%3A%22%23ffff=
+ff%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 0px 0px 5px 0px;" bgcolor=3D"#ffffff"><div style=3D"text-align: center=
+;"><span style=3D"color:#FFFFFF;"><span style=3D"font-size:14px;"><span sty=
+le=3D"font-family:tahoma,geneva,sans-serif;">M</span></span></span></div> <=
+/td>
+</tr>
+</table>
+<table role=3D"module" data-type=3D"image" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fix=
+ed;" class=3D"wrapper" data-attributes=3D'%7B%22child%22%3Afalse%2C%22link%=
+22%3A%22%22%2C%22width%22%3A%22167%22%2C%22height%22%3A%2243%22%2C%22imageb=
+ackground%22%3A%22%23FFFFFF%22%2C%22url%22%3A%22https%3A//marketing-image-p=
+roduction.s3.amazonaws.com/uploads/fa60f9a846d41788f8f0be71ee02d1c55d1da066=
+7ca40c37b01e85d1d3ec3fba21775b89792f88b6a177538beddbeef2ccd392774b28fa8110e=
+4af62c27be753.png%22%2C%22alt_text%22%3A%22%22%2C%22dropped%22%3Atrue%2C%22=
+imagemargin%22%3A%220%2C0%2C0%2C0%22%2C%22alignment%22%3A%22center%22%2C%22=
+responsive%22%3Afalse%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFFF;padd=
+ing: 0px 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-conte=
+nt">
+
+  <img class=3D"max-width"  width=3D"167"   height=3D"43"  src=3D"https://m=
+arketing-image-production.s3.amazonaws.com/uploads/fa60f9a846d41788f8f0be71=
+ee02d1c55d1da0667ca40c37b01e85d1d3ec3fba21775b89792f88b6a177538beddbeef2ccd=
+392774b28fa8110e4af62c27be753.png" alt=3D"" border=3D"0" style=3D"display: =
+block; color: #000; text-decoration: none; font-family: Helvetica, arial, s=
+ans-serif; font-size: 16px; " />
+
+</td>
+</tr>
+</table>
+</td><td style=3D"padding: 0px 0px 0px 0px" role=3D"column-1" align=3D"cent=
+er" valign=3D"top" width=3D"50%" height=3D"100%" class=3D"templateColumnCon=
+tainer column-drop-area ">
+  <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0"  width=3D"100%" style=3D"table-layout: f=
+ixed;" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22child%22%3Afalse%2C%=
+22padding%22%3A%2220%2C0%2C5%2C0%22%2C%22containerbackground%22%3A%22%23fff=
+fff%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 20px 0px 5px 0px;" bgcolor=3D"#ffffff"><div style=3D"text-align: cente=
+r;"><span style=3D"font-size:14px;"><span style=3D"font-family:tahoma,genev=
+a,sans-serif;">Follow Us on Social Media!</span></span></div> </td>
+</tr>
+</table>
+<table role=3D"module" data-type=3D"social" border=3D"0" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;" class=3D"wrapper" data-attributes=3D'%7B%22backgroundcolor%22%3A%22%2=
+3FFFFFF%22%2C%22iconsize%22%3A30%2C%22iconcolor%22%3A%22AUTO%22%2C%22border=
+radius%22%3A2%2C%22padding%22%3A%220%2C0%2C0%2C0%22%2C%22alignment%22%3A%22=
+center%22%2C%22option_facebook%22%3A%7B%22checked%22%3Atrue%2C%22text%22%3A=
+%22https%3A//www.facebook.com/GetMouseMag%22%2C%22filename%22%3A%22facebook=
+.png%22%2C%22title%22%3A%22Facebook%22%2C%22backgroundcolor%22%3A%22%233B57=
+9D%22%7D%2C%22option_twitter%22%3A%7B%22checked%22%3Atrue%2C%22text%22%3A%2=
+2https%3A//twitter.com/getmousemag%22%2C%22filename%22%3A%22twitter.png%22%=
+2C%22title%22%3A%22Twitter%22%2C%22backgroundcolor%22%3A%22%237AC4F7%22%7D%=
+2C%22option_instagram%22%3A%7B%22checked%22%3Atrue%2C%22text%22%3A%22%22%2C=
+%22filename%22%3A%22instagram.png%22%2C%22title%22%3A%22Instagram%22%2C%22b=
+ackgroundcolor%22%3A%22%237F4B30%22%7D%2C%22option_googleplus%22%3A%7B%22ch=
+ecked%22%3Atrue%2C%22text%22%3A%22%22%2C%22filename%22%3A%22google-plus.png=
+%22%2C%22title%22%3A%22Google+%22%2C%22backgroundcolor%22%3A%22%23D44132%22=
+%7D%2C%22option_pinterest%22%3A%7B%22checked%22%3Atrue%2C%22text%22%3A%22%2=
+2%2C%22filename%22%3A%22pinterest.png%22%2C%22title%22%3A%22Pinterest%22%2C=
+%22backgroundcolor%22%3A%22%23CB2027%22%7D%2C%22option_linkedin%22%3A%7B%22=
+checked%22%3Atrue%2C%22text%22%3A%22%22%2C%22filename%22%3A%22linkedin.png%=
+22%2C%22backgroundcolor%22%3A%22%230077B5%22%7D%7D'>
+<tr>
+  <td style=3D"font-size:6px;line-height:10px;background-color:;padding: 0p=
+x 0px 0px 0px;" valign=3D"top" align=3D"center" role=3D"module-content">
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"" al=
+ign=3D"center">
+        <tr><td style=3D"padding: 0px 5px;"><a
+role=3D"social-icon-link"
+href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3DFkRJwWYfdx8h77bc7GO=
+Y9FfcptlYJJdf44i0a8MSKJtGlrpQvzUAQLOOtsYDDhKs_xb69N2IWj9cpa7VY1jz2n0Hql-2Bt=
+cgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6MPpPR=
+MexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXpdFFG=
+ByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a-2Bp=
+UtigeEg0yqeHOL2Yf-2BwNT-2Fzay976me5fr-2Bxq8e4jw5SFCsVH5JU9PvR-2FcUQ5etUwpOm=
+C-2F29lKYNuo-2BKK2iL7fD2RlKz9FcJ0VTTJBgWLa4PJCnoIfdT46ERjsFvdXB9TrebmsMrK-2=
+B7PeLS99Oofzl-2BZmpdhNAdzVasO2SZpak6klrr4ac6VS9vYMqHQtqhrl43I0y-2BAjDTaDvzz=
+DSuUiHPTc-2Fx-2BQmss1nQs78jhzYgQ7zqE7owmRNkbn28qzo-3D"
+target=3D"_blank"
+border=3D"0"
+alt=3D"Facebook"
+title=3D"Facebook"
+style=3D"background-color: #3B579D; border-radius: 2px; -webkit-border-radi=
+us:2px; -moz-border-radius:2px; -ms-border-radius:2px; -o-border-radius:2px=
+; color: white; display: inline-block; outline: none; text-decoration:none;=
+ border: none; font-family: Helvetica, arial, sans-serif;">
+  <img
+    role=3D"social-icon"
+    alt=3D"Facebook"
+    title=3D"Facebook"
+    border=3D"0"
+    height=3D"30"
+    width=3D"30"
+    style=3D"height: 30px; width: 30px; border:none; color: white; font-fam=
+ily: Helvetica, arial, sans-serif;"
+    src=3D"https://marketing-image-production.s3.amazonaws.com/social/white=
+/facebook.png"
+  />
+</a></td><td style=3D"padding: 0px 5px;"><a
+role=3D"social-icon-link"
+href=3D"https://u3566835.ct.sendgrid.net/wf/click?upn=3DFkRJwWYfdx8h77bc7GO=
+Y9N9E57-2FPMsQsFqMv1Pfr74sRrksSFPIVrMC2fbGNQcA-2B_xb69N2IWj9cpa7VY1jz2n0Hql=
+-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeFpx7H16I6M=
+PpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u3S6kIaVXp=
+dFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOlFiDuk3p7a=
+-2BpUtigeEg0yqeHOL2Yf-2B8JLlSnKXFw0XVRGvh-2BDq4ebOCzMZJtcImoQ9VdfAnrdeBBtot=
+AnbWcQdn0uFdjE3kKctbYB0Yjjbwla3WMkphbWOesfPQJG9govnlpF29k9dRVHGGCOq2T0yadNN=
+VBmfg4LGHUYRjxIZWVZnyZwGBqUduRXA3Qp414gbKJVo4p6ysXpl006GRk3I-2FqGEpU5ZeXOtD=
+9UiOOUd5-2F4RMzXAa03rGI-2B0KYWtdVQdb6j8a-2BI-3D"
+target=3D"_blank"
+border=3D"0"
+alt=3D"Twitter"
+title=3D"Twitter"
+style=3D"background-color: #7AC4F7; border-radius: 2px; -webkit-border-radi=
+us:2px; -moz-border-radius:2px; -ms-border-radius:2px; -o-border-radius:2px=
+; color: white; display: inline-block; outline: none; text-decoration:none;=
+ border: none; font-family: Helvetica, arial, sans-serif;">
+  <img
+    role=3D"social-icon"
+    alt=3D"Twitter"
+    title=3D"Twitter"
+    border=3D"0"
+    height=3D"30"
+    width=3D"30"
+    style=3D"height: 30px; width: 30px; border:none; color: white; font-fam=
+ily: Helvetica, arial, sans-serif;"
+    src=3D"https://marketing-image-production.s3.amazonaws.com/social/white=
+/twitter.png"
+  />
+</a></td></tr>
+      </table>
+  </td>
+</tr>
+</table>
+</td>
+      </tr>
+    </table>
+  </td></tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"ce=
+nter" width=3D"100%" class=3D"module footer" role=3D"module" data-type=3D"f=
+ooter" data-attributes=3D'%7B%22dropped%22%3Atrue%2C%22columns%22%3A%222%22=
+%2C%22padding%22%3A%2210%2C5%2C10%2C5%22%2C%22containerbackground%22%3A%22%=
+23ffffff%22%7D'>
+  <tr><td style=3D"padding: 10px 5px 10px 5px;" bgcolor=3D"#ffffff">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center=
+" width=3D"100%">
+      <tr role=3D"module-content">
+=20=20=20=20=20=20=20=20
+        <td align=3D"center" valign=3D"top" width=3D"50%" height=3D"100%" c=
+lass=3D"templateColumnContainer">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" height=3D"100%">
+            <tr>
+              <td class=3D"leftColumnContent" role=3D"column-one" height=3D=
+"100%" style=3D"height:100%;"><table class=3D"module" role=3D"module" data-=
+type=3D"text" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  width=3D"10=
+0%" style=3D"table-layout: fixed;" data-attributes=3D'%7B%22dropped%22%3Atr=
+ue%2C%22child%22%3Afalse%2C%22padding%22%3A%220%2C0%2C0%2C0%22%2C%22contain=
+erbackground%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 0px 0px 0px 0px;" bgcolor=3D"#ffffff"><div style=3D"font-size: 12px; l=
+ine-height: 150%; margin: 0px;"><span style=3D"font-size:10px;">GetMouse Ma=
+gazine</span></div>  <div style=3D"font-size: 12px; line-height: 150%; marg=
+in: 0px;"><span style=3D"font-size:10px;">2700 W Anderson Lane, Suite 410 <=
+/span><span style=3D"color: rgb(0, 0, 0); font-family: arial, helvetica, sa=
+ns-serif; font-size: 10px; font-style: normal; font-variant-caps: normal; t=
+ext-align: right; background-color: rgb(255, 255, 255);">|</span><span styl=
+e=3D"font-size:10px;">&nbsp;Austin, TX 78757</span></div> </td>
+</tr>
+</table>
+</td>
+            </tr>
+          </table>
+        </td>
+        <td align=3D"center" valign=3D"top" width=3D"50%" height=3D"100%" c=
+lass=3D"templateColumnContainer">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" height=3D"100%">
+            <tr>
+              <td class=3D"rightColumnContent" role=3D"column-two" height=
+=3D"100%" style=3D"height:100%;"><table class=3D"module" role=3D"module" da=
+ta-type=3D"text" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  width=3D=
+"100%" style=3D"table-layout: fixed;" data-attributes=3D'%7B%22dropped%22%3=
+Atrue%2C%22child%22%3Afalse%2C%22padding%22%3A%220%2C0%2C0%2C0%22%2C%22cont=
+ainerbackground%22%3A%22%23ffffff%22%7D'>
+<tr>
+  <td role=3D"module-content"  valign=3D"top" height=3D"100%" style=3D"padd=
+ing: 0px 0px 0px 0px;" bgcolor=3D"#ffffff"><div>&nbsp;</div>  <div style=3D=
+"font-family: tahoma, sans-serif; font-size: 12px; font-style: normal; font=
+-variant-caps: normal; line-height: 18px; color: rgb(0, 0, 0); text-align: =
+right;">&nbsp;</div>  <div style=3D"font-family: tahoma, sans-serif; font-s=
+ize: 12px; font-style: normal; font-variant-caps: normal; line-height: 18px=
+; color: rgb(0, 0, 0); text-align: right;"><a href=3D"https://u3566835.ct.s=
+endgrid.net/asm/unsubscribe/?user_id=3D3566835&data=3DrFXs6FqKFCSeu0SnXeB-z=
+EYlGlPYbsAmizPOL-_Ohapl5jvUZS4G-WH902QjMFObwmLTN2dD3DE81XPIVid68sV5jo3azsP9=
+6XIcAtx9RM1ZH8ma7xKruRoR7K3QGfZUlQYiUJa9bVFj5CLlo76lL7LYOB_OX7Jw7dwlTlMNk0J=
+YW8wz1cNyOsC-eIgKVPlxTqGoGxr7v8aYNj9lyecLGvkrzkiEDUD4lLkFRWyLddeaa6Vg2j2qeQ=
+Q4hlJfU44dZJZQHcglWbmt4W4rA7g5ld_TKnMuF89v-9wMVV3e1oLj6qwC3Jrq6iw0NCmik-eiD=
+Y7iHpbfEwjN0tMXWzK--p2vcyqtQavizRLLdCoWWzg-ugqDpbtoqT7qjyDWmbcp9Ugtg1b9oEI9=
+eN4q6P4nzJYjOBPk3vvthfDwmhwoxFQ_H1KDUT_kXdr0XWAfcxdyhkWGxDcQWNIoFBtuqBksDjR=
+Y_kI7qaNPmGxDV8tGO0uKyNCXKqoKHRCjTY4E2NGABp0WSi7-R0IqMW7KjzfQXpyOLz03_U9XLn=
+1bX5IIfDs5KV1lUjDfDc0vUIfzr2y0pxhBf9b0QFHwC1M4kV4B0YCetifeAyyfsyhqzT2oPnM=
+=3D"><span style=3D"font-size:10px;"><span style=3D"font-family:arial,helve=
+tica,sans-serif;"><span style=3D"color:#000000;">U</span></span></span></a>=
+<span style=3D"font-size:10px;"><span style=3D"font-family:arial,helvetica,=
+sans-serif;"><a href=3D"https://u3566835.ct.sendgrid.net/asm/unsubscribe/?u=
+ser_id=3D3566835&data=3DrFXs6FqKFCSeu0SnXeB-zEYlGlPYbsAmizPOL-_Ohapl5jvUZS4=
+G-WH902QjMFObwmLTN2dD3DE81XPIVid68sV5jo3azsP96XIcAtx9RM1ZH8ma7xKruRoR7K3QGf=
+ZUlQYiUJa9bVFj5CLlo76lL7LYOB_OX7Jw7dwlTlMNk0JYW8wz1cNyOsC-eIgKVPlxTqGoGxr7v=
+8aYNj9lyecLGvkrzkiEDUD4lLkFRWyLddeaa6Vg2j2qeQQ4hlJfU44dZJZQHcglWbmt4W4rA7g5=
+ld_TKnMuF89v-9wMVV3e1oLj6qwC3Jrq6iw0NCmik-eiDY7iHpbfEwjN0tMXWzK--p2vcyqtQav=
+izRLLdCoWWzg-ugqDpbtoqT7qjyDWmbcp9Ugtg1b9oEI9eN4q6P4nzJYjOBPk3vvthfDwmhwoxF=
+Q_H1KDUT_kXdr0XWAfcxdyhkWGxDcQWNIoFBtuqBksDjRY_kI7qaNPmGxDV8tGO0uKyNCXKqoKH=
+RCjTY4E2NGABp0WSi7-R0IqMW7KjzfQXpyOLz03_U9XLn1bX5IIfDs5KV1lUjDfDc0vUIfzr2y0=
+pxhBf9b0QFHwC1M4kV4B0YCetifeAyyfsyhqzT2oPnM=3D"><span style=3D"color:#00000=
+0;">nsubscribe</span></a></span></span><span style=3D"color:#000000;">&nbsp=
+;&nbsp;</span><span style=3D"font-family: arial, helvetica, sans-serif; fon=
+t-size: 10px; font-style: normal; font-variant-caps: normal;">|<span style=
+=3D"color:#000000;"> &nbsp;</span><a href=3D"https://u3566835.ct.sendgrid.n=
+et/asm/?user_id=3D3566835&data=3DEUt-M9JWsO5u5mBebqr_fka2UnrcWJqfKO3cMyVs-L=
+vHvCDNAycVFrfIHpivLKULFzImiyqait5AReFOj7ZGAynqx_qqhCDShgBmSZ9IEAjOFvnHl46Xg=
+KVAlXwyX6q5b8TMyZcbMSDFy1q3f5VLnHWU9VAL8H-dzDymBqm_5H5RMkMCEXzximL_iVqylEXu=
+6BfDOvD7glTyjwZjf3VNm70lFifFfu1F8UO51QaSk0Qd8XY8_xp1VxOPQfS55KDNQ9QphRqDVHk=
+29-SCBN3yBs5XbsJIozQTkczr2t-wSMiuMThQdKf5oAD0MvvtD5neB2tBG0vYhACO-Hr1YNPwkO=
+682Hwgn1hLS3x_8usQmZts4Rr7cQbqUyWDP5IkCad5WgkWkH_CroPt-8VQrBdf-4f7ii0KpMtC9=
+8Z_0RT5J-3TjSpdgP8sOWqmFNIi_IcxugZZAZIXAw7OOj8gWf_K3IrFl40Xq8GmxV_OU_aC9r1B=
+S51dzm9H9NXNHZycEe73H-nJyKCtOPPJXDUr3eLLd-P00Z2omUtdfBfW7rCrjdDONehfICqKSxy=
+OwbCE4oP1gLtotfAA3o9-UqT4-B4kon-CQdUNIk_u2dTxZ-THFZw=3D"><span style=3D"col=
+or:#000000;">Update Preferences</span></a></span></div> </td>
+</tr>
+</table>
+</td>
+            </tr>
+          </table>
+        </td>
+=20=20=20=20=20=20=20=20
+      </tr>
+    </table>
+  </td></tr>
+</table>
+
+                                </tr></td>
+                              </table>
+                            <!--[if (gte mso 9)|(IE)]>
+                          </td>
+                        </td>
+                      </table>
+                    <![endif]-->
+                    </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+          <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+      </table>
+      <![endif]-->
+      </tr></td>
+      </table>
+    </div>
+  </center>
+
+<img src=3D"https://u3566835.ct.sendgrid.net/wf/open?upn=3Dxb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawdwO-2BBN-2BAjAZojeF=
+px7H16I6MPpPRMexCpf2c3uDF7H432Qo3vTxihzlUHbzXxbqGyQhJQn3xdcm5dYZvBFKX3xMC8u=
+3S6kIaVXpdFFGByvJmjpWcfk0l8Pf0yMjsXrzAWlAEGaU37U1IBdFYeUQZpTf95V0-2FqmaPEOl=
+FiDuk3p7a-2BpUtigeEg0yqeHOL2Yf-2By1k2isj1caK3VecunPAXF9ZmcGzfHc0BFu-2BX9xsS=
+9OGwnX7rZDmJ-2Bl89gE9h6sT8zbFUk-2FbBu0yq9k4fNlzc-2BEp9IIbZGp0M1z-2Bngq3exjW=
+sJ38UsATJtG6EcaIpIHKWdDiwjkV3lHi-2F6Ghis9o1LT1NgE2MMbJGZaGOXFHFqmHaYC9O1Vbl=
+T2fp6gs6WCZ76UpbVqpyg4wo1JC8oxBwoggsIe4E6faTEiDY2jH18Ac-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body>
+</html>
+
+--9dde0a091dfcbaab7b6183494b64306847a62003897b9b6f2d01b0bbb932--

@@ -1,0 +1,147 @@
+Return-Path: <cerveza_gratis@hotmail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id QZ4DN3Jy5Vcl3g4ATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 23 Sep 2016 14:20:34 -0400
+Return-path: <cerveza_gratis@hotmail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 23 Sep 2016 14:20:34 -0400
+Received: from blu004-omc1s35.hotmail.com ([65.55.116.46]:50975)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <cerveza_gratis@hotmail.com>)
+	id 1bnV5O-0045QH-Of
+	for rresendez@rigoresendez.com; Fri, 23 Sep 2016 14:20:34 -0400
+Received: from NAM03-BY2-obe.outbound.protection.outlook.com ([65.55.116.8]) by BLU004-OMC1S35.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Fri, 23 Sep 2016 11:19:55 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=E7xc04g8/Kmo0dOmUFgZLtLbI/JTJCQtzzwPuIoi900=;
+ b=rIdh3+FnXaVFpoKWBWM/gENAY6IsLSsjAbTA3I/BoK2qYnUwN9F4OFN64DjacRXweHkUmUvCh/DWno+EMEI60HNXXoQzD9R8SeiSbi7RWpeDpCa0a3sRbwPOkyQqINCJ4t8k2T8tyiYeVcvOH49HBxk6Z78exqN4b/2l1FHBZjYloHPsxuE7+Pef5vbJ2D1m+UONcq6DpUA4XIkoHn6Ivb57aGnR3zKJZXTa0l8ZDoG1ZuZQHZMbc7gutVZ6i1QrLJVS0HD7P383aolSF+6P4WaToc4vfs46akCn5GI2dt7JA3UR1bN/c63nM6n9qf4BYppKgi/erYYqGxkrCPT/sg==
+Received: from BY2NAM03FT046.eop-NAM03.prod.protection.outlook.com
+ (10.152.84.53) by BY2NAM03HT137.eop-NAM03.prod.protection.outlook.com
+ (10.152.84.242) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.629.5; Fri, 23 Sep
+ 2016 18:19:54 +0000
+Received: from BY2PR04MB192.namprd04.prod.outlook.com (10.152.84.59) by
+ BY2NAM03FT046.mail.protection.outlook.com (10.152.85.84) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.629.5 via Frontend Transport; Fri, 23 Sep 2016 18:19:53 +0000
+Received: from BY2PR04MB192.namprd04.prod.outlook.com ([169.254.10.223]) by
+ BY2PR04MB192.namprd04.prod.outlook.com ([169.254.10.223]) with mapi id
+ 15.01.0629.016; Fri, 23 Sep 2016 18:19:53 +0000
+From: Rigoberto Resendez <cerveza_gratis@hotmail.com>
+To: "rresendez@rigoresendez.com" <rresendez@rigoresendez.com>
+Subject: u is in
+Thread-Topic: u is in
+Thread-Index: AdIVxw9RkEA/H776TeaUiPkWxzBi/Q==
+Date: Fri, 23 Sep 2016 18:19:53 +0000
+Message-ID: <BY2PR04MB192538E48CD61D3644BE027F6C80@BY2PR04MB192.namprd04.prod.outlook.com>
+Accept-Language: es-MX, en-US
+Content-Language: es-MX
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=softfail (sender IP is 10.152.84.59)
+ smtp.mailfrom=hotmail.com; rigoresendez.com; dkim=none (message not signed)
+ header.d=none;rigoresendez.com; dmarc=fail action=none
+ header.from=hotmail.com;
+received-spf: SoftFail (protection.outlook.com: domain of transitioning
+ hotmail.com discourages use of 10.152.84.59 as permitted sender)
+x-incomingtopheadermarker: OriginalChecksum:5B638A50AB3BB7D1CC6AC20C536710BDD42962E8704C03DEDA6DCE09764349BD;UpperCasedChecksum:E5D092A59254F711EC4E226AF673D364A93F198E438F6E0CAD157F494D6B3E78;SizeAsReceived:7045;Count:36
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [oM2L0jTOg84ZPHTrsZyqBVolXIm8gaxl]
+x-incomingheadercount: 36
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BY2NAM03HT137;6:bWP4bDpLUq5Vih9ifTAj5knfveD8u6LGcB5Nj/3umxUVmxBNp0jHP83mnx//nFOTYTjI6z0bZHsp/7B9QG654T2n9Cm97l6DxCoShpLaqNkEUvbubsHUeqlMtX04yC1yN3p8eBHMxU33pSAk8i89auvuB9ug8QBcROY60SSQhXoI2/l2/n887CMlhd/ATsNgUVxM+JxnRef3FlQ3vatuD9Ii9kK42G3dMgstOpyi3yZ0v2W45dXtc8Xgxa6S/TM18Ri0ExcVK+rVmQ0I9X6jrxkTypSBuQkgLpiu9xoiHUk=;5:5+z2XF+d3TKM6/SKqM4QSoQvwdRupbqNY+NnNJ12iqyaJKnBgDwnpjhbuQa8VVpNXSkswEJVu4pDMXyhwX9bBzcSzbeJhieygC5tG6sD6qUmgSV3KpIb9gwzeezgkNgPyMn/XGcIoVjr6L/Y8lxemQ==;24:sby7X87PwHmTX8YSSM+wZaPwr+rG3y1xGbTIkkW0h3YUvJKvGwkWohUSJGaW9IgQ4S2ysBhdGjdDxJiwKZLgI9hT6lj8tRDdFbhS8XC9Hm8=;7:nWkZsjw55ULB5px/ly7cRPh2Z2mrgFkBVcY58Alsce11pBH8/18rOUlzzZFOms0ZT743ZoOcTmlQEIwQ1b674/zRIUOsvHxFwbOtq7208+UD5j0MVirsB/8Sp63hwaLngebysRrN/AKUoHc5Hh8m3rFxPJAd+JF91HInehbs+5j2WfiFPVeJq+Oufd0E8h7aNXjjUX1rutmkIn2ZXMqLM2Dg6F1qRbD2op4r/4B+DEqTZ3BK3ZLLHbwmlD7yy8JW0tdLXyJ41z+gikaq+ZTc3VFjmOxhvM9bdhqjpFN9jUuSsawqtx+Wv4cZpoWtzpJb
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2NAM03HT137;H:BY2PR04MB192.namprd04.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 73fb946d-35e3-4bc2-11fc-08d3e3de3701
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(1601124038)(1603103081)(1601125047)(1603101230);SRVR:BY2NAM03HT137;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:BY2NAM03HT137;BCL:0;PCL:0;RULEID:;SRVR:BY2NAM03HT137;
+x-forefront-prvs: 0074BBE012
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BY2PR04MB192538E48CD61D3644BE027F6C80BY2PR04MB192namprd_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 Sep 2016 18:19:53.0773
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM03HT137
+X-OriginalArrivalTime: 23 Sep 2016 18:19:55.0359 (UTC) FILETIME=[15AE5EF0:01D215C7]
+
+--_000_BY2PR04MB192538E48CD61D3644BE027F6C80BY2PR04MB192namprd_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Much wow
+
+Rigoberto Resendez
+
+
+--_000_BY2PR04MB192538E48CD61D3644BE027F6C80BY2PR04MB192namprd_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <ED4F735B22734A4BB7233F712A47BF27@sct-15-1-587-9-msonline-outlook-ef4fe.templateTenant>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Much wow<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Rigoberto Resendez<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BY2PR04MB192538E48CD61D3644BE027F6C80BY2PR04MB192namprd_--

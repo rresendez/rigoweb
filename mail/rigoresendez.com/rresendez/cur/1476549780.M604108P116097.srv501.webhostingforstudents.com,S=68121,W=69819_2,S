@@ -1,0 +1,1698 @@
+Return-Path: <bounce-anon-rresendez=rigoresendez.com@craigslist.org>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id nP/pI5RcAliBxQEATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 15 Oct 2016 12:43:00 -0400
+Return-path: <bounce-anon-rresendez=rigoresendez.com@craigslist.org>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 15 Oct 2016 12:43:00 -0400
+Received: from mxo9a.craigslist.org ([208.82.237.104]:32697 helo=outbound.ashburn.craigslist.org)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-anon-rresendez=rigoresendez.com@craigslist.org>)
+	id 1bvS32-000U53-7m
+	for rresendez@rigoresendez.com; Sat, 15 Oct 2016 12:43:00 -0400
+Received: outbound
+DKIM-Filter: OpenDKIM Filter v2.10.3 outbound.ashburn.craigslist.org DB71ACE328
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=craigslist.org;
+	s=20160601-165758-eemjccqt; t=1476549739;
+	bh=GRkUf88+fhPKWAlF/fJqQcHHXzUzwMMW+dMhABG0uEk=;
+	h=From:To:Subject:Date:In-Reply-To:References:From;
+	b=wtpMfPi/n5waX2/mTgVSGvF0XHyUjkOktRditxQkQPEsCo+28Mded+4AjNM0h1zmL
+	 DP1yVBvHyXsMWSpZ9kcibizykiQMumc5xBdHfXSDNRCYaXT0g1Ax4eZF5KTvPESrLS
+	 TT1nlH18vtJRRKitBaZQnBLLB95DuDj0jWjFUu0I=
+From: "craigslist 5812063882" <rzc2b-5812063882@serv.craigslist.org>
+To: b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+Subject: Re: estimate
+Date: Sat, 15 Oct 2016 22:12:15 +0530
+X-CL-ID: 634EFE52-9945-4BDC-9FB5-12FDCC203C53.51
+Content-Type: multipart/alternative;
+ boundary="CraigslistMail-v1-6DD9658E-17C0-3485-BFDE-F55BAA940B16"
+MIME-Version: 1.0
+Message-Id: <Pd37BwY_nErO4w6zlYUF-1faQSYRDL5Vy2APIzuOkPo-B3gMgcVRDE0v074GaSS3IK105-59Xc8vQlKyv3Boxo7rdg16dXNblEMN_dytDuE@v2.cl.com>
+In-Reply-To: <SgWxRaJkwKaFfvXK7LU7Wf-RB3WUZZ6kTt5etq-S7dQoJNoNIoNhuJOviaJ_88ZQpSUR7VaauesVw0FCcyEneez47-hEcV9gH2HCJidZjCQ@v2.cl.com>
+References: <001201d225d3$0a88cb70$1f9a6250$@rigoresendez.com>
+ <8OuvQRzfCr3YfLEHUQ0s2ZPMHz5y35yDeHMe-j_lIaTR4eRMy7kzlYgBe6yJVpVSr3b2e4vtO0vrNRbrX2_Ox18TDAmLkyXmmLr1AA8Qlxo@v2.cl.com> <000c01d22625$8b511d00$a1f35700$@rigoresendez.com> <pP13TuRaOiAHregWhI3-sVaPFRt3uNOsLlQnASBHnLgznpavYoB_GMYBFTlNsiynguODNPdkU5fh9qvaaA85NB_5VMZnIYaKjPLi4WvRY-8@v2.cl.com> <002501d2263a$845dbca0$8d1935e0$@rigoresendez.com> <TMXMMLGS9btYkythgx2cJN3e2-Im3PRnUmb0Y-oeJZ-aptIYidhW_CcK9Je8WdRDMb3j53yuHE9zUysvFTKPje1RA6Uk98oHmCvagU1FNRo@v2.cl.com> <003901d2263e$fd26ec20$f774c460$@rigoresendez.com> <F7nAUIo7RASx_jHRZXOsZKK41p-aq7x2nOrR0AO4W6HU8VhxeXdY3zwfd3ST8vHPzIwXDOuY4KLbQZD6M56dQnCnC9-ZjZ1T76_zozhFkWY@v2.cl.com> <007901d22651$84c1b720$8e452560$@rigoresendez.com> <UF7nOSMHLNKWkfhvwuEOFy5Sx5eeUmQnemBN6iBjie2XeLkZURCDscoNTc_YpgttbL5He4ImuHmUMTBAY5t1YuyeFGPZXSlEayuDFBIwQnI@v2.cl.com> <000601d2265d$4be9e740$e3bdb5c0$@rigoresendez.com> <TIOsOCRUfkh1Y3uMjNbpYMzQ4swGSk13oytWlIy4ym4Mwp4h_E9LVA5oDMi4A6p5gPMopc5q0wIi4csUd-8jX6W4LTUYAqvMzpf4_vDMnyE@v2.cl.com> <000201d226ab$
+ bcc75990$36560cb0$@rigoresendez.com> <SgWxRaJkwKaFfvXK7LU7Wf-RB3WUZZ6kTt5etq-S7dQoJNoNIoNhuJOviaJ_88ZQpSUR7VaauesVw0FCcyEneez47-hEcV9gH2HCJidZjCQ@v2.cl.com>
+
+--CraigslistMail-v1-6DD9658E-17C0-3485-BFDE-F55BAA940B16
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Thanks for the patience, your work was completed. Please have a look. Send
+me rest of payment so I can forward complete work attachment. Payment +
+PayPal fee =3D rest of amount.
+
+$80 + $23 PayPal fee =3D $103
+
+*Design for Information Technology*
+
+*Question 1*
+
+Initially explained by Intel Corporation organizer Gordon Moore, today
+Moore's Law is normally rewarded as an expectation that processor
+transistor densities will twofold like clockwork. This diagram presented in
+the book is customarily used to show how capable the most up to date PCs
+have ended up. As a representation of the thickness of transistors that can
+be put on a solitary incorporated circuit it speaks to semiconductor
+producers' method for refining an intricate industry to a solitary pattern.
+The diagram likewise outlines a developing industry's interior story of
+advance without uncovering how that advance is going to happen.
+
+Moore's knowledge was named a "Law," as a law of nature, yet it doesn't
+really depict the physical properties of semiconductors. Rather, it depicts
+the quantity of transistors Gordon Moore accepted would need to be put on a
+CPU for a semiconductor producer to keep up solid overall revenue given the
+business patterns he had seen in the five years prior. At the end of the
+day, Moore's 1965 investigation, which is the thing that the Law depends
+on, was not an idealistic vision of the points of confinement of
+innovation? Rather, the paper depicts a logical model of variables
+influencing gainfulness in semiconductor fabricating. Moore's decision
+that, "by 1975 financial matters may direct crushing upwards of 65,000
+segments on a solitary silicon chip" is a forecast about how to contend in
+the semiconductor advertise. It's progressively a strategy for success and
+a test to his partners than a logical result.
+
+Luckily for Moore, his model fit the conduct of the semiconductor business
+so well that it was received as a real advancement methodology by a large
+portion of alternate organizations in the business. Intel, which he helped
+to establish not long after subsequent to composing that article, took
+after his projection nearly as though they were a bona fide law of nature
+and succeeded.
+
+The consequence of force expanding exponentially as the cost of new CPUs
+remains (genuinely) stable is that the cost of more established innovation
+drops at (generally) an indistinguishable rate from the force of new
+processors rises. Since new innovation gets all the more capable rapidly,
+that implies that old innovation drops in cost pretty much as fast. Be that
+as it may, despite the fact that it might get less expensive, it doesn't
+free any of its capacity to process data. In this way, more seasoned data
+preparing innovation is still truly capable, however now it's (nearly) low
+priced.
+
+Semiconductor assembling is unpredictable from both the assembling and
+valuing points of view. For instance, once Intel proceeded onward to
+Pentium IIIs, dislike there was a Pentium II-production machine sitting in
+the corner that could be started up at an impulse to make shabby Pentium
+IIs. What's comprehensively valid, however, is that once Intel changed over
+their chip making manufacturing plants to Pentium III innovation, they
+could at present make what might as well be called Pentium IIs utilizing
+it, and (for an assortment of reasons) making those chips would be
+relatively less costly than making Pentium IIIs. What's more, these new
+Pentium II-equal chips would likely be physically littler and utilize less
+power than their forerunners(Kuniavsky, 2010).
+
+
+
+*Question 2*
+
+Ivan Sutherland=E2=80=99s influential Sketchpad is arguably one of the most
+important computer programs ever written by an individual. While the
+program itself was only ever executed on a single computer in the Lincoln
+Laboratory at MIT, the concepts it introduced in the fields of
+human-computer interaction and graphics are still relevant to every
+computer user today. Sketchpad is a vector drawing and editing program in
+which the user communicates with the program using a =E2=80=9Clight pen=E2=
+=80=9D and a
+panel of push buttons and toggles.
+
+The light pen allows the user to draw directly on the screen. Functions of
+the light pen such as =E2=80=9Cerase=E2=80=9D and =E2=80=9Cmove=E2=80=9D ar=
+e designated through the use of
+push buttons. Legends on the screen communicate information to the user
+that cannot be communicated graphically. This groundbreaking program
+introduced many concepts that are in still use and are in fact central the
+fields of human-computer interaction and graphics today. A few of this
+human-computer interaction and graphics concepts introduced by this
+groundbreaking program and that are still salient are presented here. Most
+fundamentally, Sketchpad presented the first window, a visual user
+interface that the user may manipulate via some input device
+
+Windows are now central to nearly all human-computer interactions today.
+Sketchpad III, an extension of Sketchpad by Timothy Johnson, was the first
+program to support multiple windows. Four windows, each of which was a
+different projection of the three-dimensional world space, could be viewed
+simultaneously by the user and the user could interact with each of them at
+any time to manipulate the objects in the space. Graphics application
+programs today use a pipeline of frames or =E2=80=9Cviews=E2=80=9D that are=
+ traversed via a
+series of transformations.
+
+These different coordinate systems allow the user to work in a frame of
+reference that is relevant to the particular problem space. Sutherland=E2=
+=80=99s
+graphics program was the first to use this concept and formally had two
+frames in the pipeline: the page, and the scope. Of these two coordinate
+systems, Sutherland writes, =E2=80=9CThis internal system is called the page
+coordinate system. In thinking about the drawings in Sketchpad, the page
+directions are considered as settled. A page to degree change gives the
+capacity to see the extension any divide of the page covered.
+
+The page corresponds to today=E2=80=99s notion of the world space while the=
+ scope
+corresponds to today=E2=80=99s notion of window space. Sutherland=E2=80=99s=
+ thesis also
+contained the first clipping algorithm. Sutherland writes about the edge
+detection problem in page-to-scope transformation. He describes how
+difficult it is to deal with intersections in this context. This first
+clipper, an algorithm that decides which primitives or parts of primitives
+fit within a specified view area or volume, was later expanded upon and
+improved by Sutherland and Cohen in 1967. Sutherland also describes the
+first use of rubber banding.
+
+On Sat, Oct 15, 2016 at 11:50 AM, Writing paper <writerservices86@gmail.com>
+wrote:
+
+> Sure
+> You will liked my work definitely.
+>
+>
+> On Sat, Oct 15, 2016 at 11:46 AM, Rigoberto <b916ae3dd9be3d2fb41cd4115b499
+> 515@reply.craigslist.org> wrote:
+>
+>> Thank you so much , If
+>>
+>> the work is good I have a couple of friends interested to, I will
+>> reference to you .
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Saturday, October 15, 2016 1:07 AM
+>>
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> I am working and sending work within 12 hours.
+>>
+>>
+>>
+>>
+>>
+>> On Sat, Oct 15, 2016 at 10:17 AM, Rigoberto <
+>> b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org> wrote:
+>>
+>> When do you think you will finish , can you notify me of your progress
+>> please .
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Friday, October 14, 2016 4:19 PM
+>>
+>>
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> Okay
+>>
+>> I receive your payment. Let me start work and complete soon!
+>>
+>>
+>>
+>> On Sat, Oct 15, 2016 at 2:46 AM, Rigoberto <b916ae3dd9be3d2fb41cd4115b499
+>> 515@reply.craigslist.org> wrote:
+>>
+>> I had sent you 80 dlls , I also had send you a copy of the invoice to
+>> your email *classwriting4@gmail.com <classwriting4@gmail.com>.*
+>>
+>> *Please have it by Tuesday 11 pm, you can reply directly to
+>> rresendez@rigoresendez.com <rresendez@rigoresendez.com> if you wish*
+>>
+>> *Attached is the instructions and a sample for  one question *
+>>
+>>
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Friday, October 14, 2016 3:59 PM
+>>
+>>
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> Here is my PayPal id:* classwriting4@gmail.com <classwriting4@gmail.com>*
+>>
+>> Use "Services/goods" options
+>>
+>>
+>>
+>>
+>>
+>> On Sat, Oct 15, 2016 at 2:25 AM, Rigoberto <b916ae3dd9be3d2fb41cd4115b499
+>> 515@reply.craigslist.org> wrote:
+>>
+>> No , I didn=E2=80=99t received your pay pal ID. Please send it to me I w=
+ill make
+>> the first payment and send you the receipt .
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Friday, October 14, 2016 3:04 PM
+>>
+>>
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> I am free
+>>
+>> Did you paid me so i can start work.
+>>
+>>
+>>
+>>
+>>
+>> On Sat, Oct 15, 2016 at 1:01 AM, Rigoberto <b916ae3dd9be3d2fb41cd4115b499
+>> 515@reply.craigslist.org> wrote:
+>>
+>> Hey men , what happened ? you got busy ? please message me back as soon
+>> as you can to close the deal .
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Friday, October 14, 2016 12:27 PM
+>>
+>>
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> Here is my website link where you can see some samples:
+>> http://www.writer-services.com/sample.php
+>>
+>>
+>>
+>> On Fri, Oct 14, 2016 at 10:48 PM, Rigoberto <
+>> b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org> wrote:
+>>
+>> Yes do so , do you have the guide and the example ?
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Friday, October 14, 2016 12:16 PM
+>>
+>>
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> Since 7 years i am working on your writing paper. You can pay me through
+>> Paypal
+>>
+>>
+>>
+>> Send me half amount now for work confirmation and rest of half amount
+>> when you will receive complete work at that time.
+>>
+>>
+>>
+>> I will do it within 2 working days. Shall i send my PayPal id?
+>>
+>>
+>>
+>>
+>>
+>> On Fri, Oct 14, 2016 at 10:16 PM, Rigoberto <
+>> b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org> wrote:
+>>
+>> Ok , how about I send you the money by PayPal to your email ?
+>>
+>> How can I ensure you are going to deliver the work ?
+>>
+>> Can I pay on completion ? or
+>>
+>> are you ok with getting half of it first and the second half on
+>> completion ?
+>>
+>> btw this is due next Tuesday at midnight .
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Friday, October 14, 2016 11:26 AM
+>>
+>>
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> Okay
+>>
+>> I agree with $160
+>>
+>>
+>>
+>> Payment accept through PayPal, bank cards either western money transfer.
+>>
+>>
+>>
+>> Do you need my payment info?
+>>
+>>
+>>
+>>
+>>
+>> On Fri, Oct 14, 2016 at 7:46 PM, Rigoberto <b916ae3dd9be3d2fb41cd4115b499
+>> 515@reply.craigslist.org> wrote:
+>>
+>> Hey men , that a little above my budget could you do 160 ? . If you do
+>> how do we go about the payment ?
+>>
+>>
+>>
+>> *From:* craigslist 5812063882 [mailto:rzc2b-5812063882@serv.
+>> craigslist.org]
+>> *Sent:* Friday, October 14, 2016 12:27 AM
+>> *To:* b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org
+>> *Subject:* Re: estimate
+>>
+>>
+>>
+>> hello,
+>>
+>>
+>>
+>> Yeah sure it will cost you $ 15 per page so total cost will be $180.
+>>
+>> Do you need to start work on it?
+>>
+>>
+>>
+>> Response me back when you get time.
+>>
+>>
+>>
+>> Thanks.
+>>
+>>
+>>
+>> On Fri, Oct 14, 2016 at 9:55 AM, Rigoberto <b916ae3dd9be3d2fb41cd4115b499
+>> 515@reply.craigslist.org> wrote:
+>>
+>> Can you give me an estimate for a 12 pages essay on interface design ?
+>> I=E2=80=99m attaching the instructions and a sample
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/a059bec2dd3d50e5161e4df0ae4af7319881bc58.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>>
+>> http://craigslist.org/mf/f5bfdbe8bf75a63a457a42fab0de21e20b2268b4.1535
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/a524e3794c395bdb40d948b4adc0fb62e9fdb0bb.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>>
+>> http://craigslist.org/mf/5b31008bbbe34165ccd14ac1b3ea0f9d34ddc1b0.64
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/656c9c154dcdb51dbf2e4d37b7bd60ac97b9dbee.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>>
+>> http://craigslist.org/mf/d9ddc4e8af769393573949b6926e73b541ce3926.427
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/75f7a24ef32c640a4b8d445eab17aa93d6632bed.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>>
+>> http://craigslist.org/mf/82ae4413245c6d01fa5345b1bc1b998451d5ce0f.986
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/f5f21d5659cde453d7204fca92b59bca8a45a515.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>>
+>> http://craigslist.org/mf/f16e21b2b5685723c3ec435089ea10033a1b149a.121
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/80c304e0b2728aa77fcc46c9b954effea821902d.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>>
+>> http://craigslist.org/mf/327863c7b40ababe7a694e11a69652833c3e1cbc.119
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/3ef6575bcb6c466842f3495db40b1838478a86e2.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>>
+>> http://craigslist.org/mf/b299c6b299ba15497d07452cb979e233badfb5e9.319
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/c71d8f2c2e5e83810d91446da782afba6eb33199.1
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/670500e85b07346fe7cd46db8094d52f878258ae.28
+>>
+>> ------------------------------
+>>
+>>
+>> ------------------------------
+>> Original craigslist post:
+>> http://mcallen.craigslist.org/wet/5812063882.html
+>> About craigslist mail:
+>> http://craigslist.org/about/help/email-relay
+>> Please flag unwanted messages (spam, scam, other):
+>> http://craigslist.org/mf/b1f82cca20a150ce6bf54ad2afbcf1dcc4ed87c6.1
+>> ------------------------------
+>>
+>>
+>
+
+
+
+------------------------------------------------------------------------
+Original craigslist post:
+http://mcallen.craigslist.org/wet/5812063882.html
+About craigslist mail:
+http://craigslist.org/about/help/email-relay
+Please flag unwanted messages (spam, scam, other):
+http://craigslist.org/mf/05ec38a4634efe5299454bdc9fb512fdcc203c53.51
+------------------------------------------------------------------------
+
+--CraigslistMail-v1-6DD9658E-17C0-3485-BFDE-F55BAA940B16
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Thanks for the patience, your work was completed. Ple=
+ase have a look. Send me rest of payment so I can forward complete work att=
+achment. Payment + PayPal fee =3D rest of amount.</div><div><br></div><div>=
+$80 + $23 PayPal fee =3D $103</div><div><br></div><div><p class=3D"MsoNorma=
+l" align=3D"center" style=3D"text-align:center;line-height:150%"><b><span s=
+tyle=3D"font-size:12pt;line-height:150%;font-family:&quot;times new roman&q=
+uot;,serif">Design for
+Information Technology<span></span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><b><span style=3D"font-=
+size:12pt;font-family:&quot;times new roman&quot;,serif">Question 1<span></=
+span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">Initially
+explained by Intel Corporation organizer Gordon Moore, today Moore&#39;s La=
+w is
+normally rewarded as an expectation that
+processor transistor densities will twofold like clockwork. This diagram pr=
+esented
+in the book is customarily used to show how capable the most up to date PCs
+have ended up. As a representation of the thickness of transistors that can=
+ be
+put on a solitary incorporated circuit it speaks to semiconductor producers=
+&#39;
+method for refining an intricate industry to a solitary pattern. The diagram
+likewise outlines a developing industry&#39;s interior story of advance wit=
+hout
+uncovering how that advance is going to happen. <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">Moore&#39;s
+knowledge was named a &quot;Law,&quot; as
+a law of nature, yet it doesn&#39;t really depict the physical properties of
+semiconductors. Rather, it depicts the quantity
+of transistors Gordon Moore accepted would need to be put on a CPU for a
+semiconductor producer to keep up solid overall revenue given the business
+patterns he had seen in the five years prior. At the end of the day, Moore&=
+#39;s
+1965 investigation, which is the thing that the Law depends on, was not an
+idealistic vision of the points of confinement of innovation? Rather, the p=
+aper
+depicts a logical model of variables influencing gainfulness in semiconduct=
+or
+fabricating. Moore&#39;s decision that, &quot;by 1975 financial matters may=
+ direct
+crushing upwards of 65,000 segments on a solitary silicon chip&quot; is a
+forecast about how to contend in the semiconductor advertise. It&#39;s prog=
+ressively
+a strategy for success and a test to his partners than a logical result. <s=
+pan></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">Luckily
+for Moore, his model fit the conduct of the semiconductor business so well =
+that
+it was received as a real advancement methodology by a large portion of
+alternate organizations in the business. Intel, which he helped to establish
+not long after subsequent to composing that article, took after his project=
+ion
+nearly as though they were a bona fide
+law of nature and succeeded. <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">The
+consequence of force expanding exponentially as the cost of new CPUs remains
+(genuinely) stable is that the cost of more established innovation drops at
+(generally) an indistinguishable rate from the force of new processors rise=
+s.
+Since new innovation gets all the more capable rapidly, that implies that o=
+ld
+innovation drops in cost pretty much as fast. Be that as it may, despite the
+fact that it might get less expensive, it doesn&#39;t free any of its capac=
+ity to
+process data. In this way, more seasoned data preparing innovation is still
+truly capable, however now it&#39;s (nearly) low priced. <span></span></spa=
+n></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">Semiconductor
+assembling is unpredictable from both the assembling and valuing points of
+view. For instance, once Intel proceeded onward to Pentium IIIs, dislike th=
+ere
+was a Pentium II-production machine sitting in the corner that could be sta=
+rted
+up at an impulse to make shabby Pentium IIs. What&#39;s comprehensively val=
+id,
+however, is that once Intel changed over their chip making manufacturing pl=
+ants
+to Pentium III innovation, they could at present make what might as well be=
+ called
+Pentium IIs utilizing it, and (for an assortment of reasons) making those c=
+hips
+would be relatively less costly than making Pentium IIIs. What&#39;s more, =
+these
+new Pentium II-equal chips would likely be physically littler and utilize l=
+ess
+power than their forerunners<span id=3D"gmail-435572624">(Kuniavsky, 2010)<=
+/span>. <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:&quot;times new roman&quot;,serif"><span>=C2=A0</span></=
+span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><b><span style=3D"font-=
+size:12pt;font-family:&quot;times new roman&quot;,serif">Question 2<span></=
+span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">Ivan
+Sutherland=E2=80=99s influential Sketchpad is arguably one of the most impo=
+rtant
+computer programs ever written by an individual. While the program itself w=
+as
+only ever executed on a single computer in the Lincoln Laboratory at MIT, t=
+he
+concepts it introduced in the fields of human-computer interaction and grap=
+hics
+are still relevant to every computer user today. Sketchpad is a vector draw=
+ing
+and editing program in which the user communicates with the program using a
+=E2=80=9Clight pen=E2=80=9D and a panel of push buttons and toggles. <span>=
+</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">The
+light pen allows the user to draw directly on the screen. Functions of the
+light pen such as =E2=80=9Cerase=E2=80=9D and =E2=80=9Cmove=E2=80=9D are de=
+signated through the use of push
+buttons. Legends on the screen communicate information to the user that can=
+not
+be communicated graphically. This groundbreaking program introduced many
+concepts that are in still use and are in fact central the fields of
+human-computer interaction and graphics today. A few of this human-computer=
+ interaction and graphics concepts introduced by
+this groundbreaking program and that are still salient are presented here. =
+Most
+fundamentally, Sketchpad presented the first window, a visual user interface
+that the user may manipulate via some input device <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">Windows
+are now central to nearly all human-computer interactions today. Sketchpad =
+III,
+an extension of Sketchpad by Timothy Johnson, was the first program to supp=
+ort
+multiple windows. Four windows, each of which was a different projection of=
+ the
+three-dimensional world space, could be viewed simultaneously by the user a=
+nd
+the user could interact with each of them at any time to manipulate the obj=
+ects
+in the space. Graphics application programs today use a pipeline of frames =
+or
+=E2=80=9Cviews=E2=80=9D that are traversed via a series of transformations.=
+ <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">These
+different coordinate systems allow the user to work in a frame of reference
+that is relevant to the particular problem space. Sutherland=E2=80=99s grap=
+hics program
+was the first to use this concept and formally had two frames in the pipeli=
+ne:
+the page, and the scope. Of these two coordinate systems, Sutherland writes=
+, =E2=80=9CThis internal system is called the
+page coordinate system. In thinking about the drawings in Sketchpad, the pa=
+ge
+directions are considered as settled. A page to degree change gives the
+capacity to see the extension any divide of the page covered.<span></span><=
+/span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:&quot;times new rom=
+an&quot;,serif">The
+page corresponds to today=E2=80=99s notion of the world space while the sco=
+pe
+corresponds to today=E2=80=99s notion of window space. Sutherland=E2=80=99s=
+ thesis also
+contained the first clipping algorithm. Sutherland writes about the edge
+detection problem in page-to-scope transformation. He describes how difficu=
+lt
+it is to deal with intersections in this context. This first clipper, an
+algorithm that decides which primitives or parts of primitives fit within a
+specified view area or volume, was later expanded upon and improved by Suth=
+erland
+and Cohen in 1967. Sutherland also describes the first use of rubber bandin=
+g.<span></span></span></p></div></div><div class=3D"gmail_extra"><br><div c=
+lass=3D"gmail_quote">On Sat, Oct 15, 2016 at 11:50 AM, Writing paper <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" tar=
+get=3D"_blank">rzc2b-5812063882@serv.craigslist.org</a>&gt;</span> wrote:<b=
+r><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:=
+1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Sure<div>You will liked m=
+y work definitely.</div><div><br></div></div><div class=3D"HOEnZb"><div cla=
+ss=3D"h5"><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Sat,=
+ Oct 15, 2016 at 11:46 AM, Rigoberto <span dir=3D"ltr">&lt;<a href=3D"mailt=
+o:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=3D"_blank">=
+b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&gt;</span> w=
+rote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;borde=
+r-left:1px #ccc solid;padding-left:1ex">
+
+
+
+
+
+<div lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"m_8857937698290812457m_-7226681036548692775WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">Thank you so much , If<u></u><u></u><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">the work is good I have a couple of f=
+riends interested to, I will reference to you .<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><a name=3D"m_8857937698290812457_m_-7226681036548692=
+775__MailEndCompose"><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,sans-serif;color:#1f497d"><u></u>=C2=A0<u></u></span></a></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_blank">r=
+zc2b-5812063882@serv.<wbr>craigslist.org</a>]
+<br>
+<b>Sent:</b> Saturday, October 15, 2016 1:07 AM</span></p><div><div class=
+=3D"m_8857937698290812457h5"><br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.crai=
+gslist.org</a><br>
+<b>Subject:</b> Re: estimate<u></u><u></u></div></div><p></p><div><div clas=
+s=3D"m_8857937698290812457h5">
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<div>
+<p class=3D"MsoNormal">I am working and sending work within 12 hours.<u></u=
+><u></u></p>
+<div>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<div>
+<p class=3D"MsoNormal">On Sat, Oct 15, 2016 at 10:17 AM, Rigoberto &lt;<a h=
+ref=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt; wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-right:0in">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">When do you think you will finish , c=
+an you notify me of your progress please .</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><a name=3D"m_8857937698290812457_m_-7226681036548692=
+775_m_-6295386934560717658__MailEndCompose"><span style=3D"font-size:11.0pt=
+;font-family:&quot;Calibri&quot;,sans-serif;color:#1f497d">=C2=A0</span></a=
+><u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_blank">r=
+zc2b-5812063882@serv.<wbr>craigslist.org</a>]
+<br>
+<b>Sent:</b> Friday, October 14, 2016 4:19 PM</span><u></u><u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">
+b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.craigslist.org</a><br>
+<b>Subject:</b> Re: estimate<u></u><u></u></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">Okay<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">I receive your paymen=
+t. Let me start work and complete soon!<u></u><u></u></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">On Sat, Oct 15, 2016 at 2:46 AM, Rigoberto &lt;<a hr=
+ef=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt;
+ wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-=
+bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">I had sent you 80 dlls , I also had s=
+end you a copy of the invoice to your email
+</span><b><a href=3D"mailto:classwriting4@gmail.com" target=3D"_blank">clas=
+swriting4@gmail.com</a>.</b><u></u><u></u></p>
+<p class=3D"MsoNormal"><b>Please have it by Tuesday 11 pm, you can reply di=
+rectly to
+<a href=3D"mailto:rresendez@rigoresendez.com" target=3D"_blank">rresendez@r=
+igoresendez.com</a> if you wish</b><u></u><u></u></p>
+<p class=3D"MsoNormal"><b>Attached is the instructions and a sample for =C2=
+=A0one question
+</b><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">=C2=A0</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">=C2=A0</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_blank">r=
+zc2b-5812063882@serv.<wbr>craigslist.org</a>]
+<br>
+<b>Sent:</b> Friday, October 14, 2016 3:59 PM</span><u></u><u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">
+b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.craigslist.org</a><br>
+<b>Subject:</b> Re: estimate<u></u><u></u></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">Here is my PayPal id:<b>
+<a href=3D"mailto:classwriting4@gmail.com" target=3D"_blank">classwriting4@=
+gmail.com</a></b><u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">Use &quot;Services/goods&quot; options<u></u><u></u>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">On Sat, Oct 15, 2016 at 2:25 AM, Rigoberto &lt;<a hr=
+ef=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt;
+ wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-=
+bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">No , I didn=E2=80=99t received your p=
+ay pal ID. Please send it to me I will make the first payment and send
+ you the receipt .</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">=C2=A0</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_blank">r=
+zc2b-5812063882@serv.<wbr>craigslist.org</a>]
+<br>
+<b>Sent:</b> Friday, October 14, 2016 3:04 PM</span><u></u><u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">
+b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.craigslist.org</a><br>
+<b>Subject:</b> Re: estimate<u></u><u></u></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">I am free<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">Did you paid me so i can start work.<u></u><u></u></=
+p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">On Sat, Oct 15, 2016 at 1:01 AM, Rigoberto &lt;<a hr=
+ef=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt;
+ wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-=
+bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">Hey men , what happened ? you got bus=
+y ? please message me back as soon as you can to close the deal
+ .</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">=C2=A0</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_blank">r=
+zc2b-5812063882@serv.<wbr>craigslist.org</a>]
+<br>
+<b>Sent:</b> Friday, October 14, 2016 12:27 PM</span><u></u><u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">
+b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.craigslist.org</a><br>
+<b>Subject:</b> Re: estimate<u></u><u></u></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">Here is my website link where you can see some sampl=
+es:=C2=A0<a href=3D"http://www.writer-services.com/sample.php" target=3D"_b=
+lank">http://www.writer-ser<wbr>vices.com/sample.php</a><u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">On Fri, Oct 14, 2016 at 10:48 PM, Rigoberto &lt;<a h=
+ref=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt;
+ wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-=
+bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">Yes do so , do you have the guide and=
+ the example ?</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">=C2=A0</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_blank">r=
+zc2b-5812063882@serv.<wbr>craigslist.org</a>]
+<br>
+<b>Sent:</b> Friday, October 14, 2016 12:16 PM</span><u></u><u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">
+b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.craigslist.org</a><br>
+<b>Subject:</b> Re: estimate<u></u><u></u></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">Since 7 years i am working on your writing paper. Yo=
+u can pay me through Paypal<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Send me half amount now for work confirmation and re=
+st of half amount when you will receive complete work at that time.<u></u><=
+u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">I will do it within 2 working days. Shall i send my =
+PayPal id?<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">On Fri, Oct 14, 2016 at 10:16 PM, Rigoberto &lt;<a h=
+ref=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt;
+ wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-=
+bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">Ok , how about I send you the money b=
+y PayPal to your email ?</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">How can I ensure you are going to del=
+iver the work ?</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">Can I pay on completion ? or
+</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">are you ok with getting half of it fi=
+rst and the second half on completion ?
+</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">btw this is due next Tuesday at midni=
+ght .</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><a name=3D"m_8857937698290812457_m_-7226681036548692=
+775_m_-6295386934560717658_m_229032096866170"><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1f497d">=C2=A0</span><=
+/a><u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+</span><a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_b=
+lank"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-=
+serif">rzc2b-5812063882@serv.<wbr>craigslist.org</span></a><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">]
+<br>
+<b>Sent:</b> Friday, October 14, 2016 11:26 AM</span><u></u><u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">
+b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.craigslist.org</a><br>
+<b>Subject:</b> Re: estimate<u></u><u></u></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">Okay<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">I agree with $160<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Payment accept through PayPal, bank cards either wes=
+tern money transfer.<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Do you need my payment info?<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">On Fri, Oct 14, 2016 at 7:46 PM, Rigoberto &lt;<a hr=
+ef=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt;
+ wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-=
+bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">Hey men , that a little above my budg=
+et could you do 160 ? . If you do how do we go about the payment
+ ? </span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#1f497d">=C2=A0</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> craigslist 5812063882 [mailto:=
+<a href=3D"mailto:rzc2b-5812063882@serv.craigslist.org" target=3D"_blank">r=
+zc2b-5812063882@serv.<wbr>craigslist.org</a>]
+<br>
+<b>Sent:</b> Friday, October 14, 2016 12:27 AM<br>
+<b>To:</b> <a href=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigsl=
+ist.org" target=3D"_blank">
+b916ae3dd9be3d2fb41cd4115b4995<wbr>15@reply.craigslist.org</a><br>
+<b>Subject:</b> Re: estimate</span><u></u><u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">hello,<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Yeah sure it will cost you $ 15 per page so total co=
+st will be $180.<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Do you need to start work on it?<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Response me back when you get time.<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Thanks.<u></u><u></u></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+<div>
+<p class=3D"MsoNormal">On Fri, Oct 14, 2016 at 9:55 AM, Rigoberto &lt;<a hr=
+ef=3D"mailto:b916ae3dd9be3d2fb41cd4115b499515@reply.craigslist.org" target=
+=3D"_blank">b916ae3dd9be3d2fb41cd4115b499<wbr>515@reply.craigslist.org</a>&=
+gt;
+ wrote:<u></u><u></u></p>
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0i=
+n 0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-=
+bottom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal">Can you give me an estimate for a 12 pages essay on =
+interface design ? I=E2=80=99m attaching the instructions and a sample
+<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/a059bec2dd3d50e5161e4df0ae4af7319881bc5=
+8.1" target=3D"_blank">http://craigslist.org/mf/a059b<wbr>ec2dd3d50e5161e4d=
+f0ae4af731988<wbr>1bc58.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<u></u><u></u></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><a href=3D"http://craigslist.org/mf/f5bfdbe8bf75a63a=
+457a42fab0de21e20b2268b4.1535" target=3D"_blank">http://craigslist.org/mf/f=
+5bfd<wbr>be8bf75a63a457a42fab0de21e20b2<wbr>268b4.1535</a><u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/a524e3794c395bdb40d948b4adc0fb62e9fdb0b=
+b.1" target=3D"_blank">http://craigslist.org/mf/a524e<wbr>3794c395bdb40d948=
+b4adc0fb62e9f<wbr>db0bb.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<u></u><u></u></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><a href=3D"http://craigslist.org/mf/5b31008bbbe34165=
+ccd14ac1b3ea0f9d34ddc1b0.64" target=3D"_blank">http://craigslist.org/mf/5b3=
+10<wbr>08bbbe34165ccd14ac1b3ea0f9d34d<wbr>dc1b0.64</a><u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/656c9c154dcdb51dbf2e4d37b7bd60ac97b9dbe=
+e.1" target=3D"_blank">http://craigslist.org/mf/656c9<wbr>c154dcdb51dbf2e4d=
+37b7bd60ac97b<wbr>9dbee.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<u></u><u></u></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><a href=3D"http://craigslist.org/mf/d9ddc4e8af769393=
+573949b6926e73b541ce3926.427" target=3D"_blank">http://craigslist.org/mf/d9=
+ddc<wbr>4e8af769393573949b6926e73b541c<wbr>e3926.427</a><u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/75f7a24ef32c640a4b8d445eab17aa93d6632be=
+d.1" target=3D"_blank">http://craigslist.org/mf/75f7a<wbr>24ef32c640a4b8d44=
+5eab17aa93d66<wbr>32bed.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<u></u><u></u></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><a href=3D"http://craigslist.org/mf/82ae4413245c6d01=
+fa5345b1bc1b998451d5ce0f.986" target=3D"_blank">http://craigslist.org/mf/82=
+ae4<wbr>413245c6d01fa5345b1bc1b998451d<wbr>5ce0f.986</a><u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/f5f21d5659cde453d7204fca92b59bca8a45a51=
+5.1" target=3D"_blank">http://craigslist.org/mf/f5f21<wbr>d5659cde453d7204f=
+ca92b59bca8a4<wbr>5a515.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<u></u><u></u></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><a href=3D"http://craigslist.org/mf/f16e21b2b5685723=
+c3ec435089ea10033a1b149a.121" target=3D"_blank">http://craigslist.org/mf/f1=
+6e2<wbr>1b2b5685723c3ec435089ea10033a1<wbr>b149a.121</a><u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/80c304e0b2728aa77fcc46c9b954effea821902=
+d.1" target=3D"_blank">http://craigslist.org/mf/80c30<wbr>4e0b2728aa77fcc46=
+c9b954effea82<wbr>1902d.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<u></u><u></u></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><a href=3D"http://craigslist.org/mf/327863c7b40ababe=
+7a694e11a69652833c3e1cbc.119" target=3D"_blank">http://craigslist.org/mf/32=
+786<wbr>3c7b40ababe7a694e11a69652833c3<wbr>e1cbc.119</a><u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/3ef6575bcb6c466842f3495db40b1838478a86e=
+2.1" target=3D"_blank">http://craigslist.org/mf/3ef65<wbr>75bcb6c466842f349=
+5db40b1838478<wbr>a86e2.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+</div>
+<p>=C2=A0<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<u></u><u></u></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><a href=3D"http://craigslist.org/mf/b299c6b299ba1549=
+7d07452cb979e233badfb5e9.319" target=3D"_blank">http://craigslist.org/mf/b2=
+99c<wbr>6b299ba15497d07452cb979e233bad<wbr>fb5e9.319</a><u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" align=3D"center">
+</div>
+</div>
+<p><u></u>=C2=A0<u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"MsoNormal">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/c71d8f2c2e5e83810d91446da782afba6eb3319=
+9.1" target=3D"_blank">http://craigslist.org/mf/c71d8<wbr>f2c2e5e83810d9144=
+6da782afba6eb<wbr>33199.1</a>
+<u></u><u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div>
+</blockquote>
+</div>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+</div>
+<p><u></u>=C2=A0<u></u></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div></div><p class=3D"MsoNormal"></p><div><div class=3D"m_885793769829081=
+2457h5">Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+</div></div><a href=3D"http://craigslist.org/mf/670500e85b07346fe7cd46db809=
+4d52f878258ae.28" target=3D"_blank">http://craigslist.org/mf/67050<wbr>0e85=
+b07346fe7cd46db8094d52f878<wbr>258ae.28</a><u></u><u></u><p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+</div><span>
+<p><br>
+</p>
+<hr>
+Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html" target=3D"_bl=
+ank">http://mcallen.craigslist.org/<wbr>wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay" target=3D"_blank">=
+http://craigslist.org/about/he<wbr>lp/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+</span><a href=3D"http://craigslist.org/mf/b1f82cca20a150ce6bf54ad2afbcf1dc=
+c4ed87c6.1" target=3D"_blank">http://craigslist.org/mf/b1f82<wbr>cca20a150c=
+e6bf54ad2afbcf1dcc4e<wbr>d87c6.1</a>
+<hr>
+<p></p>
+</div>
+
+</blockquote></div><br></div>
+</div></div></blockquote></div><br></div>
+<P><br>
+<hr>Original craigslist post:<br>
+<a href=3D"http://mcallen.craigslist.org/wet/5812063882.html">http://mcalle=
+n.craigslist.org/wet/5812063882.html</a><br>
+About craigslist mail:<br>
+<a href=3D"http://craigslist.org/about/help/email-relay">http://craigslist.=
+org/about/help/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href=3D"http://craigslist.org/mf/05ec38a4634efe5299454bdc9fb512fdcc203c5=
+3.51">http://craigslist.org/mf/05ec38a4634efe5299454bdc9fb512fdcc203c53.51<=
+/a><hr></P>
+
+--CraigslistMail-v1-6DD9658E-17C0-3485-BFDE-F55BAA940B16--

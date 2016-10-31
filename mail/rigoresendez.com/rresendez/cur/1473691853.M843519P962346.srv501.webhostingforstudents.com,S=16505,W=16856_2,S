@@ -1,0 +1,351 @@
+Return-Path: <accountopening=nadex.com__24ayedoapazp1tvs.0egsyjj8byvp34yg@7xqww63m3aprcz24.swlfq.2-6kczeay.eu3.bnc.salesforce.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id qdM4Ms3A1lcqrw4ATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 12 Sep 2016 10:50:53 -0400
+Return-path: <accountopening=nadex.com__24ayedoapazp1tvs.0egsyjj8byvp34yg@7xqww63m3aprcz24.swlfq.2-6kczeay.eu3.bnc.salesforce.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 12 Sep 2016 10:50:53 -0400
+Received: from mail0.iggroup.com ([195.234.39.199]:53961)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <accountopening=nadex.com__24ayedoapazp1tvs.0egsyjj8byvp34yg@7xqww63m3aprcz24.swlfq.2-6kczeay.eu3.bnc.salesforce.com>)
+	id 1bjSZR-0042NR-Ab
+	for rresendez@rigoresendez.com; Mon, 12 Sep 2016 10:50:53 -0400
+Received: from ukvmprdvon601.igi.ig.local (HELO BMPRDEXC143.IGI.IG.LOCAL) ([172.27.11.142])
+  by lrprdirn001-int.igi.ig.local with ESMTP/TLS/AES256-SHA256; 12 Sep 2016 15:50:11 +0100
+Received: from BMPRDEXC142.igi.ig.local (172.24.11.72) by
+ BMPRDEXC143.igi.ig.local (172.24.11.73) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6; Mon, 12 Sep 2016 15:50:11 +0100
+Received: from smtp02-lon.mta.salesforce.com (136.146.128.65) by
+ BMPRDEXC142.igi.ig.local (172.24.11.195) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6 via Frontend Transport; Mon, 12 Sep 2016 15:50:11 +0100
+Received: from [10.244.69.54] ([10.244.69.54:50148] helo=eu3-app1-7-lon.ops.sfdc.net)
+	by mx1-lon.mta.salesforce.com (envelope-from <accountopening=nadex.com__24ayedoapazp1tvs.0egsyjj8byvp34yg@7xqww63m3aprcz24.swlfq.2-6kczeay.eu3.bnc.salesforce.com>)
+	(ecelerity 3.6.17.52090 r(Core:3.6.17.0)) with ESMTPS (cipher=DES-CBC3-SHA) 
+	id EE/92-13986-3A0C6D75; Mon, 12 Sep 2016 14:50:11 +0000
+Date: Mon, 12 Sep 2016 14:50:11 +0000
+From: Jeff Cook <accountopening@nadex.com>
+To: "rresendez@rigoresendez.com" <rresendez@rigoresendez.com>
+Message-ID: <ZlGBT000000000000000000000000000000000000000000000ODEBVN00oysX2_L2QuGIqdNVs_Vygg@sfdc.net>
+Subject: Nadex Account Verification - Response Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_47555_511311425.1473691811393"
+X-SFDC-LK: 00D200000006kCZ
+X-SFDC-User: 005w0000004IrEP
+X-Sender: postmaster@salesforce.com
+X-mail_abuse_inquiries: http://www.salesforce.com/company/abuse.jsp
+X-SFDCOrgRelay: 00D200000006kCZ
+X-SFDCRelayAddr: mr.marketdatasystems.com
+X-SFDCRelayPort: 25
+X-SFDCTLS: 0
+X-SFDC-Binding: 1WrIRBV94myi25uB
+X-SFDC-EmailCategory: emailAuthorEmail
+X-SFDC-EntityId: 003w000001jREPP
+X-SFDC-Interface: internal
+X-IG-Disclaimer: IG-Disclaimer-Set (NADEX)
+X-CFilter-Loop: Reflected
+
+------=_Part_47555_511311425.1473691811393
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+[https://iggroup.my.salesforce.com/servlet/servlet.ImageServer?id=3D015w000=
+0002tGMv&oid=3D00D200000006kCZ]
+
+
+Dear Rigoberto Resendez,
+
+
+
+Thank you for sending in the requested documents to open your account.  You=
+ are close to completing the account opening process, but we need further a=
+ction from you in order to continue.
+
+
+Residential Address: You must verify that the residential address you provi=
+ded in your account application is your current residential address. Please=
+ send a copy of your driver's license, state identification card, or recent=
+ (past 3 months) utility bill reflecting the address you provided in your N=
+adex application.  Acceptable utility bills include gas, heat, water, elect=
+rical, cable, or land line phone. We will not accept bank statements, credi=
+t card statements, mobile phone, wireless internet or satellite television/=
+radio bills as verification.  (Note: if you provided a P.O. Box, you may co=
+ntinue to use this as your primary mailing address; however, you must provi=
+de a residential address)
+
+
+
+Date of Birth: You must verify that the date of birth you provided in your =
+account application is accurate. Please send a copy of your driver's licens=
+e, state identification card, or other U.S. government-issued documentation=
+ showing your name and birthday.
+
+
+
+First/Last Name Check: You must verify that the full name you provided in y=
+our account application is accurate.  Please send a copy of your driver's l=
+icense, state identification card, or other U.S. government-issued document=
+ation showing your full name.
+
+
+
+Social Security Number/International Tax ID Number (ITIN): You must verify =
+that the Social Security number/ITIN you provided in your account applicati=
+on is correct and is a valid number. Please send a copy of your Social Secu=
+rity/ITIN card, or other U.S. government-issued documentation showing your =
+name and Social Security number/ITIN.
+
+
+
+At your earliest convenience please upload your documentation.  Login to yo=
+ur account<https://www.nadex.com/login>, and the Upload Document screen wil=
+l appear automatically. From here, you can add your documents and upload th=
+em securely to us. No need to send email attachments. We=E2=80=99ll notify =
+you once your account is ready.
+
+If you are unable to upload, you can send the documents by email to account=
+opening@nadex.com<mailto:accountopening@nadex.com> from the registered emai=
+l address on your account.
+
+
+
+Please note that your account has been placed on a temporary hold.  You wil=
+l not be able to fund or trade your account until we have received the requ=
+ested documentation to verify your account information.
+
+
+
+If you have any questions regarding this request, please do not hesitate to=
+ contact account opening at (312) 884-5678. Thank you for your prompt atten=
+tion to this request.
+
+
+
+Best regards,
+
+
+
+Account Opening
+
++1(312) 884-5678
+
+
+North American Derivatives Exchange, Inc.
+
+311 South Wacker Drive
+
+Suite 2675
+
+Chicago, IL 60606
+
+
+
+Nadex is located at 311 South Wacker Drive, Suite 2675, Chicago, IL 60606. =
+ Nadex is subject to U.S. regulatory oversight by the CFTC. Futures, option=
+s and swaps trading involve risk and may not be appropriate for all investo=
+rs. This is an informational email from Nadex. The contents hereof are not =
+an offer, or a solicitation of an offer, to buy or sell any particular fina=
+ncial instrument listed on Nadex. You have been sent this update because of=
+ your existing relationship with Nadex. The security of your personal data =
+is of great importance to us and is handled in accordance with the Nadex Pr=
+ivacy Policy.
+
+
+
+
+[http://iggroup.my.salesforce.com/servlet/servlet.ImageServer?oid=3D00D2000=
+00006kCZ&esid=3D018w000000c6jQY]
+________________________________
+
+This electronic mail message and any attachments may contain confidential a=
+nd/or privileged information that is only intended for use by, North Americ=
+an Derivatives Exchange, Inc. ("Nadex") or third-parties to whom it is dire=
+cted. The contents of this electronic mail message are not to be copied, mo=
+dified, published, transmitted, distributed, performed, displayed, or sold =
+in any way. If you are not the addressee, you are prohibited from disclosin=
+g, copying, distributing or taking any action based on the contents of this=
+ message. If you have received this message by mistake, please contact the =
+sender immediately. All email sent to or from the Nadex corporate email sys=
+tem may be retained, monitored and/or reviewed by Nadex personnel. Nadex is=
+ located at 311 South Wacker Drive, Suite 2675, Chicago, IL 60606. Nadex is=
+ subject to U.S. regulatory oversight by the CFTC. Futures, options and swa=
+ps trading involves risk and may not be appropriate for all investors. The =
+contents hereof are not an offer, or a solicitation of an offer, to buy or =
+sell any particular financial instrument listed on Nadex.-
+
+------=_Part_47555_511311425.1473691811393
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<style>p{margin-top:0px; margin-bottom:0px;}</style>
+</head>
+<body class=3D"setupTab" style=3D" background-color:#FFFFFF; bEditID:b1st1;=
+ bLabel:body;">
+<center>
+<table cellpadding=3D"0" width=3D"500" cellspacing=3D"0" id=3D"topTable" he=
+ight=3D"450">
+<tbody>
+<tr valign=3D"top">
+<td style=3D" background-color:#FFFFFF; bEditID:r1st1; bLabel:header; verti=
+cal-align:top; height:75; text-align:left;">
+<img border=3D"0" bEditID=3D"r1sp1" bLabel=3D"headerImage" id=3D"r1sp1" src=
+=3D"https://iggroup.my.salesforce.com/servlet/servlet.ImageServer?id=3D015w=
+0000002tGMv&amp;oid=3D00D200000006kCZ"></td>
+</tr>
+<tr valign=3D"top">
+<td style=3D" background-color:#FFFFFF; bEditID:r2st1; bLabel:accent1; heig=
+ht:0;"></td>
+</tr>
+<tr valign=3D"top">
+<td styleInsert=3D"1" height=3D"300" style=3D" background-color:#FFFFFF; bE=
+ditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;=
+">
+<table border=3D"0" cellpadding=3D"5" width=3D"550" cellspacing=3D"5" heigh=
+t=3D"400">
+<tbody>
+<tr valign=3D"top" height=3D"400">
+<td tEditID=3D"c1r1" style=3D" background-color:#FFFFFF; bEditID:r3st1; col=
+or:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID=3D"c1r=
+1" locked=3D"0">
+<p><font face=3D"Arial, sans-serif" size=3D"2">Dear Rigoberto Resendez,</fo=
+nt></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">Thank you for sending in the=
+ requested documents to open your account. &nbsp;You are close to completin=
+g the account opening process, but we need further action from you in order=
+ to continue.</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2"><br>
+</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2"><b>Residential Address: </b>=
+You must verify that the residential address you provided in your account a=
+pplication is your current residential address. Please send a copy of your =
+driver's license, state identification
+ card, or <b>recent</b> (past 3 months) utility bill reflecting the address=
+ you provided in your Nadex application. &nbsp;Acceptable utility bills inc=
+lude gas, heat, water, electrical, cable, or land line phone. We
+<b><u>will not </u></b>accept bank statements, credit card statements, mobi=
+le phone, wireless internet or satellite television/radio bills as verifica=
+tion. &nbsp;(Note: if you provided a P.O. Box, you may continue to use this=
+ as your primary mailing address; however,
+ you must provide a residential address)</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2"><b>Date of Birth:</b>&nbsp;Y=
+ou must verify that the date of birth you provided in your account applicat=
+ion is accurate. Please send a copy of your driver's license, state identif=
+ication card, or other U.S. government-issued
+ documentation showing your name and birthday.</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2"><b>First/Last Name Check: </=
+b>You must verify that the full name you provided in your account applicati=
+on is accurate. &nbsp;Please send a copy of your driver's license, state id=
+entification card, or other U.S. government-issued
+ documentation showing your full name.</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">&nbsp;&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2"><b>Social Security Number/In=
+ternational Tax ID Number (ITIN):</b>&nbsp;You must verify that the Social =
+Security number/ITIN you provided in your account application is correct an=
+d is a valid number. Please send a copy of
+ your Social Security/ITIN card, or other U.S. government-issued documentat=
+ion showing your name and Social Security number/ITIN.</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">At your earliest convenience=
+ please upload your documentation.&nbsp;&nbsp;<a href=3D"https://www.nadex.=
+com/login">Login to your account</a>, and the Upload Document screen will a=
+ppear automatically. From here, you can add your
+ documents and upload them securely to us. No need to send email attachment=
+s. We=E2=80=99ll notify you once your account is ready.&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2"><br>
+If you are unable to upload, you can send the documents by email to <a href=
+=3D"mailto:accountopening@nadex.com">
+accountopening@nadex.com</a> from the registered email address on your acco=
+unt.</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">Please note that your accoun=
+t has been placed on a temporary hold. &nbsp;You will not be able to fund o=
+r trade your account until we have received the requested documentation to =
+verify your account information. &nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">&nbsp;</font></p>
+<p><font face=3D"Arial, sans-serif" size=3D"2">If you have any questions re=
+garding this request, please do not hesitate to contact account opening at =
+(312) 884-5678. Thank you for your prompt attention to this request.</font>=
+</p>
+<font face=3D"Arial, sans-serif">
+<p style=3D"font-size: small;">&nbsp;</p>
+<p style=3D"font-size: small;">Best regards,</p>
+<p style=3D"font-size: small;">&nbsp;</p>
+<p style=3D"font-size: small;">Account Opening</p>
+<p style=3D"font-size: small;">&#43;1(312) 884-5678</p>
+<p style=3D"font-size: small;"><br>
+</p>
+<p style=3D"font-size: small;">North American Derivatives Exchange, Inc.</p=
+>
+<p style=3D"font-size: small;">311 South Wacker Drive</p>
+<p style=3D"font-size: small;">Suite 2675</p>
+<p style=3D"font-size: small;">Chicago, IL 60606&nbsp;</p>
+<p style=3D"font-size: small;"><br>
+</p>
+<p style=3D"font-size: small;"><br>
+</p>
+<font size=3D"1"><span style=3D"background-color: rgb(255, 255, 255);">Nade=
+x is located at 311 South Wacker Drive, Suite 2675, Chicago, IL 60606.&nbsp=
+;&nbsp;</span><font>Nadex is subject to U.S. regulatory oversight by the CF=
+TC. Futures, options and swaps trading involve
+ risk and may not be appropriate for all investors. This is an informationa=
+l email from Nadex. The contents hereof are not an offer, or a solicitation=
+ of an offer, to buy or sell any particular financial instrument listed on =
+Nadex.&nbsp;</font>You have been sent
+ this update because of your existing relationship with Nadex. The security=
+ of your personal data is of great importance to us and is handled in accor=
+dance with the Nadex Privacy Policy.</font></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr valign=3D"top">
+<td style=3D" background-color:#FFFFFF; bEditID:r4st1; bLabel:accent2; heig=
+ht:0;"></td>
+</tr>
+<tr valign=3D"top">
+<td style=3D" background-color:#FFFFFF; bEditID:r5st1; bLabel:footer; verti=
+cal-align:top; height:0; text-align:left;">
+</td>
+</tr>
+<tr valign=3D"top">
+<td style=3D" background-color:#FFFFFF; bEditID:r6st1; bLabel:accent3; heig=
+ht:0;"></td>
+</tr>
+</tbody>
+</table>
+</center>
+<img src=3D"http://iggroup.my.salesforce.com/servlet/servlet.ImageServer?oi=
+d=3D00D200000006kCZ&amp;esid=3D018w000000c6jQY">
+<hr>
+<font face=3D"Arial" color=3D"Black" size=3D"2"><br>
+This electronic mail message and any attachments may contain confidential a=
+nd/or privileged information that is only intended for use by, North Americ=
+an Derivatives Exchange, Inc. (&quot;Nadex&quot;) or third-parties to whom =
+it is directed. The contents of this electronic
+ mail message are not to be copied, modified, published, transmitted, distr=
+ibuted, performed, displayed, or sold in any way. If you are not the addres=
+see, you are prohibited from disclosing, copying, distributing or taking an=
+y action based on the contents of
+ this message. If you have received this message by mistake, please contact=
+ the sender immediately. All email sent to or from the Nadex corporate emai=
+l system may be retained, monitored and/or reviewed by Nadex personnel. Nad=
+ex is located at 311 South Wacker
+ Drive, Suite 2675, Chicago, IL 60606. Nadex is subject to U.S. regulatory =
+oversight by the CFTC. Futures, options and swaps trading involves risk and=
+ may not be appropriate for all investors. The contents hereof are not an o=
+ffer, or a solicitation of an offer,
+ to buy or sell any particular financial instrument listed on Nadex.-</font=
+>
+</body>
+</html>
+
+------=_Part_47555_511311425.1473691811393--

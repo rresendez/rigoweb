@@ -1,0 +1,71 @@
+Return-Path: <bounce-anon-rresendez=rigoresendez.com@craigslist.org>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id IXb+D6kD6FeCpgkATAh+fg
+	for <rresendez@rigoresendez.com>; Sun, 25 Sep 2016 13:04:41 -0400
+Return-path: <bounce-anon-rresendez=rigoresendez.com@craigslist.org>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sun, 25 Sep 2016 13:04:41 -0400
+Received: from mxo8a.craigslist.org ([208.82.237.103]:46513 helo=outbound.ashburn.craigslist.org)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-anon-rresendez=rigoresendez.com@craigslist.org>)
+	id 1boCr3-002ePl-0V
+	for rresendez@rigoresendez.com; Sun, 25 Sep 2016 13:04:41 -0400
+Received: outbound
+DKIM-Filter: OpenDKIM Filter v2.10.3 outbound.ashburn.craigslist.org 81EA080242
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=craigslist.org;
+	s=20160601-165758-eemjccqt; t=1474823040;
+	bh=h/XwLt10N1s4XNxcBpNEcBdvruzzXCWjnvPnYBTv2Ag=;
+	h=From:To:Subject:Date:From;
+	b=FPLEuSH3ySfEZLTYSxIXwmffzFfRM9wXchD99KwJ/ZZ6/7300n7jnVcvYjtsn/AKm
+	 U6cFXtP6yi9y0BtzCkZCnDAGp9OJ8g2XRmUsqjD7rkR4WMSDkdYP8GguB1g4ZWn//T
+	 e3nehbuZkEn4lpEyJrl7tJ/Uzj/vi9J2AWc0TSnw=
+From: "Rafael Chico" <55dff6895d2b30359f990e3745908b79@reply.craigslist.org>
+To: 6tpks-5797776384@comm.craigslist.org
+Subject: Vaccinated cat
+Date: Sun, 25 Sep 2016 12:03:56 -0500
+X-CL-ID: 95AB710A-3F1C-4FD0-B8E6-03C03D54CFCA.1
+Content-Type: multipart/alternative;
+ boundary="CraigslistMail-v1-203C9258-7F8F-35E8-8B34-4CBC15A672CF"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0 (1.0)
+Message-Id: <Do7ZOkqyM4NIlA2aFJ8AoDyeNA4VUzK57OoEbeIyZVw7uAnCABwKXKDF66B6pJ8CgzGqH3eZ_2jwOP6w4cbcmg@v2.cl.com>
+
+
+--CraigslistMail-v1-203C9258-7F8F-35E8-8B34-4CBC15A672CF
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+I am looking for an older cat. I have a good home for here and time. She al=
+l be fine with me if you still have it. So what do you ask for her?=20
+
+http://mcallen.craigslist.org/pet/5797776384.html
+
+
+Sent from my iPhone
+
+
+------------------------------------------------------------------------
+Original craigslist post:
+http://mcallen.craigslist.org/pet/5797776384.html
+About craigslist mail:
+http://craigslist.org/about/help/email-relay
+Please flag unwanted messages (spam, scam, other):
+http://craigslist.org/mf/4d9d2d2395ab710a3f1c4fd0b8e603c03d54cfca.1
+------------------------------------------------------------------------
+
+--CraigslistMail-v1-203C9258-7F8F-35E8-8B34-4CBC15A672CF
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div><div style="direction: inherit;">I am looking for an older cat. I have a good home for here and time. She all be fine with me if you still have it. So what do you ask for her?&nbsp;</div><br><a href="http://mcallen.craigslist.org/pet/5797776384.html">http://mcallen.craigslist.org/pet/5797776384.html</a><br></div><div><br><br>Sent from my iPhone</div><P><br>
+<hr>Original craigslist post:<br>
+<a href="http://mcallen.craigslist.org/pet/5797776384.html">http://mcallen.craigslist.org/pet/5797776384.html</a><br>
+About craigslist mail:<br>
+<a href="http://craigslist.org/about/help/email-relay">http://craigslist.org/about/help/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href="http://craigslist.org/mf/4d9d2d2395ab710a3f1c4fd0b8e603c03d54cfca.1">http://craigslist.org/mf/4d9d2d2395ab710a3f1c4fd0b8e603c03d54cfca.1</a><hr></P></body></html>
+--CraigslistMail-v1-203C9258-7F8F-35E8-8B34-4CBC15A672CF--

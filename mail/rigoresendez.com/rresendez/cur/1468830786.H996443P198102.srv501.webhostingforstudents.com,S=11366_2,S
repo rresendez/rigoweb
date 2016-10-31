@@ -1,0 +1,215 @@
+Return-path: <return-t1-lc30daycanconfirm160718-rresendez=rigoresendez.com@mailer.livecareer.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 18 Jul 2016 04:33:06 -0400
+Received: from smtp1-1.mailer.livecareer.com ([67.22.105.244]:57551)
+	by srv501.webhostingforstudents.com with smtp (Exim 4.87)
+	(envelope-from <return-t1-lc30daycanconfirm160718-rresendez=rigoresendez.com@mailer.livecareer.com>)
+	id 1bP3z8-000nrA-DD
+	for rresendez@rigoresendez.com; Mon, 18 Jul 2016 04:33:06 -0400
+Received: (GreenArrow 8056 invoked from network); 18 Jul 2016 08:32:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=livecareer.com; s=default; h=List-Unsubscribe:Received:
+	MIME-Version:From:To:Cc:Date:Subject:Content-Type:
+	Content-Transfer-Encoding; bh=n756fHY/V97abLaX89XpmtuXmRI=; b=Iv
+	jEJ5G+ue1YCjcjPqk4AWlLvt1TjlNHqlx7cKA+uBiov3r2D8rNdiJj3ZBIq/XHuI
+	DDTZMnXPDKd0hfKVnvMzHs0NIJnbcv04Y/9Btx7qj9HQsqKqrBz7/n1KNVtnlVbN
+	Nhgh8CuGnihWZH4lAcgDBi6u5g2CVgvw64G44u078=
+X-Mailer-Info: BQR3ZQLkrzI2p2SvpTShpTkhpGNmpUxfrzWjYz1lpJSlMaWyLaE2MHOgpaSupzMlMJHfZJp
+List-Unsubscribe: <mailto:return-t1-lc30daycanconfirm160718-rresendez=rigoresendez.com=5u@mailer.livecareer.com>
+Received: from unknown (HELO vserver14937) (test@mailer.livecareer.com@192.223.13.165)
+  by mailer.livecareer.com with SMTP; 18 Jul 2016 08:32:06 -0000
+MIME-Version: 1.0
+From: "LiveCareer" <customerservice@livecareer.com>
+To: rresendez@rigoresendez.com
+Cc: payments@livecareer.com
+Date: 18 Jul 2016 04:32:06 -0400
+Subject: Cancellation Confirmation
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D
+<html xmlns=3D"http://www.w3.org/1999/xhtml">=0D
+<head>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />=
+=0D
+<title>LiveCareer</title>=0D
+</head>=0D
+=0D
+<body>=0D
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">=0D
+  <tr>=0D
+    <td style=3D"border:1px solid #DDDDDD; padding:0 24px;"><table width=3D=
+"550" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">=0D
+      <tr>=0D
+        <td>&nbsp;</td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td><table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">=0D
+          <tr>=0D
+            <td width=3D"205" valign=3D"bottom" style=3D"padding-bottom:5px=
+;"><a href=3D"http://mailer.livecareer.com/click.php/e329/h711918/?mid=3D82=
+7&amp;pid=3D129488253&amp;ht=3Dec&amp;targ=3Dhttp://www.livecareer.com/" ta=
+rget=3D"_blank"  style=3D"color:#ff6600;text-decoration:none" title=3D"Live=
+Career"><img src=3D"http://www.livecareer.com/images/uploaded/livecareer-20=
+5X31.png" width=3D"205" height=3D"31" alt=3D"LiveCareer" border=3D"0" style=
+=3D"display:block;" /></a></td>=0D
+            <td width=3D"213">&nbsp;</td>=0D
+            <td width=3D"132" align=3D"right"><table width=3D"132" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0D
+              <tr>=0D
+                <td align=3D"right"><a href=3D"http://mailer.livecareer.com=
+/click.php/e329/h711918/?mid=3D827&amp;pid=3D129488253&amp;ht=3Dec&amp;targ=
+=3D/membership/signin.aspx?productid=3D10" target=3D"_blank"><img src=3D"ht=
+tp://www.livecareer.com/images/uploaded/emailalerts/OPS-4615/login.jpg" wid=
+th=3D"48" height=3D"17" alt=3D"Log In" border=3D"0" style=3D"display:inline=
+-block" /></a></td>=0D
+                </tr>=0D
+              <tr>=0D
+                <td align=3D"right"><font face=3D"Arial, Helvetica, sans-se=
+rif" color=3D"#444444" size=3D"1" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:11px;line-height:22px;font-weight:bold;color:#444444;">=
+Stay in touch with us</font></td>=0D
+                </tr>=0D
+              <tr>=0D
+                <td align=3D"right"><table width=3D"122" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">=0D
+                  <tr>=0D
+                    <td width=3D"23"><a href=3D"http://mailer.livecareer.co=
+m/click.php/e329/h711919/" target=3D"_blank"><img src=3D"http://www.livecar=
+eer.com/images/uploaded/icon-facebook-23X23.png" width=3D"23" height=3D"23"=
+ alt=3D"Facebook" border=3D"0" style=3D"display:block" /></a></td>=0D
+                    <td width=3D"10">&nbsp;</td>=0D
+                    <td width=3D"23"><a href=3D"http://mailer.livecareer.co=
+m/click.php/e329/h711920/" target=3D"_blank"><img src=3D"http://www.livecar=
+eer.com/images/uploaded/icon-twitter-23X23.png" width=3D"23" height=3D"23" =
+alt=3D"Twitter" border=3D"0" style=3D"display:block" /></a></td>=0D
+                    <td width=3D"10">&nbsp;</td>=0D
+                    <td width=3D"23"><a href=3D"http://mailer.livecareer.co=
+m/click.php/e329/h711921/" target=3D"_blank"><img src=3D"http://www.livecar=
+eer.com/images/uploaded/icon-google-plus-23X23.png" width=3D"23" height=3D"=
+23" alt=3D"Google Plus" border=3D"0" style=3D"display:block" /></a></td>=0D
+                    <td width=3D"10">&nbsp;</td>=0D
+                    <td width=3D"23"><a href=3D"http://mailer.livecareer.co=
+m/click.php/e329/h711922/" target=3D"_blank"><img src=3D"http://www.livecar=
+eer.com/images/uploaded/icon-pintrest-23X23.png" width=3D"23" height=3D"23"=
+ alt=3D"Pintrest" border=3D"0" style=3D"display:block" /></a></td>=0D
+                    </tr>=0D
+                  </table></td>=0D
+                </tr>=0D
+            </table></td>=0D
+            </tr>=0D
+        </table></td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td height=3D"30" style=3D"height:30px; line-height:30px;"></td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td><font face=3D"Arial, Helvetica, sans-serif" color=3D"#FFFFFF" s=
+ize=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:28px=
+;line-height:30px;font-weight:normal;color:#000000;">We're sorry to see you=
+ go!</font></td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td height=3D"30" style=3D"height:30px; line-height:30px;"></td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td><font face=3D"Arial, Helvetica, sans-serif" color=3D"#000000" s=
+ize=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px=
+;line-height:20px;font-weight:normal;color:#000000;">Dear Rigoberto,<br />=
+=0D
+Your LiveCareer subscription has been canceled at your request.<br /><br />=
+Your cancellation number is <strong>1978067572</strong>, and your subscript=
+ion is set to expire on <strong>8/11/2016</strong>.<br /><br />We have save=
+d all of your resume and cover letter information for you, should you choos=
+e to <a href=3D"http://mailer.livecareer.com/click.php/e329/h711918/?mid=3D=
+827&amp;pid=3D129488253&amp;ht=3Dec&amp;targ=3D/membership/signin.aspx?targ=
+=3Dhttp%3A%2F%2Fwww.livecareer.com%2Faccount%2Fresumehome-h.aspx%3Ffrom%253=
+Dexternal%2526partyid%253D129488253" target=3D"_blank" style=3D"font-family=
+:Arial, Helvetica, sans-serif; font-size:14px;line-height:20px;font-weight:=
+bold; text-decoration:underline; color:#f15f4c;">come back</a>.</font></td>=
+=0D
+      </tr>=0D
+      <tr>=0D
+        <td>&nbsp;</td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td bgcolor=3D"#f1f6fb" style=3D"padding:15px;"><font face=3D"Arial=
+, Helvetica, sans-serif" color=3D"#000000" size=3D"1" style=3D"font-family:=
+Arial, Helvetica, sans-serif; font-size:14px;line-height:20px;font-weight:n=
+ormal;color:#000000;">NOTE: If you still need to edit your resume, create m=
+ultiple versions, or download a PDF or Word version, it's not too late. Jus=
+t <a href=3D"http://mailer.livecareer.com/click.php/e329/h711918/?mid=3D827=
+&amp;pid=3D129488253&amp;ht=3Dec&amp;targ=3D/membership/cancel-a-month.aspx=
+?from=3Dexternal&amp;partyid=3D129488253" target=3D"_blank" style=3D"font-f=
+amily:Arial, Helvetica, sans-serif; font-size:14px;line-height:20px;font-we=
+ight:bold; text-decoration:underline; color:#f15f4c;">click here</a> to tak=
+e advantage of this one-time offer for 30 days of full access.</font></td>=
+=0D
+      </tr>=0D
+      <tr>=0D
+        <td>&nbsp;</td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td><font face=3D"Arial, Helvetica, sans-serif" color=3D"#000000" s=
+ize=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px=
+;line-height:20px;font-weight:normal;color:#000000;">Thanks for using LiveC=
+areer, and best wishes on your career.<br />=0D
+<strong>The LiveCareer Team</strong><br /><br />=0D
+Have questions? Please contact our customer service team at 800-652-8430 Mo=
+n - Fri 8am - 8pm CST, Sat 8am - 5pm CST or Sun 10am - 6pm CST or email us =
+at <a href=3D"mailto:customerservice@livecareer.com" target=3D"_blank" styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;line-height:2=
+0px;font-weight:bold; text-decoration:underline; color:#f15f4c;">customerse=
+rvice@livecareer.com</a>.</font></td>=0D
+      </tr>=0D
+      <tr>=0D
+        <td height=3D"50" style=3D"height:50px; line-height:50px;"></td>=0D
+      </tr>=0D
+    </table></td>=0D
+  </tr>=0D
+  <tr>=0D
+    <td bgcolor=3D"#4b494f" style=3D"border:1px solid #DDDDDD; padding:10px=
+ 24px 10px 24px; border-top:0;"><table width=3D"550" border=3D"0" align=3D"=
+center" cellpadding=3D"0" cellspacing=3D"0">=0D
+      <tr>=0D
+        <td width=3D"150"><a href=3D"http://mailer.livecareer.com/click.php=
+/e329/h711918/?mid=3D827&amp;pid=3D129488253&amp;ht=3Dec&amp;targ=3Dhttp://=
+www.livecareer.com/" target=3D"_blank"  style=3D"color:#ff6600;text-decorat=
+ion:none"><img src=3D"http://www.livecareer.com/images/uploaded/livecareer1=
+40X25.png" width=3D"140" height=3D"25" alt=3D"LiveCareer" border=3D"0" styl=
+e=3D"display:inline-block;" /></a></td>=0D
+        <td width=3D"190"><font face=3D"Arial, Helvetica, sans-serif" color=
+=3D"#FFFFFF" size=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; =
+font-size:11px;line-height:18px;font-weight:normal;color:#FFFFFF;"><strong>=
+LiveCareer</strong><br />=0D
+          PR, LLC, City View Plaza PR-165<br/>=0D
+          Suite 6000, Guaynabo, PR 00968</font></td>=0D
+        <td width=3D"210"><font face=3D"Arial, Helvetica, sans-serif" color=
+=3D"#FFFFFF" size=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif; =
+font-size:11px;line-height:18px;font-weight:normal;color:#FFFFFF;"><a href=
+=3D"http://mailer.livecareer.com/click.php/e329/h711918/?mid=3D827&amp;pid=
+=3D129488253&amp;ht=3Duc&amp;targ=3D%2Fprofile%2Femail-preference.aspx%3Fe%=
+3Drresendez@rigoresendez.com%26p%3D129488253" target=3D"_blank" style=3D"fo=
+nt-family:Arial, Helvetica, sans-serif; font-size:11px;line-height:18px;fon=
+t-weight:normal;color:#FFFFFF; text-decoration:underline;">Unsubscribe</a><=
+br />=0D
+          <a href=3D"http://mailer.livecareer.com/click.php/e329/h711918/?m=
+id=3D827&amp;pid=3D129488253&amp;ht=3Dec&amp;targ=3D%2Finformation%2Fprivac=
+y.asp" target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:11px;line-height:18px;text-decoration:underline;font-weight:norm=
+al;color:#FFFFFF;">Privacy policy</a><br />=0D
+          &copy;2016 BOLD Ltd. All rights reserved.</font></td>=0D
+      </tr>=0D
+    </table></td>=0D
+  </tr>=0D
+  <tr><td><img src=3D"http://www.livecareer.com/c/11793?mid=3D827&pid=3D129=
+488253&ht=3Dec&targ=3Dhttp://www.livecareer.com/" width=3D"1" height=3D"1" =
+alt=3D"" /></td></tr>=0D
+</table>=0D
+<img src=3D"http://mailer.livecareer.com/click.php/e329/h711923/" height=3D=
+"2" width=3D"3"></body>=0D
+</html>
+

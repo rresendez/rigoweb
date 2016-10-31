@@ -1,0 +1,96 @@
+Return-Path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id CegnH4l8s1caqgoATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 16:50:17 -0400
+Return-path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 16 Aug 2016 16:50:17 -0400
+Received: from o3.email.freshdesk.com ([167.89.33.2]:42259)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>)
+	id 1bZlJQ-002vle-RF
+	for rresendez@rigoresendez.com; Tue, 16 Aug 2016 16:50:17 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=freshdesk.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=EHV73WsvC2HfxKqVmJ2oDVrjE78=; b=jrrrL2/pMvX+bTaVly
+	r+da/gqOy40G271POL6pHgCE6GVzzyZie6not/zfkjyYKi3s+DAZc57jbQmZrYtN
+	Lw8xxIeQfcVqRHeJR8Fhq8TtYnwHn0fBGa3mP4icspJQN/SHN2c4L+Z8Y7Y6hkAx
+	WXeKVgbWZ2oknooEIHDhSf95k=
+Received: by filter0530p1mdw1.sendgrid.net with SMTP id filter0530p1mdw1.4944.57B37C55B
+        2016-08-16 20:49:25.066300914 +0000 UTC
+Received: from freshdesk.com (ec2-52-7-252-72.compute-1.amazonaws.com [52.7.252.72])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id gU7H2Wp-STudZalRNe6XNQ
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 20:49:25.027 +0000 (UTC)
+Date: Tue, 16 Aug 2016 20:49:24 +0000
+From: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+Reply-To: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+To: rresendez@rigoresendez.com
+Message-ID: <57b37c54e72f9_7ef7115998c39437615.active-jobs-3@notification.freshdesk.com>
+Subject: Solicitud Recibida - Offline message from Rigoberto Resendez on Tue,
+ 16 Aug, 2016
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57b37c54ee089_7ef7115998c3943774c";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+sent-on: 2016-08-16 20:49:24 +0000
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: DR, RN, OOF, AutoReply
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgbuQaBVfgFZ32LkcbZKkp1ACAU9guaB1XeDBb
+ 34AwwuoAzNUh2+t0DIM+JQugiHVLgcDnFlCP1pS47vhMJ3sSLQgeT2XOx5q60ZMOguK6p5Srx2oMJP
+ u9cypmcs9qhpcH9QzlHD829gJ9Mx6i6kvuouwF9dYbY+HR38InwBul31HHjKDHtlc0Fhn73Cv+FtqF
+ fDZ2Bfu+7/tjaYvChk8Up6
+X-SG-ID: 07jdBcxxKzkTTnSHcra6oDecuB9SNFHoVelZht905AD4ioEjgIiMyi7H2xmp0h4rMqZ60ZQHRW2CKa
+ Zobox2/w==
+
+----==_mimepart_57b37c54ee089_7ef7115998c3943774c
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ Estimado(a) Rigoberto Resendez,  Te informamos que hemos recibido tu solic=
+itud. Tan pronto sea posible recibir=C3=A1s respuesta de uno de nuestros ag=
+entes de atenci=C3=B3n a clientes.     Le recordamos que toda la atenci=C3=
+=B3n y seguimiento de su solicitud deber=C3=A1 ser mediante el Portal de se=
+rvicio de Vivaaerobus.     Para revisar el estatus de tu solicitud o agrega=
+r comentarios visita: http://soporte.vivaaerobus.com/helpdesk/tickets/33270=
+8       Gracias por tu paciencia.=C2=A0     Atenci=C3=B3n a Clientes.=20=20
+
+
+
+----==_mimepart_57b37c54ee089_7ef7115998c3943774c
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Helvetica Neue, Helvetica, Arial, sans-serif; fon=
+t-size:13px;">
+=09
+<p>Estimado(a) Rigoberto Resendez,<br><br>Te informamos que hemos recibido =
+tu solicitud. Tan pronto sea posible recibir=C3=A1s respuesta de uno de nue=
+stros agentes de atenci=C3=B3n a clientes.</p><p><br></p><p><u><b>Le record=
+amos que toda la atenci=C3=B3n y seguimiento de su solicitud deber=C3=A1 se=
+r mediante el Portal de servicio de Vivaaerobus.</b></u></p><p><br></p><p>P=
+ara revisar el estatus de tu solicitud o agregar comentarios visita:<br><sp=
+an><a href=3D"http://soporte.vivaaerobus.com/helpdesk/tickets/332708">http:=
+//soporte.vivaaerobus.com/helpdesk/tickets/332708</a></span><br></p><p><br>=
+</p><p><br>Gracias por tu paciencia.&nbsp;</p><p><br></p><p>Atenci=C3=B3n a=
+ Clientes. </p>
+
+
+
+
+=09
+	<br/>
+
+
+
+<span title=3D"fd_tkt_identifier" style=3D'font-size:0px; font-family:"fdtk=
+tid"; min-height:0px; height:0px; opacity:0; max-height:0px; line-height:0p=
+x; color:#ffffff'>332708</span>
+
+</div>=
+
+----==_mimepart_57b37c54ee089_7ef7115998c3943774c--

@@ -1,0 +1,63 @@
+Return-Path: <bounce-anon-rresendez=rigoresendez.com@craigslist.org>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id BE6FL37D7VcqNwwATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 29 Sep 2016 21:44:30 -0400
+Return-path: <bounce-anon-rresendez=rigoresendez.com@craigslist.org>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 29 Sep 2016 21:44:30 -0400
+Received: from mxo1a.craigslist.org ([208.82.237.96]:63071 helo=outbound.ashburn.craigslist.org)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-anon-rresendez=rigoresendez.com@craigslist.org>)
+	id 1bpmsI-003M8C-8P
+	for rresendez@rigoresendez.com; Thu, 29 Sep 2016 21:44:30 -0400
+Received: outbound
+DKIM-Filter: OpenDKIM Filter v2.10.3 outbound.ashburn.craigslist.org 204D39602D
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=craigslist.org;
+	s=20160601-165758-eemjccqt; t=1475199830;
+	bh=cZAkT6qxQhnAE6G+uY/nVhP9ibuUSx6PQq5bczT0rMk=;
+	h=From:To:Subject:Date:From;
+	b=krFKQn3T3XBEhLMi3apILNc3KYSxJIHohhNxN3RycGM2Qvgu/P7jccEY2gpT6clBL
+	 Pn4BCMZu/0K2yoP5D5uqTrSDJBacKtH08WA2luXoa6nxjxgv1bKbcYudHmw3CA734A
+	 pDUehzYqCTv6ZvW3CgJtQW/2i+tW1ij6fGve3O3g=
+From: "Netza Maldonado" <810e25caca75377aa7c527cca7780fff@reply.craigslist.org>
+To: 9bztd-5799531659@sale.craigslist.org
+Subject: Galaxy s4 unlocked (any carrier)
+Date: Thu, 29 Sep 2016 18:43:48 -0700
+X-CL-ID: 1C779514-4A11-4DC6-9445-714BEC3C9D35.39
+Content-Type: multipart/alternative;
+ boundary="CraigslistMail-v1-71930930-981E-365C-8937-5F72EEAA1420"
+MIME-Version: 1.0
+Message-Id: <uiB-Vb-Kb8aFhdPdoCH288oWpGPUWqPXJF5zhZFYo0dyWuH46eZk_nBLodVmcgUvHTiOluBgtNo1_N9xgkEB-4Zt-A4AhB21OVOFM1s9veo@v2.cl.com>
+
+--CraigslistMail-v1-71930930-981E-365C-8937-5F72EEAA1420
+Content-Type: text/plain; charset=UTF-8
+
+http://mcallen.craigslist.org/mob/5799531659.html
+No acepta 40 dollar por el s4
+
+
+
+------------------------------------------------------------------------
+Original craigslist post:
+http://mcallen.craigslist.org/mob/5799531659.html
+About craigslist mail:
+http://craigslist.org/about/help/email-relay
+Please flag unwanted messages (spam, scam, other):
+http://craigslist.org/mf/3d08c5121c7795144a114dc69445714bec3c9d35.39
+------------------------------------------------------------------------
+--CraigslistMail-v1-71930930-981E-365C-8937-5F72EEAA1420
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr"></p>
+<p dir="ltr"><a href="http://mcallen.craigslist.org/mob/5799531659.html">http://mcallen.craigslist.org/mob/5799531659.html</a><br>
+No acepta 40 dollar por el s4</p>
+<P><br>
+<hr>Original craigslist post:<br>
+<a href="http://mcallen.craigslist.org/mob/5799531659.html">http://mcallen.craigslist.org/mob/5799531659.html</a><br>
+About craigslist mail:<br>
+<a href="http://craigslist.org/about/help/email-relay">http://craigslist.org/about/help/email-relay</a><br>
+Please flag unwanted messages (spam, scam, other):<br>
+<a href="http://craigslist.org/mf/3d08c5121c7795144a114dc69445714bec3c9d35.39">http://craigslist.org/mf/3d08c5121c7795144a114dc69445714bec3c9d35.39</a><hr></P>
+--CraigslistMail-v1-71930930-981E-365C-8937-5F72EEAA1420--

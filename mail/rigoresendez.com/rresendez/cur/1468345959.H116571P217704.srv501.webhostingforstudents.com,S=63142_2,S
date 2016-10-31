@@ -1,0 +1,1332 @@
+Return-path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 12 Jul 2016 13:52:39 -0400
+Received: from o1.em2.juke.ly ([198.21.7.97]:1473)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>)
+	id 1bN1rK-000uSK-A4
+	for rresendez@rigoresendez.com; Tue, 12 Jul 2016 13:52:39 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=juke.ly; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject; 
+	s=s1; bh=Ii/54/gU7Pv37BdUYsIYZLJ8340=; b=AC+QCD3VlNYW0cu4tOxwQd1
+	/B3Wh1YMWOE+U3x1sOJUAv4kwPv3GJZxBAvhBaNTo82/pb3MJ5cYO6+x9hZjzn9Y
+	vJ6fKEs7cFg+WyTO764JB67rfe4b745FYNSR9YG/PzzNSlbe8cUSOvOPohmU7Y7b
+	TpcbzFU4uTSWM6kyI8Gs=
+Received: by filter0828p1mdw1.sendgrid.net with SMTP id filter0828p1mdw1.32278.57852D007E
+        2016-07-12 17:46:40.965811302 +0000 UTC
+Received: from MjY4Nzk4OA (ec2-54-204-11-157.compute-1.amazonaws.com [54.204.11.157])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with HTTP id puycR7fvQhmTXGguuSusNQ
+	for <team-mp+internal@sendgrid.com>; Tue, 12 Jul 2016 17:46:40.909 +0000 (UTC)
+content-transfer-encoding: quoted-printable
+content-type: text/html; charset="UTF-8"
+Date: Tue, 12 Jul 2016 17:46:40 +0000
+From: "Jukely" <hi@juke.ly>
+Mime-Version: 1.0
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+Message-ID: <puycR7fvQhmTXGguuSusNQ@ismtpd0003p1iad1.sendgrid.net>
+Subject: NYC: Club cheval, Todd Terje, Excision, Knife Party, Boys Noize
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgYWtFlkfeux4mNPKBjGDklHmLUNssdGBtZIHR
+ 1CFLyu2h5kx4vkHYJ0brBwmiWN2YngDjOcsIAEP+Nbeb9TDydlcyzJmz23UY3ZyV31pME5DfjMOPB3
+ 39EEJ6zakQpID782ILuVm+kPdaXcLei6ljq24to9ieSvbFby59cfMWBaUg==
+X-SG-ID: QSJEyJDb52H8sJZHYz7ucED9NAEJdDcqpF1ysSksteE2My4FBvG2x+XD5pSmm6FWSelAhNWpUa4Lsi
+ 7+Jzayz9Vp1h21Bo7RG6E0FhNl5/NIO+yt9n7Wqs7M8Jja6N7C
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D
+<html xmlns=3D"http://www.w3.org/1999/xhtml">=0D
+<head>=0D
+	<title>Jukely Sound Projects - Concert Membership</title>=0D
+	<meta name=3D"description" content=3D"See DJs and bands every night from $=
+25/mo">=0D
+  <meta property=3D"fb:app_id" content=3D"255451291225293">=0D
+=0D
+  <meta property=3D"og:title" content=3D"Jukely - Concert membership">=0D
+  <meta property=3D"og:site_name" content=3D"Jukely">=0D
+  <meta property=3D"og:description" content=3D"Get guest list access to ton=
+s of shows for a monthly fee">=0D
+  <meta property=3D"og:type" content=3D"website">=0D
+  <meta property=3D"og:image" content=3D"https://www.jukely.com/og_logo.png=
+">=0D
+  <meta property=3D"og:url" content=3D"https://www.jukely.com">=0D
+=0D
+  <meta name=3D"twitter:card" content=3D"app">=0D
+  <meta name=3D"twitter:app:id:iphone" content=3D"590428284">=0D
+  <meta name=3D"twitter:app:country" content=3D"us">=0D
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /=
+><meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0" />=0D
+	<style type=3D"text/css">a{=0D
+				outline:none;=0D
+				color:#9b02ff;=0D
+				text-decoration:underline;=0D
+			}=0D
+			a:hover{text-decoration:none !important;}=0D
+			a[x-apple-data-detectors]{color:inherit !important; text-decoration:none=
+ !important;}=0D
+			.active:hover{opacity:0.8;}=0D
+			.active{=0D
+				-webkit-transition:all 0.3s ease;=0D
+				-moz-transition:all 0.3s ease;=0D
+				-ms-transition:all 0.3s ease;=0D
+				transition:all 0.3s ease;=0D
+			}=0D
+			a img{border:none;}=0D
+			table td{mso-line-height-rule:exactly;}=0D
+			.ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b,=
+ .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:inheri=
+t;}=0D
+			@media only screen and (max-width:500px) {=0D
+				/* default style */=0D
+				table[class=3D"flexible"]{width:100% !important;}=0D
+				table[class=3D"table-center"]{float:none !important; margin:0 auto !imp=
+ortant; width:auto !important;}=0D
+				*[class=3D"hide"]{display:none !important; width:0 !important; height:0=
+ !important; padding:0 !important; font-size:0 !important; line-height:0 !i=
+mportant;}=0D
+				span[class=3D"db"]{display:block !important;}=0D
+				td[class~=3D"img-flex"] img{width:100% !important; height:auto !importa=
+nt;}=0D
+				td[class~=3D"aligncenter"]{text-align:center !important;}=0D
+				tr[class=3D"table-holder"]{display:table !important; width:100% !import=
+ant;}=0D
+				th[class=3D"tcap"]{display:table-caption !important; width:100% !import=
+ant;}=0D
+				th[class=3D"thead"]{display:table-header-group !important; width:100% !=
+important;}=0D
+				th[class=3D"trow"]{display:table-row !important; width:100% !important;=
+}=0D
+				th[class=3D"tfoot"]{display:table-footer-group !important; width:100% !=
+important;}=0D
+				th[class=3D"flex"]{display:block !important; width:100% !important;}=0D
+				/* custom style */=0D
+				td[class~=3D"block-holder"], td[class=3D"padding-reset"]{padding-left:0=
+ !important; padding-right:0 !important;}=0D
+				td[class~=3D"frame"]{padding-left:8% !important; padding-right:8% !impo=
+rtant;}=0D
+				td[class=3D"pre-header"]{padding:23px 18px 73px 16px !important;}=0D
+				td[class=3D"top-td"]{height:auto !important; padding:17px 8% 20px !impo=
+rtant;}=0D
+				td[class=3D"bottom-td"]{padding: 18px 8% 3px !important;}=0D
+				td[class~=3D"content"]{padding:43px 8% 40px !important;}=0D
+				td[class=3D"pb10"]{padding-bottom:10px !important;}=0D
+				td[class=3D"block-title"]{font-size: 25px !important; line-height: 29px=
+ !important; padding-bottom:15px !important;}=0D
+				table[class~=3D"full-width"]{width:100% !important;}=0D
+				td[class=3D"pre-footer"]{padding:57px 30px 81px !important;}=0D
+				td[class=3D"w55"]{width: 55px !important;}=0D
+			}=0D
+	</style>=0D
+</head>=0D
+<body bgcolor=3D"#ffffff" style=3D"margin:0; padding:0; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%;">=0D
+<table bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" style=3D"min=
+-width:320px;" width=3D"100%"><!-- fix for gmail -->=0D
+	<tbody>=0D
+		<tr>=0D
+			<td style=3D"line-height:0;">=0D
+			<div style=3D"display:none; white-space:nowrap; font:15px/1px courier;">=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp;</div>=0D
+			</td>=0D
+		</tr>=0D
+		<!-- pre-header -->=0D
+		<tr>=0D
+			<td bgcolor=3D"#ff34b8" class=3D"block-holder" style=3D"padding:0 10px;"=
+>=0D
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600"><!-- fix for gmail -->=0D
+				<tbody>=0D
+					<tr>=0D
+						<td class=3D"hide">=0D
+						<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:600px !impo=
+rtant;" width=3D"600">=0D
+							<tbody>=0D
+								<tr>=0D
+									<td style=3D"min-width:600px; font-size:0; line-height:0;">&nbsp;<=
+/td>=0D
+								</tr>=0D
+							</tbody>=0D
+						</table>=0D
+						</td>=0D
+					</tr>=0D
+					<tr>=0D
+						<td class=3D"pre-header" style=3D"padding: 21px 0 87px;">=0D
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+							<tbody>=0D
+								<tr>=0D
+									<td>=0D
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+										<tbody>=0D
+											<tr>=0D
+												<td style=3D"line-height:20px; mso-line-height-rule:at-least;">=
+<span class=3D"sg-image" data-imagelibrary=3D"%7B%22width%22%3A%2299%22%2C%=
+22height%22%3A%2220%22%2C%22alt_text%22%3A%22JUKELY%22%2C%22alignment%22%3A=
+%22%22%2C%22border%22%3A0%2C%22src%22%3A%22http%3A//www.fouroverfour.jukely=
+.com/wp-content/uploads/2016/04/logo.png%22%2C%22link%22%3A%22http%3A//juke=
+ly.com/%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http:/=
+/track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNYK5TBcD-2FAYn4QvKCxmARPG=
+tJd4mia7MsfIOOmutXi8veNqRFYa8Vuy6bvc-2FOEQE6HXCBImnaWySKot3EYq0wwI-3D_xb69N=
+2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-=
+2BtqqswNSQ2u4-2F-2F470LUikRI9dFkzuUOE-2FbS6YcX5U1PveCNlbR80ANclxo5hRLEYVk-2=
+FS34q6V1Ax7UH-2FQESi0Jax-2Bg4QYiLM8yyLAo6RL9FIlSh7Mqnn4OBYOg6KrmmWuyO-2Bhdw=
+O3k6DrRkF6n4ruBEEnPfXaNmuWppRr76mcCdZ-2BQvL63fn8VPpO-2Fo8Q9Y5h7sHcDW-2FltuK=
+c9J7kzmO6TCsxQP6pX26f6btWwTyRqhUL-2BWOUGfQ3deZwLCZE4fRqvEumLKDqZmeDUVCCoBJU=
+9KiMzy8KYQj5iJM-3D" style=3D"text-decoration:none;" target=3D"_blank"><img =
+alt=3D"JUKELY" height=3D"20" src=3D"http://www.fouroverfour.jukely.com/wp-c=
+ontent/uploads/2016/04/logo.png" style=3D"vertical-align: top; font-style: =
+normal; font-variant: normal; font-weight: bold; font-stretch: normal; font=
+-size: 20px; line-height: 24px; font-family: Helvetica, Arial, sans-serif; =
+color: rgb(255, 255, 255); width: 99px; height: 20px;" width=3D"99" /></a><=
+/span></td>=0D
+												<td align=3D"right"><span class=3D"sg-image" data-imagelibrary=
+=3D"%7B%22width%22%3A%2226%22%2C%22height%22%3A%2226%22%2C%22alt_text%22%3A=
+%22%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%22%3A%22http%=
+3A//www.fouroverfour.jukely.com/wp-content/uploads/2016/04/ico.png%22%2C%22=
+link%22%3A%22http%3A//jukely.com/%22%2C%22classes%22%3A%7B%22sg-image%22%3A=
+1%7D%7D"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHW=
+oNYK5TBcD-2FAYn4QvKCxmARPGtJd4mia7MsfIOOmutXi8veNqRFYa8Vuy6bvc-2FOEQE6HXCBI=
+mnaWySKot3EYq0wwI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-=
+2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2Fy2WhTOMywSU-2Bz-2Bf1N8fdNpzTuI=
+sGPSQi58ohUSvGt-2FD6lgs3zfoQ3bXoueRTVSYCcoN0vovtC5K4-2Fc8ZLDYBbUdfHRSKCDm5j=
+LhZLryBPvs0QMXk3t4WPoLdel6PZd-2F0kSouU0-2FOsm7uslwOU8OM2n9BNtb467qkk6gIvbo5=
+z9K-2B6ud7yH6V2KgqaoIRxt-2FqgqkpDU2BCjm3I2cQyoOghmz-2B5FuySAVezJuBfTzOe7GCE=
+s26d-2Fut6mGt4iiHhTMsV7wgSvFEe5DHp9754mGUAo-3D" target=3D"_blank"><img alt=
+=3D"" border=3D"0" height=3D"26" src=3D"http://www.fouroverfour.jukely.com/=
+wp-content/uploads/2016/04/ico.png" style=3D"vertical-align: top; width: 26=
+px; height: 26px;" width=3D"26" /></a></span></td>=0D
+											</tr>=0D
+										</tbody>=0D
+									</table>=0D
+									</td>=0D
+								</tr>=0D
+							</tbody>=0D
+						</table>=0D
+						</td>=0D
+					</tr>=0D
+				</tbody>=0D
+			</table>=0D
+			</td>=0D
+		</tr>=0D
+		<!-- header -->=0D
+=0D
+=0D
+		=0D
+		<!-- content -->=0D
+		<tr>=0D
+			<td class=3D"block-holder" style=3D"padding:0 10px;">=0D
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">=0D
+				<tbody>=0D
+					=0D
+					=0D
+						<!-- begin section -->=0D
+=0D
+=0D
+							<tr>=0D
+								<td class=3D"content" style=3D"padding:36px 0 39px;">=0D
+								<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+									<tbody>=0D
+										<!-- two-columns -->=0D
+										<tr>=0D
+											=0D
+											<tr><td class=3D"padding-reset" style=3D"font:16px/24px Helvetic=
+a, Arial, sans-serif; color:#525252;"><b>Club cheval are making music for t=
+he future. - THUMP</b>.<br/><br/> </td></tr>=0D
+											=0D
+											<td style=3D"padding:0 0 30px;">=0D
+											<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+												<tbody>=0D
+													<tr>=0D
+														<th align=3D"left" class=3D"flex" style=3D"vertical-align:mid=
+dle; padding:0;" width=3D"324">=0D
+														<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+															<tbody>=0D
+																<tr>=0D
+																	<td class=3D"img-flex"><span class=3D"sg-image"><img alt=
+=3D"" src=3D"https://s3.amazonaws.com/jukely-assets/images/editorial/cc_liv=
+e_portugal.jpg" style=3D"vertical-align: top; width: 324px;" width=3D"324" =
+/></span></td>=0D
+																</tr>=0D
+															</tbody>=0D
+														</table>=0D
+														</th>=0D
+														<th class=3D"flex" height=3D"6" style=3D"padding:0;" width=3D=
+"31">&nbsp;</th>=0D
+														<th align=3D"left" class=3D"flex" style=3D"vertical-align:mid=
+dle; padding:0;">=0D
+														<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+															<tbody>=0D
+																<tr>=0D
+																	<td class=3D"pb10" style=3D"padding: 10px 0 30px;">=0D
+																	<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0D
+																		<tbody>=0D
+																			<tr>=0D
+																				<td style=3D"padding:0 0 13px;">=0D
+																				<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																					<tbody>=0D
+																						<tr>=0D
+																							<td style=3D"font:700 13px/16px Helvetica, Arial, sa=
+ns-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; bord=
+er: 2px solid #9b02ff; border-radius: 4px; padding:6px 12px;">SAT 7/23</td>=
+=0D
+																						</tr>=0D
+																					</tbody>=0D
+																				</table>=0D
+																				</td>=0D
+																			</tr>=0D
+																			<tr>=0D
+																				<td style=3D"font:700 22px/26px Helvetica, Arial, sans-=
+serif; color:#000; padding:0 0 3px;">Club cheval</td>=0D
+																			</tr>=0D
+																			<tr>=0D
+																				<td style=3D"font:20px/24px Helvetica, Arial, sans-seri=
+f; color:#000; padding:0 0 9px;">DISCIPLINE US TOUR</td>=0D
+																			</tr>=0D
+																			<tr>=0D
+																				<td style=3D"font:15px/20px Helvetica, Arial, sans-seri=
+f; color:#525252; padding:0 0 13px;">7:30pm &bull; The Marlin Room at Webst=
+er Hall</td>=0D
+																			</tr>=0D
+																			<tr>=0D
+																				<td>=0D
+																				<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																					<tbody>=0D
+																						<tr>=0D
+																							<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"ac=
+tive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff=
+; text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-p=
+adding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSP=
+phKY4XDeyZbOHWoNUPJlrKqHq5cZpaKowo-2BwzsDY6BE6ftTO-2BvVirhbjITPqfZcc3rTebJ7=
+8Xijy8LkS2qzQZFObv2FAOU4LhPhdcJE5CvBLgPM-2FBfLw-2BzIomC40fQpNra2Nc3wr9HC9uD=
+a1TgJ15AaB4hayvOWfcB7ePe09PM7uTIPKP4kQW-2FZQHUJyjKa3jMx1wktngeP-2Fssq3Q-3D-=
+3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-=
+2FbnUc5-2BtqqswNSQ2u4-2F-2F31maZTcIpyAksfZFcldPVK9C1ZCLIV5rJiReM5Lm5oiMm5LP=
+34n6oKa0A8UdbFzv3d-2F3xSQjoe16x6rCDdKCbBEGjJsOYE4ht4jnLdQFaZ2u17IN034du8x-2=
+FBaP7I9BnQWHETREfqQqhmIEcSbXu-2B9XX-2B1-2BirMXrBjf-2F65UkXuj6PX2h-2BjswqZdw=
+QM0honDEOtJVpXh8jFhX42iPNQQprvqrawg0EEu-2FVbNb-2BuNnFgWdla6YAHA0yqeqVf6pLfV=
+UPywbU-2FV-2F-2FkylS-2Fow3iFRVg-3D" style=3D"text-decoration:none; color:#f=
+ff; display:block; padding:14px 31px;">&nbsp; LEARN MORE &nbsp;&nbsp;</a></=
+td>=0D
+																						</tr>=0D
+																						<tr>=0D
+																							<td align=3D"center" bgcolor=3D"#ffffff" class=3D"ac=
+tive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff=
+; text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-p=
+adding-alt:14px 31px;">&nbsp;</td>=0D
+																						</tr>=0D
+																						<tr>=0D
+																							<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"ac=
+tive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff=
+; text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-p=
+adding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DoExUV=
+4rMo7aDsy-2B6fiwE6Bj391MVhK6shZedsz-2FzwB-2B63mK0JIE3b2jKMGULy-2BNPvWgxUbKU=
+slR6LTshGbiNtSC-2Bgfa667wzGkHX4M3bNgFNuN2DhzQsVf3onjPuUrt0YArN6Rj-2Bw46KIZ8=
+o69nM8Y7lCqceZhu0lrHIa8caHhQ-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351=
+hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F2fZDirl6DNmy44g9cmx=
+wDlyNykHvbVRV4lKGwT-2B8KjhUr5dM49-2BxOp7gxVe7NKW7iJOrD7cG9y5Fe61F2svEskcXNo=
+G0jzvEA9AhNQc-2BRjSCtPhkGp9Dwfv-2FiyLhBtZk6bCaIKfBws8EBP0-2Bc8nyec-2BcOXECe=
+egYOJ-2FVyj2l7HLYSTXGAIVrGcC-2Bdo0nevNBFdteUKUFE2fcp8G7IOMJmQ6pXjwDEFKYPX5Y=
+yZ9FQ8wg0yAYnsZ-2F0pg-2FV8ibGTGDg6lmYjjeSHsNt3EkJby5x4-3D" style=3D"text-de=
+coration:none; color:#fff; display:block; padding:14px 31px;">&nbsp; BUY TI=
+CKETS &nbsp;&nbsp;</a></td>=0D
+																						</tr>=0D
+																					</tbody>=0D
+																				</table>=0D
+																				</td>=0D
+																			</tr>=0D
+																		</tbody>=0D
+																	</table>=0D
+																	</td>=0D
+																</tr>=0D
+															</tbody>=0D
+														</table>=0D
+														</th>=0D
+													</tr>=0D
+												</tbody>=0D
+											</table>=0D
+											</td>=0D
+										</tr>=0D
+										<!-- full-width-text -->=0D
+										<tr>=0D
+											<td class=3D"padding-reset" style=3D"font:16px/24px Helvetica, A=
+rial, sans-serif; color:#525252; padding:0 150px 0 0;">=0D
+											<div>=0D
+												If you=E2=80=99re on the out, Club cheval is an absolutely deli=
+cious electronic boys club consisting of Myd, Panteros666, Canblaster, and =
+Sam Tiba.<br/><br/>=0D
+=0D
+												They released a new album, <a href=3D"http://track.juke.ly/wf/c=
+lick?upn=3DVXmSPphKY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy008xNHhpbp6ymnpRkgplYK=
+s4p57tAuwLVIDVIKjOkDog-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvY=
+tNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2FwOPEwffvPZCCEbXU5bizvL=
+gIhwZnRcn6Dunc3BDh9o38PIIVIsmtpy6o4U4h-2F4EiPT4jaCugl7e8Zza3uYV1C5vZquWlbr3=
+Vrd2I1seX5oc8P7ULYrteiol1-2Bj5GWWjuRD0nCACvr4YWOjFBCRzqPjIOU6FO3HFI5pqwjzTH=
+garnvoLi3dWIUxlHNKZX1RpGpm1WdFHsl-2BRSi05Kbt0zqb8ZQfHL0ApKB7kGTFwQE0NDHSIs6=
+QpadrQczix-2BGLwy5RhTTl-2BdBKABc9G6X-2FHloc-3D">Discipline</a>, earlier thi=
+s year, and are bringing an incredible live performance featuring new track=
+s off the album to The Marlin Room at Webster Hall on July 23rd, Saturday.<=
+br/><br/>=0D
+=0D
+												Jukely members can put themselves on the free-but-members-only =
+guest-list, and <a href=3D"http://track.juke.ly/wf/click?upn=3DoExUV4rMo7aD=
+sy-2B6fiwE6Bj391MVhK6shZedsz-2FzwB-2B63mK0JIE3b2jKMGULy-2BNPvWgxUbKUslR6LTs=
+hGbiNtSC-2Bgfa667wzGkHX4M3bNgFNuN2DhzQsVf3onjPuUrt0YArN6Rj-2Bw46KIZ8o69nM8Y=
+7lCqceZhu0lrHIa8caHhQ-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjG=
+GgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F1rGoJOfmbzhyujyZ01azOb7Z5Z=
+KIBijG-2FE5G0d3TIqVOMNV9c-2BmdoY3WHzK9Lj85JHSdhZYG18qt2-2FDPFz0DYVgli39qNbs=
+DktVYpDTIlkMNtu-2Fqzd4mTyiI-2Bt8vErAne8ewOhuUd6JZJ-2BuG0C5NzITEFfTfThMsCuBO=
+JMQvkbOZtNjZFdTvvM2E2uBz-2BaJtabzM1qmQn-2BMFFonD-2FF42l8P-2B-2BtQ1YyFedJplM=
+lH5RY7BcnTSXAaxIRgSBJGWF3tYVPobZ1yRYFMB8x7t-2FCvZUk-3D">tickets are on sale=
+</a> to the general public as well.=0D
+											</div>=0D
+											</td>=0D
+										</tr>=0D
+=0D
+=0D
+									</tbody>=0D
+								</table>=0D
+=0D
+								<div>&nbsp;</div>=0D
+								</td>=0D
+							</tr>=0D
+=0D
+=0D
+						<!-- end section -->=0D
+						=0D
+						=0D
+							=0D
+						=0D
+						=0D
+						=0D
+					=0D
+						<tr>=0D
+							<td class=3D"padding-reset" style=3D"font:16px/24px Helvetica, Arial=
+, sans-serif; color:#525252;" align=3D"center">=0D
+							<div>=0D
+								<br/><br/>=0D
+								<img src=3D"https://s3.amazonaws.com/jukely-assets/images/editorial=
+/jsp_logo.png" width=3D"80%" />=0D
+								<br/><br/>=0D
+							</div>=0D
+						</td>=0D
+						</tr>=0D
+					=0D
+					<tr>=0D
+						<td class=3D"padding-reset" style=3D"font:16px/24px Helvetica, Arial,=
+ sans-serif; color:#525252;">=0D
+						<div>=0D
+							<b>Knife Party, Boys Noize, Excision, Brillz, Ghastly, Health, Poli=
+=C3=A7a (Duo), Todd Terje, Lindstr=C3=B8m, Jaga Jazzist</b><p/>=0D
+							<i>Our first-ever Jukely Sound Projects Weekend is almost here. 4 sh=
+ows, 2 nights, 1 place.</i>=0D
+						</div>=0D
+					</td>=0D
+					</tr>=0D
+					=0D
+=0D
+					<!-- begin section -->=0D
+=0D
+					=0D
+						<tr>=0D
+							<td class=3D"content" style=3D"padding:36px 0 39px;">=0D
+							<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+								<tbody>=0D
+									<!-- two-columns -->=0D
+									<tr>=0D
+										<td style=3D"padding:0 0 30px;">=0D
+										<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+											<tbody>=0D
+												<tr>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;" width=3D"324">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"img-flex"><span class=3D"sg-image"><img alt=3D=
+"" src=3D"http://www.fouroverfour.jukely.com/wp-content/uploads/2016/04/No-=
+bad-days-new-f-675x1024.jpg" style=3D"vertical-align: top; width: 324px;" w=
+idth=3D"324" /></span></td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+													<th class=3D"flex" height=3D"6" style=3D"padding:0;" width=3D"=
+31">&nbsp;</th>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"pb10" style=3D"padding: 10px 0 30px;">=0D
+																<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0D
+																	<tbody>=0D
+																		<tr>=0D
+																			<td style=3D"padding:0 0 13px;">=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td style=3D"font:700 13px/16px Helvetica, Arial, san=
+s-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; borde=
+r: 2px solid #9b02ff; border-radius: 4px; padding:6px 12px;">FRI 7/29</td>=
+=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:700 22px/26px Helvetica, Arial, sans-s=
+erif; color:#000; padding:0 0 3px;">Todd Terje & The Olsens</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:20px/24px Helvetica, Arial, sans-serif=
+; color:#000; padding:0 0 9px;">Lindstr=C3=B8m, Jaga Jazzist</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:15px/20px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 13px;">7:00pm &bull; Studio E</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td>=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNbGQQ4qVUmxHKKoF58B0afjqWERs21mGSUkqoFDTpzwoVxAq1hh-2Ff5eJIM5=
+Imm3HMdSnUalcqSy766e0db4jRcEnaHEO8vmpK-2Bmlf-2BYqGOpzA1N5pgGyGWk2GHxzkijg4A=
+c15QSW49k82QUfDLGwAAgSgxc-2FO3N5DRahPSlXVLdcytvJy5nQKT2r7DtNEaSWuw-3D-3D_xb=
+69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnU=
+c5-2BtqqswNSQ2u4-2F-2F5gtq-2BDfiKKV2YysSywtGMv8sU3jAxbhktZjoiLc075uy7JFxNpR=
+gewhT49NSo3psekTvun-2Bnj2isLmVZchIMtRmbLs-2Bd9vCFIGiJ5buwpc9mP9c60Mi98ym2v6=
+CYE46aT5x3Z-2Fswj-2FRPsSI0NzyYR7DA0NmMLlF2XYvLKFyufqZged5STAo6lK-2BS9NXQFwi=
+Zu9GLpZvjZT1Yq7jmQXiamj1wDAJQUGsLgmxwu1FQV48S2EGk5fwoahGuIZ-2F8G0-2F9Stnrrz=
+-2FvMyfdBpZqG5mOAE-3D" style=3D"text-decoration:none; color:#fff; display:b=
+lock; padding:14px 31px;">&nbsp; LEARN MORE &nbsp;&nbsp;</a></td>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#ffffff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;">&nbsp;</td>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPgHjlGcRhHH0I3g79AspqYW3rSwk6LMxL0BVTHDp=
+lZxrdP-2FHiBlZDcEofCnuYL0-2FvDvo9nxcuO3lxcC-2BZaXmacFSFDSEDrxifoZqLRRleGBgW=
+qx1Ox96qzAxIeBCKnkYXI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjG=
+GgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2FzmdunYX20G9w7poxgMBIwocXbu=
+DVovqZ9wsi4XpIYypWzaMT4i1jrgkkjs6sKs88NKACQ2KdvnyGi5QYAV88dTg8kqlAkzGqOTKBQ=
+JDv-2FSHusGlT3R4UQRWwlM2l4PR6SotkV47TgeRx5Idwq4Sd-2BB-2BH0e8S5woXND0eEFHRZw=
+eUI7AZX6xUP0cPN-2Fj0n7voeQnwK8Zxc5aHxEh2TsDr1lWySzCxMMdRToELS-2FkHD1h9WlVSx=
+K7mJHiZOfjG8sod0pkeUNi6TVqPx9ZD2j0i6Y-3D" style=3D"text-decoration:none; co=
+lor:#fff; display:block; padding:14px 31px;">&nbsp; BUY TICKETS &nbsp;&nbsp=
+;</a></td>=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																	</tbody>=0D
+																</table>=0D
+																</td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+												</tr>=0D
+											</tbody>=0D
+										</table>=0D
+										</td>=0D
+									</tr>=0D
+									<!-- full-width-text -->=0D
+									<tr>=0D
+										<td class=3D"padding-reset" style=3D"font:16px/24px Helvetica, Ar=
+ial, sans-serif; color:#525252; padding:0 150px 0 0;">=0D
+										<div>=0D
+											Todd Terje is returning to NYC this summer, and we've got him as=
+ a part of our <i>Jukely Sound Projects</i> July event series. He'll be joi=
+ned by <b>Lindstr=C3=B8m and Jaga Jazzist</b>. Jukely members will have acc=
+ess to this show and tickets are <a href=3D"http://track.juke.ly/wf/click?u=
+pn=3DVXmSPphKY4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPgHjlGcRhHH0I3g79AspqYW3rSwk6=
+LMxL0BVTHDplZxrdP-2FHiBlZDcEofCnuYL0-2FvDvo9nxcuO3lxcC-2BZaXmacFSFDSEDrxifo=
+ZqLRRleGBgWqx1Ox96qzAxIeBCKnkYXI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZA=
+a351hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F81o-2BKRcyrlJUq=
+Y1GSyLURIpghWUXLA0op1BoJfkbYjw6b3GR4GvUH3Y8Xkv6gX5xXlVNJ53gYILNA3Dw9Z8-2B5r=
+324UWB3YW0508jdpOMGJIlT1w4oR-2FS4a0W1IQGs5z6DIw-2BvkPDD9NB-2BTnReKLwdDu67JH=
+mr7g8kYbquaMzPZHOXJ7JxG8A-2Bf3AnNf1o-2FrI5g-2BDZ4koasBWoi0yvzaA-2FWoJX6svBb=
+eZbWaTtaM9975XraJdytbA896G3dxJIjSOcQi7e0o4uAKSafj97yTwsQ-3D">on sale</a> to=
+ the general public right now.=0D
+										</div>=0D
+										</td>=0D
+									</tr>=0D
+=0D
+=0D
+								</tbody>=0D
+							</table>=0D
+=0D
+							<div>&nbsp;</div>=0D
+							</td>=0D
+						</tr>=0D
+					=0D
+					=0D
+					<!-- end section -->=0D
+					=0D
+					<!-- begin section -->=0D
+=0D
+					=0D
+						<tr>=0D
+							<td class=3D"content" style=3D"padding:36px 0 39px;">=0D
+							<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+								<tbody>=0D
+									<!-- two-columns -->=0D
+									<tr>=0D
+										<td style=3D"padding:0 0 30px;">=0D
+										<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+											<tbody>=0D
+												<tr>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;" width=3D"324">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"img-flex"><span class=3D"sg-image"><img alt=3D=
+"" src=3D"https://s3.amazonaws.com/jukely-assets/images/editorial/new_excis=
+ion_flyer.jpg" style=3D"vertical-align: top; width: 324px;" width=3D"324" /=
+></span></td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+													<th class=3D"flex" height=3D"6" style=3D"padding:0;" width=3D"=
+31">&nbsp;</th>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"pb10" style=3D"padding: 10px 0 30px;">=0D
+																<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0D
+																	<tbody>=0D
+																		<tr>=0D
+																			<td style=3D"padding:0 0 13px;">=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td style=3D"font:700 13px/16px Helvetica, Arial, san=
+s-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; borde=
+r: 2px solid #9b02ff; border-radius: 4px; padding:6px 12px;">FRI 7/29</td>=
+=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:700 22px/26px Helvetica, Arial, sans-s=
+erif; color:#000; padding:0 0 3px;">EXCISION</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:20px/24px Helvetica, Arial, sans-serif=
+; color:#000; padding:0 0 9px;">Brillz, Ghastly</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:15px/20px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 13px;">11:30pm &bull; Studio E</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td>=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgU7cMlyLBI79t7-2FUJjp4VqUjT4wZcfPRD8=
+8aPRx1-2BSw2SNAW5w1AM9y-2BkAPM4-2F5zS6fpoblqRLCk-2BnGXR8-2B8tIX-2BdoHjXWdMc=
+7mzGOfg1xl5stRbV17ZE4RVn5kRrmxJ6CBsjNIsaej1VKASFVUOqpE63Gb84kztr3qm-2FSyA6V=
+aLQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75l=
+ioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F-2F2sO04TczknuCSu60-2FwP057XBKn21A1ARs2nE=
+uKDjSd8E6xJqqYLamIDcMW7PfjOCRN-2BOWgWUlRli9r-2FCh0ci4iCu-2FNuqsIz6QOxc67xkQ=
+F11ZfoWdl68V7ttWTCNhCVl6aiZA-2B7xvya-2Be1eiUJGfGnFJytlbRjcyt0KRxjFhDCvHIyNp=
+fVrm7mcsoi7Rafa84sQ6FL43ZZCnkttvyKwC3rXhT0mayOrRtPO-2BznLn-2FaTC9chDm7EbTEZ=
+QkJXler6IlS84CoIxToPsqprUQcHO8-3D" style=3D"text-decoration:none; color:#ff=
+f; display:block; padding:14px 31px;">&nbsp; LEARN MORE &nbsp;&nbsp;</a></t=
+d>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#ffffff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;">&nbsp;</td>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPhzvvEpQ9tVW3rVkMoZnxGGRHMcqUkuF9WwLxxWv=
+28BhhCVur1ANZKnul4eYivufbJJL4S5LrbPT0aLj9D1t9FXaGsmN8sOmYw7brmVvSq0pQ-3D-3D=
+_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2F=
+bnUc5-2BtqqswNSQ2u4-2F-2F-2BGw75Duv0IcCNhI0UkDU0obuo8d2IrRSKKJqS98JyWT2xtMV=
+JahZFPCilLMGCyjavxSoJ2IOT6oq-2F-2Fdhz3gdGF-2FCtnJvzXGkhL7PAIkDWfoWRZ-2BZ-2B=
+jLNxxwzyajkOm3hhSbZXS2wcbO4z2jSCLnViIThh-2FLzZLFyqoHBzlZHBBAXoYqavX-2Bksgqt=
+go9tQCXVj4xFU2T-2BF8Hy2b5kyo2KlixtPFirY4ZWCQ6-2FI8EikDu9ps6wh36WOKtgvB32mz8=
+lm1gIi-2Ba-2FX1pu9wKF0bgvyA-3D" style=3D"text-decoration:none; color:#fff; =
+display:block; padding:14px 31px;">&nbsp; BUY TICKETS &nbsp;&nbsp;</a></td>=
+=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																	</tbody>=0D
+																</table>=0D
+																</td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+												</tr>=0D
+											</tbody>=0D
+										</table>=0D
+										</td>=0D
+									</tr>=0D
+									<!-- full-width-text -->=0D
+									<tr>=0D
+										<td class=3D"padding-reset" style=3D"font:16px/24px Helvetica, Ar=
+ial, sans-serif; color:#525252; padding:0 150px 0 0;">=0D
+										<div>=0D
+											Our late show at the warehouse on July 29th is with <b>Excision,=
+ Brillz and Ghastly</b>. This will be a very loud night of bass, to say the=
+ least. Tickets are <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphK=
+Y4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPhzvvEpQ9tVW3rVkMoZnxGGRHMcqUkuF9WwLxxWv28=
+BhhCVur1ANZKnul4eYivufbJJL4S5LrbPT0aLj9D1t9FXaGsmN8sOmYw7brmVvSq0pQ-3D-3D_x=
+b69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2Fbn=
+Uc5-2BtqqswNSQ2u4-2F-2F0Y0C5vof9-2BBHKNLc-2Bk-2BQcgZ8ufr9NYfllquC0gV69INI8x=
+FcpRhra-2F9GXG4cYrUBYU0sA9ND9AiY3eNkcjSQujEkiAX-2BNM1B2NwQQqBNzJ4rX3iPZcETM=
+Lst81iQoE2V4sbHW-2FN2AquHAiPnQyeCPlfmzrGNPCX5wjx4JLyBbjfPN4Cgyrsp-2Bf4EBnhL=
+FW54ODLJDV2JBiCgEuWtbaHHQOElaBdy6CmWcEW9iU72bRg3vq9pTs7mR8BiPO5boI5b2VrvW6l=
+v1YImZSwrT-2F3YgI-3D">on sale</a> and of course our members get guest list =
+access.=0D
+										</div>=0D
+										</td>=0D
+									</tr>=0D
+=0D
+=0D
+								</tbody>=0D
+							</table>=0D
+=0D
+							<div>&nbsp;</div>=0D
+							</td>=0D
+						</tr>=0D
+					=0D
+					=0D
+					<!-- end section -->=0D
+					=0D
+					<!-- begin section -->=0D
+=0D
+					=0D
+						<tr>=0D
+							<td class=3D"content" style=3D"padding:36px 0 39px;">=0D
+							<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+								<tbody>=0D
+									<!-- two-columns -->=0D
+									<tr>=0D
+										<td style=3D"padding:0 0 30px;">=0D
+										<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+											<tbody>=0D
+												<tr>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;" width=3D"324">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"img-flex"><span class=3D"sg-image"><img alt=3D=
+"" src=3D"https://s3.amazonaws.com/jukely-assets/images/editorial/bn_flyer.=
+jpg" style=3D"vertical-align: top; width: 324px;" width=3D"324" /></span></=
+td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+													<th class=3D"flex" height=3D"6" style=3D"padding:0;" width=3D"=
+31">&nbsp;</th>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"pb10" style=3D"padding: 10px 0 30px;">=0D
+																<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0D
+																	<tbody>=0D
+																		<tr>=0D
+																			<td style=3D"padding:0 0 13px;">=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td style=3D"font:700 13px/16px Helvetica, Arial, san=
+s-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; borde=
+r: 2px solid #9b02ff; border-radius: 4px; padding:6px 12px;">SAT 7/30</td>=
+=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:700 22px/26px Helvetica, Arial, sans-s=
+erif; color:#000; padding:0 0 3px;">Boys Noize (LIVE)</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:20px/24px Helvetica, Arial, sans-serif=
+; color:#000; padding:0 0 9px;">HEALTH, Poli=C3=A7a (Duo)</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:15px/20px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 13px;">7:00pm &bull; Studio E</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td>=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNV2VsmdDOCjKQpjph1BVdV7JCdrBmo1bJww-2FnYdoAwSztpR7GFn2pMsxInm=
+Wz3UBCKRmp2NFjHORSgESiohlTI3xpk0EQoitFkQSBIPFZr3cFvWXH-2F0ln-2FjSQXd0-2FYh4=
+IQaP1eHAA5b3qbLJWhtC2b-2BzgS9ku8oXxF3zZdoy-2F-2FPR-2FMfEy-2FHYi6RUmK9Fk2PXS=
+w-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lio=
+UZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F-2B4-2B3WklxJuYhcIOaJ-2BxDBg69LQqaQbwiNy8Nb=
+kq0-2BvjGke28q-2Fx0t-2BSrRrpb-2FLj739j0cqyuQnIU9oJQsqEBzLnvZCE68S4KbKAJ1T0y=
+0I8KNXiFAdl6lYXq8zOtH5swVkbat4xMyARdm-2BlZtdCbvtMYETamxcpUQPGYRJbKVVAc3Yzhd=
+4o6wsX7HlU5vah-2F2YFc8NbTxGY1PJWnuC0tZ1boxTJw5aGQa1fUIQurA4U2qsiwtP-2F0Xk-2=
+F5HGGYRR2rUjRqOwbjmVZAagPmKooBek-3D" style=3D"text-decoration:none; color:#=
+fff; display:block; padding:14px 31px;">&nbsp; LEARN MORE &nbsp;&nbsp;</a><=
+/td>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#ffffff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;">&nbsp;</td>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPg8dz44QkjTaMH9qM7X-2BXisuwFZCrM70wxbTZA=
+SY7ke0QdXnV24dfX2P-2FNGECSO9WO7toWrYAk9yJRC0ufn-2B9SQ-2B8RYOlZrGsSxRV0OYnA1=
+RQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75li=
+oUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F8TAiWUrwJ860LkhD1tZNTxivIpBkyrtYL0LliYxXG4=
+Y7trWoG5LhrV11xK4UprclZoLBH159e3n5LVEkYMKW71QrfMFKL1ev4tZLzOJG406wMwUVkC9bg=
+qQmbAcF26Vc5vuY-2F5-2B9gTJe-2FaVRizPaVJjwUdFBD6XV6YgPywoVHgiNSmM-2FuhTvTOAM=
+9BYxgdD9jDVgq9NNojLEjzFPx4DTAyl0oKjrb2GyAgv6zXC8rxVgl74llFuQSUjJfBxh-2Bt7rv=
+D0NI-2F3F2JB-2FEqMaEEWkCI-3D" style=3D"text-decoration:none; color:#fff; di=
+splay:block; padding:14px 31px;">&nbsp; BUY TICKETS &nbsp;&nbsp;</a></td>=
+=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																	</tbody>=0D
+																</table>=0D
+																</td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+												</tr>=0D
+											</tbody>=0D
+										</table>=0D
+										</td>=0D
+									</tr>=0D
+									<!-- full-width-text -->=0D
+									<tr>=0D
+										<td class=3D"padding-reset" style=3D"font:16px/24px Helvetica, Ar=
+ial, sans-serif; color:#525252; padding:0 150px 0 0;">=0D
+										<div>=0D
+											One of our favorite electronic acts, <b>Boys Noize</b>, has a br=
+and new album called <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNdL8VtKmWixmmOmCbuTDiy29mI0mcclndWLiHJe4bDEbOWtk-2FZHaKEi2jkqN=
+i5pusA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb=
+75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F5K3WnTeY66fQmx0pmd7V5zkxFthxr54mLcj6vu=
+zF6LI5S4vy60GA7AhAUUyO5zkw1CBnVR39c3wWFh6lPvIM3uaujVhXbLJl4IUD0S2bpC0p-2BCd=
+M-2FueRuD8x2Wa8NsVvTlnHOGl7Y5gjO4c7C1DDJG1CTPDeH34-2Bsq59hZ-2BREM4kHS2cUybL=
+OLXTMGDvWeLSBmYPYTQk-2Bl2SEZLhLCgW85uP3bKEGyynG4ra27CM65EejGRrjobzH3nAaMu9f=
+Cpt6uZp1BZ9sWxakH-2FsrPz-2F1o-3D">May Day</a>. Along with this album, he's =
+introducing a live show which will make its debut for the first time in New=
+ York at our <i>Jukely Sound Projects</i>. Joining Boys Noize, will be <b>H=
+ealth</b>, <b>Poli=C3=A7a</b> duo (vocalist Channy and producer Ryan playin=
+g a special live set), and <b>Venus X</b>. Tickets are <a href=3D"http://tr=
+ack.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPg8dz44=
+QkjTaMH9qM7X-2BXisuwFZCrM70wxbTZASY7ke0QdXnV24dfX2P-2FNGECSO9WO7toWrYAk9yJR=
+C0ufn-2B9SQ-2B8RYOlZrGsSxRV0OYnA1RQ-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1=
+b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F2nrwGPADZ=
+0OapOBGaD1YnR92-2BlqKaVH9XuDt4wOxPXRJH2PprM-2FMXVCh-2FmIr3wOUQjE6DK5j89aUsB=
+EV-2BhB5TsUzyT6-2BsB5JioyT24M-2F4OhyzYcNCUD4TiAOmJ-2Br5Kj3JHswiNh8coAcARX6G=
+F3tBsaKvQbAnNDosVLB6zS5-2Fc21-2Bc0YSxzooG-2FmgIMz74hJ1Bi4Hr2WYIpl7pGmoJg1Wa=
+IFqzLJIl-2BbG0v59qRHNwXc-2Fm72igCUY5Xv7ICcIM1mQ3TJq1Zr3Sjs43mor-2F0x1E-3D">=
+on sale</a> and our members get guest list access.=0D
+										</div>=0D
+										</td>=0D
+									</tr>=0D
+=0D
+=0D
+								</tbody>=0D
+							</table>=0D
+=0D
+							<div>&nbsp;</div>=0D
+							</td>=0D
+						</tr>=0D
+					=0D
+					=0D
+					<!-- end section -->=0D
+					=0D
+					=0D
+					<!-- begin section -->=0D
+=0D
+					=0D
+						<tr>=0D
+							<td class=3D"content" style=3D"padding:36px 0 39px;">=0D
+							<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+								<tbody>=0D
+									<!-- two-columns -->=0D
+									<tr>=0D
+										<td style=3D"padding:0 0 30px;">=0D
+										<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+											<tbody>=0D
+												<tr>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;" width=3D"324">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"img-flex"><span class=3D"sg-image"><img alt=3D=
+"" src=3D"https://scontent-lga3-1.xx.fbcdn.net/t31.0-8/13575889_93922655288=
+9676_2586757367484278690_o.jpg" style=3D"vertical-align: top; width: 324px;=
+" width=3D"324" /></span></td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+													<th class=3D"flex" height=3D"6" style=3D"padding:0;" width=3D"=
+31">&nbsp;</th>=0D
+													<th align=3D"left" class=3D"flex" style=3D"vertical-align:midd=
+le; padding:0;">=0D
+													<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+														<tbody>=0D
+															<tr>=0D
+																<td class=3D"pb10" style=3D"padding: 10px 0 30px;">=0D
+																<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0D
+																	<tbody>=0D
+																		<tr>=0D
+																			<td style=3D"padding:0 0 13px;">=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td style=3D"font:700 13px/16px Helvetica, Arial, san=
+s-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; borde=
+r: 2px solid #9b02ff; border-radius: 4px; padding:6px 12px;">7/30 SAT</td>=
+=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:700 22px/26px Helvetica, Arial, sans-s=
+erif; color:#000; padding:0 0 3px;">KNIFE PARTY</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:20px/24px Helvetica, Arial, sans-serif=
+; color:#000; padding:0 0 9px;">Delta Heavy, Fight Clvb, Callie Reiff</td>=
+=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td style=3D"font:15px/20px Helvetica, Arial, sans-serif=
+; color:#525252; padding:0 0 13px;">11:00pm &bull; Studio E</td>=0D
+																		</tr>=0D
+																		<tr>=0D
+																			<td>=0D
+																			<table cellpadding=3D"0" cellspacing=3D"0">=0D
+																				<tbody>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNeF3bIRWc-2BlwUMoF4CEWPFTpb2Xpc1jAX5b3W6x-2BPuOWLhL69wiDKZkf6=
+pQ9T217MUB6NeiXiVESQGWkiH4-2BnPo8t4wi54fq6-2BL3diQQwt7Dgz8LK2mQUpVcvkFYVJva=
+qUnFLUM3-2FrJLLSu9RVw1C1U1298Y3zQHSDt0H-2Bky1z-2FO9434Yc3SNH7HIGmcZvxxTw-3D=
+-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs=
+-2FbnUc5-2BtqqswNSQ2u4-2F-2F22-2BofVHFLEz-2BV6Bc5z6xGfM7x5NJp-2Flocy-2BE8C7=
+qUiFPYf5mpH1MHY5F31wnKxsGpTSfleEf9SOfJOk-2BHL9k6OrlIdUbUj42Qy0-2BXAFnS4XqOt=
+ACZDSNxM03RFE4hXUjd-2FWiuj22ylWCJa0Yj4ehNuD0LkAd5XZcujeBYPqXxoFKx7pIB7P5I3-=
+2B-2BEFP9kIs7Z-2FizSkk6K8-2BxaJyhZGTd2uWRgP6MT6lVXsfRwNVRNXR0TJ7wAmNrXUQYs8=
+ntnrW13AOWBEpUFMWm6vYtgxEE-2Fo-3D" style=3D"text-decoration:none; color:#ff=
+f; display:block; padding:14px 31px;">&nbsp; LEARN MORE &nbsp;&nbsp;</a></t=
+d>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#ffffff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;">&nbsp;</td>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPp=
+hKY4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPgS29DdmrrJJafEzxtqZCSLjXOiLVSMuXRHxQt6k=
+EpNi9zEGumJkS-2FO2uAOwe-2FcqcGeMSkieHhNrt680BNuqvDzvUTv74da1XBGlr1-2FESpm1A=
+-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioU=
+ZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F8345JdvERtfZBI5H31-2FktS3l3t0Vs6ptq84uFmItxI=
+IgFYzs96AWi6S8A2aT8Z9IXE-2BYTpwCWmg2nhbJm1wmQDcv22SEmvqalfOVwDudj0PxUdEh9d-=
+2B3BMQ664Xoc-2FDERlQvBH7PSDc6hCKsko2ZQ-2F67oK1Zi-2B7vqNeuljAJhPdF1PXQ7BIBlg=
+WgAel0Va340s7N-2FrBK-2BsEH1q6m4LVZ-2FxM2HVAu-2BPdZawPbMvhyMjWGrtykxBFGcZm8-=
+2BT4OKX-2Fth25uu3-2Bwj9zTWz2Qt6UMzY-3D" style=3D"text-decoration:none; colo=
+r:#fff; display:block; padding:14px 31px;">&nbsp; BUY TICKETS &nbsp;&nbsp;<=
+/a></td>=0D
+																					</tr>=0D
+																					<tr>=0D
+																						<td align=3D"center" bgcolor=3D"#ffffff" class=3D"act=
+ive" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff;=
+ text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pa=
+dding-alt:14px 31px;">&nbsp;</td>=0D
+																					</tr>=0D
+																				</tbody>=0D
+																			</table>=0D
+																			</td>=0D
+																		</tr>=0D
+																	</tbody>=0D
+																</table>=0D
+																</td>=0D
+															</tr>=0D
+														</tbody>=0D
+													</table>=0D
+													</th>=0D
+												</tr>=0D
+											</tbody>=0D
+										</table>=0D
+										</td>=0D
+									</tr>=0D
+									<!-- full-width-text -->=0D
+									<tr>=0D
+										<td class=3D"padding-reset" style=3D"font:16px/24px Helvetica, Ar=
+ial, sans-serif; color:#525252; padding:0 150px 0 0;">=0D
+										<div>=0D
+											Yes, you read that right. We're excited to announce our July 30t=
+h late show with Knife Party. The free RSVP list filled up and is now close=
+d. You can buy your tickets <a href=3D"http://track.juke.ly/wf/click?upn=3D=
+VXmSPphKY4XDeyZbOHWoNfxKvmmzw33p2GLNumzSKPgS29DdmrrJJafEzxtqZCSLjXOiLVSMuXR=
+HxQt6kEpNi9zEGumJkS-2FO2uAOwe-2FcqcGeMSkieHhNrt680BNuqvDzvUTv74da1XBGlr1-2F=
+ESpm1A-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb=
+75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F6ozS8UTSJaIyHuVLGI5kX-2BjWRqNu72i3wrZO=
+4HjiywQKirbxO9mazGx1cZgAa1Q9xFi2x4olpMqtNQJ4TarXhrRdBoBTJLFeXwHyqofzwilGWpg=
+UQMME-2FxT-2BMn8yQczU9yOSGiKbaXMNYZqi79-2FhbZPQ0aH7mc2wFyFJfA6DYZtP9sTRwpN2=
+vKZ2NQoNUjTJi7lzI34ofB5RSm-2Bc2b5WAL3C6zxBsOYYaou-2Bc9eI5qX5vpSUY0SI8YDL3U1=
+r-2BZFhr17V0dZlE3W-2BVDAlwGHKaA-3D">here</a>. Of course Jukely members will=
+ have guest list access to this show.=0D
+										</div>=0D
+										</td>=0D
+									</tr>=0D
+=0D
+=0D
+								</tbody>=0D
+							</table>=0D
+=0D
+							<div>&nbsp;</div>=0D
+							</td>=0D
+						</tr>=0D
+					=0D
+					=0D
+					<!-- end section -->=0D
+					=0D
+					=0D
+					=0D
+				</tbody>=0D
+				=0D
+				=0D
+				=0D
+			</table>=0D
+			</td>=0D
+		</tr>=0D
+		<!-- violet-block -->=0D
+		<tr>=0D
+			<td bgcolor=3D"#2c004a" class=3D"block-holder">=0D
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">=0D
+				<tbody>=0D
+					<tr>=0D
+						<td class=3D"frame" style=3D"padding: 72px 160px 66px 0;">=0D
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+							<tbody>=0D
+								<tr>=0D
+									<td class=3D"block-title" style=3D"font:30px/36px Helvetica, Arial=
+, sans-serif; color:#fff; padding: 0 0 11px;">Go out with us, every night.<=
+/td>=0D
+								</tr>=0D
+								<tr>=0D
+									<td style=3D"font:16px/24px Helvetica, Arial, sans-serif; color:#f=
+ff; padding: 0 0 39px;">Get guest list access to tons of shows with a month=
+ly membership. 14 day free preview.</td>=0D
+								</tr>=0D
+								<tr>=0D
+									<td style=3D"font:bold 12px/14px Helvetica, Arial, sans-serif; col=
+or:#ff93dc; text-transform: uppercase; letter-spacing: 1.1px; padding: 0 0 =
+41px;">$25/MO &nbsp;&bull;&nbsp; NO OTHER FEES</td>=0D
+								</tr>=0D
+								<tr>=0D
+									<td>=0D
+									<table cellpadding=3D"0" cellspacing=3D"0">=0D
+										<tbody>=0D
+											<tr>=0D
+												<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"active" style=
+=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff; text-tran=
+sform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-padding-alt:=
+14px 26px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZb=
+OHWoNYK5TBcD-2FAYn4QvKCxmARPGtJd4mia7MsfIOOmutXi8veNqRFYa8Vuy6bvc-2FOEQE6HX=
+CBImnaWySKot3EYq0wwI-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGG=
+gX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F6QiKpOO-2BOig7koptpZDyIyB-2=
+B3VVvFQo3JV3p01hmgIOViRWYdBsh3L4CaEJxSk-2BlPTR9ftPKmvpAWZrI0WktyJNv13ONXPeJ=
+nW9nrLBTHoz8oazgWIsw8G6jtoWewvLHfeD1660ZH7wOpXp1dGKGv5dt22sGvQFkxkPbiXyLMTz=
+490Ect5k3GndiPfYjrB7GFUeRIjvfKAR7dfF2WSMuRn0vaq02qtB1-2FpW6H6nmjCg751bweycv=
+bou3S85VipI-2FMFYT4roWqeLRUY-2BeWCBi1E-3D" style=3D"text-decoration:none; c=
+olor:#fff; display:block; padding:14px 26px;">LEARN MORE</a></td>=0D
+											</tr>=0D
+										</tbody>=0D
+									</table>=0D
+									</td>=0D
+								</tr>=0D
+							</tbody>=0D
+						</table>=0D
+						</td>=0D
+					</tr>=0D
+				</tbody>=0D
+			</table>=0D
+			</td>=0D
+		</tr>=0D
+		<!-- pre-footer -->=0D
+		<tr>=0D
+			<td class=3D"block-holder" style=3D"border-bottom: 1px solid #e1dee2; pa=
+dding:0 10px;">=0D
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">=0D
+				<tbody>=0D
+					<tr>=0D
+						<td class=3D"pre-footer" style=3D"padding: 58px 0 63px;">=0D
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+							<tbody>=0D
+								<tr>=0D
+									<th align=3D"left" class=3D"flex" style=3D"padding: 0;" width=3D"3=
+80">=0D
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+										<tbody>=0D
+											<tr>=0D
+												<td class=3D"aligncenter" style=3D"font:bold 13px/14px Arial, H=
+elvetica, sans-serif; color:#310842; text-transform: uppercase; letter-spac=
+ing: 1.4px; padding: 10px 0 0;">GET ON THE JUKELY APP</td>=0D
+											</tr>=0D
+										</tbody>=0D
+									</table>=0D
+									</th>=0D
+									<th class=3D"flex" height=3D"30" style=3D"padding: 0;" width=3D"43=
+">&nbsp;</th>=0D
+									<th class=3D"flex" style=3D"padding: 0;" width=3D"174">=0D
+									<table align=3D"right" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"table-center">=0D
+										<tbody>=0D
+											<tr>=0D
+												<td class=3D"active" width=3D"46"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2246%22%2C%22height%22%3A%2257%22%2C%22a=
+lt_text%22%3A%22android%22%2C%22alignment%22%3A%22center%22%2C%22border%22%=
+3A0%2C%22src%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/upload=
+s/2016/04/ico-android.png%22%2C%22link%22%3A%22https%3A//play.google.com/st=
+ore/apps/details%3Fid%3Dcom.jukely%26hl%3Den%22%2C%22classes%22%3A%7B%22sg-=
+image%22%3A1%7D%7D" style=3D"float: none; display: block; text-align: cente=
+r;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNd8f=
+fg6uHTK-2FIqFajoj7xN5rL7sSbDVTxGB3hw81xnNMEu8CrZh-2B7U0PkahJ4xEgZSKCmbMwXAh=
+nsPZIKYdGdj0-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDj=
+Agb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F2wvoEz2wj1M21GKnzXRkgVUZzQfusMAEUHr=
+05P-2BV6Q4prFUIl2ro5CFNHwC4oCmpGrYz2shCl1uglEgqkhMkO9d0Mv4DSjO1-2BbcnhWk-2F=
+8BQaW5izRLFCx4QaMQqpvXWEhEuCTqqprIkQG4zKLYuV-2FBbia-2Bho83xrYristYblKomZdbp=
+wsQ-2B2SLx-2B3AE73kETNIE-2FLqVot8NIPD0il8SWplHU-2BNx-2FUCzbQ7kD-2BEuUE7fMgz=
+JqMN1wAJFCE1rn6HrgjCuCp-2FsH5iIJkrQCS1NSAo-3D" target=3D"_blank"><img alt=
+=3D"android" border=3D"0" height=3D"57" src=3D"http://www.fouroverfour.juke=
+ly.com/wp-content/uploads/2016/04/ico-android.png" style=3D"vertical-align:=
+ top; width: 46px; height: 57px;" width=3D"46" /></a></span></td>=0D
+												<td class=3D"w55" width=3D"82">&nbsp;</td>=0D
+												<td class=3D"active" width=3D"46"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2246%22%2C%22height%22%3A%2253%22%2C%22a=
+lt_text%22%3A%22apple%22%2C%22alignment%22%3A%22center%22%2C%22border%22%3A=
+0%2C%22src%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/=
+2016/04/ico-apple.png%22%2C%22link%22%3A%22https%3A//itunes.apple.com/us/ap=
+p/jukely-your-concert-membership/id590428284%3Fmt%3D8%22%2C%22classes%22%3A=
+%7B%22sg-image%22%3A1%7D%7D" style=3D"float: none; display: block; text-ali=
+gn: center;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZ=
+bOHWoNapuL9e3hDYgb5ezVvbBoWIwrlmWKsaTiIe5t5TQqPddkQGicouIAOBbyfpNR1cdZyOG4r=
+6MHYCm0rJIdoCOm-2Bz7M9ozr-2FLvAI96uqEwhXEq_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ=
+1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F2IEySNKB=
+DgAbY5oyYy3-2BBX0LP1R-2BJNo7tn-2BcmvIuCgMtJhVjtMydl-2BUI9-2FlGDwM1aGzIR32wx=
+y7Vik8pLw9q0dVRUaZr2pvrOxMW5FiLPdFi3KdbF2NQYr-2FrbdxgFjKsaxS6oDeik0Pukdc8AY=
+TSLinaH-2FEdWDOjf2AlH1YUnACK12dUoE0thxXiKw8xpKnwFPBQ2fgFTp5Z3wFQqDzqR7y9jOq=
+ILZyreoSRkFrgZaK-2BBLrKCitFkGDMeMbp7sTh8nKRbjEZ2PxLy3Y8MRUq6E-3D" target=3D=
+"_blank"><img alt=3D"apple" border=3D"0" height=3D"53" src=3D"http://www.fo=
+uroverfour.jukely.com/wp-content/uploads/2016/04/ico-apple.png" style=3D"ve=
+rtical-align: top; width: 46px; height: 53px;" width=3D"46" /></a></span></=
+td>=0D
+											</tr>=0D
+										</tbody>=0D
+									</table>=0D
+									</th>=0D
+									<th class=3D"hide" style=3D"padding:0;" width=3D"3">&nbsp;</th>=0D
+								</tr>=0D
+							</tbody>=0D
+						</table>=0D
+						</td>=0D
+					</tr>=0D
+				</tbody>=0D
+			</table>=0D
+			</td>=0D
+		</tr>=0D
+		<!-- footer -->=0D
+		<tr>=0D
+			<td class=3D"block-holder" style=3D"padding:0 10px;">=0D
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">=0D
+				<tbody>=0D
+					<tr>=0D
+						<td class=3D"frame" style=3D"padding: 51px 200px 40px 0;">=0D
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+							<tbody>=0D
+								<tr>=0D
+									<td style=3D"padding: 0 0 37px;">=0D
+									<table cellpadding=3D"0" cellspacing=3D"0">=0D
+										<tbody>=0D
+											<tr>=0D
+												<td class=3D"active" width=3D"28"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2228%22%2C%22a=
+lt_text%22%3A%22in%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22sr=
+c%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/2016/04/i=
+co-instagram.png%22%2C%22link%22%3A%22http%3A//instagram.com/jukely%22%2C%2=
+2classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/=
+wf/click?upn=3DFmrldxErjk26cymxNCOYaQOPF0-2FI1t-2FBahknMj8qHTEMh9vbU7sKJbZS=
+vYerjEdd_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75li=
+oUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F-2FLqf3naZY7FTz7YyF8S-2BBAB1s04l9u8vixRCb-=
+2Fviqxw-2BlrnPgQD0MayHDy7ySmVuHf7qB8wv2usO9R9SHPGlgnlkWKZynzuAvR8v-2FvL-2FG=
+qxSJczq-2BlvNP-2FjYG45XkvtH5FTlQ2lXGFOQexfcC9jv-2BmSDiG1zh9ZwyBFXP584gZsHl-=
+2BEuKZMAFBGOvMr2AE-2BBD5X-2FzxqRv5wGb8ZuUNQ8i7oFwhj-2Blbq7V8ZwUhlpbfCwRjjR5=
+F-2BMq9rZTlHHBgzNoexKL0KGHXgqwXfd-2Br0p4I-3D" target=3D"_blank"><img alt=3D=
+"in" border=3D"0" height=3D"28" src=3D"http://www.fouroverfour.jukely.com/w=
+p-content/uploads/2016/04/ico-instagram.png" style=3D"vertical-align: top; =
+width: 28px; height: 28px;" width=3D"28" /></a></span></td>=0D
+												<td width=3D"21">&nbsp;</td>=0D
+												<td class=3D"active" width=3D"28"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2228%22%2C%22a=
+lt_text%22%3A%22fb%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22sr=
+c%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/2016/04/i=
+co-facebook.png%22%2C%22link%22%3A%22http%3A//facebook.com/jukelyapp%22%2C%=
+22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly=
+/wf/click?upn=3Dq5GdJANgzHoODmOQ9g28etjvoARZJGU8EJDCUp6x56kctoUhNZjUSLziKBT=
+se5hz_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZ=
+Ns-2FbnUc5-2BtqqswNSQ2u4-2F-2FyUBf3cVKQSHubxsu7ialXfMjF4CWEo-2BY5e-2BqCVi7y=
+NxuO3VgcqZsJIaemMbNs8N6cyDsKCqiQzfxZWwHQcqPp-2B8IzkGZ-2FKdfKMOglW-2FI-2FVY9=
+m0B4kEIGv2Kja86tz-2F-2FuywmfJ-2FA7Mdl9YYZlKLS5-2F88-2FxvV8iVJ4vyFytxTZ1lsSs=
+oXfP5KvrheaSkc1ASl79UFfu0uMHDhbUwx5f7UWrqEeo26Z2lNDwaNaUVaHunz7pqtLQZbyOS3B=
+cKwgU1h2297Z-2BFyNP3NBkgbrop7rgM-3D" target=3D"_blank"><img alt=3D"fb" bord=
+er=3D"0" height=3D"28" src=3D"http://www.fouroverfour.jukely.com/wp-content=
+/uploads/2016/04/ico-facebook.png" style=3D"vertical-align: top; width: 28p=
+x; height: 28px;" width=3D"28" /></a></span></td>=0D
+												<td width=3D"21">&nbsp;</td>=0D
+												<td class=3D"active" width=3D"28"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2223%22%2C%22a=
+lt_text%22%3A%22tw%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22sr=
+c%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/2016/04/i=
+co-twitter.png%22%2C%22link%22%3A%22http%3A//twitter.com/jukely%22%2C%22cla=
+sses%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/wf/c=
+lick?upn=3D3QihKcNaduXmwDLFG1HPsayBqYclg2yfoviy-2BmryIZhYQeAePxBLP9FyLZ2d3r=
+Dn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-=
+2FbnUc5-2BtqqswNSQ2u4-2F-2F3KNXstQONxYFU9md2J45vOhS9hjb-2FcC71r3SxhZmUTj8JD=
+8xCVanWWSU4L8LUyII7FdBEUfUW6ElH07yjLdcxl-2BFPWP2Wjm-2FQjcI5kpVCp9GXAK-2FHoI=
+KG7JKxPb11fFArBYqkiTymO2H1otdq62OVBZRisGGN74fX2MrFbV6pGsLTsyDW-2F4NEeYLa8nN=
+yBqD2Y5NxmIL6son-2BomOiGHvdfdpINpdUW8xwOW0hrADz7PR91a0DXZbjXGb2U7bJ-2Bj6VJt=
+ru1iSm2Qlt2vGOIMCZw-3D" target=3D"_blank"><img alt=3D"tw" border=3D"0" heig=
+ht=3D"23" src=3D"http://www.fouroverfour.jukely.com/wp-content/uploads/2016=
+/04/ico-twitter.png" style=3D"vertical-align: top; width: 28px; height: 23p=
+x;" width=3D"28" /></a></span></td>=0D
+											</tr>=0D
+										</tbody>=0D
+									</table>=0D
+									</td>=0D
+								</tr>=0D
+								<tr>=0D
+									<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; color:#c=
+5bdc8; padding: 0 0 10px;">Copyright &copy; 2016 Jukely, Inc., All rights r=
+eserved.</td>=0D
+								</tr>=0D
+								<tr>=0D
+																<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; c=
+olor:#c5bdc8;">If you wish to stop receiving these recommendation emails, s=
+imply <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNf=
+thbT8z5U8idb0yKe9jtl3AaAN0Xzz4C3eOv-2Bhb0z1C_xb69N2IWj9cpa7VY1jz2n0Hql-2Btc=
+gQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2F4Pfxxx=
+o4SKy3bGbdrlrfRE7yd0PVcFJcdqBF0XBPVXbXKmjflABk2gqTj5Ol-2FdZH6zdZOplfr4ZXycd=
+ubJHBBaxM0gEE-2BB0tj5MDMn-2FcKs19i7XU9I5XGol4j-2FzqN1GJgbb0EYD03pD2-2BRwELn=
+rC6ofgxNCP-2FMxcvtdeSb36Ces-2B3Vtuj-2By0TA2bIUQVEEMpnr9HLsY9NfpvcJ4s9PR6dtJ=
+zndk5lvXDes78HTaBqUQs7Eu-2Fi-2BPpkTJ6sOy4PIoDUicVkROhzmLnMvlFKsxDOE-3D" sty=
+le=3D"text-decoration:underline; color:#c5bdc8;" target=3D"_blank">update y=
+our preferences</a> or <a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSP=
+phKY4XDeyZbOHWoNZaTE-2BFP-2FtRzN1umYnV-2BTnWVMTZussQkR1rwt2IIKvG5JM-2BGZ5BI=
+G9GGqqVgMp3gSteCEa0PTrXavAaTz6oZqPqWHWQ7c-2F41YG3f829E3GuffrWSSijji-2FEsOlF=
+eBM49xUIIiV6rGvQo5snwNuxdV0Q-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351=
+hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2FyExmPURucK0Xs9lflb1=
+NFBUJ1uhJm4N8O0nD3zgGmlsLEqyQgCyM9IpRN2c3X0XXMwV34LISg9gXvOVxvkanP3C1GFHREp=
+yWaBBtFAG37iV1NtIMcqVxu8BvnGHioovF1frz9G6KhDST-2BOEcTFIT67lG6OS0-2Fxdnuf1Xe=
+C9DxaBAuHPag-2FJtAgvsnFM82T9Cp7j7qWTNxP5rWSxcb337vVEI7CuJTxQeDTSnVzb4VFauPC=
+-2BGriS8NEs4tuLX0L7THNp-2F908Vl57RhQE3VH8XGs-3D">unsubscribe.</a></td>=0D
+															</tr>=0D
+							</tbody>=0D
+						</table>=0D
+						</td>=0D
+					</tr>=0D
+				</tbody>=0D
+			</table>=0D
+			</td>=0D
+		</tr>=0D
+	</tbody>=0D
+</table>=0D
+
+<img src=3D"http://track.juke.ly/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYtNjGGgX-2FxDjAgb75lioUZNs-2FbnUc5-2BtqqswNSQ2u4-2F-2Fzkek=
+-2BmqFHXMpZiRFeL6PahD9BCWzUcjnWS8Fr7qnzxwdZBaLlgVwNSIDzorNXXQMK6mXv0EA3w8kM=
+AOsuFGrgU1ka0RK5pgpfRNeSvoBh0rQb7DTYFWUMou-2BiAxQkOCBPWKu8Iuec94UcqyFHNQi7z=
+jze3OrTrXU3wnmU70eANBKSz74ArT7bGDzrofLBz2fKc9A8cigVOMdqQxplu7Dw-2B-2FiFsOV7=
+eNqwbGjbhufwj9wqyJXg4-2Bhkz5e3GcD3O08TKUpRqDqhcRe2-2B3f4gPg7M-3D" alt=3D"" =
+width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:=
+1px !important;border-width:0 !important;margin-top:0 !important;margin-bot=
+tom:0 !important;margin-right:0 !important;margin-left:0 !important;padding=
+-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;pa=
+dding-left:0 !important;"/>
+</body>=0D
+</html>=0D
+

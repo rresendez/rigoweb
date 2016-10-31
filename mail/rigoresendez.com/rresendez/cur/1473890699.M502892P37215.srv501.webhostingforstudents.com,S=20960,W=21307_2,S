@@ -1,0 +1,347 @@
+Return-Path: <010001572abaa9ac-ee0b5081-50d1-4b1c-835c-9891c9668235-000000@amazonses.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id YRLtHYvJ2VdfkQAATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 14 Sep 2016 18:04:59 -0400
+Return-path: <010001572abaa9ac-ee0b5081-50d1-4b1c-835c-9891c9668235-000000@amazonses.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 14 Sep 2016 18:04:59 -0400
+Received: from a9-116.smtp-out.amazonses.com ([54.240.9.116]:33568)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <010001572abaa9ac-ee0b5081-50d1-4b1c-835c-9891c9668235-000000@amazonses.com>)
+	id 1bkIId-0009h3-B7
+	for rresendez@rigoresendez.com; Wed, 14 Sep 2016 18:04:59 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1473890658;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=6O5+2VGYuW3chr4f7DTxWjVZFjY43ku/CU9lSeno/a8=;
+	b=vNC5EldJyDVAKyY+f6fyiEf/9QV9uuJnJemN2pacDSQZTODNylHVXfG3GbnGCLqR
+	yDGCzwEBz1pKUfhNMqak/Mw/3jhjhNSugCf9XoOwW1iVAW4r4Swq+R2cJb/9Uh2v7j/
+	GPu6jWs75IaQTo92ohSGSnna2obb+7OGY0MuhgMA=
+Content-Type: multipart/alternative;
+ boundary="===============3014091162051939717=="
+MIME-Version: 1.0
+Subject: The PythonAnywhere newsletter, September 2016
+From: support@pythonanywhere.com
+To: rresendez@rigoresendez.com
+Date: Wed, 14 Sep 2016 22:04:18 +0000
+Message-ID: <010001572abaa9ac-ee0b5081-50d1-4b1c-835c-9891c9668235-000000@email.amazonses.com>
+X-SES-Outgoing: 2016.09.14-54.240.9.116
+Feedback-ID: 1.us-east-1.aqqnUrZmkJIrlKHtYGlEE4aeMYQu5NC3dm604Ru5da8=:AmazonSES
+
+--===============3014091162051939717==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+The PythonAnywhere newsletter, September 2016
+=============================================
+
+We try to get a newsletter out every month, but in August we were all too busy working on our latest and
+greatest features to manage it.  It wasn't that we were all out sunning ourselves, honest :-)
+
+Here's what we were up to:
+
+
+A new system image
+------------------
+
+This is actually quite a big deal, even if it might seem a bit dull at first glance.  Accounts that
+have been created since 8 September have more recent versions of all of our
+[batteries included](https://www.pythonanywhere.com/batteries_included/).
+For example, while older accounts have Django 1.3.7 installed for Python 2.7, newer accounts get Django 1.10.
+The old image is called "classic" because we couldn't think of a better name, and the new one is called
+"dangermouse" because we remember the children's television of the UK in the 1980s *much* too well.
+
+You can see how the two images differ by trying different filters on the batteries included page (which
+is now a shiny, JavaScript-driven, filterable list rather than a simple static page). If you have an
+older account and want to switch to the new system image, just drop us a line at
+[support@pythonanywhere.com](mailto:support@pythonanywhere.com).  Be warned: if you have old code that
+depends on the old Python packages, then it might stop working.  So check your code first.
+
+So, why did this take so long?  And why do we think it's a big deal?  Well, one of the development practices
+we follow here is what we call "Embarrassment-Oriented Project Management".  In a nutshell, this says "if
+you're trying to work out what you need to work on next, ask yourself what makes you blush when you have
+to explain it to someone"...  One of the things that was a tad embarassing was that we only supported
+Django 1.3.7 for Python 2.7.  Sure, we supported later Django versions for later Python versions, but still.
+
+But we had a problem.  Until now, everyone on our site had to use the same system image,
+with the same versions of everything.  We could add new things -- which is why, when Python 3.5 was installed,
+it had recent versions of all the system packages.  But we couldn't upgrade anything for older Python versions, because
+it would have meant breaking any code that people had running that depended on the old system models.  If
+you had a Django 1.3.7 website, and we upgraded to 1.10, then your site would suddenly stop working, and
+you'd have to change the code to make it work again.  That would have been rather rude of us, so we didn't do
+it.
+
+So what we needed to do was develop a way for different people to have different system images.  For a while,
+we thought that Docker was the solution -- but unfortunately (for reasons related to scalability in our
+specific environment) it turned out not to be.  So we've extended our virtualization system to support multiple
+system images.
+
+More images will come in the future, once we've thought of an appropriately-irreverent name starting with
+"E" for the next one.
+
+Right, enough of that!  What else?
+
+
+
+Let's Encrypt
+-------------
+
+Let's Encrypt is a project supported by the Linux Foundation to help secure the web by providing free
+HTTPS certificates for any domain you own.  Its certificates are just as good as ones that you pay for
+in almost every way -- the only downside is that you have to renew them once every few months rather than
+once a year.  (That's also a security feature, of course, because if someone steals your private key then
+they can only impersonate you for a few months rather than a year.  But it is a little inconvenient.)
+
+On PythonAnywhere, you already get free HTTPS for your websites that are subdomains of pythonanywhere.com --
+you don't need to do anything -- but if you have a custom domain, you need to give us a certificate to install.
+We've been honing our process to make this as easy as possible, and we're now pretty confident in them.
+So now there's no excuse to not secure your website --
+[just follow the instructions here](https://help.pythonanywhere.com/pages/LetsEncrypt).
+
+
+
+The inside scoop from our forums
+--------------------------------
+
+* Some [in-depth discussions](https://www.pythonanywhere.com/forums/topic/5433/) about connecting to an external Microsoft SQL Server database from PythonAnywhere led us to make a major update to our help page on how to do that.  Long story short: [it's much easier now than it used to be!](https://help.pythonanywhere.com/pages/MSSQLServer)
+* Connecting to Twilio from a free PythonAnywhere account needs a bit of extra code; user vikibrookes asked what it was on the forums, and then [worked out the solution](https://www.pythonanywhere.com/forums/topic/7021/#id_post_33555) before we had a chance to reply :-)
+* Do you want to run sass on PythonAnywhere?  You can install it, but need a bit of configuration.  [User grounds has the details.](https://www.pythonanywhere.com/forums/topic/2704/#id_post_33537)
+* Problems with MySQL and the Flask-SQLAlchemy plugin telling you "MySQL server has gone away"?  Don't forget to set `app.config['SQLALCHEMY_POOL_RECYCLE'] = 280`, and (less obviously) don't forget that [you have to do that before you do `db = SQLAlchemy(app)`!](https://www.pythonanywhere.com/forums/topic/7369/#id_post_34035)
+
+
+
+New modules
+-----------
+
+Although [you can install Python packages on PythonAnywhere yourself](https://help.pythonanywhere.com/pages/InstallingNewModules), we like to make sure that we have plenty of [batteries included](https://www.pythonanywhere.com/batteries_included/).
+
+Because of the new system image, we've not actually added any new modules this time around -- but we've
+updated everything we could to the latest version for the new "dangermouse" image.  You can compare and
+contrast the different version in each image over on the new, shiny, interactive batteries included page.
+
+
+
+New whitelisted sites
+---------------------
+
+Paying PythonAnywhere customers get unrestricted Internet access, but if you're a
+free PythonAnywhere user, you may have hit problems when writing
+code that tries to access sites elsewhere on the Internet. We have to restrict you
+to sites on [a whitelist](https://www.pythonanywhere.com/whitelist/)
+to stop hackers from creating dummy accounts to hide their identities when breaking
+into other people's websites.
+
+But we really do encourage you to suggest new sites that should be on the whitelist.
+Our rule is, if it's got an official public API, which means that the site's
+owners are encouraging automated access to their server, then we'll whitelist it.
+Just drop us a line with a link to the API docs.
+
+Here are some sites we've added since our last newsletter:
+
+* graphenedb.com -- Neo4j-as-a-service
+* rememberthemilk.com -- a friendly to-do list
+* wunderlist.com -- and another to-do list!
+* aavso.org -- The American Association of Variable Star Observers.
+* api.algorithmia.com -- a marketplace for algorithms.
+* api.bandsintown.com -- who's playing near you?
+* api.desktoppr.co -- desktop-wallpapers-as-a-service :-S
+* api.donorschoose.org -- support the poorest schools in the United States
+* api.msg91.com -- an Indian SMS provider.
+* api.sparkpost.com -- an email provider
+* api.thetvdb.com -- an open database for television fans
+* api.virwox.com -- an exchange site for virtual world currencies
+* api.wunderground.com -- real-time weather information
+* avwx.rest -- the aviation weather REST API.
+* datos.madrid.es -- open data from the city of Madrid, Spain.
+* dev.tescolabs.com -- the developer portal for a UK supermarket (!)
+* food2fork.com -- a recipe site.
+* myanimelist.net -- pretty much what you'd expect from the name...
+* open.live.bbc.co.uk -- open data from the BBC
+* open.mapquestapi.com -- open data from MapQuest.
+* opendata.bcn.cat -- open data from the city of Barcelona, Spain
+* opengraph.io -- get [Open Graph](http://ogp.me/) data about websites using an API -- even for sites that don't explicitly support it.
+* openlibrary.org -- free classic eBooks
+* rss.imdb.com -- RSS feeds from the Internet Movie Database
+* togows.org -- a collection of bioinformatics web services.
+* www.warlight.net -- an online game similar to Risk.
+* www.zillow.com -- US real-estate listings.
+
+
+And that's it
+-------------
+
+Thanks for reading our newsletter!  Tune in the same time next month (ish) for more news from PythonAnywhere.
+
+PS If you no longer wish to receive email from us, you can use this link to
+unsubscribe:
+https://www.pythonanywhere.com/unsubscribe?email=rresendez%40rigoresendez.com&n=ab79f106797243be3496ee3d122e059a
+
+--
+PythonAnywhere: Develop and host Python from your browser
+https://www.pythonanywhere.com/
+
+A product from PythonAnywhere LLP
+17a Clerkenwell Road, London EC1M 5RD, UK
+VAT No.: GB 893 5643 79
+Registered in England and Wales as company number OC378414.
+Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK
+
+
+--===============3014091162051939717==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+    <meta charset="utf-8">
+    <style type="text/css">
+    body {
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-size: 12pt;
+}
+
+h1 {
+    color: #139FD7;
+}
+
+h2 {
+    margin-top: 2em;
+    border-bottom: solid 1px #139FD7;
+}
+
+a {
+    color: #139FD7;
+}
+
+    </style>
+    </head>
+
+    <body>
+    <h1>The PythonAnywhere newsletter, September 2016</h1>
+<p>We try to get a newsletter out every month, but in August we were all too busy working on our latest and
+greatest features to manage it.  It wasn't that we were all out sunning ourselves, honest :-)</p>
+<p>Here's what we were up to:</p>
+<h2>A new system image</h2>
+<p>This is actually quite a big deal, even if it might seem a bit dull at first glance.  Accounts that
+have been created since 8 September have more recent versions of all of our
+<a href="https://www.pythonanywhere.com/batteries_included/">batteries included</a>.
+For example, while older accounts have Django 1.3.7 installed for Python 2.7, newer accounts get Django 1.10.
+The old image is called "classic" because we couldn't think of a better name, and the new one is called
+"dangermouse" because we remember the children's television of the UK in the 1980s <em>much</em> too well.</p>
+<p>You can see how the two images differ by trying different filters on the batteries included page (which
+is now a shiny, JavaScript-driven, filterable list rather than a simple static page). If you have an
+older account and want to switch to the new system image, just drop us a line at
+<a href="mailto:support@pythonanywhere.com">support@pythonanywhere.com</a>.  Be warned: if you have old code that
+depends on the old Python packages, then it might stop working.  So check your code first.</p>
+<p>So, why did this take so long?  And why do we think it's a big deal?  Well, one of the development practices
+we follow here is what we call "Embarrassment-Oriented Project Management".  In a nutshell, this says "if
+you're trying to work out what you need to work on next, ask yourself what makes you blush when you have
+to explain it to someone"...  One of the things that was a tad embarassing was that we only supported
+Django 1.3.7 for Python 2.7.  Sure, we supported later Django versions for later Python versions, but still.</p>
+<p>But we had a problem.  Until now, everyone on our site had to use the same system image,
+with the same versions of everything.  We could add new things -- which is why, when Python 3.5 was installed,
+it had recent versions of all the system packages.  But we couldn't upgrade anything for older Python versions, because
+it would have meant breaking any code that people had running that depended on the old system models.  If
+you had a Django 1.3.7 website, and we upgraded to 1.10, then your site would suddenly stop working, and
+you'd have to change the code to make it work again.  That would have been rather rude of us, so we didn't do
+it.</p>
+<p>So what we needed to do was develop a way for different people to have different system images.  For a while,
+we thought that Docker was the solution -- but unfortunately (for reasons related to scalability in our
+specific environment) it turned out not to be.  So we've extended our virtualization system to support multiple
+system images.</p>
+<p>More images will come in the future, once we've thought of an appropriately-irreverent name starting with
+"E" for the next one.</p>
+<p>Right, enough of that!  What else?</p>
+<h2>Let's Encrypt</h2>
+<p>Let's Encrypt is a project supported by the Linux Foundation to help secure the web by providing free
+HTTPS certificates for any domain you own.  Its certificates are just as good as ones that you pay for
+in almost every way -- the only downside is that you have to renew them once every few months rather than
+once a year.  (That's also a security feature, of course, because if someone steals your private key then
+they can only impersonate you for a few months rather than a year.  But it is a little inconvenient.)</p>
+<p>On PythonAnywhere, you already get free HTTPS for your websites that are subdomains of pythonanywhere.com --
+you don't need to do anything -- but if you have a custom domain, you need to give us a certificate to install.
+We've been honing our process to make this as easy as possible, and we're now pretty confident in them.
+So now there's no excuse to not secure your website --
+<a href="https://help.pythonanywhere.com/pages/LetsEncrypt">just follow the instructions here</a>.</p>
+<h2>The inside scoop from our forums</h2>
+<ul>
+<li>Some <a href="https://www.pythonanywhere.com/forums/topic/5433/">in-depth discussions</a> about connecting to an external Microsoft SQL Server database from PythonAnywhere led us to make a major update to our help page on how to do that.  Long story short: <a href="https://help.pythonanywhere.com/pages/MSSQLServer">it's much easier now than it used to be!</a></li>
+<li>Connecting to Twilio from a free PythonAnywhere account needs a bit of extra code; user vikibrookes asked what it was on the forums, and then <a href="https://www.pythonanywhere.com/forums/topic/7021/#id_post_33555">worked out the solution</a> before we had a chance to reply :-)</li>
+<li>Do you want to run sass on PythonAnywhere?  You can install it, but need a bit of configuration.  <a href="https://www.pythonanywhere.com/forums/topic/2704/#id_post_33537">User grounds has the details.</a></li>
+<li>Problems with MySQL and the Flask-SQLAlchemy plugin telling you "MySQL server has gone away"?  Don't forget to set <code>app.config['SQLALCHEMY_POOL_RECYCLE'] = 280</code>, and (less obviously) don't forget that <a href="https://www.pythonanywhere.com/forums/topic/7369/#id_post_34035">you have to do that before you do <code>db = SQLAlchemy(app)</code>!</a></li>
+</ul>
+<h2>New modules</h2>
+<p>Although <a href="https://help.pythonanywhere.com/pages/InstallingNewModules">you can install Python packages on PythonAnywhere yourself</a>, we like to make sure that we have plenty of <a href="https://www.pythonanywhere.com/batteries_included/">batteries included</a>.</p>
+<p>Because of the new system image, we've not actually added any new modules this time around -- but we've
+updated everything we could to the latest version for the new "dangermouse" image.  You can compare and
+contrast the different version in each image over on the new, shiny, interactive batteries included page.</p>
+<h2>New whitelisted sites</h2>
+<p>Paying PythonAnywhere customers get unrestricted Internet access, but if you're a
+free PythonAnywhere user, you may have hit problems when writing
+code that tries to access sites elsewhere on the Internet. We have to restrict you
+to sites on <a href="https://www.pythonanywhere.com/whitelist/">a whitelist</a>
+to stop hackers from creating dummy accounts to hide their identities when breaking
+into other people's websites.</p>
+<p>But we really do encourage you to suggest new sites that should be on the whitelist.
+Our rule is, if it's got an official public API, which means that the site's
+owners are encouraging automated access to their server, then we'll whitelist it.
+Just drop us a line with a link to the API docs.</p>
+<p>Here are some sites we've added since our last newsletter:</p>
+<ul>
+<li>graphenedb.com -- Neo4j-as-a-service</li>
+<li>rememberthemilk.com -- a friendly to-do list</li>
+<li>wunderlist.com -- and another to-do list!</li>
+<li>aavso.org -- The American Association of Variable Star Observers.</li>
+<li>api.algorithmia.com -- a marketplace for algorithms.</li>
+<li>api.bandsintown.com -- who's playing near you?</li>
+<li>api.desktoppr.co -- desktop-wallpapers-as-a-service :-S</li>
+<li>api.donorschoose.org -- support the poorest schools in the United States</li>
+<li>api.msg91.com -- an Indian SMS provider.</li>
+<li>api.sparkpost.com -- an email provider</li>
+<li>api.thetvdb.com -- an open database for television fans</li>
+<li>api.virwox.com -- an exchange site for virtual world currencies</li>
+<li>api.wunderground.com -- real-time weather information</li>
+<li>avwx.rest -- the aviation weather REST API.</li>
+<li>datos.madrid.es -- open data from the city of Madrid, Spain.</li>
+<li>dev.tescolabs.com -- the developer portal for a UK supermarket (!)</li>
+<li>food2fork.com -- a recipe site.</li>
+<li>myanimelist.net -- pretty much what you'd expect from the name...</li>
+<li>open.live.bbc.co.uk -- open data from the BBC</li>
+<li>open.mapquestapi.com -- open data from MapQuest.</li>
+<li>opendata.bcn.cat -- open data from the city of Barcelona, Spain</li>
+<li>opengraph.io -- get <a href="http://ogp.me/">Open Graph</a> data about websites using an API -- even for sites that don't explicitly support it.</li>
+<li>openlibrary.org -- free classic eBooks</li>
+<li>rss.imdb.com -- RSS feeds from the Internet Movie Database</li>
+<li>togows.org -- a collection of bioinformatics web services.</li>
+<li>www.warlight.net -- an online game similar to Risk.</li>
+<li>www.zillow.com -- US real-estate listings.</li>
+</ul>
+<h2>And that's it</h2>
+<p>Thanks for reading our newsletter!  Tune in the same time next month (ish) for more news from PythonAnywhere.</p>
+    </body>
+    </html>
+    
+<p><em>If you no longer wish to receive email from us, you can
+<a href="https://www.pythonanywhere.com/unsubscribe?email=rresendez%40rigoresendez.com&amp;n=ab79f106797243be3496ee3d122e059a">click here</a>
+to be immediately unsubscribed.</em></p>
+<p><p style="color: grey">
+    PythonAnywhere: Develop and host Python from your browser<br/>
+    <a href="http://www.pythonanywhere.com/">http://www.pythonanywhere.com/</a><br/>
+    <br/>
+    A product from PythonAnywhere LLP<br/>
+    17a Clerkenwell Road, London EC1M 5RD, UK<br/>
+    VAT No.: GB 893 5643 79<br/>
+    Registered in England and Wales as company number OC378414.<br/>
+    Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK<br/>
+</p></p>
+
+--===============3014091162051939717==--

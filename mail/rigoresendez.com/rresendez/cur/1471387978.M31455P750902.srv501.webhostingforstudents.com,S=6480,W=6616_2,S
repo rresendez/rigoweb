@@ -1,0 +1,136 @@
+Return-Path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id EXDTAUqZs1c2dQsATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 18:52:58 -0400
+Return-path: <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 16 Aug 2016 18:52:58 -0400
+Received: from o5.email.freshdesk.com ([167.89.4.19]:3466)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2329044-1dc5-rresendez=rigoresendez.com@email.freshdesk.com>)
+	id 1bZnE9-0039KV-P0
+	for rresendez@rigoresendez.com; Tue, 16 Aug 2016 18:52:57 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=freshdesk.com; 
+	h=from:reply-to:to:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=3P6vubrPJMiqdrzxNu/Iu4SxRNM=; b=XDU0awM6AA/T81TrIy
+	VmF/ZW4q7CtGV+Ey6dVACJzQLvu34GJFyxYPua1WS36YG80PQCYc+KeQR4X7zsEO
+	0Ix74D8gG4eK8V40C1EMhnpbX5iEAsqOnES08XI3twmNvS6eMdzMfqLmZgYmNdQw
+	ujwraBd9QtTitfKMnIPEj+Qw8=
+Received: by filter0906p1mdw1.sendgrid.net with SMTP id filter0906p1mdw1.6783.57B399205C
+        2016-08-16 22:52:16.84587058 +0000 UTC
+Received: from freshdesk.com (ec2-52-23-125-16.compute-1.amazonaws.com [52.23.125.16])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id rO3T1W1gSWO_43eoQsitdA
+	for <rresendez@rigoresendez.com>; Tue, 16 Aug 2016 22:52:16.880 +0000 (UTC)
+Date: Tue, 16 Aug 2016 22:52:16 +0000
+From: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+Reply-To: VivaAerobus <atencion.clientes.web@vivaaerobus.com>
+To: rresendez@rigoresendez.com
+Message-ID: <57b39920b9066_19a5d7f9884804352f.active-jobs-1@notification.freshdesk.com>
+In-Reply-To: <57b37c54e72f9_7ef7115998c39437615.active-jobs-3@notification.freshdesk.com>
+References: <57b37c54e72f9_7ef7115998c39437615.active-jobs-3@notification.freshdesk.com>
+Subject: Solicitud Cerrada - Offline message from Rigoberto Resendez on Tue,
+ 16 Aug, 2016
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57b39920c8925_19a5d7f98848043626";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+sent-on: 2016-08-16 22:52:16 +0000
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: DR, RN, OOF, AutoReply
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgaaRBpAoB+yiGbHD5e9Or9mUMCH00NNoTHy5V
+ AFnEbTPuCou89OCZpTc7zaBlMLTFD7YVDOkY5kVoe7PKRJBPf8h4zzzzox9qa2hRbr4eV6pQ9SxlQo
+ 6n4VXRM8MLOhAyq9oxWJFBR+XgbW9NHh7MenPWdzWCrGLByG5+Q2WCpKgwjzL0qnpIZq1XEZzgWmG+
+ ibLKWMBHSMnam76EuNynBc
+X-SG-ID: 07jdBcxxKzkTTnSHcra6oAQgJdi60n9ZDksO4iVSnlT1nhF18Sbjf+LE8dJF5iH3qtGt6ctw+azjzS
+ Qcfwnp8Q==
+
+----==_mimepart_57b39920c8925_19a5d7f98848043626
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ Estimado(a) Rigoberto Resendez,  Tu solicitud de servicio - Offline messag=
+e from Rigoberto Resendez on Tue, 16 Aug, 2016 -=C2=A0 se ha cerrado.  Espe=
+ramos que haya sido resuelta satisfactoriamente. Si crees que todav=C3=ADa =
+no deba cerrarse o no se ha resuelto, responde mediante el link de atenci=
+=C3=B3n.     Atentamente, Atenci=C3=B3n a Clientes  http://soporte.vivaaero=
+bus.com/helpdesk/tickets/332708=20
+
+
+
+----==_mimepart_57b39920c8925_19a5d7f98848043626
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Helvetica Neue, Helvetica, Arial, sans-serif; fon=
+t-size:13px;">
+=09
+<p>Estimado(a) Rigoberto Resendez,<br><br>Tu solicitud de servicio - Offlin=
+e message from Rigoberto Resendez on Tue, 16 Aug, 2016 -&nbsp; se ha cerrad=
+o.<br><br>Esperamos que haya sido resuelta satisfactoriamente. Si crees que=
+ todav=C3=ADa no deba cerrarse o no se ha resuelto, responde mediante el li=
+nk de atenci=C3=B3n.</p><p><br></p><p>Atentamente,<br>Atenci=C3=B3n a Clien=
+tes <br><a href=3D"http://soporte.vivaaerobus.com/helpdesk/tickets/332708">=
+http://soporte.vivaaerobus.com/helpdesk/tickets/332708</a></p>
+
+
+
+
+	  <div class=3D"freshdesk_satisfaction_survey">
+    <span style=3D"font-family: Arial, sans-serif; color: #333; font-size: =
+16px;font-weight:bold;">
+      <p>Por favor perm=C3=ADtenos saber que te pareci=C3=B3 nuestra atenci=
+=C3=B3n.</p>
+    </span><br/>
+    <table cellspacing=3D"5" cellpadding=3D"0">
+      <tbody>
+        <tr>
+          <td bgcolor=3D"#e7f8dc" style=3D"border-radius: 50px; box-shadow:=
+0px 0px 3px #ccc; margin-right: 10px;">
+           <a href=3D"http://soporte.vivaaerobus.com/support/surveys/2d63d3=
+d3dcee20b7373f60381112bbe4/happy/new" style=3D"display:inline-table; word-b=
+reak: inherit; padding: 0px 10px; font-family: Arial, sans-serif;color: #37=
+7ce4; font-size: 16px; text-decoration: underline;">
+            <img src=3D"http://soporte.vivaaerobus.com/images/happy-smily-t=
+ab.png"align=3D"absmiddle" style=3D"padding-right: 5px;" alt=3D"Happy"/>Exc=
+elente</a></td>
+
+           <td bgcolor=3D"#fbf7e0" style=3D"border-radius: 50px; box-shadow=
+:0px 0px 3px #ccc; margin-right: 10px;">
+            <a href=3D"http://soporte.vivaaerobus.com/support/surveys/2d63d=
+3d3dcee20b7373f60381112bbe4/neutral/new" style=3D"display:inline-table; wor=
+d-break: inherit; padding: 0px 10px; font-family: Arial, sans-serif;color: =
+#377ce4; font-size: 16px; text-decoration: underline;">
+             <img src=3D"http://soporte.vivaaerobus.com/images/neutral-smil=
+y-tab.png"align=3D"absmiddle" style=3D"padding-right: 5px;" alt=3D"Neutral"=
+/>Regular</a></td>
+
+            <td bgcolor=3D"#fae4e2" style=3D"border-radius: 50px;box-shadow=
+: 0px 0px 3px #ccc; margin-right:10px;">
+             <a href=3D"http://soporte.vivaaerobus.com/support/surveys/2d63=
+d3d3dcee20b7373f60381112bbe4/unhappy/new"style=3D"display: inline-table; wo=
+rd-break: inherit; padding: 0px 10px; font-family: Arial,sans-serif; color:=
+ #377ce4; font-size: 16px; text-decoration:underline;">
+              <img src=3D"http://soporte.vivaaerobus.com/images/unhappy-smi=
+ly-tab.png" align=3D"absmiddle" style=3D"padding-right: 5px;" alt=3D"Unhapp=
+y"/>Malo</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+	<br/>
+
+
+
+<span title=3D"fd_tkt_identifier" style=3D'font-size:0px; font-family:"fdtk=
+tid"; min-height:0px; height:0px; opacity:0; max-height:0px; line-height:0p=
+x; color:#ffffff'>332708</span>
+
+</div>=
+
+----==_mimepart_57b39920c8925_19a5d7f98848043626--

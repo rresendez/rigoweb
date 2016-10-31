@@ -1,0 +1,1990 @@
+Return-Path: <bounce-mc.us2_4222502.913005-rresendez=rigoresendez.com@mail106.atl11.rsgsv.net>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id NGlWJzFADFhYbQoATAh+fg
+	for <rresendez@rigoresendez.com>; Sun, 23 Oct 2016 00:44:33 -0400
+Return-path: <bounce-mc.us2_4222502.913005-rresendez=rigoresendez.com@mail106.atl11.rsgsv.net>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sun, 23 Oct 2016 00:44:33 -0400
+Received: from mail106.atl11.rsgsv.net ([205.201.133.106]:56336)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <bounce-mc.us2_4222502.913005-rresendez=rigoresendez.com@mail106.atl11.rsgsv.net>)
+	id 1byAe9-002rgD-A9
+	for rresendez@rigoresendez.com; Sun, 23 Oct 2016 00:44:33 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail106.atl11.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=newsletter=3Dbrainpickings.org@mail106.atl11.rsgsv.net;
+ bh=Iiq/SHNDqsEWRj8yGYuO7neX4dU=;
+ b=a7jbcLtbsjYVHOIzavhdo+9C7sqtkgjdcCaqVEwJn+SDvNlTHHaPuEAWbuZd/cUkJF6ZeR5zUOoR
+   8TERTySfEENliKHRSpzwEuDM1zxBmo7dMgEq7jTw8fJbZiUzuJIsz6m5iom7YzY7s/s62Jw/uMos
+   /0QieW0A1u4YYict5yQ=
+Received: from (127.0.0.1) by mail106.atl11.rsgsv.net id h1h0321lgi0m for <rresendez@rigoresendez.com>; Sun, 23 Oct 2016 04:43:51 +0000 (envelope-from <bounce-mc.us2_4222502.913005-rresendez=rigoresendez.com@mail106.atl11.rsgsv.net>)
+Subject: =?utf-8?Q?SPECIAL=3A=2010=20learnings=20from=2010=20years=20of=20Brain=20Pickings?=
+From: =?utf-8?Q?Brain=20Pickings=20Weekly?= <newsletter@brainpickings.org>
+Reply-To: =?utf-8?Q?Brain=20Pickings=20Weekly?= <newsletter@brainpickings.org>
+To: =?utf-8?Q?rigoberto?= <rresendez@rigoresendez.com>
+Date: Sun, 23 Oct 2016 04:43:51 +0000
+Message-ID: <13eb080d8a315477042e0d5b1a5eb5cdf67.20161023044323@mail106.atl11.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CIDc7f9956a1ea5eb5cdf67**
+X-Campaign: mailchimp13eb080d8a315477042e0d5b1.c7f9956a1e
+X-campaignid: mailchimp13eb080d8a315477042e0d5b1.c7f9956a1e
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=13eb080d8a315477042e0d5b1&id=c7f9956a1e&e=a5eb5cdf67
+X-MC-User: 13eb080d8a315477042e0d5b1
+X-Feedback-ID: 4222502:4222502.913005:us2:mc
+List-ID: 13eb080d8a315477042e0d5b1mc list <13eb080d8a315477042e0d5b1.446049.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-mc.us2_13eb080d8a315477042e0d5b1.c7f9956a1e-a5eb5cdf67@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://brainpickings.us2.list-manage.com/unsubscribe?u=13eb080d8a315477042e0d5b1&id=179ffa2629&e=a5eb5cdf67&c=c7f9956a1e>
+Sender: "Brain Pickings Weekly" <newsletter=brainpickings.org@mail106.atl11.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_410024694"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_410024694
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Fluid reflections on keeping a solid center.
+------------------------------------------------------------
+Email formatted oddly or truncated?
+View it in your browser (http://us2.campaign-archive1.com/?u=3D13eb080d8a3=
+15477042e0d5b1&id=3Dc7f9956a1e&e=3Da5eb5cdf67) . No room for me in your life=
+ anymore? Unsubscribe (http://brainpickings.us2.list-manage.com/unsubscrib=
+e?u=3D13eb080d8a315477042e0d5b1&id=3D179ffa2629&e=3Da5eb5cdf67&c=3Dc7f9956a1=
+e) . If a friend forwarded this to you and you'd like your very own=2C sub=
+scribe here (https://www.brainpickings.org/newsletter/?mc_cid=3Dc7f9956a1e=
+&mc_eid=3D[UNIQID]) .
+https://www.brainpickings.org/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+donating =3D loving
+
+
+** I pour tremendous time=2C thought=2C love=2C and resources into Brain P=
+ickings=2C which remains free. If you find any joy and stimulation here=2C=
+ please consider supporting my labor of love with a recurring monthly dona=
+tion (https://www.brainpickings.org/donate/?open=3Dmonthly&mc_cid=3Dc7f995=
+6a1e&mc_eid=3D[UNIQID]) of your choosing=2C between a cup of tea and a go=
+od dinner:
+------------------------------------------------------------
+https://www.brainpickings.org/donate/?open=3Dmonthly&mc_cid=3Dc7f9956a1e&m=
+c_eid=3D[UNIQID]
+
+
+** You can also become a one-time patron with a single donation in any amo=
+unt:
+------------------------------------------------------------
+https://www.brainpickings.org/donate/?open=3Done-time&mc_cid=3Dc7f9956a1e&=
+mc_eid=3D[UNIQID]
+
+
+** And if you've already donated=2C from the bottom of my heart: THANK YOU=
+=2E
+------------------------------------------------------------
+
+
+** Share
+------------------------------------------------------------
+
+
+** Forward to a friend (http://us2.forward-to-friend.com/forward?u=3D13eb0=
+80d8a315477042e0d5b1&id=3Dc7f9956a1e&e=3Da5eb5cdf67)
+------------------------------------------------------------
+
+
+** Connect
+------------------------------------------------------------
+
+
+** Facebook (https://www.facebook.com/brainpickings.mariapopova?mc_cid=3Dc=
+7f9956a1e&mc_eid=3D[UNIQID])
+------------------------------------------------------------
+
+
+** Twitter (https://twitter.com/brainpicker?mc_cid=3Dc7f9956a1e&mc_eid=3D[=
+UNIQID])
+------------------------------------------------------------
+
+
+** Instagram (https://instagram.com/brainpicker/?mc_cid=3Dc7f9956a1e&mc_ei=
+d=3D[UNIQID])
+------------------------------------------------------------
+
+
+** Tumblr (http://explore.brainpickings.org/?mc_cid=3Dc7f9956a1e&mc_eid=3D=
+[UNIQID])
+------------------------------------------------------------
+------------------------------------------------------------
+
+
+** Unsubscribe (http://brainpickings.us2.list-manage.com/unsubscribe?u=3D1=
+3eb080d8a315477042e0d5b1&id=3D179ffa2629&e=3Da5eb5cdf67&c=3Dc7f9956a1e)
+------------------------------------------------------------
+
+
+** Welcome Hello=2C rigoberto! This is a special=2C once-a-decade e=
+dition. If you missed this week's regular edition =E2=80=93 an atlas of NY=
+C's notable women=2C May Sarton on the cure for despair=2C and more =E2=80=
+=93 you can catch up right here (http://us2.campaign-archive2.com/home/?u=
+=3D13eb080d8a315477042e0d5b1&id=3D179ffa2629&mc_cid=3Dc7f9956a1e&mc_eid=3D=
+[UNIQID]) . If you're enjoying my newsletter=2C please consider supportin=
+g this labor of love with a donation (https://www.brainpickings.org/donate=
+/?open=3Done-time&mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =E2=80=93 I spen=
+d countless hours and tremendous resources on it=2C and every little bit o=
+f support helps enormously.
+------------------------------------------------------------
+
+
+** 10 Learnings from 10 Years of Brain Pickings (https://www.brainpickings=
+=2Eorg/2016/10/23/10-years-of-brain-pickings/?mc_cid=3Dc7f9956a1e&mc_eid=3D[=
+UNIQID])
+------------------------------------------------------------
+
+I remember my first awareness of mortality as a child in Bulgaria. I was n=
+ine and my father was relaying an anecdote from his youth. I asked him whe=
+n it had taken place. With unconcerned casualness=2C he replied: =E2=80=9C=
+About a decade ago.=E2=80=9D I was astonished that people could segment th=
+eir lives into blocks this big =E2=80=94 my own life hadn=E2=80=99t yet la=
+sted a decade. In realizing that =E2=80=9Ca decade ago=E2=80=9D I hadn=E2=
+=80=99t existed =E2=80=94 the self I now so vividly experienced daily was=
+ then a nonentity =E2=80=94 I also realized that in several more of those=
+ ten-year blocks=2C my dad=2C and eventually I=2C will cease to exist.
+
+With dad=2C year 0
+
+After one such time-block=2C I left Bulgaria for America=2C lured by the l=
+iberal arts education promise of being taught how to live. As the reality=
+ fell short of that promise=2C I began keeping my own record of what I was=
+ reading and learning outside the classroom in mapping this academically u=
+naddressed terra incognita of being.
+
+All the while=2C I was working numerous jobs to pay my way through school.=
+ What I was learning at night and on weekends=2C at the library and on the=
+ internet =E2=80=94 from Plato to pop art =E2=80=94 felt too uncontainably=
+ interesting to keep to myself=2C so I decided to begin sharing these priv=
+ate adventures with my colleagues at one of my jobs. On October 23=2C 2006=
+=2C Brain Pickings was born as a plain-text email to seven friends. Halfwa=
+y through my senior year of college=2C juggling my various jobs and academ=
+ic course load=2C I took a night class to learn coding and turned the shor=
+t weekly email into a sparse website=2C which I updated manually every Fri=
+day=2C then=2C eventually=2C every weekday.
+
+The site grew as I grew =E2=80=94 an unfolding record of my intellectual=
+=2C creative=2C and spiritual development. At the time=2C I had no idea th=
+at this small labor of love and learning would animate me with a sense of=
+ purpose and become both my life and my living=2C nor that its seven origi=
+nal readers would swell into several million. I had no idea that this ecce=
+ntric personal record=2C which I began keeping in the city where Benjamin=
+ Franklin founded the first subscription library in America=2C would one d=
+ay be included in the Library of Congress archive of =E2=80=9Cmaterials of=
+ historical importance.=E2=80=9D
+
+And now=2C somehow=2C a decade has elapsed.
+
+Because I believe that our becoming=2C like the synthesis of meaning itsel=
+f=2C is an ongoing and dynamic process=2C I=E2=80=99ve been reluctant to s=
+tultify it and flatten its ongoing expansiveness in static opinions and fi=
+xed personal tenets of living. But I do find myself continually discoverin=
+g=2C then returning to=2C certain core values. While they may be refined a=
+nd enriched in the act of living=2C their elemental substance remains a ce=
+nter of gravity for what I experience as myself.
+
+I first set down some of these core beliefs=2C written largely as notes to=
+ myself that may or may not be useful to others=2C when Brain Pickings tur=
+ned seven (https://www.brainpickings.org/2013/10/23/7-lessons-from-7-years=
+/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) (which kindred spirits later ada=
+pted into a beautiful poster (https://www.brainpickings.org/2014/06/25/7-l=
+earnings-holstee-poster/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) inspired=
+ by the aesthetic of vintage children=E2=80=99s books and a cinematic shor=
+t film (https://www.brainpickings.org/2015/01/07/dissolve-7-things/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID]) ). I expanded upon them to mark year nin=
+e (https://www.brainpickings.org/2015/10/23/nine-years-of-brain-pickings/?=
+mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) . Today=2C as I round the first de=
+cade of Brain Pickings=2C I feel half-compelled=2C half-obliged to add a t=
+enth learning=2C a sort of crowning credo drawn from a constellation of li=
+fe-earned beliefs I distilled in a commencement address (https://www.brain=
+pickings.org/2016/05/16/annenberg-commencement/?mc_cid=3Dc7f9956a1e&mc_eid=
+=3D[UNIQID]) I delivered in the spring of 2016.
+
+Here are all ten=2C in the order that they were written.
+
+From year seven:
+
+1. Allow yourself the uncomfortable luxury of changing your mind. Cultivat=
+e that capacity for =E2=80=9Cnegative capability.=E2=80=9D (https://www.br=
+ainpickings.org/2012/11/01/john-keats-on-negative-capability/?mc_cid=3Dc7f=
+9956a1e&mc_eid=3D[UNIQID]) We live in a culture where one of the greatest=
+ social disgraces is not having an opinion=2C so we often form our =E2=80=
+=9Copinions=E2=80=9D based on superficial impressions or the borrowed idea=
+s of others=2C without investing the time and thought that cultivating tru=
+e conviction necessitates. We then go around asserting these donned opinio=
+ns and clinging to them as anchors to our own reality. It=E2=80=99s enormo=
+usly disorienting to simply say=2C =E2=80=9CI don=E2=80=99t know.=E2=80=9D=
+ But it=E2=80=99s infinitely more rewarding to understand than to be right=
+ =E2=80=94 even if that means changing your mind about a topic=2C an ideol=
+ogy=2C or=2C above all=2C yourself.
+
+2. Do nothing for prestige or status or money or approval alone. As Paul G=
+raham observed (https://www.brainpickings.org/2012/02/27/purpose-work-love=
+/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C =E2=80=9Cprestige is like a=
+ powerful magnet that warps even your beliefs about what you enjoy. It cau=
+ses you to work not on what you like=2C but what you=E2=80=99d like to lik=
+e.=E2=80=9D Those extrinsic motivators are fine and can feel life-affirmin=
+g in the moment=2C but they ultimately don=E2=80=99t make it thrilling to=
+ get up in the morning and gratifying to go to sleep at night =E2=80=94 an=
+d=2C in fact=2C they can often distract and detract from the things that d=
+o offer those deeper rewards.
+
+3. Be generous. Be generous with your time and your resources and with giv=
+ing credit and=2C especially=2C with your words. It=E2=80=99s so much easi=
+er to be a critic than a celebrator. Always remember there is a human bein=
+g on the other end of every exchange and behind every cultural artifact be=
+ing critiqued. To understand and be understood=2C those are among life=E2=
+=80=99s greatest gifts=2C and every interaction is an opportunity to excha=
+nge them.
+
+4. Build pockets of stillness into your life. Meditate. Go for walks. Ride=
+ your bike going nowhere in particular. There is a creative purpose to day=
+dreaming (https://www.brainpickings.org/2013/10/09/mind-wandering-and-crea=
+tivity/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C even to boredom (https=
+://www.brainpickings.org/2012/10/26/susan-sontag-on-boredom/?mc_cid=3Dc7f9=
+956a1e&mc_eid=3D[UNIQID]) . The best ideas come to us when we stop active=
+ly trying to coax the muse into manifesting and let the fragments of exper=
+ience float around our unconscious mind in order to click into new combina=
+tions. Without this essential stage of unconscious processing (https://www=
+=2Ebrainpickings.org/2012/05/04/a-technique-for-producing-ideas-young/?mc_ci=
+d=3Dc7f9956a1e&mc_eid=3D[UNIQID]#unconscious) =2C the entire flow of the=
+ creative process (https://www.brainpickings.org/2013/08/28/the-art-of-tho=
+ught-graham-wallas-stages/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) is brok=
+en.
+
+Most important=2C sleep. Besides being the greatest creative aphrodisiac (=
+https://www.brainpickings.org/2012/10/01/breakthrough-alex-cornell/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C sleep also affects our every waking=
+ moment (https://www.brainpickings.org/2012/08/21/dreamland-science-of-sle=
+ep-david-randall/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C dictates our=
+ social rhythm (https://www.brainpickings.org/2012/05/11/internal-time-til=
+l-roenneber/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C and even mediates=
+ our negative moods (https://www.brainpickings.org/2012/08/13/the-twenty-f=
+our-hour-mind-rosalind-cartwright/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])=
+ . Be as religious and disciplined about your sleep as you are about your=
+ work. We tend to wear our ability to get by on little sleep as some sort=
+ of badge of honor that validates our work ethic. But what it really is is=
+ a profound failure of self-respect and of priorities. What could possibly=
+ be more important than your health and your sanity=2C from which all else=
+ springs?
+
+5. When people tell you who they are=2C Maya Angelou (https://www.brainpic=
+kings.org/tag/maya-angelou/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) famous=
+ly advised=2C believe them. Just as important=2C however=2C when people tr=
+y to tell you who you are=2C don=E2=80=99t believe them. You are the only=
+ custodian of your own integrity=2C and the assumptions made by those that=
+ misunderstand who you are and what you stand for reveal a great deal abou=
+t them and absolutely nothing about you.
+
+6. Presence is far more intricate and rewarding an art than productivity.=
+ Ours is a culture that measures our worth as human beings by our efficien=
+cy=2C our earnings=2C our ability to perform this or that. The cult of pro=
+ductivity has its place=2C but worshipping at its altar daily robs us of t=
+he very capacity for joy and wonder that makes life worth living =E2=80=94=
+ for=2C as Annie Dillard memorably put it (https://www.brainpickings.org/2=
+013/06/07/annie-dillard-the-writing-life-1/?mc_cid=3Dc7f9956a1e&mc_eid=3D[=
+UNIQID]) =2C =E2=80=9Chow we spend our days is=2C of course=2C how we spe=
+nd our lives.=E2=80=9D
+
+7. =E2=80=9CExpect anything worthwhile to take a long time.=E2=80=9D This=
+ is borrowed (http://explore.noodle.org/post/53767000482/the-ever-wise-deb=
+bie-millman-shares-10-things-she?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) f=
+rom the wise and wonderful Debbie Millman (https://www.brainpickings.org/t=
+ag/debbie-millman/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C for it=E2=
+=80=99s hard to better capture something so fundamental yet so impatiently=
+ overlooked in our culture of immediacy. The myth of the overnight success=
+ is just that =E2=80=94 a myth =E2=80=94 as well as a reminder that our pr=
+esent definition of success needs serious retuning (https://www.brainpicki=
+ngs.org/2012/07/12/thoreau-on-success/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQ=
+ID]) . As I=E2=80=99ve reflected elsewhere (http://thegreatdiscontent.com/=
+maria-popova?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C the flower doesn=
+=E2=80=99t go from bud to blossom in one spritely burst and yet=2C as a cu=
+lture=2C we=E2=80=99re disinterested in the tedium of the blossoming. But=
+ that=E2=80=99s where all the real magic unfolds in the making of one=E2=
+=80=99s character and destiny.
+
+From year nine:
+
+8. Seek out what magnifies your spirit. Patti Smith=2C in discussing Willi=
+am Blake and her creative influences (https://www.brainpickings.org/2015/1=
+0/19/patti-smith-m-train-loss-time/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]=
+) =2C talks about writers and artists who magnified her spirit =E2=80=94 i=
+t=E2=80=99s a beautiful phrase and a beautiful notion. Who are the people=
+=2C ideas=2C and books that magnify your spirit? Find them=2C hold on to t=
+hem=2C and visit them often. Use them not only as a remedy once spiritual=
+ malaise has already infected your vitality but as a vaccine administered=
+ while you are healthy to protect your radiance.
+
+9. Don=E2=80=99t be afraid to be an idealist. There is much to be said for=
+ our responsibility as creators and consumers of that constant dynamic int=
+eraction we call culture =E2=80=94 which side of the fault line between ca=
+tering and creating are we to stand on? The commercial enterprise is condi=
+tioning us to believe that the road to success is paved with catering to e=
+xisting demands =E2=80=94 give the people cat GIFs=2C the narrative goes=
+=2C because cat GIFs are what the people want. But E.B. White=2C one of ou=
+r last great idealists=2C was eternally right when he asserted (https://ww=
+w.brainpickings.org/2012/04/17/e-b-white-paris-review-interview/?mc_cid=3D=
+c7f9956a1e&mc_eid=3D[UNIQID]) half a century ago that the role of the wri=
+ter is =E2=80=9Cto lift people up=2C not lower them down=E2=80=9D =E2=80=
+=94 a role each of us is called to with increasing urgency=2C whatever cog=
+ we may be in the machinery of society. Supply creates its own demand. Onl=
+y by consistently supplying it can we hope to increase the demand for the=
+ substantive over the superficial =E2=80=94 in our individual
+lives and in the collective dream called culture.
+
+And as I round the decade:
+
+10. Don=E2=80=99t just resist cynicism =E2=80=94 fight it actively. Fight=
+ it in yourself=2C for this ungainly beast lays dormant in each of us=2C a=
+nd counter it in those you love and engage with=2C by modeling its opposit=
+e. Cynicism often masquerades as nobler faculties and dispositions=2C but=
+ is categorically inferior. Unlike that great Rilkean life-expanding doubt=
+ (https://www.brainpickings.org/2012/06/01/rilke-on-questions/?mc_cid=3Dc7=
+f9956a1e&mc_eid=3D[UNIQID]) =2C it is a contracting force. Unlike critica=
+l thinking=2C that pillar of reason (https://www.brainpickings.org/2016/05=
+/18/bertrand-russell-free-thought-propaganda-doubt/?mc_cid=3Dc7f9956a1e&mc=
+_eid=3D[UNIQID]) and necessary counterpart to hope (https://www.brainpick=
+ings.org/2015/02/09/hope-cynicism/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])=
+ =2C it is inherently uncreative=2C unconstructive=2C and spiritually corr=
+osive. Life=2C like the universe itself=2C tolerates no stasis =E2=80=94 i=
+n the absence of growth=2C decay usurps the order. Like all forms of destr=
+uction=2C cynicism is infinitely easier and lazier than construction. Ther=
+e is nothing more difficult yet more
+gratifying in our society than living with sincerity and acting from a pla=
+ce of largehearted=2C constructive=2C rational faith in the human spirit (=
+https://www.brainpickings.org/2016/04/04/erich-fromm-anatomy-of-human-dest=
+ructiveness/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) =2C continually bendi=
+ng toward growth and betterment. This remains the most potent antidote to=
+ cynicism. Today=2C especially=2C it is an act of courage and resistance.
+
+Since such a time machine of reflection would get nowhere without the subs=
+tance that fueled it=2C here are ten of the things I most loved reading an=
+d writing about in this first decade of Brain Pickings:
+https://www.brainpickings.org/2015/05/18/oliver-sacks-on-the-move/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+1. Love=2C Lunacy=2C and a Life Fully Lived: Oliver Sacks=2C the Science o=
+f Seeing=2C and the Art of Being Seen (https://www.brainpickings.org/2015/=
+05/18/oliver-sacks-on-the-move/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+https://www.brainpickings.org/2016/06/16/virginia-woolf-loneliness/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+2. Virginia Woolf on the Relationship Between Loneliness and Creativity (h=
+ttps://www.brainpickings.org/2016/06/16/virginia-woolf-loneliness/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+https://www.brainpickings.org/2015/10/21/telling-is-listening-ursula-k-le-=
+guin-communication/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+3. Telling Is Listening: Ursula K. Le Guin on the Magic of Real Human Conv=
+ersation (https://www.brainpickings.org/2015/10/21/telling-is-listening-ur=
+sula-k-le-guin-communication/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+https://www.brainpickings.org/2016/05/09/james-baldwin-freedom/?mc_cid=3Dc=
+7f9956a1e&mc_eid=3D[UNIQID]
+
+4. James Baldwin on Freedom and How We Imprison Ourselves (https://www.bra=
+inpickings.org/2016/05/09/james-baldwin-freedom/?mc_cid=3Dc7f9956a1e&mc_ei=
+d=3D[UNIQID])
+https://www.brainpickings.org/2016/03/08/cry-heart-but-never-break/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+5. Cry=2C Heart=2C But Never Break: A Remarkable Illustrated Meditation on=
+ Loss and Life (https://www.brainpickings.org/2016/03/08/cry-heart-but-nev=
+er-break/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+https://www.brainpickings.org/2015/03/30/susan-sontag-writing-storytelling=
+-at-the-same-time/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+6. Susan Sontag on Storytelling=2C What It Means to Be a Moral Human Being=
+=2C and Her Advice to Writers (https://www.brainpickings.org/2015/03/30/su=
+san-sontag-writing-storytelling-at-the-same-time/?mc_cid=3Dc7f9956a1e&mc_e=
+id=3D[UNIQID])
+https://www.brainpickings.org/2016/09/27/james-gleick-time-travel/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+7. James Gleick on How Our Cultural Fascination with Time Travel Illuminat=
+es Memory=2C the Nature of Time=2C and the Central Mystery of Human Consci=
+ousness (https://www.brainpickings.org/2016/09/27/james-gleick-time-travel=
+/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+https://www.brainpickings.org/2016/06/07/the-magic-of-the-book-hermann-hes=
+se-my-belief/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+8. The Magic of the Book: Hermann Hesse on Why We Read and Always Will (ht=
+tps://www.brainpickings.org/2016/06/07/the-magic-of-the-book-hermann-hesse=
+-my-belief/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+https://www.brainpickings.org/2015/10/19/patti-smith-m-train-loss-time/?mc=
+_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+9. Patti Smith on Time=2C Transformation=2C and How the Radiance of Love R=
+edeems the Rupture of Loss (https://www.brainpickings.org/2015/10/19/patti=
+-smith-m-train-loss-time/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+https://www.brainpickings.org/2016/03/02/amelie-rorty-the-identities-of-pe=
+rsons/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]
+
+10. What Makes a Person: The Seven Layers of Identity in Literature and Li=
+fe (https://www.brainpickings.org/2016/03/02/amelie-rorty-the-identities-o=
+f-persons/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID])
+
+
+** Forward to a friend (http://us2.forward-to-friend.com/forward?u=3D13eb0=
+80d8a315477042e0d5b1&id=3Dc7f9956a1e&e=3Da5eb5cdf67)    /   Read Online (htt=
+ps://www.brainpickings.org/2016/10/23/10-years-of-brain-pickings/?mc_cid=
+=3Dc7f9956a1e&mc_eid=3D[UNIQID])    /   http://us2.campaign-archive2.com/=
+?u=3D13eb080d8a315477042e0d5b1&id=3Dc7f9956a1e&fblike=3Dfblike-497c76a4&e=
+=3Da5eb5cdf67&socialproxy=3Dhttp%3A%2F%2Fus2.campaign-archive2.com%2Fsocial-=
+proxy%2Ffacebook-like%3Fu%3D13eb080d8a315477042e0d5b1%26id%3Dc7f9956a1e%26=
+url%3Dhttps%253A%252F%252Fwww.brainpickings.org%252F2016%252F10%252F23%252=
+F10-years-of-brain-pickings%252F%26title%3Dhttps%253A%252F%252Fwww.brainpi=
+ckings.org%252F2016%252F10%252F23...
+------------------------------------------------------------
+BP
+
+
+** If you enjoyed this week's newsletter=2C please consider helping me kee=
+p it going with a modest donation (https://www.brainpickings.org/donate/?o=
+pen=3Done-time&mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQID]) .
+------------------------------------------------------------
+https://www.brainpickings.org/donate/?mc_cid=3Dc7f9956a1e&mc_eid=3D[UNIQI=
+D]
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+ You're receiving this email because you subscribed on Brain Pickings. Thi=
+s weekly newsletter comes out on Sundays and offers the week's most unmiss=
+able articles.
+
+Our mailing address is:
+Brain Pickings ::
+NO UNSOLICITED MAILINGS=2C PLEASE.
+47 Bergen Street=2C 3rd floor
+Brooklyn=2C NY 11201
+USA
+** unsubscribe from this list (http://brainpickings.us2.list-manage.com/un=
+subscribe?u=3D13eb080d8a315477042e0d5b1&id=3D179ffa2629&e=3Da5eb5cdf67&c=3Dc=
+7f9956a1e)
+** update subscription preferences (http://brainpickings.us2.list-manage.c=
+om/profile?u=3D13eb080d8a315477042e0d5b1&id=3D179ffa2629&e=3Da5eb5cdf67)
+--_----------=_MCPart_410024694
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+=09<head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>SPECIAL: 10 learnings from 10 years of Brain Pickings</titl=
+e>
+        <style type=3D"text/css">
+=09=09=09/* /\/\/\/\/\/\/\/\/ CLIENT-SPECIFIC STYLES /\/\/\/\/\/\/\/\/ */
+=09=09=09#outlook a{padding:0;} /* Force Outlook to provide a "view in bro=
+wser" message */
+=09=09=09.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Ho=
+tmail to display emails at full width */
+=09=09=09.ExternalClass=2C .ExternalClass p=2C .ExternalClass span=2C .Ext=
+ernalClass font=2C .ExternalClass td=2C .ExternalClass div {line-height: 1=
+00%;} /* Force Hotmail to display normal line spacing */
+=09=09=09body=2C table=2C td=2C p=2C a=2C li=2C blockquote{-webkit-text-si=
+ze-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows=
+ mobile changing default text sizes */
+=09=09=09table=2C td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remov=
+e spacing between tables in Outlook 2007 and up */
+=09=09=09img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering=
+ of resized image in Internet Explorer */
+
+=09=09=09/* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+=09=09=09body{margin:0; padding:0;}
+=09=09=09img{border:0; height:auto; line-height:100%; outline:none; text-d=
+ecoration:none;}
+=09=09=09table{border-collapse:collapse!important;}
+=09=09=09body=2C #bodyTable=2C #bodyCell{height:100%!important; margin:0;=
+ padding:0; width:100%!important;}
+
+=09=09=09/* /\/\/\/\/\/\/\/\/ TEMPLATE STYLES /\/\/\/\/\/\/\/\/ */
+
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Page Styles =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D */
+
+=09=09=09#bodyCell{padding:20px;}
+=09=09=09#templateContainer{width:640px;table-layout: fixed;}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section background style
+=09=09=09* @tip Set the background color and top border for your email. Yo=
+u may want to choose colors that match your company's branding.
+=09=09=09* @theme page
+=09=09=09*/
+=09=09=09body=2C #bodyTable{
+=09=09=09=09background-color:#F7F7F7;
+=09=09=09}
+
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section email border
+=09=09=09* @tip Set the border for your email.
+=09=09=09*/
+=09=09=09#templateContainer{
+=09=09=09=09background-color:#FFFFFF;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 1
+=09=09=09* @tip Set the styling for all first-level headings in your email=
+s. These should be the largest of your headings.
+=09=09=09* @style heading 1
+=09=09=09*/
+=09=09=09h1{
+=09=09=09=09color:#262626!important;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Georgia=2C serif;
+=09=09=09=09font-size:21px;
+=09=09=09=09font-style:normal;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:125%;
+=09=09=09=09letter-spacing:normal;
+=09=09=09=09border-bottom:1px solid #E19B9B;
+=09=09=09=09margin:0 0 10px;
+=09=09=09=09padding:0 0 7px;
+=09=09=09=09text-align:left;
+=09=09=09}
+=09=09=09
+=09=09=09=09h1 a {
+=09=09=09=09color:#C33737!important;
+=09=09=09=09text-decoration:none!important;
+=09=09=09=09}
+=09=09=09=09=09=09=09=09
+=09=09=09=09#bodyContentRight {
+=09=09=09=09padding:15px 0px 15px 20px;
+=09=09=09=09max-width: 160px;
+=09=09=09=09}
+=09=09=09=09=09=09=09
+=09=09=09=09#bodyContentRight h1 {
+=09=09=09=09font-size:14px;
+=09=09=09=09line-height:135%;
+=09=09=09=09border-bottom:1px solid #E19B9B;
+=09=09=09=09}
+
+=09=09=09=09=09#bodyContentRight h1 a {
+=09=09=09=09=09color:#C33737!important;
+=09=09=09=09=09text-decoration:none!important;
+=09=09=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 2
+=09=09=09* @tip Set the styling for all second-level headings in your emai=
+ls.
+=09=09=09* @style heading 2
+=09=09=09*/
+=09=09=09h2=2C
+=09=09=09#welcome h2 {
+=09=09=09=09color:#808080!important;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:12px;
+=09=09=09=09font-style:normal;
+=09=09=09=09font-weight:normal;
+=09=09=09=09line-height:150%;
+=09=09=09=09letter-spacing:normal;
+=09=09=09=09margin:10px 0 30px;
+=09=09=09=09text-align:left;
+=09=09=09}
+=09=09=09
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 3
+=09=09=09* @tip Set the styling for all third-level headings in your email=
+s.
+=09=09=09* @style heading 3
+=09=09=09*/
+=09=09=09h3{
+=09=09=09=09color:#8C8C8C!important;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:11px;
+=09=09=09=09font-style:normal;
+=09=09=09=09font-weight:normal;
+=09=09=09=09line-height:100%;
+=09=09=09=09letter-spacing:1px;
+=09=09=09=09text-transform:uppercase;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 4
+=09=09=09* @tip Set the styling for all fourth-level headings in your emai=
+ls. These should be the smallest of your headings.
+=09=09=09* @style heading 4
+=09=09=09*/
+=09=09=09h4{
+=09=09=09=09color:#8C8C8C!important;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:14px;
+=09=09=09=09font-style:italic;
+=09=09=09=09font-weight:normal;
+=09=09=09=09line-height:100%;
+=09=09=09=09letter-spacing:normal;
+=09=09=09=09margin:0 0 10px;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09h5{
+=09=09=09=09color:#262626!important;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:12px;
+=09=09=09=09font-style:normal;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:100%;
+=09=09=09=09letter-spacing:1px;
+=09=09=09=09text-align:center;
+=09=09=09}
+
+=09=09=09=09.h5_table {
+=09=09=09=09=09background:#ffdb00;
+=09=09=09=09}
+
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Header Styles =3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D */
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader style
+=09=09=09* @tip Set the background color and bottom border for your email'=
+s preheader area.
+=09=09=09* @theme header
+=09=09=09*/
+=09=09=09#templatePreheader{
+=09=09=09=09background-color:#FFFFFF;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader text
+=09=09=09* @tip Set the styling for your email's preheader text. Choose a=
+ size and color that is easy to read.
+=09=09=09*/
+=09=09=09
+=09=09=09.preheaderContent=2C
+=09=09=09.preheaderContent_archive {
+=09=09=09=09color:#8C8C8C;
+=09=09=09=09font-family: Arial=2C Sans-serif;
+=09=09=09=09font-size:11px;
+=09=09=09=09line-height:150%;
+=09=09=09=09text-align:left;
+=09=09=09}
+=09=09=09=09
+=09=09=09.preheaderContent {
+=09=09=09=09padding:15px 40px 15px 20px;
+=09=09=09}
+
+=09=09=09.preheaderContent_archive {
+=09=09=09=09padding:15px 20px 15px 0;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader link
+=09=09=09* @tip Set the styling for your email's preheader links. Choose a=
+ color that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.preheaderContent a:link=2C
+=09=09=09.preheaderContent a:visited=2C /* Yahoo! Mail Override */
+=09=09=09.preheaderContent a .yshortcuts=2C /* Yahoo! Mail Override */
+=09=09=09.preheaderContent_archive a:link=2C
+=09=09=09.preheaderContent_archive a:visited=2C /* Yahoo! Mail Override */
+=09=09=09.preheaderContent_archive a .yshortcuts=2C /* Yahoo! Mail Overrid=
+e */
+=09=09=09.bodyColumn a:link=2C
+=09=09=09.bodyColumn a:visited=2C /* Yahoo! Mail Override */
+=09=09=09.bodyColumn a .yshortcuts /* Yahoo! Mail Override */
+=09=09=09{
+=09=09=09=09color:#C33737;
+=09=09=09=09font-weight:normal;
+=09=09=09=09text-decoration:underline;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header style
+=09=09=09* @tip Set the background color and borders for your email's head=
+er area.
+=09=09=09* @theme header
+=09=09=09*/
+=09=09=09#templateHeader{
+=09=09=09=09background-color:#FFFFFF;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header text
+=09=09=09* @tip Set the styling for your email's header text. Choose a siz=
+e and color that is easy to read.
+=09=09=09*/
+=09=09=09.headerContent{
+=09=09=09=09color:#505050;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:20px;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:100%;
+=09=09=09=09text-align:left;
+=09=09=09=09vertical-align:middle;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header link
+=09=09=09* @tip Set the styling for your email's header links. Choose a co=
+lor that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.headerContent a:link=2C .headerContent a:visited=2C /* Yahoo! Ma=
+il Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+=09=09=09=09color:#C33737;
+=09=09=09=09font-weight:normal;
+=09=09=09=09text-decoration:underline;
+=09=09=09}
+
+=09=09=09#headerImage{
+=09=09=09=09height:auto;
+=09=09=09=09max-width:640px;
+=09=09=09}
+
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Body Styles =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D */
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body style
+=09=09=09* @tip Set the background color and borders for your email's body=
+ area.
+=09=09=09*/
+=09=09=09#templateBody{
+=09=09=09=09background-color:#FFFFFF;
+=09=09=09=09border-top:1px solid #FFFFFF;
+=09=09=09=09border-bottom:1px solid #CCCCCC;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body text
+=09=09=09* @tip Set the styling for your email's main content text. Choose=
+ a size and color that is easy to read.
+=09=09=09* @theme main
+=09=09=09*/
+=09=09=09
+=09=09=09.bodyContent {
+=09=09=09=09=09padding: 15px 20px 15px 40px;
+=09=09=09}
+=09=09=09
+=09=09=09.bodyContent=2C
+=09=09=09p {
+=09=09=09=09color:#262626;
+=09=09=09=09font-family:Georgia=2C serif;
+=09=09=09=09font-size:15px;
+=09=09=09=09line-height:175%;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body link
+=09=09=09* @tip Set the styling for your email's main content links. Choos=
+e a color that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.bodyContent a:link=2C
+=09=09=09.bodyContent a:visited=2C /* Yahoo! Mail Override */
+=09=09=09.bodyContent a .yshortcuts=2C /* Yahoo! Mail Override */
+=09=09=09p a:link=2C
+=09=09=09p a:visited=2C /* Yahoo! Mail Override */
+=09=09=09p a .yshortcuts=2C /* Yahoo! Mail Override */
+=09=09=09#donating_explanation a=2C
+=09=09=09#donating_bottom a {
+=09=09=09=09color:#C33737;
+=09=09=09=09text-decoration:underline;
+=09=09=09}
+
+=09=09=09.bodyContent img {
+=09=09=09=09display:inline;
+=09=09=09=09height:auto;
+=09=09=09=09width:400px;
+=09=09=09}
+
+=09=09=09p img.cover=2C
+=09=09=09p img.cover-landscape {
+=09=09=09padding:5px 0 10px 30px;
+=09=09=09}
+=09=09=09
+=09=09=09p img.cover {
+=09=09=09width:150px;
+=09=09=09}
+
+=09=09=09p img.cover-landscape {
+=09=09=09width:225px;
+=09=09=09}
+=09=09=09
+=09=09=09.with-border {
+    =09=09border: 1px solid #d9d9d9;
+=09=09=09}
+=09=09=09
+=09=09=09p.caption=2C
+=09=09=09p.via {
+=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09font-size:12px;
+=09=09=09line-height:145%;
+=09=09=09color:#808080;
+=09=09=09border-bottom: 1px solid #bfbfbf;
+=09=09=09padding:0 0 4px;
+=09=09=09font-weight:bold;
+=09=09=09-webkit-margin-before: .35em;
+=09=09=09}
+=09=09=09
+=09=09=09=09p.via {
+=09=09=09=09font-weight:normal;
+=09=09=09=09border-bottom:none;
+=09=09=09=09}
+
+=09=09=09blockquote {
+=09=09=09display: block;
+=09=09=09-webkit-margin-before: 0;
+=09=09=09-webkit-margin-after: 0;
+=09=09=09-webkit-margin-start: 40px;
+=09=09=09-webkit-margin-end: 0px;
+=09=09=09}=09=09=09
+
+=09=09=09blockquote p {
+=09=09=09=09color:#808080;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:14px;
+=09=09=09=09line-height:170%;
+=09=09=09}
+=09=09=09
+=09=09=09blockquote li {
+=09=09=09=09color:#808080;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:14px;
+=09=09=09=09line-height:170%;
+=09=09=09}
+
+=09=09=09blockquote p img {
+=09=09=09padding: 5px 30px 10px 0px;
+=09=09=09width:50px!important;
+=09=09=09}
+=09=09=09
+=09=09=09#welcome h2=2C
+=09=09=09#social {
+=09=09=09/*background-color:#E6E6E6;*/
+=09=09=09border:1px solid #BFBFBF;
+=09=09=09padding:15px 20px;
+=09=09=09margin:10px 0 35px;
+=09=09=09width:358px;
+=09=09=09}
+=09=09=09
+=09=09=09=09#social {
+=09=09=09=09width:160px;
+=09=09=09=09}
+=09=09=09=09
+=09=09=09=09#social a {
+=09=09=09=09color:#808080;
+=09=09=09=09text-decoration:none;
+=09=09=09=09}
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09#social h2.title {
+=09=09=09=09=09color:#262626!important;
+=09=09=09=09=09font-weight:bold!important;
+=09=09=09=09=09}
+=09=09=09=09
+=09=09=09=09.social_td {
+=09=09=09=09padding:10px 20px 15px;
+=09=09=09=09}
+=09=09=09
+=09=09=09.avatar {
+=09=09=09width:83px!important;
+=09=09=09padding:3px 10px 0 0;
+=09=09=09}
+
+=09=09=09.donating p {
+=09=09=09display: block;
+=09=09=09-webkit-margin-before: 0px;
+=09=09=09-webkit-margin-after: 0px;
+=09=09=09-webkit-margin-start: 0px;
+=09=09=09-webkit-margin-end: 0px;
+=09=09=09}
+=09=09=09
+=09=09=09.donating {
+=09=09=09background-color:#ffdb00;
+=09=09=09padding:15px 20px;
+=09=09=09margin:10px 0 15px;=09
+=09=09=09}
+
+=09=09=09=09#donating-equals-loving p {
+=09=09=09=09font-style:italic;
+=09=09=09=09text-align:center!important;
+=09=09=09=09padding:10px 0;
+=09=09=09=09}
+=09=09=09
+=09=09=09=09#donating_explanation h2=2C
+=09=09=09=09#donating_bottom h2 {
+=09=09=09=09color:#262626!important;
+=09=09=09=09margin:10px 0 15px;
+=09=09=09=09padding:5px 20px 0;
+=09=09=09=09}
+
+=09=09=09=09#donating_bottom h2 {
+=09=09=09=09text-align:center!important;
+=09=09=09=09}
+=09=09=09=09
+=09=09=09.share {
+=09=09=09background-color:#ffffff;
+=09=09=09padding:15px 20px 0;
+=09=09=09margin: 10px 0 40px;
+=09=09=09border:1px solid #bfbfbf;=09
+=09=09=09}
+=09=09=09
+=09=09=09.share h3 {
+=09=09=09padding:15px 20px;
+=09=09=09}
+=09=09=09
+=09=09=09.share h3 a {
+=09=09=09color:#8C8C8C!important;
+=09=09=09text-decoration:none!important;
+=09=09=09}
+
+=09=09=09.share img {
+=09=09=09width: 48px!important;
+=09=09=09margin:0 0 -6px 0;
+=09=09=09}
+
+=09=09=09hr {
+=09=09=09border: 0;
+=09=09=09height: 1px;
+=09=09=09background: #bfbfbf;
+=09=09=09margin:15px 0;
+=09=09=09}
+=09=09=09
+=09=09=09.banners {
+=09=09=09margin:20px 0;
+=09=09=09}
+=09=09=09
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Footer Styles =3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D */
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer style
+=09=09=09* @tip Set the background color and borders for your email's foot=
+er area.
+=09=09=09* @theme footer
+=09=09=09*/
+=09=09=09#templateFooter{
+=09=09=09=09background-color:#E6E6E6;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer text
+=09=09=09* @tip Set the styling for your email's footer text. Choose a siz=
+e and color that is easy to read.
+=09=09=09* @theme footer
+=09=09=09*/
+=09=09=09.footerContent{
+=09=09=09=09color:#8C8C8C;
+=09=09=09=09font-family:Arial=2C Sans-serif;
+=09=09=09=09font-size:10px;
+=09=09=09=09line-height:150%;
+=09=09=09=09padding:20px;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer link
+=09=09=09* @tip Set the styling for your email's footer links. Choose a co=
+lor that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.footerContent a:link=2C
+=09=09=09.footerContent a:visited=2C /* Yahoo! Mail Override */
+=09=09=09.footerContent a .yshortcuts=2C
+=09=09=09.footerContent a span /* Yahoo! Mail Override */{
+=09=09=09=09color:#606060;
+=09=09=09=09font-weight:normal;
+=09=09=09=09text-decoration:underline;
+=09=09=09}
+
+            @media only screen and (max-width: 480px){
+=09=09=09=09/* /\/\/\/\/\/\/ CLIENT-SPECIFIC MOBILE STYLES /\/\/\/\/\/\/ *=
+/
+=09=09=09=09body=2C table=2C td=2C p=2C a=2C li=2C blockquote{-webkit-text=
+-size-adjust:none!important;} /* Prevent Webkit platforms from changing de=
+fault text sizes */
+                body{width:100%!important; min-width:100%!important;} /* P=
+revent iOS Mail from adding padding to the body */
+
+=09=09=09=09/* /\/\/\/\/\/\/ MOBILE RESET STYLES /\/\/\/\/\/\/ */
+=09=09=09=09#bodyCell{padding:0!important;}
+
+=09=09=09=09/* /\/\/\/\/\/\/ MOBILE TEMPLATE STYLES /\/\/\/\/\/\/ */
+
+=09=09=09.avatar {
+=09=09=09padding:0 15px 0 0!important;
+=09=09=09}
+
+=09=09=09h1{
+=09=09=09=09font-size:30px!important;
+=09=09=09}
+=09=09=09
+=09=09=09=09#bodyContentRight h1 {
+=09=09=09=09font-size:18px!important;
+=09=09=09=09}
+
+=09=09=09h2=2C
+=09=09=09#welcome h2 {
+=09=09=09=09font-size:16px!important;
+=09=09=09}
+=09=09=09
+=09=09=09=09#donating_explanation h2 {
+=09=09=09=09font-size:14px!important;
+=09=09=09=09}
+
+=09=09=09h3{
+=09=09=09=09font-size:13px!important;
+=09=09=09}
+
+=09=09=09h4{
+=09=09=09=09font-size:16px!important;
+=09=09=09}
+
+=09=09=09.preheaderContent=2C
+=09=09=09.preheaderContent_archive {
+=09=09=09=09font-size:13px!important;
+=09=09=09}
+
+=09=09=09.headerContent{
+=09=09=09=09font-size:22px!important;
+=09=09=09}
+
+=09=09=09.bodyContent=2C
+=09=09=09p {
+=09=09=09=09font-size:20px!important;
+=09=09=09}
+
+=09=09=09=09#donating-equals-loving p {
+=09=09=09=09font-size:15px!important;
+=09=09=09=09font-weight:bold!important;
+=09=09=09=09}
+=09=09=09=09
+=09=09=09p.caption=2C
+=09=09=09p.via {
+=09=09=09font-size:16px!important;
+=09=09=09}
+=09=09=09=09=09=09
+=09=09=09blockquote p {
+=09=09=09=09font-size:18px!important;
+=09=09=09=09margin:0 0 0 30px!important;
+=09=09=09}
+
+=09=09=09.footerContent{
+=09=09=09=09font-size:12px!important;
+=09=09=09}
+
+=09=09=09}
+=09=09=09
+=09=09</style>
+    </head>
+
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0=
+" offset=3D"0" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjus=
+t: 100%;margin: 0;padding: 0;background-color: #F7F7F7;height: 100%!import=
+ant;width: 100%!important;">
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" h=
+eight=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"-webkit-text-size-=
+adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;margin: 0;padding: 0;background-color: #F7F7F7;border-collapse:=
+ collapse!important;height: 100%!important;width: 100%!important;">
+<tr>
+<td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"-webkit-text-=
+size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;margin: 0;padding: 20px;height: 100%!important;width: 100%!=
+important;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateCont=
+ainer" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 640px;table-layout: fix=
+ed;background-color: #FFFFFF;border-collapse: collapse!important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100=
+%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"=
+>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=
+=3D"templatePreheader" style=3D"-webkit-text-size-adjust: 100%;-ms-text-si=
+ze-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-col=
+or: #FFFFFF;border-collapse: collapse!important;">
+<tr>
+<td valign=3D"top" class=3D"preheaderContent" width=3D"400" mc:edit=3D"pre=
+header_content00" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-ad=
+just: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #8C8C8C;font=
+-family: Arial=2C Sans-serif;font-size: 11px;line-height: 150%;text-align:=
+ left;padding: 15px 40px 15px 20px;">
+Fluid reflections on keeping a solid center.
+</td>
+<!--
+ -->
+<td valign=3D"top" width=3D"160" class=3D"preheaderContent_archive" mc:edi=
+t=3D"preheader_content01" style=3D"-webkit-text-size-adjust: 100%;-ms-text=
+-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #8C8=
+C8C;font-family: Arial=2C Sans-serif;font-size: 11px;line-height: 150%;tex=
+t-align: left;padding: 15px 20px 15px 0;">
+Email formatted oddly or truncated?<br><a href=3D"http://us2.campaign-arch=
+ive1.com/?u=3D13eb080d8a315477042e0d5b1&id=3Dc7f9956a1e&e=3Da5eb5cdf67" styl=
+e=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33=
+737;font-weight: normal;text-decoration: underline;">View it in your brows=
+er</a>. No room for me in your life anymore? <a href=3D"http://brainpickin=
+gs.us2.list-manage.com/unsubscribe?u=3D13eb080d8a315477042e0d5b1&id=3D179f=
+fa2629&e=3Da5eb5cdf67&c=3Dc7f9956a1e" style=3D"-webkit-text-size-adjust: 100=
+%;-ms-text-size-adjust: 100%;color: #C33737;font-weight: normal;text-decor=
+ation: underline;">Unsubscribe</a>. If a friend forwarded this to you and=
+ you'd like your very own=2C <a href=3D"http://brainpickings.us2.list-mana=
+ge.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D90b0a59323&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%=
+;color: #C33737;font-weight: normal;text-decoration: underline;">subscribe=
+ here</a>.
+</td>
+<!--
+ -->
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100=
+%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"=
+>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=
+=3D"templateHeader" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-=
+adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color:=
+ #FFFFFF;border-collapse: collapse!important;">
+<tr>
+<td valign=3D"top" class=3D"headerContent" style=3D"-webkit-text-size-adju=
+st: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;color: #505050;font-family: Arial=2C Sans-serif;font-size: 20px;font=
+-weight: bold;line-height: 100%;text-align: left;vertical-align: middle;">
+<a href=3D"http://brainpickings.us2.list-manage1.com/track/click?u=3D13eb0=
+80d8a315477042e0d5b1&id=3D90335019a8&e=3Da5eb5cdf67" style=3D"-webkit-tex=
+t-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;font-weight:=
+ normal;text-decoration: underline;"><img src=3D"https://gallery.mailchimp=
+=2Ecom/13eb080d8a315477042e0d5b1/images/dc42cd75-3c9b-45e0-ac2c-4332a6ee2b52=
+=2Epng" id=3D"headerImage" mc:label=3D"header_image" mc:edit=3D"header_image=
+" mc:allowdesigner=3D"" mc:allowtext=3D"" style=3D"-ms-interpolation-mode:=
+ bicubic;border: 0;height: auto;line-height: 100%;outline: none;text-decor=
+ation: none;max-width: 640px;"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100=
+%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"=
+>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=
+=3D"bodyColumns" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adj=
+ust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: col=
+lapse!important;">
+<tr>
+<!-- SIDE -->
+<td valign=3D"top" width=3D"160" id=3D"bodyContentRight" mc:edit=3D"body01=
+" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;padding: 15px 0px 15px 20px;max-wid=
+th: 160px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"donating" id=3D"donating-equals-loving" style=3D"-webkit-text-size-a=
+djust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rsp=
+ace: 0pt;background-color: #ffdb00;padding: 15px 20px;margin: 10px 0 15px;=
+border-collapse: collapse!important;">
+<tr>
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso=
+-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;colo=
+r: #262626;font-family: Georgia=2C serif;font-size: 15px;line-height: 175%=
+;text-align: center!important;display: block;-webkit-margin-before: 0px;-w=
+ebkit-margin-after: 0px;-webkit-margin-start: 0px;-webkit-margin-end: 0px;=
+font-style: italic;padding: 10px 0;"><strong>donating =3D loving</strong><=
+/p>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"donating" id=3D"donating_explanation" style=3D"-webkit-text-size-adj=
+ust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;background-color: #ffdb00;padding: 15px 20px;margin: 10px 0 15px;bo=
+rder-collapse: collapse!important;">
+<tr>
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso=
+-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-size: 12=
+px;font-style: normal;font-weight: normal;line-height: 150%;letter-spacing=
+: normal;margin: 10px 0 15px;text-align: left;padding: 5px 20px 0;color: #=
+262626!important;">I pour tremendous time=2C thought=2C love=2C and resour=
+ces into <em>Brain Pickings</em>=2C which remains free. If you find any jo=
+y and stimulation here=2C please consider supporting my labor of love with=
+ a recurring monthly <a href=3D"http://brainpickings.us2.list-manage.com/t=
+rack/click?u=3D13eb080d8a315477042e0d5b1&id=3Dde35e822c3&e=3Da5eb5cdf67"=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #C33737;text-decoration: underline;">donation</a> of your choosing=2C bet=
+ween a cup of tea and a good dinner:</h2>
+<a href=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb08=
+0d8a315477042e0d5b1&id=3De4aa6d90f2&e=3Da5eb5cdf67" style=3D"-webkit-text=
+-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decorati=
+on: underline;"><img src=3D"https://gallery.mailchimp.com/13eb080d8a315477=
+042e0d5b1/images/2ada5046-b2aa-4e54-b12b-117de6132471.gif" alt=3D"Subscrib=
+e" style=3D"margin-left: 20px;-ms-interpolation-mode: bicubic;border: 0;he=
+ight: auto;line-height: 100%;outline: none;text-decoration: none;"></a>
+<h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-size: 12=
+px;font-style: normal;font-weight: normal;line-height: 150%;letter-spacing=
+: normal;margin: 10px 0 15px;text-align: left;padding: 5px 20px 0;color: #=
+262626!important;">You can also become a one-time patron with a single don=
+ation in any amount: </h2>
+<a href=3D"http://brainpickings.us2.list-manage1.com/track/click?u=3D13eb0=
+80d8a315477042e0d5b1&id=3D11a0cf36b1&e=3Da5eb5cdf67" style=3D"-webkit-tex=
+t-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decorat=
+ion: underline;"><img src=3D"https://gallery.mailchimp.com/13eb080d8a31547=
+7042e0d5b1/images/6588847f-3137-43c8-8039-efee59756b64.gif" alt=3D"Donate"=
+ style=3D"margin-left: 20px;margin-bottom: 20px;-ms-interpolation-mode: bi=
+cubic;border: 0;height: auto;line-height: 100%;outline: none;text-decorati=
+on: none;"></a>
+<h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-size: 12=
+px;font-style: normal;font-weight: normal;line-height: 150%;letter-spacing=
+: normal;margin: 10px 0 15px;text-align: left;padding: 5px 20px 0;color: #=
+262626!important;">And if you've already donated=2C from the bottom of my=
+ heart: THANK YOU.</h2>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=
+=3D"social" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust:=
+ 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border: 1px solid #BFBFB=
+F;padding: 15px 20px;margin: 10px 0 35px;width: 160px;border-collapse: col=
+lapse!important;">
+<tr>
+<td class=3D"social_td" style=3D"-webkit-text-size-adjust: 100%;-ms-text-s=
+ize-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;padding: 10px=
+ 20px 15px;">
+<h2 class=3D"title" style=3D"display: block;font-family: Arial=2C Sans-ser=
+if;font-size: 12px;font-style: normal;font-weight: bold!important;line-hei=
+ght: 150%;letter-spacing: normal;margin: 10px 0 30px;text-align: left;colo=
+r: #262626!important;">Share</h2><h2 style=3D"display: block;font-family:=
+ Arial=2C Sans-serif;font-size: 12px;font-style: normal;font-weight: norma=
+l;line-height: 150%;letter-spacing: normal;margin: 10px 0 30px;text-align:=
+ left;color: #808080!important;"><a href=3D"http://us2.forward-to-friend.c=
+om/forward?u=3D13eb080d8a315477042e0d5b1&id=3Dc7f9956a1e&e=3Da5eb5cdf67" sty=
+le=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #80=
+8080;text-decoration: none;"><img src=3D"https://gallery.mailchimp.com/13e=
+b080d8a315477042e0d5b1/images/cf34a45a-2b19-4cfe-83b5-e8c4f2994c0c.gif" al=
+t=3D"Forward" style=3D"margin-right: 5px;-ms-interpolation-mode: bicubic;b=
+order: 0;height: auto;line-height: 100%;outline: none;text-decoration: non=
+e;"> Forward to a friend</a></h2><h2 class=3D"title" style=3D"display: blo=
+ck;font-family: Arial=2C Sans-serif;font-size: 12px;font-style: normal;fon=
+t-weight: bold!important;line-height: 150%;letter-spacing: normal;margin:=
+ 10px 0 30px;text-align: left;color: #262626!important;">Connect</h2><h2 s=
+tyle=3D"display: block;font-family: Arial=2C Sans-serif;font-size: 12px;fo=
+nt-style: normal;font-weight: normal;line-height: 150%;letter-spacing: nor=
+mal;margin: 10px 0 30px;text-align: left;color: #808080!important;"><a hre=
+f=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb080d8a31=
+5477042e0d5b1&id=3Dcbf1ae4f3f&e=3Da5eb5cdf67" style=3D"-webkit-text-size-=
+adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;text-decoration: no=
+ne;"><img src=3D"https://gallery.mailchimp.com/13eb080d8a315477042e0d5b1/i=
+mages/ef5fc117-63b2-4aa5-accc-56fb9b86efb7.gif" alt=3D"Facebook" style=3D"=
+margin-right: 5px;-ms-interpolation-mode: bicubic;border: 0;height: auto;l=
+ine-height: 100%;outline: none;text-decoration: none;"> Facebook</a></h2><=
+h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-size: 12p=
+x;font-style: normal;font-weight: normal;line-height: 150%;letter-spacing:=
+ normal;margin: 10px 0 30px;text-align: left;color: #808080!important;"><a=
+ href=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb080d=
+8a315477042e0d5b1&id=3D16e45e5dd5&e=3Da5eb5cdf67" style=3D"-webkit-text-s=
+ize-adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;text-decoration=
+: none;"><img src=3D"https://gallery.mailchimp.com/13eb080d8a315477042e0d5=
+b1/images/ba0c265d-10b5-4263-936a-2f71b0445a4b.gif" alt=3D"Twitter" style=
+=3D"margin-right: 5px;-ms-interpolation-mode: bicubic;border: 0;height: au=
+to;line-height: 100%;outline: none;text-decoration: none;"> Twitter</a></h=
+2><h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-size:=
+ 12px;font-style: normal;font-weight: normal;line-height: 150%;letter-spac=
+ing: normal;margin: 10px 0 30px;text-align: left;color: #808080!important;=
+"><a href=3D"http://brainpickings.us2.list-manage1.com/track/click?u=3D13e=
+b080d8a315477042e0d5b1&id=3D51abba90ef&e=3Da5eb5cdf67" style=3D"-webkit-t=
+ext-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;text-decor=
+ation: none;"><img src=3D"https://gallery.mailchimp.com/13eb080d8a31547704=
+2e0d5b1/images/b011b94c-e652-4764-b548-666c2bd825d9.gif" alt=3D"Instagram"=
+ style=3D"margin-right: 5px;-ms-interpolation-mode: bicubic;border: 0;heig=
+ht: auto;line-height: 100%;outline: none;text-decoration: none;"> Instagra=
+m</a></h2><h2 style=3D"display: block;font-family: Arial=2C Sans-serif;fon=
+t-size: 12px;font-style: normal;font-weight: normal;line-height: 150%;lett=
+er-spacing: normal;margin: 10px 0 30px;text-align: left;color: #808080!imp=
+ortant;"><a href=3D"http://brainpickings.us2.list-manage.com/track/click?u=
+=3D13eb080d8a315477042e0d5b1&id=3D91559ed7ff&e=3Da5eb5cdf67" style=3D"-we=
+bkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;text=
+-decoration: none;"><img src=3D"https://gallery.mailchimp.com/13eb080d8a31=
+5477042e0d5b1/images/507cc9eb-a8ca-45fe-acc8-5d7950210319.gif" alt=3D"Tumb=
+lr" style=3D"margin-right: 5px;-ms-interpolation-mode: bicubic;border: 0;h=
+eight: auto;line-height: 100%;outline: none;text-decoration: none;"> Tumbl=
+r</a></h2><hr style=3D"border: 0;height: 1px;background: #bfbfbf;margin: 1=
+5px 0;"><h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-=
+size: 12px;font-style: normal;font-weight: normal;line-height: 150%;letter=
+-spacing: normal;margin: 10px 0 30px;text-align: left;color: #808080!impor=
+tant;"><a href=3D"http://brainpickings.us2.list-manage.com/unsubscribe?u=
+=3D13eb080d8a315477042e0d5b1&id=3D179ffa2629&e=3Da5eb5cdf67&c=3Dc7f9956a1e"=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #808080;text-decoration: none;">Unsubscribe</a></h2>
+</td>
+</tr>
+</table>
+
+</td>
+
+<!-- MAIN -->
+<td valign=3D"top" width=3D"400" class=3D"bodyContent" mc:edit=3D"body00"=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;padding: 15px 20px 15px 40px;color:=
+ #262626;font-family: Georgia=2C serif;font-size: 15px;line-height: 175%;t=
+ext-align: left;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=
+=3D"welcome" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust:=
+ 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collaps=
+e!important;">
+<tr>
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso=
+-table-lspace: 0pt;mso-table-rspace: 0pt;">
+
+<h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-size: 12=
+px;font-style: normal;font-weight: normal;line-height: 150%;letter-spacing=
+: normal;margin: 10px 0 35px;text-align: left;border: 1px solid #BFBFBF;pa=
+dding: 15px 20px;width: 358px;color: #808080!important;"><img class=3D"ava=
+tar" src=3D"https://gallery.mailchimp.com/13eb080d8a315477042e0d5b1/images=
+/6dc6e8fb-3c2f-4f5c-bc16-c8c48e535796.gif" align=3D"left" alt=3D"Welcome"=
+ style=3D"-ms-interpolation-mode: bicubic;border: 0;height: auto;line-heig=
+ht: 100%;outline: none;text-decoration: none;padding: 3px 10px 0 0;display=
+: inline;width: 83px!important;">Hello=2C rigoberto! This is a spec=
+ial=2C once-a-decade edition. If you missed this week's regular edition=
+ =E2=80=93 an atlas of NYC's notable women=2C May Sarton on the cure for d=
+espair=2C and more =E2=80=93 you can catch up <a href=3D"http://brainpicki=
+ngs.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3Df99=
+f41ae6f&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-=
+size-adjust: 100%;color: #C33737;text-decoration: underline;">right here</=
+a>. If you're enjoying my newsletter=2C please consider supporting this la=
+bor of love with a <a href=3D"http://brainpickings.us2.list-manage1.com/tr=
+ack/click?u=3D13eb080d8a315477042e0d5b1&id=3De77878eb6e&e=3Da5eb5cdf67" s=
+tyle=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #=
+C33737;text-decoration: underline;">donation</a> =E2=80=93 I spend countle=
+ss hours and tremendous resources on it=2C and every little bit of support=
+ helps enormously.</h2>
+</td>
+</tr>
+</table>
+
+<h1 style=3D"display: block;font-family: Georgia=2C serif;font-size: 21px;=
+font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: nor=
+mal;border-bottom: 1px solid #E19B9B;margin: 0 0 10px;padding: 0 0 7px;tex=
+t-align: left;color: #262626!important;"><a href=3D"http://brainpickings.u=
+s2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D780d2bad=
+bc&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-=
+adjust: 100%;color: #C33737!important;text-decoration: none!important;">10=
+ Learnings from 10 Years of Brain Pickings</a></h1><div class=3D"entry_con=
+tent"><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100=
+%;color: #262626;font-family: Georgia=2C serif;font-size: 15px;line-height=
+: 175%;text-align: left;"><img src=3D"https://i0.wp.com/www.brainpickings.=
+org/wp-content/uploads/2011/09/treebrain.jpg?fit=3D199%2C261" align=3D"rig=
+ht" class=3D"cover" style=3D"-ms-interpolation-mode: bicubic;border: 0;hei=
+ght: auto;line-height: 100%;outline: none;text-decoration: none;display: i=
+nline;width: 150px;padding: 5px 0 10px 30px;"></p><p style=3D"-webkit-text=
+-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-family:=
+ Georgia=2C serif;font-size: 15px;line-height: 175%;text-align: left;">I r=
+emember my first awareness of mortality as a child in Bulgaria. I was nine=
+ and my father was relaying an anecdote from his youth. I asked him when i=
+t had taken place. With unconcerned casualness=2C he replied: <em>=E2=80=
+=9CAbout a decade ago.=E2=80=9D</em> I was astonished that people could se=
+gment their lives into blocks this big =E2=80=94 my own life hadn=E2=80=99=
+t yet lasted a decade. In realizing that =E2=80=9Ca decade ago=E2=80=9D I=
+ hadn=E2=80=99t existed =E2=80=94 the self I now so vividly experienced da=
+ily was then a nonentity =E2=80=94 I also realized that in several more of=
+ those ten-year blocks=2C my dad=2C and eventually I=2C will cease to exis=
+t. </p><img src=3D"https://i2.wp.com/www.brainpickings.org/wp-content/uplo=
+ads/2016/10/withdad.jpg?resize=3D680%2C448" style=3D"-ms-interpolation-mod=
+e: bicubic;border: 0;height: auto;line-height: 100%;outline: none;text-dec=
+oration: none;display: inline;width: 400px;"><p class=3D"caption" style=3D=
+"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;=
+font-family: Arial=2C Sans-serif;font-size: 12px;line-height: 145%;text-al=
+ign: left;border-bottom: 1px solid #bfbfbf;padding: 0 0 4px;font-weight: b=
+old;-webkit-margin-before: .35em;">With dad=2C year 0</p><p style=3D"-webk=
+it-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-f=
+amily: Georgia=2C serif;font-size: 15px;line-height: 175%;text-align: left=
+;">After one such time-block=2C I left Bulgaria for America=2C lured by th=
+e liberal arts education promise of being taught how to live. As the reali=
+ty fell short of that promise=2C I began keeping my own record of what I w=
+as reading and learning outside the classroom in mapping this academically=
+ unaddressed terra incognita of being. </p><p style=3D"-webkit-text-size-a=
+djust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-family: Georgia=
+=2C serif;font-size: 15px;line-height: 175%;text-align: left;">All the whi=
+le=2C I was working numerous jobs to pay my way through school. What I was=
+ learning at night and on weekends=2C at the library and on the internet=
+ =E2=80=94 from Plato to pop art =E2=80=94 felt too uncontainably interest=
+ing to keep to myself=2C so I decided to begin sharing these private adven=
+tures with my colleagues at one of my jobs. On October 23=2C 2006=2C <em>B=
+rain Pickings</em> was born as a plain-text email to seven friends. Halfwa=
+y through my senior year of college=2C juggling my various jobs and academ=
+ic course load=2C I took a night class to learn coding and turned the shor=
+t weekly email into a sparse website=2C which I updated manually every Fri=
+day=2C then=2C eventually=2C every weekday. </p><p style=3D"-webkit-text-s=
+ize-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-family: Ge=
+orgia=2C serif;font-size: 15px;line-height: 175%;text-align: left;">The si=
+te grew as I grew =E2=80=94 an unfolding record of my intellectual=2C crea=
+tive=2C and spiritual development. At the time=2C I had no idea that this=
+ small labor of love and learning would animate me with a sense of purpose=
+ and become both my life and my living=2C nor that its seven original read=
+ers would swell into several million. I had no idea that this eccentric pe=
+rsonal record=2C which I began keeping in the city where Benjamin Franklin=
+ founded the first subscription library in America=2C would one day be inc=
+luded in  the Library of Congress archive of =E2=80=9Cmaterials of histori=
+cal importance.=E2=80=9D </p><p style=3D"-webkit-text-size-adjust: 100%;-m=
+s-text-size-adjust: 100%;color: #262626;font-family: Georgia=2C serif;font=
+-size: 15px;line-height: 175%;text-align: left;">And now=2C somehow=2C a d=
+ecade has elapsed. </p><p style=3D"-webkit-text-size-adjust: 100%;-ms-text=
+-size-adjust: 100%;color: #262626;font-family: Georgia=2C serif;font-size:=
+ 15px;line-height: 175%;text-align: left;">Because I believe that our beco=
+ming=2C like the synthesis of meaning itself=2C is an ongoing and dynamic=
+ process=2C I=E2=80=99ve been reluctant to stultify it and flatten its ong=
+oing expansiveness in static opinions and fixed personal tenets of living.=
+ But I do find myself continually discovering=2C then returning to=2C cert=
+ain core values. While they may be refined and enriched in the act of livi=
+ng=2C their elemental substance remains a center of gravity for what I exp=
+erience as myself. </p><p style=3D"-webkit-text-size-adjust: 100%;-ms-text=
+-size-adjust: 100%;color: #262626;font-family: Georgia=2C serif;font-size:=
+ 15px;line-height: 175%;text-align: left;">I first set down some of these=
+ core beliefs=2C written largely as notes to myself that may or may not be=
+ useful to others=2C when <em>Brain Pickings</em> <a href=3D"http://brainp=
+ickings.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=
+=3D86818c4715&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms=
+-text-size-adjust: 100%;color: #C33737;text-decoration: underline;">turned=
+ seven</a> (which kindred spirits later adapted into a <a href=3D"http://b=
+rainpickings.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1=
+&id=3D0320fff9ac&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;=
+-ms-text-size-adjust: 100%;color: #C33737;text-decoration: underline;">bea=
+utiful poster</a> inspired by the aesthetic of vintage children=E2=80=99s=
+ books and a <a href=3D"http://brainpickings.us2.list-manage.com/track/cli=
+ck?u=3D13eb080d8a315477042e0d5b1&id=3D5e0d3e40f3&e=3Da5eb5cdf67" style=3D=
+"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;=
+text-decoration: underline;">cinematic short film</a>). I expanded upon th=
+em <a href=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13e=
+b080d8a315477042e0d5b1&id=3Df169a9dd79&e=3Da5eb5cdf67" style=3D"-webkit-t=
+ext-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decor=
+ation: underline;">to mark year nine</a>. Today=2C as I round the first de=
+cade of <em>Brain Pickings</em>=2C I feel half-compelled=2C half-obliged t=
+o add a tenth learning=2C a sort of crowning credo drawn from a constellat=
+ion of life-earned beliefs I distilled in a <a href=3D"http://brainpicking=
+s.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D4d9eb=
+16330&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-si=
+ze-adjust: 100%;color: #C33737;text-decoration: underline;">commencement a=
+ddress</a> I delivered in the spring of 2016. </p><p style=3D"-webkit-text=
+-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-family:=
+ Georgia=2C serif;font-size: 15px;line-height: 175%;text-align: left;">Her=
+e are all ten=2C in the order that they were written. </p><p style=3D"-web=
+kit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-=
+family: Georgia=2C serif;font-size: 15px;line-height: 175%;text-align: lef=
+t;">From year seven:</p><blockquote style=3D"-webkit-text-size-adjust: 100=
+%;-ms-text-size-adjust: 100%;display: block;-webkit-margin-before: 0;-webk=
+it-margin-after: 0;-webkit-margin-start: 40px;-webkit-margin-end: 0px;"><p=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #808080;font-family: Arial=2C Sans-serif;font-size: 14px;line-height: 170=
+%;text-align: left;"><strong>1. Allow yourself the uncomfortable luxury of=
+ changing your mind.</strong> Cultivate that capacity for <a href=3D"http:=
+//brainpickings.us2.list-manage1.com/track/click?u=3D13eb080d8a315477042e0=
+d5b1&id=3D4fddf943ce&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 1=
+00%;-ms-text-size-adjust: 100%;color: #C33737;text-decoration: underline;"=
+>=E2=80=9Cnegative capability.=E2=80=9D</a> We live in a culture where one=
+ of the greatest social disgraces is not having an opinion=2C so we often=
+ form our =E2=80=9Copinions=E2=80=9D based on superficial impressions or t=
+he borrowed ideas of others=2C without investing the time and thought that=
+ cultivating true conviction necessitates. We then go around asserting the=
+se donned opinions and clinging to them as anchors to our own reality. It=
+=E2=80=99s enormously disorienting to simply say=2C =E2=80=9CI don=E2=80=
+=99t know.=E2=80=9D But it=E2=80=99s infinitely more rewarding to understa=
+nd than to be right =E2=80=94 even if that means changing your mind about=
+ a topic=2C an ideology=2C or=2C above all=2C yourself.</p><p style=3D"-we=
+bkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;font=
+-family: Arial=2C Sans-serif;font-size: 14px;line-height: 170%;text-align:=
+ left;"><strong>2. Do nothing for prestige or status or money or approval=
+ alone.</strong> As <a href=3D"http://brainpickings.us2.list-manage1.com/t=
+rack/click?u=3D13eb080d8a315477042e0d5b1&id=3D3680305288&e=3Da5eb5cdf67"=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #C33737;text-decoration: underline;">Paul Graham observed</a>=2C =E2=80=
+=9Cprestige is like a powerful magnet that warps even your beliefs about w=
+hat you enjoy. It causes you to work not on what you like=2C but what you=
+=E2=80=99d like to like.=E2=80=9D Those extrinsic motivators are fine and=
+ can feel life-affirming in the moment=2C but they ultimately don=E2=80=99=
+t make it thrilling to get up in the morning and gratifying to go to sleep=
+ at night =E2=80=94 and=2C in fact=2C they can often distract and detract=
+ from the things that do offer those deeper rewards.</p><p style=3D"-webki=
+t-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;font-fa=
+mily: Arial=2C Sans-serif;font-size: 14px;line-height: 170%;text-align: le=
+ft;"><strong>3. Be generous.</strong> Be generous with your time and your=
+ resources and with giving credit and=2C especially=2C with your words. It=
+=E2=80=99s so much easier to be a critic than a celebrator. Always remembe=
+r there is a human being on the other end of every exchange and behind eve=
+ry cultural artifact being critiqued. To understand and be understood=2C t=
+hose are among life=E2=80=99s greatest gifts=2C and every interaction is a=
+n opportunity to exchange them.</p><p style=3D"-webkit-text-size-adjust: 1=
+00%;-ms-text-size-adjust: 100%;color: #808080;font-family: Arial=2C Sans-s=
+erif;font-size: 14px;line-height: 170%;text-align: left;"><strong>4. Build=
+ pockets of stillness into your life.</strong> Meditate. Go for walks. Rid=
+e your bike going nowhere in particular. There is a creative purpose to <a=
+ href=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb080d=
+8a315477042e0d5b1&id=3D3fafee917c&e=3Da5eb5cdf67" style=3D"-webkit-text-s=
+ize-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decoration=
+: underline;">daydreaming</a>=2C even to <a href=3D"http://brainpickings.u=
+s2.list-manage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D17db41d=
+c2f&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size=
+-adjust: 100%;color: #C33737;text-decoration: underline;">boredom</a>. The=
+ best ideas come to us when we stop actively trying to coax the muse into=
+ manifesting and let the fragments of experience float around our unconsci=
+ous mind in order to click into new combinations. Without this essential s=
+tage of <a href=3D"http://brainpickings.us2.list-manage1.com/track/click?u=
+=3D13eb080d8a315477042e0d5b1&id=3Daefad55468&e=3Da5eb5cdf67" style=3D"-we=
+bkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text=
+-decoration: underline;">unconscious processing</a>=2C the entire <a href=
+=3D"http://brainpickings.us2.list-manage1.com/track/click?u=3D13eb080d8a31=
+5477042e0d5b1&id=3Dc0dcc8a032&e=3Da5eb5cdf67" style=3D"-webkit-text-size-=
+adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decoration: un=
+derline;">flow of the creative process</a> is broken.</p><p style=3D"-webk=
+it-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #808080;font-f=
+amily: Arial=2C Sans-serif;font-size: 14px;line-height: 170%;text-align: l=
+eft;">Most important=2C <strong>sleep</strong>. Besides being <a href=3D"h=
+ttp://brainpickings.us2.list-manage.com/track/click?u=3D13eb080d8a31547704=
+2e0d5b1&id=3Db9ae2f283e&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust=
+: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decoration: underlin=
+e;">the greatest creative aphrodisiac</a>=2C sleep also <a href=3D"http://=
+brainpickings.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b=
+1&id=3D40456901b8&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%=
+;-ms-text-size-adjust: 100%;color: #C33737;text-decoration: underline;">af=
+fects our every waking moment</a>=2C <a href=3D"http://brainpickings.us2.l=
+ist-manage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D37203c1595&=
+e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adj=
+ust: 100%;color: #C33737;text-decoration: underline;">dictates our social=
+ rhythm</a>=2C and even <a href=3D"http://brainpickings.us2.list-manage.co=
+m/track/click?u=3D13eb080d8a315477042e0d5b1&id=3Dc2edec0ee1&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;colo=
+r: #C33737;text-decoration: underline;">mediates our negative moods</a>. B=
+e as religious and disciplined about your sleep as you are about your work=
+=2E We tend to wear our ability to get by on little sleep as some sort of ba=
+dge of honor that validates our work ethic. But what it really is is a pro=
+found failure of self-respect and of priorities. What could possibly be mo=
+re important than your health and your sanity=2C from which all else sprin=
+gs?</p><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 10=
+0%;color: #808080;font-family: Arial=2C Sans-serif;font-size: 14px;line-he=
+ight: 170%;text-align: left;">5. When people tell you who they are=2C <a h=
+ref=3D"http://brainpickings.us2.list-manage2.com/track/click?u=3D13eb080d8=
+a315477042e0d5b1&id=3D3f4f768eed&e=3Da5eb5cdf67" style=3D"-webkit-text-si=
+ze-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decoration:=
+ underline;">Maya Angelou</a> famously advised=2C believe them. Just as im=
+portant=2C however=2C <strong>when people try to tell you who <em>you</em>=
+ are=2C don=E2=80=99t believe them.</strong> You are the only custodian of=
+ your own integrity=2C and the assumptions made by those that misunderstan=
+d who you are and what you stand for reveal a great deal about them and ab=
+solutely nothing about you.</p><p style=3D"-webkit-text-size-adjust: 100%;=
+-ms-text-size-adjust: 100%;color: #808080;font-family: Arial=2C Sans-serif=
+;font-size: 14px;line-height: 170%;text-align: left;"><strong>6. Presence=
+ is far more intricate and rewarding an art than productivity.</strong> Ou=
+rs is a culture that measures our worth as human beings by our efficiency=
+=2C our earnings=2C our ability to perform this or that. The cult of produ=
+ctivity has its place=2C but worshipping at its altar daily robs us of the=
+ very capacity for joy and wonder that makes life worth living =E2=80=94 f=
+or=2C as <a href=3D"http://brainpickings.us2.list-manage.com/track/click?u=
+=3D13eb080d8a315477042e0d5b1&id=3D9184574b93&e=3Da5eb5cdf67" style=3D"-we=
+bkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text=
+-decoration: underline;">Annie Dillard memorably put it</a>=2C =E2=80=9Cho=
+w we spend our days is=2C of course=2C how we spend our lives.=E2=80=9D</p=
+><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;col=
+or: #808080;font-family: Arial=2C Sans-serif;font-size: 14px;line-height:=
+ 170%;text-align: left;"><strong>7. =E2=80=9CExpect anything worthwhile to=
+ take a long time.=E2=80=9D</strong> This is <a href=3D"http://brainpickin=
+gs.us2.list-manage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D6ac=
+08218b6&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-=
+size-adjust: 100%;color: #C33737;text-decoration: underline;">borrowed</a>=
+ from the wise and wonderful <a href=3D"http://brainpickings.us2.list-mana=
+ge.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D81f84ea033&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%=
+;color: #C33737;text-decoration: underline;">Debbie Millman</a>=2C for it=
+=E2=80=99s hard to better capture something so fundamental yet so impatien=
+tly overlooked in our culture of immediacy. The myth of the overnight succ=
+ess is just that =E2=80=94 a myth =E2=80=94 as well as a reminder that our=
+ present definition of success <a href=3D"http://brainpickings.us2.list-ma=
+nage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D8a58e55333&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 1=
+00%;color: #C33737;text-decoration: underline;">needs serious retuning</a>=
+=2E As I=E2=80=99ve reflected <a href=3D"http://brainpickings.us2.list-manag=
+e.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3Dc33dcfc66e&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;=
+color: #C33737;text-decoration: underline;">elsewhere</a>=2C the flower do=
+esn=E2=80=99t go from bud to blossom in one spritely burst and yet=2C as a=
+ culture=2C we=E2=80=99re disinterested in the tedium of the blossom<em>in=
+g</em>. But that=E2=80=99s where all the real magic unfolds in the making=
+ of one=E2=80=99s character and destiny.</p></blockquote><p style=3D"-webk=
+it-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-f=
+amily: Georgia=2C serif;font-size: 15px;line-height: 175%;text-align: left=
+;">From year nine:</p><blockquote style=3D"-webkit-text-size-adjust: 100%;=
+-ms-text-size-adjust: 100%;display: block;-webkit-margin-before: 0;-webkit=
+-margin-after: 0;-webkit-margin-start: 40px;-webkit-margin-end: 0px;"><p s=
+tyle=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #=
+808080;font-family: Arial=2C Sans-serif;font-size: 14px;line-height: 170%;=
+text-align: left;"><strong>8. Seek out what magnifies your spirit.</strong=
+> Patti Smith=2C in <a href=3D"http://brainpickings.us2.list-manage.com/tr=
+ack/click?u=3D13eb080d8a315477042e0d5b1&id=3D435275b887&e=3Da5eb5cdf67" s=
+tyle=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #=
+C33737;text-decoration: underline;">discussing William Blake and her creat=
+ive influences</a>=2C talks about writers and artists who magnified her sp=
+irit =E2=80=94 it=E2=80=99s a beautiful phrase and a beautiful notion. Who=
+ are the people=2C ideas=2C and books that magnify your spirit? Find them=
+=2C hold on to them=2C and visit them often. Use them not only as a remedy=
+ once spiritual malaise has already infected your vitality but as a vaccin=
+e administered while you are healthy to protect your radiance.</p><p style=
+=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #8080=
+80;font-family: Arial=2C Sans-serif;font-size: 14px;line-height: 170%;text=
+-align: left;"><strong>9. Don=E2=80=99t be afraid to be an idealist.</stro=
+ng> There is much to be said for our responsibility as creators and consum=
+ers of that constant dynamic interaction we call culture =E2=80=94 which s=
+ide of the fault line between catering and creating are we to stand on? Th=
+e commercial enterprise is conditioning us to believe that the road to suc=
+cess is paved with catering to existing demands =E2=80=94 give the people=
+ cat GIFs=2C the narrative goes=2C because cat GIFs are what the people wa=
+nt. But E.B. White=2C one of our last great idealists=2C was eternally rig=
+ht when he <a href=3D"http://brainpickings.us2.list-manage.com/track/click=
+?u=3D13eb080d8a315477042e0d5b1&id=3Df71a4aaf06&e=3Da5eb5cdf67" style=3D"-=
+webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;te=
+xt-decoration: underline;">asserted</a> half a century ago that the role o=
+f the writer is =E2=80=9Cto lift people up=2C not lower them down=E2=80=9D=
+ =E2=80=94 a role each of us is called to with increasing urgency=2C whate=
+ver cog we may be in the machinery of society. Supply creates its own dema=
+nd. Only by consistently supplying it can we hope to increase the demand f=
+or the substantive over the superficial =E2=80=94 in our individual lives=
+ and in the collective dream called culture.</p></blockquote><p style=3D"-=
+webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;fo=
+nt-family: Georgia=2C serif;font-size: 15px;line-height: 175%;text-align:=
+ left;">And as I round the decade:</p><blockquote style=3D"-webkit-text-si=
+ze-adjust: 100%;-ms-text-size-adjust: 100%;display: block;-webkit-margin-b=
+efore: 0;-webkit-margin-after: 0;-webkit-margin-start: 40px;-webkit-margin=
+-end: 0px;"><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjus=
+t: 100%;color: #808080;font-family: Arial=2C Sans-serif;font-size: 14px;li=
+ne-height: 170%;text-align: left;"><strong>10. Don=E2=80=99t just resist c=
+ynicism =E2=80=94 fight it actively.</strong> Fight it in yourself=2C for=
+ this ungainly beast lays dormant in each of us=2C and counter it in those=
+ you love and engage with=2C by modeling its opposite. Cynicism often masq=
+uerades as nobler faculties and dispositions=2C but is categorically infer=
+ior. Unlike that great <a href=3D"http://brainpickings.us2.list-manage.com=
+/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D94307c9f4e&e=3Da5eb5cdf67=
+" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color=
+: #C33737;text-decoration: underline;">Rilkean life-expanding doubt</a>=2C=
+ it is a contracting force. Unlike critical thinking=2C that <a href=3D"ht=
+tp://brainpickings.us2.list-manage.com/track/click?u=3D13eb080d8a315477042=
+e0d5b1&id=3D30c6849dec&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust:=
+ 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decoration: underline=
+;">pillar of reason</a> and <a href=3D"http://brainpickings.us2.list-manag=
+e2.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D8ba401984e&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%=
+;color: #C33737;text-decoration: underline;">necessary counterpart to hope=
+</a>=2C it is inherently uncreative=2C unconstructive=2C and spiritually c=
+orrosive. Life=2C like the universe itself=2C tolerates no stasis =E2=80=
+=94 in the absence of growth=2C decay usurps the order. Like all forms of=
+ destruction=2C cynicism is infinitely easier and lazier than construction=
+=2E There is nothing more difficult yet more gratifying in our society than=
+ living with sincerity and acting from a place of largehearted=2C construc=
+tive=2C <a href=3D"http://brainpickings.us2.list-manage1.com/track/click?u=
+=3D13eb080d8a315477042e0d5b1&id=3Db9859c1f00&e=3Da5eb5cdf67" style=3D"-we=
+bkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text=
+-decoration: underline;">rational faith in the human spirit</a>=2C continu=
+ally bending toward growth and betterment. This remains the most potent an=
+tidote to cynicism. Today=2C especially=2C it is an act of courage and res=
+istance.</p></blockquote><p style=3D"-webkit-text-size-adjust: 100%;-ms-te=
+xt-size-adjust: 100%;color: #262626;font-family: Georgia=2C serif;font-siz=
+e: 15px;line-height: 175%;text-align: left;">Since such a time machine of=
+ reflection would get nowhere without the substance that fueled it=2C here=
+ are ten of the things I most loved reading and writing about in this firs=
+t decade of <em>Brain Pickings</em>:</p><a href=3D"http://brainpickings.us=
+2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3Dcee6beac5=
+8&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-a=
+djust: 100%;color: #C33737;text-decoration: underline;"><img src=3D"https:=
+//i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/05/oliversacks2.=
+jpg" style=3D"-ms-interpolation-mode: bicubic;border: 0;height: auto;line-=
+height: 100%;outline: none;text-decoration: none;display: inline;width: 40=
+0px;"></a><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust:=
+ 100%;color: #262626;font-family: Georgia=2C serif;font-size: 15px;line-he=
+ight: 175%;text-align: left;">1. <a href=3D"http://brainpickings.us2.list-=
+manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3Da443062ec9&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust:=
+ 100%;color: #C33737;text-decoration: underline;"><strong><em>Love=2C Luna=
+cy=2C and a Life Fully Lived: Oliver Sacks=2C the Science of Seeing=2C and=
+ the Art of Being Seen</em></strong></a></p><br><a href=3D"http://brainpic=
+kings.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D7=
+c4a7c92d0&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-tex=
+t-size-adjust: 100%;color: #C33737;text-decoration: underline;"><img src=
+=3D"https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2013/01/vir=
+giniawoolf.jpg" style=3D"-ms-interpolation-mode: bicubic;border: 0;height:=
+ auto;line-height: 100%;outline: none;text-decoration: none;display: inlin=
+e;width: 400px;"></a><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-s=
+ize-adjust: 100%;color: #262626;font-family: Georgia=2C serif;font-size: 1=
+5px;line-height: 175%;text-align: left;">2. <a href=3D"http://brainpicking=
+s.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D9e335=
+f85aa&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-si=
+ze-adjust: 100%;color: #C33737;text-decoration: underline;"><strong><em>Vi=
+rginia Woolf on the Relationship Between Loneliness and Creativity</em></s=
+trong></a></p><br><a href=3D"http://brainpickings.us2.list-manage.com/trac=
+k/click?u=3D13eb080d8a315477042e0d5b1&id=3Db84a2fc1db&e=3Da5eb5cdf67" sty=
+le=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C3=
+3737;text-decoration: underline;"><img src=3D"https://i1.wp.com/www.brainp=
+ickings.org/wp-content/uploads/2015/10/ursulakleguin3.jpg" style=3D"-ms-in=
+terpolation-mode: bicubic;border: 0;height: auto;line-height: 100%;outline=
+: none;text-decoration: none;display: inline;width: 400px;"></a><p style=
+=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #2626=
+26;font-family: Georgia=2C serif;font-size: 15px;line-height: 175%;text-al=
+ign: left;">3. <a href=3D"http://brainpickings.us2.list-manage1.com/track/=
+click?u=3D13eb080d8a315477042e0d5b1&id=3Df1e541eac2&e=3Da5eb5cdf67" style=
+=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C337=
+37;text-decoration: underline;"><strong><em>Telling Is Listening: Ursula K=
+=2E Le Guin on the Magic of Real Human Conversation</em></strong></a></p><br=
+><a href=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb0=
+80d8a315477042e0d5b1&id=3Da1672e5f96&e=3Da5eb5cdf67" style=3D"-webkit-tex=
+t-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decorat=
+ion: underline;"><img src=3D"https://i2.wp.com/www.brainpickings.org/wp-co=
+ntent/uploads/2016/05/jamesbaldwin1.jpg" style=3D"-ms-interpolation-mode:=
+ bicubic;border: 0;height: auto;line-height: 100%;outline: none;text-decor=
+ation: none;display: inline;width: 400px;"></a><p style=3D"-webkit-text-si=
+ze-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-family: Geo=
+rgia=2C serif;font-size: 15px;line-height: 175%;text-align: left;">4. <a h=
+ref=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb080d8a=
+315477042e0d5b1&id=3Dc209033b36&e=3Da5eb5cdf67" style=3D"-webkit-text-siz=
+e-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decoration:=
+ underline;"><strong><em>James Baldwin on Freedom and How We Imprison Ours=
+elves</em></strong></a></p><br><a href=3D"http://brainpickings.us2.list-ma=
+nage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D8731ebb71e&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 1=
+00%;color: #C33737;text-decoration: underline;"><img src=3D"https://i0.wp.=
+com/www.brainpickings.org/wp-content/uploads/2016/03/cryheartbutneverbreak=
+00.jpg" style=3D"-ms-interpolation-mode: bicubic;border: 0;height: auto;li=
+ne-height: 100%;outline: none;text-decoration: none;display: inline;width:=
+ 400px;"></a><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adju=
+st: 100%;color: #262626;font-family: Georgia=2C serif;font-size: 15px;line=
+-height: 175%;text-align: left;">5. <a href=3D"http://brainpickings.us2.li=
+st-manage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D6f6de3526a&e=
+=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adju=
+st: 100%;color: #C33737;text-decoration: underline;"><strong><em>Cry=2C He=
+art=2C But Never Break: A Remarkable Illustrated Meditation on Loss and Li=
+fe</em></strong></a></p><br><a href=3D"http://brainpickings.us2.list-manag=
+e.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D338fa09018&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;=
+color: #C33737;text-decoration: underline;"><img src=3D"https://i2.wp.com/=
+www.brainpickings.org/wp-content/uploads/2014/04/susansontag.jpg" style=3D=
+"-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 100%;=
+outline: none;text-decoration: none;display: inline;width: 400px;"></a><p=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #262626;font-family: Georgia=2C serif;font-size: 15px;line-height: 175%;t=
+ext-align: left;">6. <a href=3D"http://brainpickings.us2.list-manage.com/t=
+rack/click?u=3D13eb080d8a315477042e0d5b1&id=3Db51c99c530&e=3Da5eb5cdf67"=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #C33737;text-decoration: underline;"><strong><em>Susan Sontag on Storytel=
+ling=2C What It Means to Be a Moral Human Being=2C and Her Advice to Write=
+rs</em></strong></a></p><br><a href=3D"http://brainpickings.us2.list-manag=
+e.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3Db6fed115ca&e=3D=
+a5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;=
+color: #C33737;text-decoration: underline;"><img src=3D"https://i0.wp.com/=
+www.brainpickings.org/wp-content/uploads/2016/09/timemachine.jpg" style=3D=
+"-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 100%;=
+outline: none;text-decoration: none;display: inline;width: 400px;"></a><p=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #262626;font-family: Georgia=2C serif;font-size: 15px;line-height: 175%;t=
+ext-align: left;">7. <a href=3D"http://brainpickings.us2.list-manage1.com/=
+track/click?u=3D13eb080d8a315477042e0d5b1&id=3D6282014ec7&e=3Da5eb5cdf67"=
+ style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color:=
+ #C33737;text-decoration: underline;"><strong><em>James Gleick on How Our=
+ Cultural Fascination with Time Travel Illuminates Memory=2C the Nature of=
+ Time=2C and the Central Mystery of Human Consciousness</em></strong></a><=
+/p><br><a href=3D"http://brainpickings.us2.list-manage1.com/track/click?u=
+=3D13eb080d8a315477042e0d5b1&id=3Dec5d955a68&e=3Da5eb5cdf67" style=3D"-we=
+bkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text=
+-decoration: underline;"><img src=3D"https://i2.wp.com/www.brainpickings.o=
+rg/wp-content/uploads/2016/06/hermannhesse.jpg" style=3D"-ms-interpolation=
+-mode: bicubic;border: 0;height: auto;line-height: 100%;outline: none;text=
+-decoration: none;display: inline;width: 400px;"></a><p style=3D"-webkit-t=
+ext-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #262626;font-famil=
+y: Georgia=2C serif;font-size: 15px;line-height: 175%;text-align: left;">8=
+=2E <a href=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb=
+080d8a315477042e0d5b1&id=3D13a25821b1&e=3Da5eb5cdf67" style=3D"-webkit-te=
+xt-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decora=
+tion: underline;"><strong><em>The Magic of the Book: Hermann Hesse on Why=
+ We Read and Always Will</em></strong></a></p><br><a href=3D"http://brainp=
+ickings.us2.list-manage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=
+=3Daa1c26c712&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms=
+-text-size-adjust: 100%;color: #C33737;text-decoration: underline;"><img s=
+rc=3D"https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/p=
+attismith6.jpg" style=3D"-ms-interpolation-mode: bicubic;border: 0;height:=
+ auto;line-height: 100%;outline: none;text-decoration: none;display: inlin=
+e;width: 400px;"></a><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-s=
+ize-adjust: 100%;color: #262626;font-family: Georgia=2C serif;font-size: 1=
+5px;line-height: 175%;text-align: left;">9. <a href=3D"http://brainpicking=
+s.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D43b8a=
+d9ac9&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-si=
+ze-adjust: 100%;color: #C33737;text-decoration: underline;"><strong><em>Pa=
+tti Smith on Time=2C Transformation=2C and How the Radiance of Love Redeem=
+s the Rupture of Loss</em></strong></a></p><br><a href=3D"http://brainpick=
+ings.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D85=
+9a50b25a&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text=
+-size-adjust: 100%;color: #C33737;text-decoration: underline;"><img src=3D=
+"https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2014/02/self1.=
+jpg" style=3D"-ms-interpolation-mode: bicubic;border: 0;height: auto;line-=
+height: 100%;outline: none;text-decoration: none;display: inline;width: 40=
+0px;"></a><p style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust:=
+ 100%;color: #262626;font-family: Georgia=2C serif;font-size: 15px;line-he=
+ight: 175%;text-align: left;">10. <a href=3D"http://brainpickings.us2.list=
+-manage1.com/track/click?u=3D13eb080d8a315477042e0d5b1&id=3D0b9374991f&e=
+=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adju=
+st: 100%;color: #C33737;text-decoration: underline;"><strong><em>What Make=
+s a Person: The Seven Layers of Identity in Literature and Life</em></stro=
+ng></a></p><br></div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"share" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust:=
+ 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fffff=
+f;padding: 15px 20px 0;margin: 10px 0 40px;border: 1px solid #bfbfbf;borde=
+r-collapse: collapse!important;"><tr><td style=3D"-webkit-text-size-adjust=
+: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;"><h3 style=3D"display: block;font-family: Arial=2C Sans-serif;font-s=
+ize: 11px;font-style: normal;font-weight: normal;line-height: 100%;letter-=
+spacing: 1px;text-transform: uppercase;text-align: left;padding: 15px 20px=
+;color: #8C8C8C!important;"><a href=3D"http://us2.forward-to-friend.com/fo=
+rward?u=3D13eb080d8a315477042e0d5b1&id=3Dc7f9956a1e&e=3Da5eb5cdf67" style=3D=
+"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #8C8C8C!=
+important;text-decoration: none!important;">Forward to a friend</a>&nbsp;&=
+nbsp; / &nbsp;&nbsp;<a href=3D"http://brainpickings.us2.list-manage.com/tr=
+ack/click?u=3D13eb080d8a315477042e0d5b1&id=3D3519654530&e=3Da5eb5cdf67" s=
+tyle=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #=
+8C8C8C!important;text-decoration: none!important;">Read Online</a>&nbsp;&n=
+bsp; / &nbsp;&nbsp;<a href=3D"http://us2.campaign-archive1.com/?u=3D13eb08=
+0d8a315477042e0d5b1&id=3Dc7f9956a1e&fblike=3Dfblike-497c76a4&e=3Da5eb5cdf67&=
+socialproxy=3Dhttp%3A%2F%2Fus2.campaign-archive2.com%2Fsocial-proxy%2Fface=
+book-like%3Fu%3D13eb080d8a315477042e0d5b1%26id%3Dc7f9956a1e%26url%3Dhttps%=
+253A%252F%252Fwww.brainpickings.org%252F2016%252F10%252F23%252F10-years-of=
+-brain-pickings%252F%26title%3Dhttps%253A%252F%252Fwww.brainpickings.org%2=
+52F2016%252F10%252F23..." title=3D"Like https://www.brainpickings.org/2016=
+/10/23/10-years-of-brain-pickings/ on Facebook" rel=3D"socialproxy" id=3D"=
+fblike-497c76a4"><img src=3D"http://cdn-images.mailchimp.com/fb/like.gif"=
+ border=3D"0" alt=3D"Like https://www.brainpickings.org/2016/10/23/10-year=
+s-of-brain-pickings/ on Facebook" height=3D"20" width=3D"48" style=3D"disp=
+lay:inline;"/></a></h3></td></tr></table>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso=
+-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<img src=3D"https://gallery.mailchimp.com/13eb080d8a315477042e0d5b1/images=
+/3fe0f777-6abc-43c9-8db6-8d2fba56e89b.gif" alt=3D"BP" style=3D"-ms-interpo=
+lation-mode: bicubic;border: 0;height: auto;line-height: 100%;outline: non=
+e;text-decoration: none;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"donating" id=3D"donating_bottom" style=3D"-webkit-text-size-adjust:=
+ 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;background-color: #ffdb00;padding: 15px 20px;margin: 10px 0 15px;border=
+-collapse: collapse!important;">
+<tr>
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso=
+-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<h2 style=3D"display: block;font-family: Arial=2C Sans-serif;font-size: 12=
+px;font-style: normal;font-weight: normal;line-height: 150%;letter-spacing=
+: normal;margin: 10px 0 15px;text-align: center!important;padding: 5px 20p=
+x 0;color: #262626!important;">If you enjoyed this week's newsletter=2C pl=
+ease consider helping me keep it going with a modest <a href=3D"http://bra=
+inpickings.us2.list-manage.com/track/click?u=3D13eb080d8a315477042e0d5b1&i=
+d=3D5d34a1a1d8&e=3Da5eb5cdf67" style=3D"-webkit-text-size-adjust: 100%;-m=
+s-text-size-adjust: 100%;color: #C33737;text-decoration: underline;">donat=
+ion</a>.</h2>
+<a href=3D"http://brainpickings.us2.list-manage.com/track/click?u=3D13eb08=
+0d8a315477042e0d5b1&id=3D264e157622&e=3Da5eb5cdf67" style=3D"-webkit-text=
+-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #C33737;text-decorati=
+on: underline;"><img src=3D"https://gallery.mailchimp.com/13eb080d8a315477=
+042e0d5b1/images/6588847f-3137-43c8-8039-efee59756b64.gif" alt=3D"Donate"=
+ style=3D"margin-left: 260px;margin-bottom: 20px;-ms-interpolation-mode: b=
+icubic;border: 0;height: auto;line-height: 100%;outline: none;text-decorat=
+ion: none;"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100=
+%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"=
+>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=
+=3D"templateFooter" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-=
+adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color:=
+ #E6E6E6;border-collapse: collapse!important;">
+<tr>
+<td valign=3D"top" class=3D"footerContent" style=3D"padding-top: 20px;-web=
+kit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;color: #8C8C8C;font-family: Arial=2C Sans-serif;fo=
+nt-size: 10px;line-height: 150%;padding: 20px;text-align: left;" mc:edit=
+=3D"footer_content01">
+ You're receiving this email because you subscribed on Brain Pickings. Thi=
+s weekly newsletter comes out on Sundays and offers the week's most unmiss=
+able articles.
+<br>
+<br>
+<strong>Our mailing address is:</strong>
+<br>
+<div class=3D"vcard"><span class=3D"org fn">Brain Pickings ::</span><div c=
+lass=3D"adr"><div class=3D"street-address">NO UNSOLICITED MAILINGS=2C PLEA=
+SE.</div><div class=3D"extended-address">47 Bergen Street=2C 3rd floor</di=
+v><span class=3D"locality">Brooklyn</span>=2C <span class=3D"region">NY</s=
+pan>  <span class=3D"postal-code">11201</span></div><br><a href=3D"http://=
+brainpickings.us2.list-manage.com/vcard?u=3D13eb080d8a315477042e0d5b1&id=
+=3D179ffa2629" class=3D"hcard-download">Add us to your address book</a></d=
+iv>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" class=3D"footerContent" style=3D"padding-top: 0;-webkit=
+-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;color: #8C8C8C;font-family: Arial=2C Sans-serif;font-=
+size: 10px;line-height: 150%;padding: 20px;text-align: left;" mc:edit=3D"f=
+ooter_content02">
+<a href=3D"http://brainpickings.us2.list-manage.com/unsubscribe?u=3D13eb08=
+0d8a315477042e0d5b1&id=3D179ffa2629&e=3Da5eb5cdf67&c=3Dc7f9956a1e" style=3D"=
+-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #606060;f=
+ont-weight: normal;text-decoration: underline;">unsubscribe from this list=
+</a>&nbsp;&nbsp;&nbsp;<a href=3D"http://brainpickings.us2.list-manage.com/=
+profile?u=3D13eb080d8a315477042e0d5b1&id=3D179ffa2629&e=3Da5eb5cdf67" style=
+=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #6060=
+60;font-weight: normal;text-decoration: underline;">update subscription pr=
+eferences</a>&nbsp;
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+<img src=3D"http://brainpickings.us2.list-manage.com/track/open.php?u=3D13=
+eb080d8a315477042e0d5b1&id=3Dc7f9956a1e&e=3Da5eb5cdf67" height=3D"1" widt=
+h=3D"1"></body>
+</html>
+--_----------=_MCPart_410024694--

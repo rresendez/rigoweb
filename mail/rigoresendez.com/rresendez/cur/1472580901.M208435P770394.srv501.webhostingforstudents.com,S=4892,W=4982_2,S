@@ -1,0 +1,90 @@
+Return-Path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 2dRfDCXNxVdawQsATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 30 Aug 2016 14:15:01 -0400
+Return-path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 30 Aug 2016 14:15:01 -0400
+Received: from o1.em2.juke.ly ([198.21.7.97]:14907)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>)
+	id 1benYq-003EO0-S2
+	for rresendez@rigoresendez.com; Tue, 30 Aug 2016 14:15:01 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=juke.ly; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject; 
+	s=s1; bh=oX5gF4Fy4KGWy08JJV3T7QpYUnE=; b=BfKqgdjANdyH4+yIZSqmQpl
+	laW3kNCmH/kUkosL6cz1kLI1twou6xpbQ+yqaMx0hz0l8wvz3DevXMuF4mGzXsYZ
+	aZ0PQaE1ogOqkLB8ZFP5+1lDPJZDLyjTgKfvnirwHUZVTaj1bUhxqyRj/8YgcuzK
+	JIn+k8WVt4vBZI2N6DsY=
+Received: by filter0837p1mdw1.sendgrid.net with SMTP id filter0837p1mdw1.22401.57C5B98437
+        2016-08-30 16:51:16.963044122 +0000 UTC
+Received: from MjY4Nzk4OA (ec2-54-204-11-157.compute-1.amazonaws.com [54.204.11.157])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with HTTP id 2bC6KHy8RbWLfMkXUUm2KA
+	Tue, 30 Aug 2016 16:51:16.855 +0000 (UTC)
+content-transfer-encoding: quoted-printable
+content-type: text/html; charset="UTF-8"
+Date: Tue, 30 Aug 2016 16:51:16 +0000
+From: "Jukely" <hi@juke.ly>
+Mime-Version: 1.0
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+Message-ID: <2bC6KHy8RbWLfMkXUUm2KA@ismtpd0006p1iad1.sendgrid.net>
+Subject: Members get Electric Zoo Friday
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgbTflHf1xqkLa7ROx6GcspCwmvp6hASg8p8XH
+ 0kkVhUmi3Ly5IzvPKNNc/fugONTlAj45bG0zOq86ALjbRJrZCVoL6S6hkNpFl+zoHRL/r2Sz3PTt0f
+ W4QJSIzZ6vzJnPjd7ZzD5u3ApxBq9XMJY3FNf853hU90DmTfAXkMf130hQ==
+X-SG-ID: JXLFV886U2X2LCg5937Kgc50Sqoi3Cz0oKoUIipHi8I=
+
+<html>=0D
+<head>=0D
+	<title></title>=0D
+</head>=0D
+<body>=0D
+<p>Hi!</p>=0D
+=0D
+<p>NYC's premier electronic music festival, Electric Zoo, is upon us this w=
+eekend, and we have a limited amount of Friday spots for our members.</p>=
+=0D
+=0D
+<p>The festival is at Randall's Island (18+). You may <a href=3D"http://tra=
+ck.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNYK5TBcD-2FAYn4QvKCxmARPE8YUT=
+Ec6k1ETgb5EbeDCiWAAczcZsL4j6e-2FAhrHHLKePL9nFm3fch4jZCy2LttKsYNPrq0bNTtJwM-=
+2BHyNYQ8Wy1HimgpZbYh7WNTOzMxqPieBNsArjY1enxCafY1yx3PmmPmKEZoGaQG9Ig0zQqQg4_=
+xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYv-2BLj8xGczAz7XfRWT-2BnCNuQ5T=
+mxhbKCKMitUcAHXO1ggsfTTNCROfalSsEEFndkzXBwMuLPeatdjrYIx5X4QTy0s5ff9WACMvK9J=
+x-2FLkAvLnb50zM-2BG7bN-2F6cXwwUPrt1ySTjjpPOxwnOFJsTLbwVMLQZtga7HjJkZZLn3iup=
+uHgKavWZwtbTJu-2FencbNR5UGZlNXqNcvY-2FyESTxieTER4oveJ5nhvhGIvt-2FkpCYE-2Fvg=
+-3D-3D">subscribe here</a> to get access or if you're not ready to be a mem=
+ber yet, you should <a href=3D"http://track.juke.ly/wf/click?upn=3DovylR9Vn=
+5qp8q9J53-2BHT0ZXxBDoNXGFagEf2vCu8DcU-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b=
+-2BZAa351hvYv-2BLj8xGczAz7XfRWT-2BnCNuQ5TmxhbKCKMitUcAHXO1gp-2Bw8Vo7lTXGDPn=
+OxaeSgzGQO73y-2BAtN6qpakg02EMcFWq6RWfwQODETAtThPbconJcBUG00tBlcaDjo56LNcQk9=
+g-2BdQZdAs59MPrZWT1eLqcNadmtBA3TW4gZnQp6qnXm6hvd3SP2SOBNt2bPX18zy90hL-2FywQ=
+NBKZJii2qjsjcWeghscIVeKRf2AUJ0MoPow-3D-3D">get your tickets</a> now.</p>=0D
+=0D
+<p>Team Jukely</p>=0D
+=0D
+<p>---<br />=0D
+<a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNZaTE-2B=
+FP-2FtRzN1umYnV-2BTnWVMTZussQkR1rwt2IIKvG5JM-2BGZ5BIG9GGqqVgMp3gSteCEa0PTrX=
+avAaTz6oZqPqWHWQ7c-2F41YG3f829E3GuffrWSSijji-2FEsOlFeBM49xfUUNriTNPJRGv9BmA=
+47LR31RcqWu870G-2FmnUKwBaqdQ_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvY=
+v-2BLj8xGczAz7XfRWT-2BnCNuQ5TmxhbKCKMitUcAHXO1gmMkZuD1-2Fr9Lxo3etYp1EbY-2BM=
+cqgKUgcNkb006olANvvj-2FFq9aSRRUy-2FyyTFIqNKKbhSL-2BpZvku50KHXk8zIomHVnwThQR=
+vyiOaWTXvWXUCnKbdqHna48T7-2FAPLVxTGvfL0p7YU3MzD6eS8g5J3eOnvCvXTSYdcxdLaHLkJ=
+MF4b0g8KK6ZMtMn2c5n43IpXsrQ-3D-3D">Opt out</a> of these member hookup email=
+s.</p>=0D
+
+<img src=3D"http://track.juke.ly/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYv-2BLj8xGczAz7XfRWT-2BnCNuQ5TmxhbKCKMitUcAHXO1gvDSPsN0NOo=
+srj6geGIQKqKXNuxbCWcsE2gwgUDqb5PfZ8ES6mSeNHqCWrpXmBUEyEZQtpiy-2BxW32X0zoxii=
+CC54XFHd1U3KyzJAlEFbad5UCZ-2BhbV1bVK-2F2lZmTVmYqfoaXMXweH7kRGYTu9wDqBmjCjF6=
+pa9KwT-2Bb2qfVamdrG4SpPeT4YzUIA9n-2BJEcMLIg-3D-3D" alt=3D"" width=3D"1" hei=
+ght=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;=
+border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importan=
+t;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importa=
+nt;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !i=
+mportant;"/>
+</body>=0D
+</html>

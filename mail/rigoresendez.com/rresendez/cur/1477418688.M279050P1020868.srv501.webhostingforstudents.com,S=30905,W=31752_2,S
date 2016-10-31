@@ -1,0 +1,847 @@
+Return-Path: <listbounces@austinchronicle.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id mL2MEMCeD1jEkw8ATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 25 Oct 2016 14:04:48 -0400
+Return-path: <listbounces@austinchronicle.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 25 Oct 2016 14:04:48 -0400
+Received: from newsletters.austinchronicle.com ([72.48.142.105]:22845)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <listbounces@austinchronicle.com>)
+	id 1bz65f-004HUr-QC
+	for rresendez@rigoresendez.com; Tue, 25 Oct 2016 14:04:48 -0400
+Received: from newsletters.austinchronicle.com (localhost.localdomain [127.0.0.1])
+	by newsletters.austinchronicle.com (Postfix) with ESMTP id 7CE6DCC836C
+	for <rresendez@rigoresendez.com>; Tue, 25 Oct 2016 12:51:41 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=austinchronicle.com;
+	s=newsletters; t=1477417901;
+	bh=zu4Q1zLmXUIXCizMuSl16gPUfOj53nZmw+Ssj2IRrjw=;
+	h=Date:To:From:Subject:List-Help:List-Unsubscribe:List-Subscribe:
+	 List-Owner;
+	b=WoHdoQ7mzWOjJRni9/Qog6L39HTwJKBmYa7+igJNRIEe/U4knFxOOhHDF42Yzgzd9
+	 4veAwiMOL9Udc3H17YbYrFjTjtr/kcWXjhJfy4xwXpM7+/82zKrWJLI0RwecTIH9p/
+	 lsgz13iJkR+7aElCHPw9K7an+E2nLBA+vbPJxOXY=
+Date: Tue, 25 Oct 2016 12:51:41 -0500
+To: rresendez@rigoresendez.com
+From: Austin Chronicle <newsletters@austinchronicle.com>
+Subject: Chronicle Daily: Early voting turnout broke records yesterday
+Message-ID: <6008124b34d441cdc9dc42332646a924@austinchronicle.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+X-phpList-version: 3.0.12
+X-MessageID: 1587
+X-ListMember: rresendez@rigoresendez.com
+Precedence: bulk
+Bounces-To: listbounces@austinchronicle.com
+List-Help: <http://newsletters.austinchronicle.com/lists/?p=preferences&uid=b0826fa26e7aafbe3dfad16e1f1394da>
+List-Unsubscribe: <http://newsletters.austinchronicle.com/lists/?p=unsubscribe&uid=b0826fa26e7aafbe3dfad16e1f1394da&jo=1>
+List-Subscribe: <http://newsletters.austinchronicle.com/lists/?p=subscribe>
+List-Owner: <mailto:support@austinchronicle.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_6008124b34d441cdc9dc42332646a924"
+
+--b1_6008124b34d441cdc9dc42332646a924
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+ October 25, 2016
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQH1cMXgZEDAQA=
+VQs>
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPVE0JAAoP=
+HgpXW1QI>
+
+ Early Voting Shows Massive Leap
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPVE0JAAoPH=
+gpXW1QI>
+
+ Texas counties broke records Monday. Is it energy, or early burnout?
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPVU0JAAoP=
+HgpXW1QI>
+
+ Austin Oaks:
+The Other Grove
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPVU0JAAoPH=
+gpXW1QI>
+
+ The Grove at Shoal Creek is not the only PUD worth arguing about.
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPUk0JAAoP=
+HgpXW1QI>
+
+ Terry Allen Revisits His Definitive Albums
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPUk0JAAoPH=
+gpXW1QI>
+
+ Lubbock musician on Juarez and Lubbock (On Everything)
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPU00JAAoP=
+HgpXW1QI>
+
+ Photo Gallery:
+Formula 1 Music
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPU00JAAoPH=
+gpXW1QI>
+
+ Usher, Roots, and Taylor Swift brought nightly melody to offset the day's
+engine noise.
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPUE0JAAoP=
+HgpXW1QI>
+
+ Song Premiere:
+Croy & the Boys
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPUE0JAAoPH=
+gpXW1QI>
+
+ ATX=E2=80=99s Midwestern honky-tonkers cover Marty Robbins.
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPUU0JAAoP=
+HgpXW1QI>
+
+ Theatre Review: /Priscilla, Queen of the Desert/
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPUU0JAAoPH=
+gpXW1QI>
+
+ Long may Zach Theatre's musical Queen reign!
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPXk0JAAoP=
+HgpXW1QI>
+
+ Live Review: Danny Brown at Emo's
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPXk0JAAoPH=
+gpXW1QI>
+
+ The Detroit MC kicked a chronological power hour Sunday.
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPX00JAAoP=
+HgpXW1QI>
+
+ Today's Events
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMPX00JAAoPH=
+gpXW1QI>
+
+MUSIC: Reverend Horton Heat
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMOVk0JAAoPH=
+gpXW1QI>
+, Continental Club, midnight
+VISUAL ARTS: "Mayhem, Method, and Medium"
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMOV00JAAoPH=
+gpXW1QI>
+, Flatbed Press, 10am-5pm
+FILM: HOME
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMOVE0JAAoPH=
+gpXW1QI>
+, Violet Crown Cinema, 7pm
+SPORTS: Texas Stars vs. San Antonio Rampage
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMOVU0JAAoPH=
+gpXW1QI>
+, H-E-B Center at Cedar Park, 7:30pm
+COMEDY: Punch
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVQLUU0JAAoPH=
+gpXW1QI>
+, Cap City Comedy Club, 8pm
+
+ View this newsletter in a browser.
+<http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpTVVMOUk0JAAoPH=
+gpXW1QI>
+ Find more at austinchronicle.com=0A<http://newsletters.austinchronicle.com=
+/lists/lt.php?id=3DNUpQH1cMXgZEDAQAVQs>
+.
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQURoIUwkPSQsO=
+WgRZ>
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQUBoIUwkPSQsO=
+WgRZ>
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQVxoIUwkPSQsO=
+WgRZ>
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQVhoIUwkPSQsO=
+WgRZ>
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQVRoIUwkPSQsO=
+WgRZ>
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQVBoIUwkPSQsO=
+WgRZ>
+
+ <http://newsletters.austinchronicle.com/lists/lt.php?id=3DNUpQWxoIUwkPSQsO=
+WgRZ>
+
+
+
+--This message was sent to rresendez@rigoresendez.com.
+
+To update your preferences or unsubscribe, visit=0Ahttp://newsletters.austi=
+nchronicle.com/lists/lt.php?id=3DNUpQWhoIUwkPSQsOWgRZ
+
+To forward this message, visit=0Ahttp://newsletters.austinchronicle.com/lis=
+ts/lt.php?id=3DNUpTVVMOU00JAAoPHgpXW1QI
+
+The Austin Chronicle, 4000 N. IH-35, Austin, TX, 78751
+
+
+
+
+-- powered by phpList, www.phplist.com --
+
+
+
+--b1_6008124b34d441cdc9dc42332646a924
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1" />
+    <title></title>
+    <style type=3D"text/css">
+      /* Take care of image borders and formatting */
+      img     { max-width:600px !important;outline:none;text-decoration:non=
+e;-ms-interpolation-mode:bicubic; }=20
+      a img   { border:none; }
+      /* Fix Apple contact links and hide the preheader */
+      .applefix a           {color:#888888;text-decoration:none;}
+      span[class=3D"preheader"] { display:none; }
+      /* Responsive Styles */
+      @media only screen and (max-width:600px) {
+        img                              { width:100% !important; height:au=
+to !important; }
+        img[class=3D"columnImage"]         { height:auto !important; max-wi=
+dth:480px !important; width:100% !important; }
+        table[id=3D"emailContainer"]       { width:100% !important; }
+        table[class=3D"columnContainer"]   { width:100% !important; }
+        table[class=3D"mobileButton"]      { width:60% !important; }
+        td[class=3D"columnSingle"]         { display:block !important;width=
+:100% !important; }
+        span[class=3D"admin-link"]         { display:none; }
+      }
+    </style>
+  </head>
+  <body style=3D"-webkit-text-size-adjust:none;">
+   =20
+    <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"600" id=3D"emailContainer" style=3D"display:block;max-width:600p=
+x;background-color:#FFFFFF;">
+      <tr>
+        <td align=3D"center" valign=3D"top">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" style=3D"max-width:600px;">
+           =20
+               =20
+                <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+        <tr>
+          <td align=3D"center" valign=3D"top">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td align=3D"center" valign=3D"middle" colspan=3D"2">
+                  <div class=3D"preheader" style=3D"text-transform:uppercas=
+e;font-family:Arial,sans-serif;font-size:11px;padding:3px 0;color:#999999;t=
+ext-align:center;">
+                   =20
+                    October 25, 2016
+                   =20
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"center" valign=3D"middle" colspan=3D"2" width=
+=3D"600">
+                 =20
+
+                    <a style=3D"border:none;" href=3D"http://newsletters.au=
+stinchronicle.com/lists/lt.php?id=3DKUpQH1cMXgZEDAQAVQs" ><img style=3D"dis=
+play:block;color:#FFFFFF;font-family:Arial,sans-serif;font-size:40px;font-w=
+eight:bold;background-color:#FFFFFF;margin-bottom:10px;" src=3D"http://www.=
+austinchronicle.com/Images/Testing/logo-head.png" width=3D"300" height=3D"9=
+0" alt=3D"The Austin Chronicle" /></a>
+                 =20
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+             =20
+             =20
+             =20
+               =20
+                <tr>
+      <td>
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+          <tr>
+            <td align=3D"center" valign=3D"top">
+              <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" widt=
+h=3D"100%">
+                <tr>
+                  <td align=3D"center" valign=3D"top" width=3D"100%">
+                   =20
+                    <a href=3D"http://newsletters.austinchronicle.com/lists=
+/lt.php?id=3DKUpTVVMPVE0JAAoPHgpXW1QI"  target=3D"_blank"><img src=3D"http:=
+//www.austinchronicle.com/imager/b/original/1926833/9f7b/news_EarlyVoting16=
+_1.jpg" alt=3D"Early Voting Shows Massive Leap" width=3D"580" style=3D"disp=
+lay:block;color:#efefef;font-family:Arial,sans-serif;font-size:20px;font-we=
+ight:bold;background-color:#000000;"/></a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+ =20
+  <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+        <tr>
+          <td align=3D"center" valign=3D"top">
+            <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td align=3D"center" valign=3D"top">
+                 =20
+                    <div style=3D"font-family:Georgia,serif;font-size:22px;=
+color:#444444;font-weight:bold;"><a href=3D"http://newsletters.austinchroni=
+cle.com/lists/lt.php?id=3DKUpTVVMPVE0JAAoPHgpXW1QI"  target=3D"_blank" styl=
+e=3D"color:#000000;text-decoration:none;">Early Voting Shows Massive Leap</=
+a> </div>
+                 =20
+                 =20
+                 =20
+                 =20
+                    <div style=3D"font-family:Arial,sans-serif;font-size:14=
+px;line-height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px=
+ 0;">Texas counties broke records Monday. Is it energy, or early burnout?</=
+p></div>
+                 =20
+                 =20
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+             =20
+             =20
+           =20
+             =20
+             =20
+               =20
+                 =20
+                  <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"columnContainer">
+        <tr>
+                  <td align=3D"center" valign=3D"top" width=3D"50%" class=
+=3D"columnSingle">
+    <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%"=
+>
+     =20
+       =20
+        <tr>
+          <td class=3D"columnContent" align=3D"center">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPVU0JAAoPHgpXW1QI"  style=3D"text-decoration:none;"><img src=
+=3D"http://www.austinchronicle.com/imager/b/newslettersquareh/1926784/354a/=
+pols_feature22.jpg" width=3D"280" height=3D"280" border=3D"0"  alt=3D"Austi=
+n Oaks:<br> The Other Grove" style=3D"display:block;max-width:280px;color:#=
+efefef;text-align:center;font-family:Arial,sans-serif;font-size:28px;font-w=
+eight:bold;background-color:#000000;" class=3D"columnImage" /></a>
+           =20
+          </td>
+        </tr>
+     =20
+      <tr>
+        <td align=3D"center" valign=3D"top" class=3D"columnContent">
+          <div style=3D"font-family:Georgia,serif;font-size:22px;">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPVU0JAAoPHgpXW1QI"  target=3D"_blank" style=3D"text-decoratio=
+n:none;color:#000000;font-weight:bold;">Austin Oaks:<br> The Other Grove</a=
+>=20
+           =20
+          </div>
+         =20
+         =20
+         =20
+            <div style=3D"font-family:Arial,sans-serif;font-size:14px;line-=
+height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px 0;">The=
+ Grove at Shoal Creek is not the only PUD worth arguing about.</p></div>
+         =20
+         =20
+        </td>
+      </tr>
+    </table>
+  </td>
+               =20
+             =20
+             =20
+           =20
+             =20
+             =20
+               =20
+                  <td align=3D"center" valign=3D"top" width=3D"50%" class=
+=3D"columnSingle">
+    <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%"=
+>
+     =20
+       =20
+        <tr>
+          <td class=3D"columnContent" align=3D"center">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPUk0JAAoPHgpXW1QI"  style=3D"text-decoration:none;"><img src=
+=3D"http://www.austinchronicle.com/imager/b/newslettersquareh/1926786/9cfb/=
+music_feature1.jpg" width=3D"280" height=3D"280" border=3D"0"  alt=3D"Terry=
+ Allen Revisits His Definitive Albums" style=3D"display:block;max-width:280=
+px;color:#efefef;text-align:center;font-family:Arial,sans-serif;font-size:2=
+8px;font-weight:bold;background-color:#000000;" class=3D"columnImage" /></a=
+>
+           =20
+          </td>
+        </tr>
+     =20
+      <tr>
+        <td align=3D"center" valign=3D"top" class=3D"columnContent">
+          <div style=3D"font-family:Georgia,serif;font-size:22px;">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPUk0JAAoPHgpXW1QI"  target=3D"_blank" style=3D"text-decoratio=
+n:none;color:#000000;font-weight:bold;">Terry Allen Revisits His Definitive=
+ Albums</a>=20
+           =20
+          </div>
+         =20
+         =20
+         =20
+            <div style=3D"font-family:Arial,sans-serif;font-size:14px;line-=
+height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px 0;">Lub=
+bock musician on <em>Juarez</em> and <em>Lubbock (On Everything)</em></p></=
+div>
+         =20
+         =20
+        </td>
+      </tr>
+    </table>
+  </td>
+                  </tr>
+      </table>
+    </td>
+  </tr>
+                 =20
+               =20
+             =20
+             =20
+           =20
+             =20
+             =20
+               =20
+                 =20
+                  <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"columnContainer">
+        <tr>
+                  <td align=3D"center" valign=3D"top" width=3D"50%" class=
+=3D"columnSingle">
+    <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%"=
+>
+     =20
+       =20
+        <tr>
+          <td class=3D"columnContent" align=3D"center">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPU00JAAoPHgpXW1QI"  style=3D"text-decoration:none;"><img src=
+=3D"http://www.austinchronicle.com/imager/b/newslettersquareh/1926783/8f08/=
+gm-Taylor-Swift-041.jpg" width=3D"280" height=3D"280" border=3D"0"  alt=3D"=
+Photo Gallery:<br> Formula 1 Music" style=3D"display:block;max-width:280px;=
+color:#efefef;text-align:center;font-family:Arial,sans-serif;font-size:28px=
+;font-weight:bold;background-color:#000000;" class=3D"columnImage" /></a>
+           =20
+          </td>
+        </tr>
+     =20
+      <tr>
+        <td align=3D"center" valign=3D"top" class=3D"columnContent">
+          <div style=3D"font-family:Georgia,serif;font-size:22px;">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPU00JAAoPHgpXW1QI"  target=3D"_blank" style=3D"text-decoratio=
+n:none;color:#000000;font-weight:bold;">Photo Gallery:<br> Formula 1 Music<=
+/a>=20
+           =20
+          </div>
+         =20
+         =20
+         =20
+            <div style=3D"font-family:Arial,sans-serif;font-size:14px;line-=
+height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px 0;">Ush=
+er, Roots, and Taylor Swift brought nightly melody to offset the day's engi=
+ne noise.</p></div>
+         =20
+         =20
+        </td>
+      </tr>
+    </table>
+  </td>
+               =20
+             =20
+             =20
+           =20
+             =20
+             =20
+               =20
+                  <td align=3D"center" valign=3D"top" width=3D"50%" class=
+=3D"columnSingle">
+    <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%"=
+>
+     =20
+       =20
+        <tr>
+          <td class=3D"columnContent" align=3D"center">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPUE0JAAoPHgpXW1QI"  style=3D"text-decoration:none;"><img src=
+=3D"http://www.austinchronicle.com/imager/b/newslettersquareh/1926781/7da3/=
+Corey_Baum.jpg" width=3D"280" height=3D"280" border=3D"0"  alt=3D"Song Prem=
+iere:<br> Croy & the Boys" style=3D"display:block;max-width:280px;color:#ef=
+efef;text-align:center;font-family:Arial,sans-serif;font-size:28px;font-wei=
+ght:bold;background-color:#000000;" class=3D"columnImage" /></a>
+           =20
+          </td>
+        </tr>
+     =20
+      <tr>
+        <td align=3D"center" valign=3D"top" class=3D"columnContent">
+          <div style=3D"font-family:Georgia,serif;font-size:22px;">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPUE0JAAoPHgpXW1QI"  target=3D"_blank" style=3D"text-decoratio=
+n:none;color:#000000;font-weight:bold;">Song Premiere:<br> Croy & the Boys<=
+/a>=20
+           =20
+          </div>
+         =20
+         =20
+         =20
+            <div style=3D"font-family:Arial,sans-serif;font-size:14px;line-=
+height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px 0;">ATX=
+=E2=80=99s Midwestern honky-tonkers cover Marty Robbins.</p></div>
+         =20
+         =20
+        </td>
+      </tr>
+    </table>
+  </td>
+                  </tr>
+      </table>
+    </td>
+  </tr>
+                 =20
+               =20
+             =20
+             =20
+           =20
+             =20
+             =20
+               =20
+                 =20
+                  <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"columnContainer">
+        <tr>
+                  <td align=3D"center" valign=3D"top" width=3D"50%" class=
+=3D"columnSingle">
+    <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%"=
+>
+     =20
+       =20
+        <tr>
+          <td class=3D"columnContent" align=3D"center">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPUU0JAAoPHgpXW1QI"  style=3D"text-decoration:none;"><img src=
+=3D"http://www.austinchronicle.com/imager/b/newslettersquareh/1926785/06cd/=
+arts_review30.jpg" width=3D"280" height=3D"280" border=3D"0"  alt=3D"Theatr=
+e Review: <i>Priscilla, Queen of the Desert</i>" style=3D"display:block;max=
+-width:280px;color:#efefef;text-align:center;font-family:Arial,sans-serif;f=
+ont-size:28px;font-weight:bold;background-color:#000000;" class=3D"columnIm=
+age" /></a>
+           =20
+          </td>
+        </tr>
+     =20
+      <tr>
+        <td align=3D"center" valign=3D"top" class=3D"columnContent">
+          <div style=3D"font-family:Georgia,serif;font-size:22px;">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPUU0JAAoPHgpXW1QI"  target=3D"_blank" style=3D"text-decoratio=
+n:none;color:#000000;font-weight:bold;">Theatre Review: <i>Priscilla, Queen=
+ of the Desert</i></a>=20
+           =20
+          </div>
+         =20
+         =20
+         =20
+            <div style=3D"font-family:Arial,sans-serif;font-size:14px;line-=
+height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px 0;">Lon=
+g may Zach Theatre's musical <em>Queen</em> reign!</p></div>
+         =20
+         =20
+        </td>
+      </tr>
+    </table>
+  </td>
+               =20
+             =20
+             =20
+           =20
+             =20
+             =20
+               =20
+                  <td align=3D"center" valign=3D"top" width=3D"50%" class=
+=3D"columnSingle">
+    <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%"=
+>
+     =20
+       =20
+        <tr>
+          <td class=3D"columnContent" align=3D"center">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPXk0JAAoPHgpXW1QI"  style=3D"text-decoration:none;"><img src=
+=3D"http://www.austinchronicle.com/imager/b/newslettersquareh/1926782/776d/=
+A1.jpg" width=3D"280" height=3D"280" border=3D"0"  alt=3D"Live Review: Dann=
+y Brown at Emo's" style=3D"display:block;max-width:280px;color:#efefef;text=
+-align:center;font-family:Arial,sans-serif;font-size:28px;font-weight:bold;=
+background-color:#000000;" class=3D"columnImage" /></a>
+           =20
+          </td>
+        </tr>
+     =20
+      <tr>
+        <td align=3D"center" valign=3D"top" class=3D"columnContent">
+          <div style=3D"font-family:Georgia,serif;font-size:22px;">
+           =20
+              <a href=3D"http://newsletters.austinchronicle.com/lists/lt.ph=
+p?id=3DKUpTVVMPXk0JAAoPHgpXW1QI"  target=3D"_blank" style=3D"text-decoratio=
+n:none;color:#000000;font-weight:bold;">Live Review: Danny Brown at Emo's</=
+a>=20
+           =20
+          </div>
+         =20
+         =20
+         =20
+            <div style=3D"font-family:Arial,sans-serif;font-size:14px;line-=
+height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px 0;">The=
+ Detroit MC kicked a chronological power hour Sunday.</p></div>
+         =20
+         =20
+        </td>
+      </tr>
+    </table>
+  </td>
+                  </tr>
+      </table>
+    </td>
+  </tr>
+                 =20
+               =20
+             =20
+             =20
+           =20
+             =20
+             =20
+               =20
+                <tr>
+      <td>
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+          <tr>
+            <td align=3D"center" valign=3D"top">
+              <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" widt=
+h=3D"100%">
+                <tr>
+                  <td align=3D"center" valign=3D"top" width=3D"100%">
+                   =20
+                    <a href=3D"http://newsletters.austinchronicle.com/lists=
+/lt.php?id=3DKUpTVVMPX00JAAoPHgpXW1QI"  target=3D"_blank"><img src=3D"http:=
+//www.austinchronicle.com/imager/b/original/1926471/e9e3/tue-Reverend.Horto=
+n.Heat.jpg" alt=3D"Today's Events" width=3D"580" style=3D"display:block;col=
+or:#efefef;font-family:Arial,sans-serif;font-size:20px;font-weight:bold;bac=
+kground-color:#000000;"/></a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+ =20
+  <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+        <tr>
+          <td align=3D"center" valign=3D"top">
+            <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td align=3D"center" valign=3D"top">
+                 =20
+                    <div style=3D"font-family:Georgia,serif;font-size:22px;=
+color:#444444;font-weight:bold;"><a href=3D"http://newsletters.austinchroni=
+cle.com/lists/lt.php?id=3DKUpTVVMPX00JAAoPHgpXW1QI"  target=3D"_blank" styl=
+e=3D"color:#000000;text-decoration:none;">Today's Events</a> </div>
+                 =20
+                 =20
+                 =20
+                 =20
+                    <div style=3D"font-family:Arial,sans-serif;font-size:14=
+px;line-height:20px;color:#333333;text-align:left;"><p style=3D"margin:10px=
+ 0;"><ul style=3D"list-style-type:none;text-align:left;margin:0;padding:0;l=
+ine-height:17px;">
+<li style=3D"margin:8px 0;">MUSIC: <a style=3D"color:#000000;" href=3D"http=
+://newsletters.austinchronicle.com/lists/lt.php?id=3DKUpTVVMOVk0JAAoPHgpXW1=
+QI" >Reverend Horton Heat</a>, Continental Club, midnight</li>
+<li style=3D"margin:8px 0;">VISUAL ARTS: <a style=3D"color:#000000;" href=
+=3D"http://newsletters.austinchronicle.com/lists/lt.php?id=3DKUpTVVMOV00JAA=
+oPHgpXW1QI" >"Mayhem, Method, and Medium"</a>, Flatbed Press, 10am-5pm</li>
+<li style=3D"margin:8px 0;">FILM: <em><a style=3D"color:#000000;" href=3D"h=
+ttp://newsletters.austinchronicle.com/lists/lt.php?id=3DKUpTVVMOVE0JAAoPHgp=
+XW1QI" >HOME</a></em>, Violet Crown Cinema, 7pm</li>
+<li style=3D"margin:8px 0;">SPORTS: <a style=3D"color:#000000;" href=3D"htt=
+p://newsletters.austinchronicle.com/lists/lt.php?id=3DKUpTVVMOVU0JAAoPHgpXW=
+1QI" >Texas Stars vs. San Antonio Rampage</a>, H-E-B Center at Cedar Park, =
+7:30pm</li>
+<li style=3D"margin:8px 0;">COMEDY: <a style=3D"color:#000000;" href=3D"htt=
+p://newsletters.austinchronicle.com/lists/lt.php?id=3DKUpTVVQLUU0JAAoPHgpXW=
+1QI" >Punch</a>, Cap City Comedy Club, 8pm</li>
+</ul></p></div>
+                 =20
+                 =20
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+             =20
+             =20
+           =20
+               =20
+                  <tr><td><img style=3D"height:1px !important;" src=3D"http=
+://www.google-analytics.com/collect?v=3D1&tid=3DUA-397617-1&cid=3Db0826fa26=
+e7aafbe3dfad16e1f1394da&t=3Devent&ec=3Demail&ea=3Dopen&el=3Db0826fa26e7aafb=
+e3dfad16e1f1394da&cs=3Dnewsletter&cm=3Dopen&cn=3Ddaily-2016-10-25" /></td><=
+/tr>
+               =20
+             =20
+            <table cellspacing=3D"2" width=3D"100%" align=3D"center" cellpa=
+dding=3D"0" border=3D"0" style=3D"background-color:#ffffff;border-top:0px s=
+olid #cccccc;border-bottom:1px solid #cccccc;">
+    <tr>
+      <td><h3 style=3D"margin-bottom:0;font-weight:normal;font-family:Arial=
+,sans-serif;font-size:14px;line-height:22px;color:#333333;text-align:center=
+;"><a id=3D"view-this" style=3D"color:#000000;" href=3D"http://newsletters.=
+austinchronicle.com/lists/lt.php?id=3DKUpTVVMOUk0JAAoPHgpXW1QI" >View this =
+newsletter in a browser.</a>   Find more at <a style=3D"color:#000000;" hre=
+f=3D"http://newsletters.austinchronicle.com/lists/lt.php?id=3DKUpQH1cMXgZED=
+AQAVQs" >austinchronicle.com</a>.</h3></td>
+    </tr>
+    <tr>
+      <td align=3D"center">
+        <table cellspacing=3D"15">
+          <tr>
+            <td style=3D"width:40px;text-align:center;"><a href=3D"http://n=
+ewsletters.austinchronicle.com/lists/lt.php?id=3DKUpQURoIUwkPSQsOWgRZ"  tit=
+le=3D"Facebook"><img src=3D"http://www.austinchronicle.com/images_08/common=
+Sprites/social/facebook_n.png" alt=3D"Facebook" style=3D"width:40px;"/></a>=
+</td>
+            <td style=3D"width:40px;text-align:center;"><a href=3D"http://n=
+ewsletters.austinchronicle.com/lists/lt.php?id=3DKUpQUBoIUwkPSQsOWgRZ"  tit=
+le=3D"Twitter"><img src=3D"http://www.austinchronicle.com/images_08/commonS=
+prites/social/twitter_n.png" alt=3D"Twitter" style=3D"width:40px;" /></a></=
+td>
+            <td style=3D"width:40px;text-align:center;"><a href=3D"http://n=
+ewsletters.austinchronicle.com/lists/lt.php?id=3DKUpQVxoIUwkPSQsOWgRZ"  tit=
+le=3D"Google+"><img src=3D"http://www.austinchronicle.com/images_08/commonS=
+prites/social/google_n.png" alt=3D"Google+" style=3D"width:40px;" /></a></t=
+d>
+            <td style=3D"width:40px;text-align:center;"><a href=3D"http://n=
+ewsletters.austinchronicle.com/lists/lt.php?id=3DKUpQVhoIUwkPSQsOWgRZ"  tit=
+le=3D"Instagram"><img src=3D"http://www.austinchronicle.com/images_08/commo=
+nSprites/social/instagram_n.png" alt=3D"Instagram" style=3D"width:40px;" />=
+</a></td>
+            <td style=3D"width:40px;text-align:center;"><a href=3D"http://n=
+ewsletters.austinchronicle.com/lists/lt.php?id=3DKUpQVRoIUwkPSQsOWgRZ"  tit=
+le=3D"Pinterest"><img src=3D"http://www.austinchronicle.com/images_08/commo=
+nSprites/social/pinterest_n.png" alt=3D"Pinterest" style=3D"width:40px;" />=
+</a></td>
+            <td style=3D"width:40px;text-align:center;"><a href=3D"http://n=
+ewsletters.austinchronicle.com/lists/lt.php?id=3DKUpQVBoIUwkPSQsOWgRZ"  tit=
+le=3D"Foursquare"><img src=3D"http://www.austinchronicle.com/images_08/comm=
+onSprites/social/foursquare_n.png" alt=3D"Foursquare" style=3D"width:40px;"=
+ /></a></td>
+            <td style=3D"width:40px;text-align:center;"><a href=3D"http://n=
+ewsletters.austinchronicle.com/lists/lt.php?id=3DKUpQWxoIUwkPSQsOWgRZ"  tit=
+le=3D"Austin Chronicle Newsletters"><img src=3D"http://www.austinchronicle.=
+com/images_08/commonSprites/social/newsletters_n.png" alt=3D"Newsletters" s=
+tyle=3D"width:40px;" /></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+          </table>
+        </td>
+      </tr>
+    </table>
+   =20
+  <br />--<html><p style=3D"color:gray">This message was sent to rresendez@=
+rigoresendez.com.<br>
+To update your preferences or unsubscribe, visit <a href=3D"http://newslett=
+ers.austinchronicle.com/lists/lt.php?id=3DKUpQWhoIUwkPSQsOWgRZ" >this link<=
+/a>.<br>
+To forward this message, visit <a href=3D"http://newsletters.austinchronicl=
+e.com/lists/lt.php?id=3DKUpTVVMOU00JAAoPHgpXW1QI" >this link</a>.<br><br>
+
+The Austin Chronicle, 4000 N. IH-35, Austin, TX, 78751</p>
+</html>
+
+
+--b1_6008124b34d441cdc9dc42332646a924--
+

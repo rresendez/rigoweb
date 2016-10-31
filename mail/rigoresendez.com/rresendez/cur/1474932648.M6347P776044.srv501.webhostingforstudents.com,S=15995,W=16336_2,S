@@ -1,0 +1,341 @@
+Return-Path: <BwBEWwoBVwJsUggBAlUGWFRYUgcHVlMDUDBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBXDw@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id 2epQAKiv6Vds1wsATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 26 Sep 2016 19:30:48 -0400
+Return-path: <BwBEWwoBVwJsUggBAlUGWFRYUgcHVlMDUDBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBXDw@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 26 Sep 2016 19:30:48 -0400
+Received: from mta-dock-front-5.bluestatedigital.com ([64.94.250.8]:37606)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsUggBAlUGWFRYUgcHVlMDUDBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBXDw@bounce.bluestatedigital.com>)
+	id 1bofMF-003FtM-QE
+	for rresendez@rigoresendez.com; Mon, 26 Sep 2016 19:30:47 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.135])
+	by mta-dock-front-5.bluestatedigital.com (Postfix) with ESMTP id 3sjg746hgbz14Zpd
+	for <rresendez@rigoresendez.com>; Mon, 26 Sep 2016 23:25:20 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=bounce.bluestatedigital.com; s=bsdkey; t=1474932320;
+	bh=frtFAeGZOeihnNMPjOYQwXGvKwrsaIGzZI0zStypslE=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=b3wLHGTA6fZuMZ7Um88n7CTEbsuTBinspS51/EN3PGXr0Vernm7H5TZU5OFsFWcer
+	 FBHMh4yZXCfGsdiR/aCiEsmLslucKU//sPJojNsOxzMkELx6M4W4WbEnDf1aFGqBSr
+	 VhXBLAuv3BtJmOdiJ49q1P6xR6G/5C2o77wb70aU=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Mon, 26 Sep 2016 23:25:20 +0000
+Date: Mon, 26 Sep 2016 23:25:20 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: Jeff Weaver <info@ourrevolution.com>
+Reply-to: info@ourrevolution.com
+Subject: Here come the billionaires
+Message-ID: <d663ef79b18bc17fe101d10968232750@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: a8430597ab53a602
+X-rpcampaign: rp_177574
+X-maillist-guid: BwBEWwoBVwJsUggBAlUGWFRYUgcHVlMDUDBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBXDw
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsUggBAlUGWFRYUgcHVlMDUDBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBXDw@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d663ef79b18bc17fe101d10968232750"
+
+
+--b1_d663ef79b18bc17fe101d10968232750
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto,
+
+Three candidates for Congress endorsed by Our Revolution are under attack =
+by a billionaire-funded super PAC spending millions of dollars against =
+them.
+
+Zephyr Teachout in New York, Morgan Carroll in Colorado, and Tom Nelson in =
+Wisconsin have all been targeted with millions of dollars in outside =
+spending by a super PAC funded by billionaires like casino owner Sheldon =
+Adelson and hedge fund manager Paul Singer.
+
+These billionaires made their money off of working people, and now they're =
+trying to buy seats in Congress. We can't let that happen.
+
+During Bernie's campaign for president, we set big goals and went beyond =
+the establishment's wildest expectations. That's why we're setting a huge =
+goal of making 100,000 individual contributions by Friday's FEC =
+fundraising deadline between the candidates endorsed by Our Revolution, =
+starting with these three candidates under attack by a super PAC.
+
+Split a $15 contribution between Zephyr Teachout, Morgan Carroll, and Tom =
+Nelson to help them fight the billionaire-funded Super PACs before =
+Friday's FEC fundraising deadline and put us towards our huge goal of =
+100,000 contributions:
+
+https://secure.actblue.com/contribute/page/super-pac-attacks?refcode=3Dem1=
+60926-pt
+
+It's very important we step up to help these three candidates who embody =
+the ideals of our political revolution while they're under attack.
+
+Morgan Carroll is very different from most legislators -- as a member of =
+Colorado's state senate, she refuses to discuss legislation with =
+lobbyists. Now she's running for Congress on a platform of overturning =
+Citizens United, taking on corruption, and making our economy work for =
+everyone.
+
+Tom Nelson is a fierce advocate for working families running for Congress =
+in Wisconsin. When a local mill shut down, Tom fought tax breaks for the =
+company and worked to get the laid off workers new jobs. In Congress he'll =
+fight for fair wages and oppose disastrous trade deals.
+
+Zephyr Teachout is facing a former lobbyist in her race for Congress in =
+New York. Zephyr's spent her life fighting political corruption, and her =
+election is a perfect example of someone who'll take on special interests =
+while facing opposition from lobbyists, billionaires, and super PACs.
+
+Morgan, Tom, and Zephyr all need your help. They're fighting off millions =
+of dollars supplied by billionaires to super PACs who want to see them =
+lose. Our movement can fight back and prove we're stronger than =
+billionaires and their super PACs.
+
+Make a $15 contribution split between Morgan Carroll, Tom Nelson, and =
+Zephyr Teachout to fight a billionaire class that wants to buy our =
+democracy. Your support can help reach our goal of 100,000 contributions =
+by Friday's FEC deadline:
+
+https://secure.actblue.com/contribute/page/super-pac-attacks?refcode=3Dem1=
+60926-pt
+
+aWe have a big opportunity this week to both show the power of our =
+political revolution and support candidates up and down the ballot by =
+Friday's huge deadline. Through the week we'll tell you about more of our =
+candidates who need help, and ask you to add contributions to reach this =
+tremendous goal of 100,000 contributions to our candidates.
+
+We can't wait to see what we can do together.
+
+In solidarity,
+
+Jeff Weaver
+Our Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+Paid for by Our Revolution
+
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE. OUR REVOLUTION IS =
+A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION ARE NOT =
+DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX PURPOSES.
+(not the billionaires)
+
+603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to Our =
+Revolution here: https://secure.actblue.com/contribute/page/ourrevolution?=
+refcode=3Demail_footer.
+
+
+--b1_d663ef79b18bc17fe101d10968232750
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+div{
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+   font-weight: 400;
+line-height:1.4;
+color: #364350;
+}
+a{
+color: #147FD7;
+}
+.express-lane-links .link{
+  margin: 0;
+}
+.express-lane-links .link a{
+  font-family: sans-serif;
+  font-size: 18px;
+  background-color: #147FD7;
+  border-top: 1px solid #1e88e0;
+  border-bottom: 2px solid #0e72c4;
+  width: 290px;
+  margin: 12px auto;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 12px 5px;
+  font-weight:700;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+}
+.express-lane-links .link a:hover{
+  background-color: #1e88e0;
+}
+.express-lane-links .link.other a{
+  font-size: 17px;
+}
+</style></head><body><h1 style=3D"text-align: center; padding: 25px 0 20px =
+0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Our Revolution" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Our%20Revolution/OurRev-Logo=
+-160827-335px.png"></h1>
+<div style=3D"line-height:140%;padding-top:1px;"><p style=3D"font-size: =
+17px; font-family: Arial; line-height:140%;">
+	Rigoberto,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Three candidates for Congress endorsed by Our Revolution are under attack =
+by a billionaire-funded super PAC spending millions of dollars against =
+them.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Zephyr Teachout in New York, Morgan Carroll in Colorado, and Tom Nelson =
+in Wisconsin have all been targeted with millions of dollars in outside =
+spending by a super PAC funded by billionaires like casino owner Sheldon =
+Adelson and hedge fund manager Paul Singer.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	These billionaires made their money off of working people, and now =
+they're trying to buy seats in Congress. We can't let that happen.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	During Bernie's campaign for president, we set big goals and went beyond =
+the establishment's wildest expectations. That's why we're setting =
+<strong>a huge goal of making 100,000 individual contributions by <a =
+href=3D"#" style=3D"text-decoration:none; color: #364350;">Friday's</a> =
+FEC fundraising deadline between the candidates endorsed by Our =
+Revolution</strong>, starting with these three candidates under attack by =
+a super PAC.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/super-pac-attacks?r=
+efcode=3Dem160926-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/super-pac-attacks?refc=
+ode=3Dem160926-full"><strong>Split a $15 contribution between Zephyr =
+Teachout, Morgan Carroll, Tom Nelson, and Our Revolution to help fight the =
+billionaire-funded Super PACs before Friday's FEC fundraising deadline and =
+put us towards our huge goal of 100,000 contributions.</strong></a></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	It's very important we step up to help these three candidates who embody =
+the ideals of our political revolution while they're under attack.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Morgan Carroll</strong> is very different from most legislators =
+&mdash; as a member of Colorado's state senate, she refuses to discuss =
+legislation with lobbyists. Now she's running for Congress on a platform =
+of overturning Citizens United, taking on corruption, and making our =
+economy work for everyone.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Tom Nelson</strong> is a fierce advocate for working families =
+running for Congress in Wisconsin. When a local mill shut down, Tom fought =
+tax breaks for the company and worked to get the laid off workers new =
+jobs. In Congress he'll fight for fair wages and oppose disastrous trade =
+deals.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Zephyr Teachout</strong> is facing a former lobbyist in her race =
+for Congress in New York. Zephyr's spent her life fighting political =
+corruption, and her election is a perfect example of someone who'll take =
+on special interests while facing opposition from lobbyists, billionaires, =
+and super PACs.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Morgan, Tom, and Zephyr all need your help. They're fighting off millions =
+of dollars supplied by billionaires to super PACs who want to see them =
+lose. <strong>Our movement can fight back and prove we're stronger than =
+billionaires and their super PACs.</strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/super-pac-attacks?r=
+efcode=3Dem160926-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/super-pac-attacks?refc=
+ode=3Dem160926-full"><strong>Make a $15 contribution split between Morgan =
+Carroll, Tom Nelson, Zephyr Teachout, and Our Revolution to fight a =
+billionaire class that wants to buy our democracy. Your support can help =
+reach our goal of 100,000 contributions by Friday's FEC =
+deadline.</strong></a></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We have a big opportunity this week to both show the power of our =
+political revolution and support candidates up and down the ballot by =
+Friday's huge deadline. Through the week we'll tell you about more of our =
+candidates who need help, and ask you to add contributions to reach this =
+tremendous goal of 100,000 contributions to our candidates.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We can't wait to see what we can do together.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Jeff Weaver<br>
+	Our Revolution</p>
+<p class=3D"link other" style=3D"font-family:Arial; font-size:17px; =
+line-height:140%; margin:0;">
+	<a href=3D"https://secure.actblue.com/contribute/page/super-pac-attacks?r=
+efcode=3Dem160926-full" style=3D"font-family: sans-serif; font-size: 18px; =
+background-color: #E9514F; border-top: 1px solid #E9514F; border-bottom: =
+2px solid #E9514F; width: 290px; margin: 12px auto; border-radius: 4px; =
+text-align: center; color: white; text-decoration: none; padding: 12px 5px =
+11px; font-weight:700; display: block; text-transform: uppercase; =
+letter-spacing: 0.075em;" title=3D"https://secure.actblue.com/contribute/p=
+age/super-pac-attacks?refcode=3Dem160926-full">CONTRIBUTE</a></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<br><br><br><br><br><br><br><br><br><br><div class=3D"footer" =
+style=3D"text-align: center; margin-top: 40px; padding-top: 15px; =
+border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px; font-size: 12px; max-width:400px;">PAID FOR BY OUR REVOLUTION<br><br>
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE.<br><br>OUR =
+REVOLUTION IS A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION =
+ARE NOT DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX =
+PURPOSES.</p>
+                  <p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+</div></div><img src=3D"https://go.berniesanders.com/page/o/24fb0945/43b7f=
+9e2/3250a798/6200f03e/1614663175/open.gif" width=3D"1" =
+height=3D"1"></body></html>
+
+
+
+--b1_d663ef79b18bc17fe101d10968232750--
+
+

@@ -1,0 +1,1149 @@
+Return-Path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id gZavEf17E1ge4wgATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 28 Oct 2016 12:25:33 -0400
+Return-path: <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 28 Oct 2016 12:25:33 -0400
+Received: from o1.em2.juke.ly ([198.21.7.97]:37309)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2687988-8134-rresendez=rigoresendez.com@em.juke.ly>)
+	id 1c09yG-002RT9-Rk
+	for rresendez@rigoresendez.com; Fri, 28 Oct 2016 12:25:33 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=juke.ly; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=k1A9HXZnXcC9Bd0+MGqrzm2rNJ4=; b=R9vqCFy8JSIhD+/iTjzqndu
+	/kBRYlavBnG3s75j3CaYNBFlkVeHmW6tkENAW213oLfyBdAp/BT2NAZC14rebe6e
+	TFbdyFu8thnt6HzrDK4TfwSXgPhELgeKT0ftI19nUxkIUAj6WYTcWe8EFBjEdMDb
+	x248WsxO+ktCev54+PyY=
+Received: by filter0435p1mdw1.sendgrid.net with SMTP id filter0435p1mdw1-32279-58137BAF-7F
+        2016-10-28 16:24:15.778294869 +0000 UTC
+Received: from MjY4Nzk4OA (o16789125x228.outbound-mail.sendgrid.net [167.89.125.228])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with HTTP id 9oIe-IC9SDeTUbmWoFBtRA
+	for <hi@juke.ly>; Fri, 28 Oct 2016 16:24:15.717 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=e233d76117157b5a2e5e62701f745310f8dc7d1b68ef6068d4ea7ff51c86
+Date: Fri, 28 Oct 2016 16:24:15 +0000
+From: "Jukely" <hi@juke.ly>
+Mime-Version: 1.0
+Reply-To: hi@juke.ly
+Subject: are you ready for a very Webster Hall-oween?
+To: rresendez@rigoresendez.com
+Message-ID: <9oIe-IC9SDeTUbmWoFBtRA@ismtpd0005p1iad1.sendgrid.net>
+List-Unsubscribe: <http://track.juke.ly/asm/unsubscribe/?user_id=2687988&data=m9LWNGZF9TG1060ASRJWQIJ39W7pYFnltF11VxGNSXg7KMi9xHzFvB-tDkMRBkVEnQefI1jIgGS0OUIzoAz7Da3UlR48K8YoUncFRJyBits6dA3hkeJM3YtziXmW7snknaPsWh73YS-pesKrYa-PAQkDJcReOdVcJSGHtEe_-fYOoWHBmjoKx9ZXsujCKk0ihzt0Ioq2cvPr8ij94LnwdSjO89AvRVHEt9TwM62XZ2ceXH-kgcyiemb6Yh-VSVICx15GQH3dRdvIfd2dJmekabUSyHnHY5xDIGPwRWaiVNcO6GdQy0wKSZ0k8iM1ADmMquwbS0-Va4V2gfyMCTfcNrx4Nlc2kqnR8GKif9d1PmPMX7jW3ySsQVRPF5BBwrbGfket5EB3mxvu5oJU0BVgE-6rLgkKnwZUPV1QBTNLyzjOObWF4bOv7qcScXkf1IaERcASTt0dRG9UxsORo5UW9FeAAAUmLDPIC7-eIY7ZL87REY2BZXx1HvhfT6mQMcgJK8FHeZmBe_r55yTbh5Jh5ZB5Y2BZkckRDHP4vDBZ802yfmnaL6peOjmriNqE5sR4syfL3DJK30rSI7k9TatGnQ==>, <mailto:unsubscribe@em.juke.ly?subject=http://track.juke.ly/asm/unsubscribe/*q*user_id=2687988&data=m9LWNGZF9TG1060ASRJWQIJ39W7pYFnltF11VxGNSXg7KMi9xHzFvB-tDkMRBkVEnQefI1jIgGS0OUIzoAz7Da3UlR48K8YoUncFRJyBits6dA3hkeJM3YtziXmW7snknaPsWh73YS-pesKrYa-PAQkDJcReOdVcJSGHtEe_-fYOoWHBmjoKx9ZXsujCKk0ihzt0Ioq2cvPr8ij94LnwdSjO89AvRVHEt9TwM62XZ2ceXH-kgcyiemb6Yh-VSVICx15GQH3dRdvIfd2dJmekabUSyHnHY5xDIGPwRWaiVNcO6GdQy0wKSZ0k8iM1ADmMquwbS0-Va4V2gfyMCTfcNrx4Nlc2kqnR8GKif9d1PmPMX7jW3ySsQVRPF5BBwrbGfket5EB3mxvu5oJU0BVgE-6rLgkKnwZUPV1QBTNLyzjOObWF4bOv7qcScXkf1IaERcASTt0dRG9UxsORo5UW9FeAAAUmLDPIC7-eIY7ZL87REY2BZXx1HvhfT6mQMcgJK8FHeZmBe_r55yTbh5Jh5ZB5Y2BZkckRDHP4vDBZ802yfmnaL6peOjmriNqE5sR4syfL3DJK30rSI7k9TatGnQ==>
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgY/JbisNXDpHEPg8280bvxxZg/gvY0dXMG59Q
+ vHUoQ9XZeytFiMGe6r1mRY3EILTl6Xv0H9xezy1w+vlaXvaxQ8N9of+R9wbDZ0tc9mbJ+TWSaGvVZE
+ h8M+yfkvsALMW2OEZMKevEPJEkwmv/bL/Ft3YoHfkS97rKYDbf4X29GnKg==
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP1YMuOeGzI3EpQNnkknm0r/v6sZcPvqRuRGLO
+ wWU6VBTIcGj0icyFQ6NolpjPiPlxqNMu+7QS4sTVp6ztk9vdyK0tkk4RcyB0qPdQhksfvPUX0T8Q+d
+ KG+CrDGabI/yotZF2QdAr4FsHTLPuynGZygmY5v5CA2zh5YO2AaZutwWCIUnZGGZMAdMtKMQnN+aqI
+ s=
+
+--e233d76117157b5a2e5e62701f745310f8dc7d1b68ef6068d4ea7ff51c86
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+This year's Halloween at Webster Hall will melt reality.
+
+http://jukely.com/
+												 http://jukely.com/
+
+TONIGHT 10/28
+
+Claptone at GIRLS + BOYS
+
+w/ Sacha Robotti, Sleepy & Boo
+
+10:00pm =E2=80=A2 19+
+
+THIS SHOW IS FREE
+
+TO JUKELY MEMBERS
+
+I WANT TO GO https://www.jukely.com/events/udfb50f35/?m=3Dnew-york&utm_sour=
+ce=3Demail&utm_medium=3Dmembers_hookup&utm_content=3Dclaptone&utm_campaign=
+=3Dnew-york
+
+When it comes to Halloween, Webster Hall has a reputation for not @#$%ing a=
+round, and this year will raise the bar.
+
+Tonight,=C2=A0Claptone takes over Girls + Boys for a very special Halloween=
+ edition of the legendary MASQUERADE event. Come prepared to impress:=C2=A0=
+the most creative mask goes home with $1,000!
+
+Get on the guestlist https://www.jukely.com/events/udfb50f35/?m=3Dnew-york&=
+utm_source=3Demail&utm_medium=3Dmembers_hookup&utm_content=3Dclaptone&utm_c=
+ampaign=3Dnew-york=C2=A0(only a few more hours till it closes!) or get tick=
+ets http://jukely.co/TYNLCo to attend.
+
+ALSO ON JUKELY AT WEBSTER HALL
+
+https://www.jukely.com/events/w52ed769d/?m=3Dnew-york&utm_source=3Demail&ut=
+m_medium=3Dmembers_hookup&utm_content=3Dgotham_malaa&utm_campaign=3Dnew-york
+
+SAT 10/29
+
+Malaa + Rezz at Gotham
+
+w/ Dischetto, Tjani
+
+10:00pm =E2=80=A2 19+
+
+I WANT TO GO https://www.jukely.com/events/w52ed769d/?m=3Dnew-york&utm_sour=
+ce=3Demail&utm_medium=3Dmembers_hookup&utm_content=3Dgotham_malaa&utm_campa=
+ign=3Dnew-york
+
+Saturday night, the enigmatic Malaa and on-the-rise REZZ bring "The Lunatic=
+ Tour" to NYC for a very special Halloween edition of GOTHAM. Best costume =
+walks out with $1,000 cash.
+
+To attend, put yourself on Jukely's members-only guestlist https://www.juke=
+ly.com/events/w52ed769d/?m=3Dnew-york&utm_source=3Demail&utm_medium=3Dmembe=
+rs_hookup&utm_content=3Dgotham_malaa&utm_campaign=3Dnew-york, https://www.j=
+ukely.com/events/w52ed769d/?m=3Dnew-york&utm_source=3Demail&utm_medium=3Dme=
+mbers_hookup&utm_content=3Dgotham_malaa&utm_campaign=3Dnew-york or if you'r=
+e not a member, you can purchase tickets here http://jukely.co/TYNLCo.
+
+WEBSTER HALL'S GRAND HALLOWEEN FINALE
+
+http://jukely.com/
+
+MON 10/31
+
+Webster Hell
+
+Official NYC Halloween Parade Afterparty
+
+10:00pm =E2=80=A2 19+
+
+MORE INFO http://www.websterhall.com/halloween/
+
+The Official New York City Halloween Parade Afterparty is back!=C2=A0=F0=9F=
+=91=BB
+
+$5,000 will go to the best costume, and a randomly selected virgin from the=
+ crowd will be sacrificed. Read more and purchase tickets here http://www.w=
+ebsterhall.com/halloween/.
+
+Bonus: Black Sun Empire + PHACE at Slake on Sunday.
+
+With support by Blacklist, Alex English & Jergo.
+
+Sunday 10/30 from 9pm - 2am, 19+
+
+Get Details & Go http://www.fouroverfour.jukely.com/2016/10/26/black-sun-em=
+pire-and-phace-slake-halloween/?utm_source=3Demail&utm_campaign=3Dnew-york&=
+utm_term=3Dblack_phace&utm_medium=3Dmember_hookup
+
+GET ON THE JUKELY APP
+
+https://play.google.com/store/apps/details?id=3Dcom.jukely&hl=3Den
+
+https://itunes.apple.com/us/app/jukely-your-concert-membership/id590428284?=
+mt=3D8
+
+http://instagram.com/jukely
+
+http://facebook.com/jukelyapp
+
+http://twitter.com/jukely
+
+Copyright =C2=A9 2016 Jukely, Inc., All rights reserved.
+
+If you wish to stop receiving these local show notifications, simply update=
+ your preferences http://jukely.com/settings or unsubscribe http://track.ju=
+ke.ly/asm/unsubscribe/?user_id=3D2687988&data=3Dm9LWNGZF9TG1060ASRJWQIJ39W7=
+pYFnltF11VxGNSXg7KMi9xHzFvB-tDkMRBkVEnQefI1jIgGS0OUIzoAz7Da3UlR48K8YoUncFRJ=
+yBits6dA3hkeJM3YtziXmW7snknaPsWh73YS-pesKrYa-PAQkDJcReOdVcJSGHtEe_-fYOoWHBm=
+joKx9ZXsujCKk0ihzt0Ioq2cvPr8ij94LnwdSjO89AvRVHEt9TwM62XZ2ceXH-kgcyiemb6Yh-V=
+SVICx15GQH3dRdvIfd2dJmekabUSyHnHY5xDIGPwRWaiVNcO6GdQy0wKSZ0k8iM1ADmMquwbS0-=
+Va4V2gfyMCTfcNrx4Nlc2kqnR8GKif9d1PmPMX7jW3ySsQVRPF5BBwrbGfket5EB3mxvu5oJU0B=
+VgE-6rLgkKnwZUPV1QBTNLyzjOObWF4bOv7qcScXkf1IaERcASTt0dRG9UxsORo5UW9FeAAAUmL=
+DPIC7-eIY7ZL87REY2BZXx1HvhfT6mQMcgJK8FHeZmBe_r55yTbh5Jh5ZB5Y2BZkckRDHP4vDBZ=
+802yfmnaL6peOjmriNqE5sR4syfL3DJK30rSI7k9TatGnQ=3D=3D.=
+
+--e233d76117157b5a2e5e62701f745310f8dc7d1b68ef6068d4ea7ff51c86
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<title>This year&#39;s Halloween at Webster Hall will melt reality.</title>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /=
+><meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0" />
+	<style type=3D"text/css">a{
+				outline:none;
+				color:#9b02ff;
+				text-decoration:underline;
+			}
+			a:hover{text-decoration:none !important;}
+			a[x-apple-data-detectors]{color:inherit !important; text-decoration:none=
+ !important;}
+			.active:hover{opacity:0.8;}
+			.active{
+				-webkit-transition:all 0.3s ease;
+				-moz-transition:all 0.3s ease;
+				-ms-transition:all 0.3s ease;
+				transition:all 0.3s ease;
+			}
+			a img{border:none;}
+			table td{mso-line-height-rule:exactly;}
+			.ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b,=
+ .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:inheri=
+t;}
+			@media only screen and (max-width:500px) {
+				/* default style */
+				table[class=3D"flexible"]{width:100% !important;}
+				table[class=3D"table-center"]{float:none !important; margin:0 auto !imp=
+ortant; width:auto !important;}
+				*[class=3D"hide"]{display:none !important; width:0 !important; height:0=
+ !important; padding:0 !important; font-size:0 !important; line-height:0 !i=
+mportant;}
+				span[class=3D"db"]{display:block !important;}
+				td[class~=3D"img-flex"] img{width:100% !important; height:auto !importa=
+nt;}
+				td[class~=3D"aligncenter"]{text-align:center !important;}
+				tr[class=3D"table-holder"]{display:table !important; width:100% !import=
+ant;}
+				th[class=3D"tcap"]{display:table-caption !important; width:100% !import=
+ant;}
+				th[class=3D"thead"]{display:table-header-group !important; width:100% !=
+important;}
+				th[class=3D"trow"]{display:table-row !important; width:100% !important;}
+				th[class=3D"tfoot"]{display:table-footer-group !important; width:100% !=
+important;}
+				th[class=3D"flex"]{display:block !important; width:100% !important;}
+				/* custom style */
+				td[class~=3D"block-holder"], td[class=3D"padding-reset"]{padding-left:0=
+ !important; padding-right:0 !important;}
+				td[class~=3D"frame"]{padding-left:8% !important; padding-right:8% !impo=
+rtant;}
+				td[class=3D"pre-header"]{padding:23px 18px 73px 16px !important;}
+				td[class=3D"top-td"]{height:auto !important; padding:17px 8% 20px !impo=
+rtant;}
+				td[class=3D"bottom-td"]{padding: 18px 8% 3px !important;}
+				td[class~=3D"content"]{padding:43px 8% 40px !important;}
+				td[class=3D"pb10"]{padding-bottom:10px !important;}
+				td[class=3D"block-title"]{font-size: 25px !important; line-height: 29px=
+ !important; padding-bottom:15px !important;}
+				table[class~=3D"full-width"]{width:100% !important;}
+				td[class=3D"pre-footer"]{padding:57px 30px 81px !important;}
+				td[class=3D"w55"]{width: 55px !important;}
+			}
+	</style>
+</head>
+<body bgcolor=3D"#ffffff" style=3D"margin:0; padding:0; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%;">
+<table bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" style=3D"min=
+-width:320px;" width=3D"100%"><!-- fix for gmail -->
+	<tbody>
+		<tr>
+			<td style=3D"line-height:0;">
+			<div style=3D"display:none; white-space:nowrap; font:15px/1px courier;">=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp;</div>
+			</td>
+		</tr>
+		<!-- pre-header -->
+		<tr>
+			<td bgcolor=3D"#ff34b8" class=3D"block-holder" style=3D"padding:0 10px;">
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600"><!-- fix for gmail -->
+				<tbody>
+					<tr>
+						<td class=3D"hide">
+						<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:600px !impo=
+rtant;" width=3D"600">
+							<tbody>
+								<tr>
+									<td style=3D"min-width:600px; font-size:0; line-height:0;">&nbsp;<=
+/td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class=3D"pre-header" style=3D"padding: 21px 0 87px;">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td>
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr>
+												<td style=3D"line-height:20px; mso-line-height-rule:at-least;">=
+<span class=3D"sg-image" data-imagelibrary=3D"%7B%22width%22%3A%2299%22%2C%=
+22height%22%3A%2220%22%2C%22alt_text%22%3A%22JUKELY%22%2C%22alignment%22%3A=
+%22%22%2C%22src%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/upl=
+oads/2016/04/logo.png%22%2C%22link%22%3A%22http%3A//jukely.com/%22%2C%22cla=
+sses%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/wf/c=
+lick?upn=3DYWrScHOWkkBE9V0yoT65R6eWDS9ddJ1tR-2F0tFNNZbWQ-3D_xb69N2IWj9cpa7V=
+Y1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3Hhs=
+IF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-=
+2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4lj=
+DwRX1i-2BUR6cRnNX3wfDU9smQakagNtaqwOOBwK9dV-2F4WN4X7cRXRX3boNnIYdzdntatoHJo=
+WML36dBoelHDxICxFsW1NOrn1dwNgmlfASJHfM5IbFTu0LjgpSqs3f-2FUv9oYWDgLGsNx9Dhek=
+oGaaQh3-2F9hpCehFZlcwYHh5mZ12-2B2Ge1ait4z-2Fn1lI1kRdDjIuJov-2FNA5T9QoaQQjjI=
+lSDwVF0vw0iNiubvpy10pOBpra1-2ByJ3O9ZO3m8JO-2Bn8dYwMEyw9tnq8-2BzTH-2Bb4-3D" =
+style=3D"text-decoration:none;" target=3D"_blank"><img alt=3D"JUKELY" heigh=
+t=3D"20" src=3D"http://www.fouroverfour.jukely.com/wp-content/uploads/2016/=
+04/logo.png" style=3D"vertical-align: top; font-style: normal; font-variant=
+: normal; font-weight: bold; font-stretch: normal; font-size: 20px; line-he=
+ight: 24px; font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255,=
+ 255); width: 99px; height: 20px;" width=3D"99" /></a></span></td>
+												<td align=3D"right"><span class=3D"sg-image" data-imagelibrary=
+=3D"%7B%22width%22%3A%2226%22%2C%22height%22%3A%2226%22%2C%22alt_text%22%3A=
+%22%22%2C%22alignment%22%3A%22%22%2C%22src%22%3A%22http%3A//www.fouroverfou=
+r.jukely.com/wp-content/uploads/2016/04/ico.png%22%2C%22link%22%3A%22http%3=
+A//jukely.com/%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D=
+"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65R6eWDS9ddJ1tR-2F0t=
+FNNZbWQ-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2F=
+s74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4=
+yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y=
+7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3xmUqCSdyyB0NDtLc3bWcT7I3SmCxhbq=
+8DhWjkWZYAX08FEWJJUsxrWTztxBzj-2BC1uQfw2Q3esoiBqyeUtg7rDMaMLWr-2BI7PuE6R7WV=
+F6tigUu-2FUD65g-2F7NI-2FXGExh5EtmZylKhiKxfr-2F4TIyu0IjIsMnsdnNhfpHYiqhQuv-2=
+Fvh-2BY-2Bke8UoBQo3Y-2FuUm05PA1tPuyAeTDq-2B-2B3nJDUMGgE4WyFqpYgLFxGbGn5BMmL=
+gkpkqG3PgqDVe9RYsrJAuXM9Y-3D" target=3D"_blank"><img alt=3D"" border=3D"0" =
+height=3D"26" src=3D"http://www.fouroverfour.jukely.com/wp-content/uploads/=
+2016/04/ico.png" style=3D"vertical-align: top; width: 26px; height: 26px;" =
+width=3D"26" /></a></span></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- header -->
+		<tr>
+			<td>
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td bgcolor=3D"#f7f5f7" class=3D"hide" valign=3D"top" width=3D"50%">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#ff34b8" height=3D"211" style=3D"border-bottom:4px =
+solid #9b02ff;">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td bgcolor=3D"#ff34b8">
+						<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+flexible" style=3D"margin:0 auto;" width=3D"600">
+							<tbody>
+								<tr>
+									<td>
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr><!-- left-column -->
+												<th align=3D"left" class=3D"flex" style=3D"vertical-align:top; =
+padding:0;" width=3D"324">
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+													<tbody>
+														<tr>
+															<td class=3D"frame img-flex"><span class=3D"sg-image" data-i=
+magelibrary=3D"%7B%22width%22%3A%22324%22%2C%22height%22%3A%22324%22%2C%22a=
+lt_text%22%3A%22%22%2C%22alignment%22%3A%22%22%2C%22src%22%3A%22https%3A//m=
+arketing-image-production.s3.amazonaws.com/uploads/1407e23d8db244ce26d8424a=
+dbf2df3ce370b9ed4af17f8a5f471c25d2e36aee5e7c1a2a6b302c3c26443a3a7648cdcc228=
+56cb37972da26b6b3ec094e34b7cb.jpg%22%2C%22classes%22%3A%7B%22sg-image%22%3A=
+1%7D%2C%22link%22%3A%22%22%7D"><img alt=3D"Halloween - The Masquerade ft. C=
+laptone * GIRLS + BOYS" height=3D"324" src=3D"https://marketing-image-produ=
+ction.s3.amazonaws.com/uploads/1407e23d8db244ce26d8424adbf2df3ce370b9ed4af1=
+7f8a5f471c25d2e36aee5e7c1a2a6b302c3c26443a3a7648cdcc22856cb37972da26b6b3ec0=
+94e34b7cb.jpg" style=3D"vertical-align: top; width: 324px; height: 324px;" =
+width=3D"324" /></span></td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+												<!-- right-column -->
+												<th align=3D"left" bgcolor=3D"#f7f5f7" class=3D"flex" style=3D"=
+vertical-align:top; padding:0;">
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+													<tbody>
+														<tr>
+															<td bgcolor=3D"#ff34b8" class=3D"top-td" height=3D"211" styl=
+e=3D"border-bottom:4px solid #9b02ff; padding:0 0 0 31px;">
+															<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td style=3D"padding:0 0 13px;">
+																		<table cellpadding=3D"0" cellspacing=3D"0">
+																			<tbody>
+																				<tr>
+																					<td style=3D"font:700 13px/16px Helvetica, Arial, sans=
+-serif; color:#fff; letter-spacing:1px; text-transform:uppercase; border: 2=
+px solid #fff; border-radius: 4px; padding:6px 12px;">TONIGHT 10/28</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:700 22px/26px Helvetica, Arial, sans-se=
+rif; color:#fff; padding:0 0 3px;">Claptone at GIRLS + BOYS</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:20px/24px Helvetica, Arial, sans-serif;=
+ color:#fff; padding:0 0 9px;">w/ Sacha Robotti, Sleepy &amp; Boo</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:16px/20px Helvetica, Arial, sans-serif;=
+ color:#fff;">10:00pm &bull; 19+</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<tr>
+															<td bgcolor=3D"#f7f5f7" class=3D"bottom-td" height=3D"105" s=
+tyle=3D"padding: 0 30px 0 31px;">
+															<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td style=3D"font:700 13px/18px Helvetica, Arial, sans-se=
+rif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; padding:1=
+0px 0 11px;">THIS SHOW IS FREE<br />
+																		TO JUKELY MEMBERS</td>
+																	</tr>
+																	<tr>
+																		<td>
+																		<table cellpadding=3D"0" cellspacing=3D"0">
+																			<tbody>
+																				<tr>
+																					<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"acti=
+ve" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff; =
+text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pad=
+ding-alt:14px 26px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgWB65qqNvWN9j5Lzhq4-2FgDTgTUwfcV1RMGL=
+h-2FR8JFTZVYDGucetoh5Ia0yaB-2BS8ew4lLjMFC2kJ2R5pnE7H2lhwddcdHTzrtF9rDLFwmRO=
+Xe25ML8VyW0fGWlLs2FDMlFHls4OF-2FfPj3PWxVqcr1mpKEq4i-2FZE4DDBOCzqoTv8fog-3D-=
+3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74Cywaw=
+BnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-=
+2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG=
+4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3yOCN-2BHO99w9l80R5oK2gx2lH3aE4Z8sd37L3J=
+ri8hgaKHOm2b0O1xSJ3qg8ZsLKYQMlJCm4GAze6-2BfaxwS-2B4t01X2QY5cjYQBv0mlRAOaz0G=
+9gpLuBs5ghoT6B73QhRAdJtvMs3MbKUxRm9QB-2B124c1xAfGmzza-2FtfzdeAzxIUb5z66WdE-=
+2Fo1qtDU1TnhJFGaQXEF1wVegOXzELxyiwlySklVpKQh4wyLo5mbIx9wwNYBcZmH-2FL-2F-2Bf=
+UqUbBvUJZI4-3D" style=3D"text-decoration:none; color:#fff; display:block; p=
+adding:14px 26px;">I WANT TO GO</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td bgcolor=3D"#f7f5f7" class=3D"hide" valign=3D"top" width=3D"50%">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#ff34b8" height=3D"211" style=3D"border-bottom:4px =
+solid #9b02ff;">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- full-width-text -->
+		<tr>
+			<td bgcolor=3D"#f7f5f7" class=3D"block-holder" style=3D"padding:0 10px;">
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">
+				<tbody>
+					<tr>
+						<td class=3D"frame" style=3D"font-style: normal; font-variant: normal=
+; font-stretch: normal; font-size: 16px; line-height: 24px; font-family: He=
+lvetica, Arial, sans-serif; color: rgb(82, 82, 82); padding: 31px 150px 32p=
+x 0px;">
+						<div><em>When it comes to Halloween, Webster Hall has a reputation fo=
+r not @#$%ing around, and this year will raise the bar.</em></div>
+
+						<div style=3D"font-weight: normal;">&nbsp;</div>
+
+						<div style=3D"font-weight: normal;">Tonight,&nbsp;<strong>Claptone</s=
+trong> takes over <strong>Girls + Boys</strong> for a very special Hallowee=
+n edition of the legendary <strong>MASQUERADE</strong> event. Come prepared=
+ to impress:&nbsp;the most creative mask goes home with $1,000!</div>
+
+						<div style=3D"font-weight: normal;">&nbsp;</div>
+
+						<div style=3D"font-weight: normal;">Get on the <strong><a href=3D"htt=
+p://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2B=
+MVOgWB65qqNvWN9j5Lzhq4-2FgDTgTUwfcV1RMGLh-2FR8JFTZVYDGucetoh5Ia0yaB-2BS8ew4=
+lLjMFC2kJ2R5pnE7H2lhwddcdHTzrtF9rDLFwmROXe25ML8VyW0fGWlLs2FDMlFHls4OF-2FfPj=
+3PWxVqcr1mpKEq4i-2FZE4DDBOCzqoTv8fog-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ=
+1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51=
+AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgH=
+Y4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX=
+3xx-2FwoE2q9zcp-2FVz6FfoXTzmlt7dur7425EXbOLhX-2ByoQ4y6xmfSm18Vub8bZEFt3dnB9=
+kDcIomNwh-2BJKItNF8bzhhh3t4vOUJNJT80g-2FLGSZqoL4242hRgs9wW6Pl9yoSopcglVF5I9=
+g7BVzNSUvk0OuX65Yojeb52IPw0X0MvgqhkMjQw8I3YlqFXlHoYpJ8s-2B8-2F0XX3DqmudXtOJ=
+wIfpPozd8zzTTTz7TtoII5vMhON1rL03ORMMgmt6Nrly7r0-3D">guestlist</a></strong>&=
+nbsp;(only a few more hours till it closes!) or get <strong><a href=3D"http=
+://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65R22JS5OrJB77cVMicYc-2Bb=
+8g-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74Cy=
+wawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2B=
+S3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlf=
+UUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3ypyhPtUZ-2B-2BO7mFGgvlf-2BXc2y8MUnwL=
+jiEneCQqEbSsplndXUQDWNTA9yJrviv2gDLZAfMhQz4DnpT73IlVurpv6CURixrMOsxbM7ujx39=
+VTIrXYUx13lnSNbmS5x-2Fkst8-2FbPXenFuvRbs8heHXLoiskV7847dii5CVamtQOdD6ml8OPp=
+b9VmtqW8wc29QcCE5sMDlG5rHNJTg-2BUhFbhThmIsY-2FDEsTJyoqktN-2FGwCG2MSUxuXdEkb=
+Zpcw6xZCjCO8-3D">tickets</a></strong> to attend.</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- content -->
+		<tr>
+			<td class=3D"block-holder" style=3D"padding:0 10px;">
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">
+				<tbody>
+					<tr>
+						<td class=3D"content" style=3D"padding:36px 0 39px;">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td style=3D"font:700 13px/16px Helvetica, Arial, sans-serif; colo=
+r:#302933; letter-spacing:1.5px; padding:0 0 37px;">ALSO ON JUKELY AT WEBST=
+ER HALL</td>
+								</tr>
+								<!-- two-columns -->
+								<tr>
+									<td style=3D"padding:0 0 30px;">
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr>
+												<th align=3D"left" class=3D"flex" style=3D"vertical-align:top; =
+padding:0;" width=3D"324">
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+													<tbody>
+														<tr>
+															<td class=3D"img-flex"><span class=3D"sg-image" data-imageli=
+brary=3D"%7B%22width%22%3A%22324%22%2C%22height%22%3A%22324%22%2C%22alt_tex=
+t%22%3A%22%22%2C%22alignment%22%3A%22%22%2C%22src%22%3A%22https%3A//marketi=
+ng-image-production.s3.amazonaws.com/uploads/455e6c30a2928270b51acda45ed36c=
+c16aed1410fb7f09f8405ddb0a358214f00258ba583623bf42e0ef9312be7a5aa565fcd2671=
+8d6d6d079854aa76de8799d.jpg%22%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%=
+22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXm=
+SPphKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgV4TvEnhbYzrKMBaWtVHe0DwBPsugkJwR=
+WU9PQmzVGkuooY-2BwSshecVmSn4reruVIhET-2FTtDL-2By6W5n6lJVlw5k4RS2wWDw7o-2FYX=
+XxTKB7Oz03rmdlPseHY8PT0jQRoFvlFfME5nyL73pDfv6GgJIY1ifi4gMm0GZ0pfZ-2BGm0xlGA=
+-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74C=
+ywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2=
+BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQl=
+fUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3z-2Fght-2F5VF32-2FU2V65PbYAog9zxj44=
+IH6G6QgNS2oDys76dSL4d7NlZhpRKWu-2B69XnTnSDivv8Je2AQcmCTA1EMRQOjM4O5BmwI8zqC=
+toXVJmBhJmClxgb58qeXlUFeUpNhHRlXu9Cr5LwIptjny1PMsjIUZWWLI3NIxHSlzEWjgXyEsmo=
+OQXIDYUWNBmeNuLmizMP3D2nQFB40-2F2OXqtQkqXEuWn0f0Ls-2FZGSNyxgejnXGagXaF5uEKV=
+sD-2FiMOthM-3D" target=3D"_blank"><img alt=3D"Halloween at GOTHAM ft Malaa =
++ Rezz" height=3D"324" src=3D"https://marketing-image-production.s3.amazona=
+ws.com/uploads/455e6c30a2928270b51acda45ed36cc16aed1410fb7f09f8405ddb0a3582=
+14f00258ba583623bf42e0ef9312be7a5aa565fcd26718d6d6d079854aa76de8799d.jpg" s=
+tyle=3D"vertical-align: top; width: 324px; height: 324px;" width=3D"324" />=
+</a></span></td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+												<th class=3D"flex" height=3D"6" style=3D"padding:0;" width=3D"3=
+1">&nbsp;</th>
+												<th align=3D"left" class=3D"flex" style=3D"vertical-align:middl=
+e; padding:0;">
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+													<tbody>
+														<tr>
+															<td class=3D"pb10" style=3D"padding: 10px 0 30px;">
+															<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td style=3D"padding:0 0 13px;">
+																		<table cellpadding=3D"0" cellspacing=3D"0">
+																			<tbody>
+																				<tr>
+																					<td style=3D"font:700 13px/16px Helvetica, Arial, sans=
+-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; border=
+: 2px solid #9b02ff; border-radius: 4px; padding:6px 12px;">SAT 10/29</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:700 22px/26px Helvetica, Arial, sans-se=
+rif; color:#000; padding:0 0 3px;">
+																		<div>Malaa + Rezz at Gotham</div>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:20px/24px Helvetica, Arial, sans-serif;=
+ color:#000; padding:0 0 9px;">w/ Dischetto, Tjani</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:15px/20px Helvetica, Arial, sans-serif;=
+ color:#525252; padding:0 0 13px;">10:00pm &bull; 19+</td>
+																	</tr>
+																	<tr>
+																		<td>
+																		<table cellpadding=3D"0" cellspacing=3D"0">
+																			<tbody>
+																				<tr>
+																					<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"acti=
+ve" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff; =
+text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pad=
+ding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPph=
+KY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgV4TvEnhbYzrKMBaWtVHe0DwBPsugkJwRWU9P=
+QmzVGkuooY-2BwSshecVmSn4reruVIhET-2FTtDL-2By6W5n6lJVlw5k4RS2wWDw7o-2FYXXxTK=
+B7Oz03rmdlPseHY8PT0jQRoFvlFfME5nyL73pDfv6GgJIY1ifi4gMm0GZ0pfZ-2BGm0xlGA-3D-=
+3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74Cywaw=
+BnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-=
+2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG=
+4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3wXd5VSsHrmZQ8NCbh0TY3maEoA9FJBwZdvrwXx1=
+jQT2tdvd33IgpK8xXzHAXV2YIs2QbffbKQaCAb8jQUve2Hd83Ew26XlQEOKYBwW0r-2BeBTeSWv=
+MIYuralPC0lc1jSEA0Ujv-2BnosMcORmAYktMoOT0TcZ80D-2BC9eTEOqt1YG63rhCy7ez5bpby=
+6nQlPt7eKmeQczbuXqTRr-2F-2Bi4s0Hmx1mPstRl9b69aHAacMkcFd6rhEVtJjlwL3pt4YYyl5=
+vSs-3D" style=3D"text-decoration:none; color:#fff; display:block; padding:1=
+4px 31px;">I WANT TO GO</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- full-width-text -->
+								<tr>
+									<td class=3D"padding-reset" style=3D"font-style: normal; font-vari=
+ant: normal; font-stretch: normal; font-size: 16px; line-height: 24px; font=
+-family: Helvetica, Arial, sans-serif; color: rgb(82, 82, 82); padding: 0px=
+ 150px 0px 0px;">Saturday night, the enigmatic <strong>Malaa</strong> and o=
+n-the-rise <strong>REZZ</strong> bring &quot;The Lunatic Tour&quot; to NYC =
+for a very special Halloween edition of <strong>GOTHAM</strong>. Best costu=
+me walks out with $1,000 cash.<br />
+									<br />
+									To attend, put yourself on Jukely&#39;s <strong><a href=3D"http://=
+track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOg=
+V4TvEnhbYzrKMBaWtVHe0DwBPsugkJwRWU9PQmzVGkuooY-2BwSshecVmSn4reruVIhET-2FTtD=
+L-2By6W5n6lJVlw5k4RS2wWDw7o-2FYXXxTKB7Oz03rmdlPseHY8PT0jQRoFvlFfME5nyL73pDf=
+v6GgJIY1ifi4gMm0GZ0pfZ-2BGm0xlGA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2=
+BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l=
+2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Il=
+g5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3yUr=
+mP8JKJ4LRhu78vngAdoi7pRUTj6NXyfXXB-2FzmDsYcNzoM09ogbMPRVAGd1mASPEI2ihRDbDLm=
+kC-2Byv9hgZk6bVBlMzx3ejCM0joDMvNEf9A15aa5UaXjhlRW5juEgFPSS2nprPmYqWLCFuhb95=
+OFDMAnMv-2BOb5AmMX-2FUY4NvH7iqW6xu0aoirDZk-2FG1Kz5BRcOK-2B1tLl6WpPin8Tm9KOZ=
+SExvRlvhqk2cutOZ0HGQgLwJoLGMNCLQr1CVen7ys-3D">members-only guestlist</a></s=
+trong><strong style=3D"font-weight: normal;"><a href=3D"http://track.juke.l=
+y/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNecA6lhrA-2Bw10iNVx-2BMVOgV4TvEnhbYzrK=
+MBaWtVHe0DwBPsugkJwRWU9PQmzVGkuooY-2BwSshecVmSn4reruVIhET-2FTtDL-2By6W5n6lJ=
+Vlw5k4RS2wWDw7o-2FYXXxTKB7Oz03rmdlPseHY8PT0jQRoFvlFfME5nyL73pDfv6GgJIY1ifi4=
+gMm0GZ0pfZ-2BGm0xlGA-3D-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu8=
+5-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJw=
+Un9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPc=
+HgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3xE1zmt5qx0KxTxV=
+xFDtqOIxU8FHxKASvlx-2Fo-2FWbbtJPkmPT9t91DzW22t7EE2KJKLM23MQN1nG5khlajjUCnzW=
+joPtOAc03vat66Pgj66Spqf6XrXLSNFe4no8jZ2i-2BQUYWPWiKI3SdLDJjq2UMQLvGCOXleEb4=
+SQ-2FxNZPPdt-2BHV2bW2Q6TBYiUjHk2b2d4jrtQEjnSIg-2B0R4aHp9TfWVbgMRQuLGoeN1qdE=
+43K0wpGySbDzgqsuXkXRWmuks5LOs-3D">,</a></strong> or if you&#39;re not a mem=
+ber, you can purchase tickets <strong><a href=3D"http://track.juke.ly/wf/cl=
+ick?upn=3DYWrScHOWkkBE9V0yoT65R22JS5OrJB77cVMicYc-2Bb8g-3D_xb69N2IWj9cpa7VY=
+1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsI=
+F-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2=
+FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljD=
+wRX1i-2BUR6cRnNX3xWjkEC84X4s4plCsq-2Fwj0px-2FC13mniuJ3uz-2FSdD7nQxWp2zp-2Fh=
+4Wqvepj-2Bwo389JDeZH80IKMHYELwbvKgkfHm8uPFc9Rx38x62CWy4i4mcJaKbr89xOm-2Blyi=
+zGnkM8iTXXYzzrDrtaam1-2BIHoTHkk-2BPl9Q-2FwOMmfHWGob2xcVRn4-2B-2BEqFxWqEtK0O=
+xb8rsvOCGusppv8ZEFutGGPkEpiPzZQffNUtDgnX1JZqXHNSmpVuoB0gbvr0Ee3oLPxIFak-3D"=
+>here</a></strong>.</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- content -->
+		<tr>
+			<td class=3D"block-holder" style=3D"padding:0 10px;">
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">
+				<tbody>
+					<tr>
+						<td class=3D"content" style=3D"padding:36px 0 39px;">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td style=3D"font:700 13px/16px Helvetica, Arial, sans-serif; colo=
+r:#302933; letter-spacing:1.5px; padding:0 0 37px;">WEBSTER HALL&#39;S GRAN=
+D HALLOWEEN FINALE</td>
+								</tr>
+								<!-- two-columns -->
+								<tr>
+									<td style=3D"padding:0 0 30px;">
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr>
+												<th align=3D"left" class=3D"flex" style=3D"vertical-align:top; =
+padding:0;" width=3D"324">
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+													<tbody>
+														<tr>
+															<td class=3D"img-flex"><span class=3D"sg-image" data-imageli=
+brary=3D"%7B%22width%22%3A%22324%22%2C%22height%22%3A%22324%22%2C%22alt_tex=
+t%22%3A%22%22%2C%22alignment%22%3A%22%22%2C%22src%22%3A%22https%3A//marketi=
+ng-image-production.s3.amazonaws.com/uploads/e4ac2b3f98d5a365d8887fd9c3e5ae=
+5852ac7a65abe690886256b8156d197bcaa6c310598a0feb3438dd7407869d5658755893850=
+df0fbdd5b0c99a746b53860.jpg%22%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%=
+22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/wf/click?upn=3DYWr=
+ScHOWkkBE9V0yoT65R6eWDS9ddJ1tR-2F0tFNNZbWQ-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2Bt=
+cgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLu=
+w51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2=
+FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cR=
+nNX3x-2FS3k-2Baiuh-2B0rTlBbcSnLzod8ZPPkqp4Oa3yKGFOPsFXMzlQE4KOx3SjnjjOtilAB=
+hABzSk-2FOsQXZfzy-2Bxo755hA0AwMoF8w-2BPBkf49bKnsoBPGhD7lNL41UeCOjgSQlyJVnBO=
+WqavKGKkMsrG4PZDvU8Id1hOC7C1ZXaJi0sAA2-2Fbitw-2BXHJkzeoOQDDxgaFS-2Fs-2Fscis=
+Ym2xLtpgQMhYEiNV0Nj-2F-2FMJ6GGsK7j9MvBrr3xwHNt13-2F4YuYThHFJjQ-3D" target=
+=3D"_blank"><img alt=3D"" height=3D"324" src=3D"https://marketing-image-pro=
+duction.s3.amazonaws.com/uploads/e4ac2b3f98d5a365d8887fd9c3e5ae5852ac7a65ab=
+e690886256b8156d197bcaa6c310598a0feb3438dd7407869d5658755893850df0fbdd5b0c9=
+9a746b53860.jpg" style=3D"vertical-align: top; width: 324px; height: 324px;=
+" width=3D"324" /></a></span></td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+												<th class=3D"flex" height=3D"6" style=3D"padding:0;" width=3D"3=
+1">&nbsp;</th>
+												<th align=3D"left" class=3D"flex" style=3D"vertical-align:middl=
+e; padding:0;">
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+													<tbody>
+														<tr>
+															<td class=3D"pb10" style=3D"padding: 10px 0 30px;">
+															<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td style=3D"padding:0 0 13px;">
+																		<table cellpadding=3D"0" cellspacing=3D"0">
+																			<tbody>
+																				<tr>
+																					<td style=3D"font:700 13px/16px Helvetica, Arial, sans=
+-serif; color:#9b02ff; letter-spacing:1px; text-transform:uppercase; border=
+: 2px solid #9b02ff; border-radius: 4px; padding:6px 12px;">MON 10/31</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:700 22px/26px Helvetica, Arial, sans-se=
+rif; color:#000; padding:0 0 3px;">
+																		<div>Webster Hell</div>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:20px/24px Helvetica, Arial, sans-serif;=
+ color:#000; padding:0 0 9px;">Official NYC Halloween Parade Afterparty</td>
+																	</tr>
+																	<tr>
+																		<td style=3D"font:15px/20px Helvetica, Arial, sans-serif;=
+ color:#525252; padding:0 0 13px;">10:00pm &bull; 19+</td>
+																	</tr>
+																	<tr>
+																		<td>
+																		<table cellpadding=3D"0" cellspacing=3D"0">
+																			<tbody>
+																				<tr>
+																					<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"acti=
+ve" style=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff; =
+text-transform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-pad=
+ding-alt:14px 31px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DoExUV4r=
+Mo7aDsy-2B6fiwE6DBT7E97zuP2EnGPZnyIy2P02atrW4-2FgM3PBQglmuaoA_xb69N2IWj9cpa=
+7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3H=
+hsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLg=
+a-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4=
+ljDwRX1i-2BUR6cRnNX3w6r79vJb8lobmsm9JIcpdXmbBtzpo6EjJ5EEcNwJGvfj6uuTMoYucOQ=
+FRE9eW3CX2-2F1z-2FF-2Fh0DNf9-2BxNqqLmBpI0yC2yLS290kZcEZjiO-2BpnMR-2FhePEuLU=
+KMpnh0mfXTuqAq46wasrHLg20qW8SokjBiuPiZG9zGyixi6L6e6WQ30jUrnqfDGia-2FNAa5wXp=
+mI4djj4LAQydBkeZoW1J1BE-2BHrD9BQWKFSj5eGDhZa4zntyHMa88utmzrIGxG5I9wU-3D" st=
+yle=3D"text-decoration:none; color:#fff; display:block; padding:14px 31px;"=
+>MORE INFO</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- full-width-text -->
+								<tr>
+									<td class=3D"padding-reset" style=3D"font-style: normal; font-vari=
+ant: normal; font-stretch: normal; font-size: 16px; line-height: 24px; font=
+-family: Helvetica, Arial, sans-serif; color: rgb(82, 82, 82); padding: 0px=
+ 150px 0px 0px;"><b>The Official New York City Halloween Parade Afterparty =
+is back!&nbsp;</b>=F0=9F=91=BB<br />
+									<br />
+									$5,000 will go to the best costume, and a randomly selected virgin=
+ from the crowd will be sacrificed. <b>Read more and purchase tickets <a hr=
+ef=3D"http://track.juke.ly/wf/click?upn=3DoExUV4rMo7aDsy-2B6fiwE6DBT7E97zuP=
+2EnGPZnyIy2P02atrW4-2FgM3PBQglmuaoA_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZA=
+a351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MC=
+jJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5W=
+NeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3wVm0sO=
+IGh11fWWqy8rmptJxYWNx1tpB2EBYayid1GG4VFC-2FpzsbVImLNp8H-2Bhw7KtNsu9j3Oc6eSo=
+2GnKK-2FyX0D66qsHodP-2BTGpHgOoHMQoR0-2FFEbKIRhBHnEN0NgdBUIBKV3ijqmxtoLCZdXM=
+OMpfzgmvvo7SNX3K-2FZWEf-2Fxpaz8vBXCh2YUkVvibzWrvTV3HgxP92IMtcRAPOdHKuiGHRaD=
+0lyujIQtrH-2BqzrzUL-2BLJE2HUrzUnJyk-2FRkj-2BkN-2BU-3D">here</a>.</b></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- violet-block -->
+		<tr>
+			<td bgcolor=3D"#2c004a" class=3D"block-holder">
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">
+				<tbody>
+					<tr>
+						<td class=3D"frame" style=3D"padding: 72px 160px 66px 0;">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td class=3D"block-title" style=3D"font:30px/36px Helvetica, Arial=
+, sans-serif; color:#fff; padding: 0 0 11px;"><strong>Bonus</strong>: Black=
+ Sun Empire + PHACE at <em>Slake</em> on Sunday.</td>
+								</tr>
+								<tr>
+									<td style=3D"font:16px/24px Helvetica, Arial, sans-serif; color:#f=
+ff; padding: 0 0 39px;">With support by Blacklist, Alex English &amp; Jergo=
+.</td>
+								</tr>
+								<tr>
+									<td style=3D"font:bold 12px/14px Helvetica, Arial, sans-serif; col=
+or:#ff93dc; text-transform: uppercase; letter-spacing: 1.1px; padding: 0 0 =
+41px;">Sunday 10/30 from 9pm - 2am, 19+</td>
+								</tr>
+								<tr>
+									<td>
+									<table cellpadding=3D"0" cellspacing=3D"0">
+										<tbody>
+											<tr>
+												<td align=3D"center" bgcolor=3D"#9b02ff" class=3D"active" style=
+=3D"font:bold 12px/12px Helvetica, Arial, sans-serif; color:#fff; text-tran=
+sform: uppercase; letter-spacing: 1px; border-radius: 2px; mso-padding-alt:=
+14px 26px;"><a href=3D"http://track.juke.ly/wf/click?upn=3DoExUV4rMo7aDsy-2=
+B6fiwE6AMZd-2BaSz5polUNCTAmc2U7PcJzP-2BiIMR9vHjxuXksR30uo1yvDeP-2FscON3Pngz=
+yGFhRkkV558pWkDUllFMgMze3clcwGBTPhCQzR6QyNtyiVS17PV5HY4WeZG4YZj2FG1d7FTO-2B=
+TtKEOz-2B1wI5zHauSnOhkevXcQOZLWBbbdSNlSJjZIHHyasnW-2Fm6jALpkppRYlEOZfhcwu3I=
+KE6RL9kfWIIeoN5B42JGdvZhaXmeu_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hv=
+Yu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3=
+XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompS=
+MPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3yqPVeTEvZamJ=
+VJewEiPpd2kecg7S4xY-2BkiSELNRauu9Nd3FhU2p2o-2FHunfI2-2BJzdCXoPfHrUR6rRgHnmD=
+ZJNwOgNX-2FDchA1ZSWszlCSiDbbnIml11Tp2fC2zJOvWUryf-2BQ7vhS2cZr922SiB9AxJNzJa=
+q1frh1g6GAiRm-2FmW5pcIF3vi-2FYM8a-2B-2F-2BjF2rblXtEsGNzshhUiFUH9HGi0JbSwDQp=
+oJsKg-2B2PnuIyGmPqa2i9ny3TGcFFEdIwl7-2F1xnSo-3D" style=3D"text-decoration:n=
+one; color:#fff; display:block; padding:14px 26px;">Get Details &amp; Go</a=
+></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- pre-footer -->
+		<tr>
+			<td class=3D"block-holder" style=3D"border-bottom: 1px solid #e1dee2; pa=
+dding:0 10px;">
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">
+				<tbody>
+					<tr>
+						<td class=3D"pre-footer" style=3D"padding: 58px 0 63px;">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<th align=3D"left" class=3D"flex" style=3D"padding: 0;" width=3D"3=
+80">
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr>
+												<td class=3D"aligncenter" style=3D"font:bold 13px/14px Arial, H=
+elvetica, sans-serif; color:#310842; text-transform: uppercase; letter-spac=
+ing: 1.4px; padding: 10px 0 0;">GET ON THE JUKELY APP</td>
+											</tr>
+										</tbody>
+									</table>
+									</th>
+									<th class=3D"flex" height=3D"30" style=3D"padding: 0;" width=3D"43=
+">&nbsp;</th>
+									<th class=3D"flex" style=3D"padding: 0;" width=3D"174">
+									<table align=3D"right" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"table-center">
+										<tbody>
+											<tr>
+												<td class=3D"active" width=3D"46"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2246%22%2C%22height%22%3A%2257%22%2C%22a=
+lt_text%22%3A%22android%22%2C%22alignment%22%3A%22center%22%2C%22border%22%=
+3A0%2C%22src%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/upload=
+s/2016/04/ico-android.png%22%2C%22link%22%3A%22https%3A//play.google.com/st=
+ore/apps/details%3Fid%3Dcom.jukely%26hl%3Den%22%2C%22classes%22%3A%7B%22sg-=
+image%22%3A1%7D%7D" style=3D"float: none; display: block; text-align: cente=
+r;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZbOHWoNd8f=
+fg6uHTK-2FIqFajoj7xN5rL7sSbDVTxGB3hw81xnNMEu8CrZh-2B7U0PkahJ4xEgZSKCmbMwXAh=
+nsPZIKYdGdj0-3D_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2T=
+qg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQ=
+jAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRv=
+dds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3zR0Dr5xRiAlRfQP2FbgBgmpjSV=
+rIZ-2Br0eHoiJTjsD5cOZIooXgilB-2B63Juu-2BZ-2FDrls4jBHpqME3Z-2FTQrlelUkK5gN0P=
+TrE43VeTrXaKremOrIGVlkebH3OIlUC7mafXNt-2B9TzPFADOt4PHw7LyUOEKW4D2aRVhY2uqTM=
+YuaxUh8cw1PUJAQMaJEO9-2FNlQfPROEjKgO-2FrCc69sVtWlNtDXofkhkIJLkxuOVtU-2F5FzN=
+hpsq7nGf3-2Fsyb5YrZsUT2AP4-3D" target=3D"_blank"><img alt=3D"android" borde=
+r=3D"0" height=3D"57" src=3D"http://www.fouroverfour.jukely.com/wp-content/=
+uploads/2016/04/ico-android.png" style=3D"vertical-align: top; width: 46px;=
+ height: 57px;" width=3D"46" /></a></span></td>
+												<td class=3D"w55" width=3D"82">&nbsp;</td>
+												<td class=3D"active" width=3D"46"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2246%22%2C%22height%22%3A%2253%22%2C%22a=
+lt_text%22%3A%22apple%22%2C%22alignment%22%3A%22center%22%2C%22border%22%3A=
+0%2C%22src%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/=
+2016/04/ico-apple.png%22%2C%22link%22%3A%22https%3A//itunes.apple.com/us/ap=
+p/jukely-your-concert-membership/id590428284%3Fmt%3D8%22%2C%22classes%22%3A=
+%7B%22sg-image%22%3A1%7D%7D" style=3D"float: none; display: block; text-ali=
+gn: center;"><a href=3D"http://track.juke.ly/wf/click?upn=3DVXmSPphKY4XDeyZ=
+bOHWoNapuL9e3hDYgb5ezVvbBoWIwrlmWKsaTiIe5t5TQqPddkQGicouIAOBbyfpNR1cdZyOG4r=
+6MHYCm0rJIdoCOm-2Bz7M9ozr-2FLvAI96uqEwhXEq_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ=
+1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51=
+AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgH=
+Y4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX=
+3wPUl6qmN5TQNeo76pGytZcDZ3em-2FCQzebqq7tzRBjbsVFq5mHumzELzqgtgYPxMFeUAvwEo8=
+Ni2Mficm-2BLZ2Ru3oME1L5vTamdBbx8gwqitxNcWN0Md2J-2FiV4rF2JrlheLN5zpHP-2BVTv0=
+iGHsjQ-2F2HrAMM7HLsxE4xvz2ItQeElVBvNTG-2BkQR1FZNl9tcLR6GjBvE0A00yBGJq0h47J4=
+d5jV-2BRidqC90ot1D4e4rvdCiP3Wuk5tAp8R1uS6LiLIKs-3D" target=3D"_blank"><img =
+alt=3D"apple" border=3D"0" height=3D"53" src=3D"http://www.fouroverfour.juk=
+ely.com/wp-content/uploads/2016/04/ico-apple.png" style=3D"vertical-align: =
+top; width: 46px; height: 53px;" width=3D"46" /></a></span></td>
+											</tr>
+										</tbody>
+									</table>
+									</th>
+									<th class=3D"hide" style=3D"padding:0;" width=3D"3">&nbsp;</th>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- footer -->
+		<tr>
+			<td class=3D"block-holder" style=3D"padding:0 10px;">
+			<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"fle=
+xible" style=3D"margin:0 auto;" width=3D"600">
+				<tbody>
+					<tr>
+						<td class=3D"frame" style=3D"padding: 51px 200px 40px 0;">
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td style=3D"padding: 0 0 37px;">
+									<table cellpadding=3D"0" cellspacing=3D"0">
+										<tbody>
+											<tr>
+												<td class=3D"active" width=3D"28"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2228%22%2C%22a=
+lt_text%22%3A%22in%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22sr=
+c%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/2016/04/i=
+co-instagram.png%22%2C%22link%22%3A%22http%3A//instagram.com/jukely%22%2C%2=
+2classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/=
+wf/click?upn=3DFmrldxErjk26cymxNCOYaQOPF0-2FI1t-2FBahknMj8qHTEMh9vbU7sKJbZS=
+vYerjEdd_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs7=
+4CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ=
+-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7C=
+QlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3wrSvc0I9nYFGxe0TJPHgPqjrhFkqvFjlh=
+AtsMsFXl5xcVv5ngJXmWj-2BCK3v7igELDIyagPDrpK0BKVITUDtvNSE3iHsI2jVnefZivIWmMP=
+E6SjIwKC-2Fs473dsxNlES77uGlxpyJxC9c73h-2Fjd3yNPVkFnc0-2Ft4tlfvlQpF5dQt-2FaL=
+cUNE0GTrkAmntJXH1WIVNSZPU1vSQh9JzFYRoaxra6UmJB3MWq4940SqS54v-2FLb-2FnCMS74j=
+5hQ2lsIR4aUOQ-3D" target=3D"_blank"><img alt=3D"in" border=3D"0" height=3D"=
+28" src=3D"http://www.fouroverfour.jukely.com/wp-content/uploads/2016/04/ic=
+o-instagram.png" style=3D"vertical-align: top; width: 28px; height: 28px;" =
+width=3D"28" /></a></span></td>
+												<td width=3D"21">&nbsp;</td>
+												<td class=3D"active" width=3D"28"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2228%22%2C%22a=
+lt_text%22%3A%22fb%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22sr=
+c%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/2016/04/i=
+co-facebook.png%22%2C%22link%22%3A%22http%3A//facebook.com/jukelyapp%22%2C%=
+22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly=
+/wf/click?upn=3Dq5GdJANgzHoODmOQ9g28etjvoARZJGU8EJDCUp6x56kctoUhNZjUSLziKBT=
+se5hz_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74Cy=
+wawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2B=
+S3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlf=
+UUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3wTRHVfc7UnqW4hasxwK230-2FcPya2NQX5x-=
+2FKO3JutSKG8jDs6rwvWKprm5R1Gw4NOaIXX8YVnIG54-2BezkVBzgTdijm-2BG6KnlK32hWiHr=
+f6e2bUy1tdJT4sOJ5SNiOzij1cQWR4bYemtcny71E3MW3dTxKx-2FJo1bv-2BYzw7Sh061FZQ4b=
+RldBnq2GhRr2fZnd968-2FLfXh0hn-2FsAyNOKs1bwVzkcqvvQFg0fhmDHg-2FbbAOsxE5ZAGUb=
+OywWGKPZ11KDRA-3D" target=3D"_blank"><img alt=3D"fb" border=3D"0" height=3D=
+"28" src=3D"http://www.fouroverfour.jukely.com/wp-content/uploads/2016/04/i=
+co-facebook.png" style=3D"vertical-align: top; width: 28px; height: 28px;" =
+width=3D"28" /></a></span></td>
+												<td width=3D"21">&nbsp;</td>
+												<td class=3D"active" width=3D"28"><span class=3D"sg-image" data=
+-imagelibrary=3D"%7B%22width%22%3A%2228%22%2C%22height%22%3A%2223%22%2C%22a=
+lt_text%22%3A%22tw%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22sr=
+c%22%3A%22http%3A//www.fouroverfour.jukely.com/wp-content/uploads/2016/04/i=
+co-twitter.png%22%2C%22link%22%3A%22http%3A//twitter.com/jukely%22%2C%22cla=
+sses%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href=3D"http://track.juke.ly/wf/c=
+lick?upn=3D3QihKcNaduXmwDLFG1HPsayBqYclg2yfoviy-2BmryIZhYQeAePxBLP9FyLZ2d3r=
+Dn_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74Cywaw=
+BnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-=
+2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG=
+4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3y5b4C9FzdI0rWIdlIVNS1vS-2FmjdlTyrMxw7HE=
+r2vfPKOvjVRRKmUA2XlVkznHU-2BGwh2KknoAvpsYzSmruqLPXiuQBvgEPXnCk3hvLq6slJVFc-=
+2FSC-2FbL51e7xboorImYj64Cv-2FUh9vje8TyvqRxGejORakPipJ-2F4XXu-2FO-2FpydNuYbF=
+-2F3EUwemUTqBMvlztJTx6viEN0DF3cHT-2BFjk8da-2Ff20y4wBFRwntuRos7v68VDU0aH-2Fp=
+6GTz-2FbJLcQQaw1E98-3D" target=3D"_blank"><img alt=3D"tw" border=3D"0" heig=
+ht=3D"23" src=3D"http://www.fouroverfour.jukely.com/wp-content/uploads/2016=
+/04/ico-twitter.png" style=3D"vertical-align: top; width: 28px; height: 23p=
+x;" width=3D"28" /></a></span></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; color:#c=
+5bdc8; padding: 0 0 10px;">Copyright &copy; 2016 Jukely, Inc., All rights r=
+eserved.</td>
+								</tr>
+								<tr>
+									<td style=3D"font:13px/17px Arial, Helvetica, sans-serif; color:#c=
+5bdc8;">If you wish to stop receiving these local show notifications, simpl=
+y <a href=3D"http://track.juke.ly/wf/click?upn=3DYWrScHOWkkBE9V0yoT65RzmUU0=
+COK5ypNruyIrGF4ytxYhiaKphGlFXKoayiVP-2Bh_xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b=
+-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zLuw51AQ=
+5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-2FgHY4=
+Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6cRnNX3y=
+nYz4sS-2FswLJuFvMmMpHvguQUPT25fLItrtBBQR6p8zNGMOqiBs9qdX1CEnDtxrRWO44kSc5Tg=
+ApG0QrlqsFcQnjdB4FabBNLOOG63p7Vg89QbMTHdj9tgSw-2BZ6YZkR7Mz-2F5jN0bKH7IQ1SdM=
+gL-2BZLrcZjFM-2BJEs6op5zTKG-2Fwro4adbediVHBhhCl6Wfl0oI36xBRENhQBvXfpgA4iG3h=
+FYRqtC-2B0CpeJyyPnLyizQBSgV9PzhyB46hXpfTdQ7AM-3D" style=3D"text-decoration:=
+underline; color:#c5bdc8;">update your preferences</a> or <a href=3D"http:/=
+/track.juke.ly/asm/unsubscribe/?user_id=3D2687988&data=3Dm9LWNGZF9TG1060ASR=
+JWQIJ39W7pYFnltF11VxGNSXg7KMi9xHzFvB-tDkMRBkVEnQefI1jIgGS0OUIzoAz7Da3UlR48K=
+8YoUncFRJyBits6dA3hkeJM3YtziXmW7snknaPsWh73YS-pesKrYa-PAQkDJcReOdVcJSGHtEe_=
+-fYOoWHBmjoKx9ZXsujCKk0ihzt0Ioq2cvPr8ij94LnwdSjO89AvRVHEt9TwM62XZ2ceXH-kgcy=
+iemb6Yh-VSVICx15GQH3dRdvIfd2dJmekabUSyHnHY5xDIGPwRWaiVNcO6GdQy0wKSZ0k8iM1AD=
+mMquwbS0-Va4V2gfyMCTfcNrx4Nlc2kqnR8GKif9d1PmPMX7jW3ySsQVRPF5BBwrbGfket5EB3m=
+xvu5oJU0BVgE-6rLgkKnwZUPV1QBTNLyzjOObWF4bOv7qcScXkf1IaERcASTt0dRG9UxsORo5UW=
+9FeAAAUmLDPIC7-eIY7ZL87REY2BZXx1HvhfT6mQMcgJK8FHeZmBe_r55yTbh5Jh5ZB5Y2BZkck=
+RDHP4vDBZ802yfmnaL6peOjmriNqE5sR4syfL3DJK30rSI7k9TatGnQ=3D=3D" style=3D"tex=
+t-decoration:underline; color:#c5bdc8;">unsubscribe</a>.</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div>&nbsp;</div>
+
+<img src=3D"http://track.juke.ly/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hql-2B=
+tcgQ1b-2BZAa351hvYu85-2B3E8EB2Tqg-2Fs74CywawBnqbFa7w1j7g0e3HhsIF-2FRasRi3zL=
+uw51AQ5l2MCjJWHc3XJwUn9h0iu9niQjAwC4yZ-2BS3-2B-2BtA6JQxOIYLga-2FnVLCWLgcXE-=
+2FgHY4Ilg5WNeompSMPcHgbQu-2BFRvdds9Y7CQlfUUG4L3Cuus4mRsta0V4ljDwRX1i-2BUR6c=
+RnNX3wD63I74hAz23a7TEvP07ViaFY4rnMhR-2FexXEUjUyCYGPxbt9omWbZuldhMcBZpIxw0nZ=
+4TaSsl2tgzof6OgtYFtLQ0nFN3UX5YiRguaTypdOBevs3KkC0xEl6tJD7XKOl-2BAhG4reRfKYP=
+C1JBD-2By3ebpU8HRdY0AEWHsa5BKwfVMi-2BnL0t3jKNF38s8bZ2bIAXaWWN25UC7H4v9WrdJX=
+YK3JvM5VvnZfemOZNuH5f-2BrPoX3fflz3TydV8VxQSKwjQ-3D" alt=3D"" width=3D"1" he=
+ight=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important=
+;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importa=
+nt;margin-right:0 !important;margin-left:0 !important;padding-top:0 !import=
+ant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !=
+important;"/>
+</body>
+</html>
+
+
+--e233d76117157b5a2e5e62701f745310f8dc7d1b68ef6068d4ea7ff51c86--

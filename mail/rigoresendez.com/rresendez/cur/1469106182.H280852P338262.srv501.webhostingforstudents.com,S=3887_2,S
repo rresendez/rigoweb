@@ -1,0 +1,109 @@
+Return-path: <010001560d8cbb62-2af629bd-ab9e-4f29-b834-1990b8a42b7d-000000@amazonses.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 21 Jul 2016 09:03:02 -0400
+Received: from a9-67.smtp-out.amazonses.com ([54.240.9.67]:45747)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <010001560d8cbb62-2af629bd-ab9e-4f29-b834-1990b8a42b7d-000000@amazonses.com>)
+	id 1bQDd0-001PpM-40
+	for rresendez@rigoresendez.com; Thu, 21 Jul 2016 09:03:02 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1469106142;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=Cv0wwJ7lsDqyGkGbPKfjmJHh9cNgseVfhtxaf0+8EWc=;
+	b=WrQs3vwGLE6aPXjVKSSICxNLTsC+unHfCijEYtUe96I70go/P4bHmBYVgblGPWbE
+	lwXGr5plmGhaw5WYlR3s/UMIq43V1JfpVjaE/foNIXOFTmCXGWR/IuaplBAAjGgVvDN
+	7gxH7YlB9aF7+M860Yo0cGRHAvjjSNR6RAX2DIxU=
+Content-Type: multipart/alternative;
+ boundary="===============8489390543651129302=="
+MIME-Version: 1.0
+Subject: [PythonAnywhere] Your website is about to expire
+From: support@pythonanywhere.com
+To: rresendez@rigoresendez.com, support@pythonanywhere.com
+Date: Thu, 21 Jul 2016 13:02:22 +0000
+Message-ID: <010001560d8cbb62-2af629bd-ab9e-4f29-b834-1990b8a42b7d-000000@email.amazonses.com>
+X-SES-Outgoing: 2016.07.21-54.240.9.67
+Feedback-ID: 1.us-east-1.aqqnUrZmkJIrlKHtYGlEE4aeMYQu5NC3dm604Ru5da8=:AmazonSES
+
+--===============8489390543651129302==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi rresendez,
+
+Your web site "rresendez.pythonanywhere.com" for account rresendez is
+about to expire. We will stop serving the site in 7 days.
+
+Click here:
+
+https://www.pythonanywhere.com/user/rresendez/webapps/#tab_id_rresendez_pythonanywhere_com
+
+...to bump the expiry date by another three months, and your site will
+stay online.  This won't cost anything, it's still a free service -- we're
+just making sure we're not hosting sites that people no longer want to have.
+
+If you don't do anything, the site will no longer be served up -- but you can
+always reactivate it by clicking the link above.
+
+
+
+All the best,
+
+The PythonAnywhere team
+---
+PythonAnywhere: Develop and host Python from your browser
+<https://www.pythonanywhere.com/>
+
+A product from PythonAnywhere LLP
+17a Clerkenwell Road, London EC1M 5RD, UK
+VAT No.: GB 893 5643 79
+Registered in England and Wales as company number OC378414.
+Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK
+
+--===============8489390543651129302==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<p>
+Hi rresendez,
+</p>
+
+<p>
+Your web site "rresendez.pythonanywhere.com" for account rresendez is
+about to expire. We will stop serving the site in 7 days.
+</p>
+
+<p>
+<a href="https://www.pythonanywhere.com/user/rresendez/webapps/#tab_id_rresendez_pythonanywhere_com">Click here</a>
+to bump the expiry date by another three months, and your site will
+stay online.  This won't cost anything, it's still a free service -- we're
+just making sure we're not hosting sites that people no longer want to have.
+</p>
+
+<p>
+If you don't do anything, the site will no longer be served up -- but you can
+always reactivate it by clicking the link above.
+</p>
+
+<p>
+All the best,
+</p>
+
+<p>
+The PythonAnywhere team
+</p>
+
+<p style="color: grey">
+    PythonAnywhere: Develop and host Python from your browser<br/>
+    <a href="http://www.pythonanywhere.com/">www.pythonanywhere.com</a><br/>
+    <br/>
+    A product from PythonAnywhere LLP<br/>
+    17a Clerkenwell Road, London EC1M 5RD, UK<br/>
+    VAT No.: GB 893 5643 79<br/>
+    Registered in England and Wales as company number OC378414.<br/>
+    Registered address: 28 Ely Place, 3rd Floor, London EC1N 6TD, UK<br/>
+</p>
+
+--===============8489390543651129302==--

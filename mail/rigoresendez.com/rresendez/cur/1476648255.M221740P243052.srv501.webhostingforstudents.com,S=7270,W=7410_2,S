@@ -1,0 +1,140 @@
+Return-Path: <joel@codergv.org>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id MSIoDT/dA1hstQMATAh+fg
+	for <rresendez@rigoresendez.com>; Sun, 16 Oct 2016 16:04:15 -0400
+Return-path: <joel@codergv.org>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sun, 16 Oct 2016 16:04:15 -0400
+Received: from mail-io0-f172.google.com ([209.85.223.172]:32819)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <joel@codergv.org>)
+	id 1bvrfK-0011CZ-VO
+	for rresendez@rigoresendez.com; Sun, 16 Oct 2016 16:04:15 -0400
+Received: by mail-io0-f172.google.com with SMTP id q192so169738359iod.0
+        for <rresendez@rigoresendez.com>; Sun, 16 Oct 2016 13:03:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=codergv.org; s=google;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=owjKorZAjDHvW0ApxmlGE8kCH3lkhW+QkUKduS3PuYI=;
+        b=i+DPKAuT8cy2Xga343FJ6yyjcQArtFoS7nTZQ6ygYZ0Od/122Cd/hvgwa5gqJJzNrn
+         7eUdPC5Nx0yc/RVpNYgwP+OvaauMf2BUOR6ScGrUKxFS/GJ4FLUX/Xe8HgFBZJ5Dzlt/
+         nGrU/5g6H3OlwGIIEzZOGUR7csfn5hKHQabFU=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=owjKorZAjDHvW0ApxmlGE8kCH3lkhW+QkUKduS3PuYI=;
+        b=CAFEW/MlzG4DhUk2pSOl5bBNHG8VFTrFruyHw4apE/sgGSWHWaIx9p/JM2sX6iEgy/
+         OGoK0x0oSZ257Zbm+JmuVvak7JdifD35xLlYdkBqiPiMAIXWH4fOjb22WIZxdfi+3bS4
+         PYtraQi3c9RMywm0jskIsvTDYo4ig0C4kmZ+tsK9e+eLLV/aynLUDT1LkFg/elmqR9oq
+         Lw56wbqxGO30SffQumESAqkcKkY+GgrErBhM3OUqQvnVkCfI5SRquwPNgD5pUL++8GTz
+         0y9NHpMU2XJCExlS0W3KS+fkC9pqSfAqEIj+aKNpdQ+eY1Zj2sdvm9fUj34FDfl3Ffin
+         lA3A==
+X-Gm-Message-State: AA6/9RmYqX43KtLaXdUhfTwWWfdVD4pGC935SqobdZXBKbuiIAlc4KEJJj+OXm9WEH22faO2NM16IVsKmi/KnnSh
+X-Received: by 10.107.202.69 with SMTP id a66mr4336647iog.170.1476648214447;
+ Sun, 16 Oct 2016 13:03:34 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.36.81.139 with HTTP; Sun, 16 Oct 2016 13:03:34 -0700 (PDT)
+In-Reply-To: <001e01d227e7$57a8e1e0$06faa5a0$@rigoresendez.com>
+References: <001e01d227e7$57a8e1e0$06faa5a0$@rigoresendez.com>
+From: Joel Garza <joel@codergv.org>
+Date: Sun, 16 Oct 2016 15:03:34 -0500
+Message-ID: <CAE9DiVEYFqZDLgZi3D48h5HN6L=+M0O2MJ7x3861+c948R50TA@mail.gmail.com>
+Subject: Re: Hey Joel
+To: Rigoberto <rresendez@rigoresendez.com>
+Content-Type: multipart/alternative; boundary=94eb2c0bad1647fef7053f00f4cb
+
+--94eb2c0bad1647fef7053f00f4cb
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Thanks, Rigo. I've watched some of Eli's videos.
+
+I'll be applying to jobs during the cohort for next year. Teaching the
+class is an opportunity to reinforce my understanding of things as I
+explain concepts to others. Chances are I will find something outside of
+the RGV, and do realize that to be the path I must follow to maximize my
+opportunities.
+
+I appreciate your input and support. Your motivation and drive impressed me
+right away, and I hope your efforts are rewarded with opportunities that
+meet your goals.
+
+Best of luck on your exams, and see you on Tuesday!
+
+Joel
+
+On Sun, Oct 16, 2016 at 2:56 PM, Rigoberto <rresendez@rigoresendez.com>
+wrote:
+
+> I was thinking the other day, it really bum be out what happened to you o=
+n
+> IBM and whole MS CS story.
+>
+> I believe you are capable and should get back on the industry specially
+> since you have kids. I once spoke with this YouTube celebrity guy called
+> Eli the computer guy , he is quite famous on the IT circles. I pay to spe=
+ak
+> to him through skype for an hour , and the best advice I got from him was
+> Udacity. Udacity is Google=E2=80=99s online school , you can get a nano-d=
+egree in
+> less than an year. The cool part is that if you take the 200 dlls a month
+> option and you finish ,google guarantees to find you a job with them or a
+> similar category corporation . Also if you finish the course in less than=
+ a
+> year they will reimburse half of your tuition . I began mine but find it =
+to
+> challenging and I did not have the time . I=E2=80=99m no getting paid or =
+have any
+> relation to the service. I=E2=80=99m telling you this because ,Is one of =
+the only
+> certain ways to land a very well paid job warrantee . Hope this helps and
+> see you on Tuesday.
+>
+>
+>
+> https://www.udacity.com/
+>
+
+--94eb2c0bad1647fef7053f00f4cb
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Thanks, Rigo. I&#39;ve watched some of Eli&#39;s videos.=
+=C2=A0<div><br></div><div>I&#39;ll be applying to jobs during the cohort fo=
+r next year. Teaching the class is an opportunity to reinforce my understan=
+ding of things as I explain concepts to others. Chances are I will find som=
+ething outside of the RGV, and do realize that to be the path I must follow=
+ to maximize my opportunities.</div><div><br></div><div>I appreciate your i=
+nput and support. Your motivation and drive impressed me right away, and I =
+hope your efforts are rewarded with opportunities that meet your goals.</di=
+v><div><br></div><div>Best of luck on your exams, and see you on Tuesday!</=
+div><div><br></div><div>Joel</div></div><div class=3D"gmail_extra"><br><div=
+ class=3D"gmail_quote">On Sun, Oct 16, 2016 at 2:56 PM, Rigoberto <span dir=
+=3D"ltr">&lt;<a href=3D"mailto:rresendez@rigoresendez.com" target=3D"_blank=
+">rresendez@rigoresendez.com</a>&gt;</span> wrote:<br><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex"><div lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72"><div class=
+=3D"m_-3134562369360007392WordSection1"><p class=3D"MsoNormal">I was thinki=
+ng the other day, it really bum be out what happened to you on IBM and whol=
+e MS CS story. <u></u><u></u></p><p class=3D"MsoNormal">I believe you are c=
+apable and should get back on the industry specially since you have kids. I=
+ once spoke with this YouTube celebrity guy called Eli the computer guy , h=
+e is quite famous on the IT circles. I pay to speak to him through skype fo=
+r an hour , and the best advice I got from him was Udacity. Udacity is Goog=
+le=E2=80=99s online school , you can get a nano-degree in less than an year=
+. The cool part is that if you take the 200 dlls a month option and you fin=
+ish ,google guarantees to find you a job with them or a similar category co=
+rporation . Also if you finish the course in less than a year they will rei=
+mburse half of your tuition . I began mine but find it to challenging and I=
+ did not have the time . I=E2=80=99m no getting paid or have any relation t=
+o the service. I=E2=80=99m telling you this because ,Is one of the only cer=
+tain ways to land a very well paid job warrantee . Hope this helps and see =
+you on Tuesday. <u></u><u></u></p><p class=3D"MsoNormal"><u></u>=C2=A0<u></=
+u></p><p class=3D"MsoNormal"><a href=3D"https://www.udacity.com/" target=3D=
+"_blank">https://www.udacity.com/</a> <u></u><u></u></p></div></div></block=
+quote></div><br></div>
+
+--94eb2c0bad1647fef7053f00f4cb--

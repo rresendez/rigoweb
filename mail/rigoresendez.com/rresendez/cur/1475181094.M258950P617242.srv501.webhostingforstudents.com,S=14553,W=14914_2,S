@@ -1,0 +1,361 @@
+Return-Path: <759-HIA-355.0.1453.0.0.1627.7.5785663-1@potomac1050.mktomail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id Dy1bDyZ67VcaawkATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 29 Sep 2016 16:31:34 -0400
+Return-path: <759-HIA-355.0.1453.0.0.1627.7.5785663-1@potomac1050.mktomail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 29 Sep 2016 16:31:34 -0400
+Received: from lettuce.mktdns.com ([199.15.213.131]:41692)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <759-HIA-355.0.1453.0.0.1627.7.5785663-1@potomac1050.mktomail.com>)
+	id 1bphzS-002aU6-0i
+	for rresendez@rigoresendez.com; Thu, 29 Sep 2016 16:31:34 -0400
+X-MSFBL: cnJlc2VuZGV6QHJpZ29yZXNlbmRlei5jb21AZHZwLTE5OS0xNS0yMTMtMTMxQGJn
+	LWFiZC02NkA3NTktSElBLTM1NTowOjE0NTM6Mjc0NToxOjE2Mjc6Nzo1Nzg1NjYz
+	LTE=
+Received: from [10.1.87.249] ([10.1.87.249:58969] helo=abmas01.marketo.org)
+	by abmta15.marketo.org (envelope-from <comms@ambitenergy.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 0E/3E-07349-DF97DE75; Thu, 29 Sep 2016 15:30:53 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1475181053;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=25ebHaWGb/FtuuWpDle6+oGi6bGpz31SIY4cK2S/cUM=;
+	b=Xpat+mSGNSHuMS2/sgPkdRYQLl2BFGkU+xyUZmZXXLKeIH7Qj0y/PxG5x/abfoqy
+	Y1qTk8fXlWPqMdW+6t0Nt9qEJvqGn/Ih5aE89sE079URttvztGq718Qff2icImbWGRn
+	Fh9m6JfBw4YxUsUdXDJVXWTLmRgM+wbg82SVEjQc=
+Date: Thu, 29 Sep 2016 15:30:53 -0500 (CDT)
+From: Ambit Energy <comms@ambitenergy.com>
+Reply-To: noreply@ambitenergy.com
+To: rresendez@rigoresendez.com
+Message-ID: <1395853775.923214051.1475181053909.JavaMail.root@abmas01.marketo.org>
+Subject: Ambit Energy: Pago Recibido
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_923214048_781506104.1475181053908"
+X-Binding: bg-abd-66
+X-MarketoID: 759-HIA-355:0:1453:2745:1:1627:7:5785663-1
+X-MktArchive: false
+List-Unsubscribe: <mailto:GZGGUT2QLBMDG22ROZIFA5TLFVJGY4CSNJTT2PI.1453.1627.7@unsub-ab.mktomail.com>
+X-Mailfrom: 759-HIA-355.0.1453.0.0.1627.7.5785663-1@potomac1050.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_923214048_781506104.1475181053908
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Confirmaci=C3=B3n de pago
+
+
+Rigoberto, gracias por su pago a Ambit Energy. Por favor revise los siguien=
+tes detalles:=20
+
+ - Fecha de Pago: September 29, 2016
+- Monto del Pago: $83.64
+ - N=C3=BAmero de Confirmaci=C3=B3n: 32244331
+ - N=C3=BAmero de cuenta que termina en - 4087
+
+Para informaci=C3=B3n acerca de Energ=C3=ADa Gratis, planes disponibles, op=
+ciones de pago y mucho m=C3=A1s, visite my.ambitenergy.com o llame a Servic=
+io al Cliente al (877) 282-6248 de lunes a viernes de 8:00 a.m. a 6:00 p.m.=
+ o los s=C3=A1bados de 10:00 a.m. to 5:00 p.m. Hora Centro.
+
+Ambit Energy aprecia su preferencia y estaremos encantados de atenderle.
+
+
+
+
+
+
+
+
+
+
+Este correo electr=C3=B3nico tiene como prop=C3=B3sito proporcionarles a lo=
+s Clientes de Ambit Energy informaci=C3=B3n sobre sus cuentas. Si usted ha =
+recibido este mensaje por error, o si le gustar=C3=ADa actualizar sus prefe=
+rencias de comunicaci=C3=B3n, por favor visite su Centro de Preferencia de =
+Comunicaci=C3=B3n <http://mkt.ambitenergy.com/dc/gKoZOMbzlCYEBiK21yIu4VR5-s=
+xYRm2jM_2GjyIZrJPsTW0dx9M04xUsBVpcx2rBWk-Xyjwhk5TsdrayGPCOoAJaeovHJu37IfR3G=
+aG2oUs2amBGF2fdA0MIhDgUTz6l/m000xT30o0hb0F97IIR0HA0>.
+
+Tambi=C3=A9n se puede comunicar con nosotros por escrito a:=20
+ Ambit Energy, Attn: Email Removal | 1801 N. Lamar Street, Dallas, TX 75202
+
+ Por favor no responda a este correo electr=C3=B3nico, esta direcci=C3=B3n =
+es parte de un sistema de respuesta autom=C3=A1tico que no es supervisado.T=
+exas PUC License 10117 | =C2=A9 2016 Ambit Energy. Todos los derechos reser=
+vados.
+
+-
+
+------=_Part_923214048_781506104.1475181053908
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+<title></title>=20
+</head>=20
+<body style=3D"">
+<div style=3D"">
+<div class=3D"mktEditable" id=3D"edit_text_1" style=3D"">
+<table class=3D"wrapper" style=3D"border-collapse: collapse; border-spacing=
+: 0; background-color: #eceae8; width: 100%; min-width: 620px; table-layout=
+: fixed;">=20
+<tbody>=20
+<tr class=3D"border" style=3D"font-size: 1px; line-height: 1px; background-=
+color: #e9e9e9; height: 40px;">=20
+<td style=3D"vertical-align: top; line-height: 1px; padding: 0;">&nbsp;</td=
+>=20
+</tr>=20
+<tr>=20
+<td style=3D"vertical-align: top; padding: 0;">=20
+<table class=3D"preheader" style=3D"border-collapse: collapse; border-spaci=
+ng: 0; margin-left: auto; margin-right: auto; background-color: #eceae8; ba=
+ckground-image: none; background-attachment: scroll; background-repeat: rep=
+eat; background-position: top left;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"vertical-align: top; padding: 0;">=20
+<table style=3D"border-collapse: collapse; border-spacing: 0; width: 602px;=
+">=20
+<tbody>=20
+<tr>=20
+<td class=3D"webversion" style=3D"vertical-align: top; color: #b9b0a7; font=
+-family: HelveticaNeue, sans-serif; font-size: 12px; line-height: 21px; tex=
+t-align: left; padding: 10px 0 1px 0;">Rigoberto Resendez,&nbsp;A4828256</t=
+d>=20
+<td class=3D"title" style=3D"vertical-align: top; color: #b9b0a7; font-fami=
+ly: HelveticaNeue, sans-serif; font-size: 12px; line-height: 21px; text-ali=
+gn: right; width: 300px; padding: 10px 0 1px 0;"><a title=3D"Cuenta MyAmbit=
+" class=3D"w640" style=3D"text-decoration: underline; color: #b9b0a7;" href=
+=3D
+"http://mkt.ambitenergy.com/n0H90bd03hxF0AI07000bIo" target=3D"_blank"
+>Cuenta&nbsp;<u>MyAmbit</u></a> &nbsp; <a title=3D"Ambit Energy" class=3D"w=
+640" style=3D"text-decoration: underline; color: #b9b0a7;" href=3D
+"http://mkt.ambitenergy.com/HH0030h0x9e7IAo0F0I00cb" target=3D"_blank"
+>AmbitEnergy.com</a> &nbsp; <a title=3D"Cont=C3=A1ctenos" class=3D"w640" st=
+yle=3D"text-decoration: underline; color: #b9b0a7;" href=3D
+"http://mkt.ambitenergy.com/c0o03h9H0FxI00bAf07dI00" target=3D"_blank"
+>Cont=C3=A1ctenos</a>&nbsp;&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"wrapper" style=3D"border-radius: 5px 5px 0 0; background-co=
+lor: #eceae8; width: 100%; min-width: 620px; table-layout: fixed;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"vertical-align: top; padding: 0;">=20
+<table style=3D"border-collapse: collapse; border-spacing: 0; margin-left: =
+auto; margin-right: auto;">=20
+<tbody>=20
+<tr class=3D"border" style=3D"font-size: 1px; line-height: 1px; background-=
+color: #e9e9e9; height: 1px;">=20
+<td style=3D"vertical-align: top; line-height: 1px; padding: 0;" colspan=3D=
+"3">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td class=3D"border" style=3D"vertical-align: top; font-size: 1px; line-hei=
+ght: 1px; background-color: #e9e9e9; width: 1px; padding: 0;">=E2=80=8B</td=
+>=20
+<td style=3D"vertical-align: top; padding: 0;">=20
+<table class=3D"one-col" style=3D"border-radius: 8px; background: #b39999; =
+margin-left: auto; margin-right: auto; width: 600px; background-color: #fff=
+fff; font-size: 14px;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"column" style=3D"vertical-align: top; text-align: left; paddin=
+g: 0;">=20
+<div class=3D"column-top" style=3D"font-size: 23px; line-height: 23px;">
+&nbsp;
+</div>=20
+<table class=3D"contents" style=3D"border-collapse: collapse; border-spacin=
+g: 0; width: 100%;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"padded" style=3D"vertical-align: top; padding: 0 32px 0 32px;"=
+></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"contents" style=3D"border-collapse: collapse; border-spacin=
+g: 0; width: 100%;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"padded" style=3D"vertical-align: top; padding: 0 32px 0 32px;"=
+>
+<!--mce:protected %3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2=
+520%25253C%252521--%252520Main%252520Content%252520Starts%252520--%25253E--=
+%253E--%3E--> <h1 style=3D"color: #ff6319; font-family: HelveticaNeue, sans=
+-serif; margin-top: 0; font-weight: normal; font-size: 26px;">Confirmaci=C3=
+=B3n de pago</h1>=20
+<div align=3D"left" class=3D"article-content" style=3D"font-size: 15px; lin=
+e-height: 24px; color: #57504a; margin-top: 0px; margin-bottom: 18px; font-=
+family: HelveticaNeue, sans-serif;">=20
+<p>Rigoberto,&nbsp;gracias por su pago a Ambit Energy. Por favor revise los=
+ siguientes detalles:&nbsp;</p>=20
+<ul>=20
+<li><span style=3D"line-height: 24px;">Fecha de Pago:&nbsp;September 29, 20=
+16</span><br></li>=20
+<li><span style=3D"line-height: 24px;">Monto del Pago: }</span></li>=20
+<li><span style=3D"line-height: 24px;">N=C3=BAmero de Confirmaci=C3=B3n:&nb=
+sp;32244331</span></li>=20
+<li>N=C3=BAmero de cuenta que termina en - 4087</li>=20
+</ul>=20
+<p>Para informaci=C3=B3n acerca de Energ=C3=ADa Gratis, planes disponibles,=
+ opciones de pago y mucho m=C3=A1s, visite my.ambitenergy.com o llame a Ser=
+vicio al Cliente al (877) 282-6248 de lunes a viernes de 8:00 a.m. a 6:00 p=
+.m. o los s=C3=A1bados de 10:00 a.m. to 5:00 p.m. Hora Centro.</p>=20
+<p>Ambit Energy aprecia su preferencia y estaremos encantados de atenderle.=
+</p>=20
+<hr>=20
+<p><a href=3D
+"http://mkt.ambitenergy.com/G0I0AI307goeH0bF00009xh" target=3D"_blank" titl=
+e=3D"Ambit Cares"
+><img width=3D"576" height=3D"72" alt=3D"AmbitCares_EmailFooter.jpg" src=3D=
+"http://info.ambitenergy.com/rs/759-HIA-355/images/AmbitCares_EmailFooter_S=
+panish.jpg" constrain=3D"true" imagepreview=3D"false"></a><br></p>=20
+<p><br></p>=20
+</div>=20
+<!--mce:protected %3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2=
+520%25253C%252521--%252520Main%252520Content%252520Ends%252520--%25253E--%2=
+53E--%3E--></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<div class=3D"column-bottom" style=3D"font-size: 8px; line-height: 8px;">
+&nbsp;
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"border" style=3D"vertical-align: top; font-size: 1px; line-hei=
+ght: 1px; background-color: #e9e9e9; width: 1px; padding: 0;">=E2=80=8B</td=
+>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"wrapper" style=3D"border-collapse: collapse; border-spacing=
+: 0; background-color: #eceae8; width: 100%; min-width: 620px; table-layout=
+: fixed;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"vertical-align: top; padding: 0;">=20
+<table class=3D"footer" style=3D"border-collapse: collapse; border-spacing:=
+ 0; margin-left: auto; margin-right: auto; width: 602px;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"vertical-align: top; padding: 0;">=20
+<table style=3D"border-collapse: collapse; border-spacing: 0;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"address" style=3D"vertical-align: top; width: 450px; padding: =
+9px 0 10px 0;">=20
+<table class=3D"contents" style=3D"border-collapse: collapse; border-spacin=
+g: 0; width: 100%;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"padded" style=3D"vertical-align: top; color: #b9b0a7; font-fam=
+ily: HelveticaNeue, sans-serif; font-size: 10px; line-height: 15px; text-al=
+ign: left; padding: 0 10px 0 0;">=20
+<div>
+Este correo electr=C3=B3nico tiene como prop=C3=B3sito proporcionarles a lo=
+s Clientes de Ambit Energy informaci=C3=B3n sobre sus cuentas. Si usted ha =
+recibido este mensaje por error, o si le gustar=C3=ADa actualizar sus prefe=
+rencias de comunicaci=C3=B3n, por favor visite su=20
+<a href=3D
+"http://mkt.ambitenergy.com/dc/gKoZOMbzlCYEBiK21yIu4VR5-sxYRm2jM_2GjyIZrJPs=
+TW0dx9M04xUsBVpcx2rBWk-Xyjwhk5TsdrayGPCOoAJaeovHJu37IfR3GaG2oUs2amBGF2fdA0M=
+IhDgUTz6l/m000xT30o0hb0F97IIR0HA0" target=3D"_blank" title=3D"Centro de Pre=
+ferencia de Comunicaci=C3=B3n"
+>Centro de Preferencia de Comunicaci=C3=B3n</a>.
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"subscription" style=3D"vertical-align: top; width: 150px; text=
+-align: left; padding: 12px 0 12px 0;">=20
+<table class=3D"contents" style=3D"border-collapse: collapse; border-spacin=
+g: 0; width: 100%;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"padded" style=3D"vertical-align: top; color: #999999; font-fam=
+ily: HelveticaNeue, sans-serif; font-size: 12px; line-height: 20px; text-al=
+ign: right; padding: 0 0 5px 10px;">=20
+<div>
+<a title=3D"Ambit Energy" href=3D
+"http://mkt.ambitenergy.com/HH0030h0x9e7IAo0F0I00cb" target=3D"_blank"
+> <img title=3D"Ambit Energy" alt=3D"" src=3D"http://ww2.ambitenergy.com/e/=
+img/_shared/customer-preference/ambit-energy-logo.png" border=3D"0"> </a>
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"vertical-align: top; padding: 0;">=20
+<table style=3D"border-collapse: collapse; border-spacing: 0;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"address" style=3D"vertical-align: top; width: 550px; padding: =
+0px 0 64px 0;">=20
+<table class=3D"contents" style=3D"border-collapse: collapse; border-spacin=
+g: 0; width: 100%;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"padded" style=3D"vertical-align: top; color: #b9b0a7; font-fam=
+ily: HelveticaNeue, sans-serif; font-size: 10px; line-height: 15px; text-al=
+ign: left; padding: 0 10px 0 0;">Tambi=C3=A9n se puede comunicar con nosotr=
+os por escrito a: <br> Ambit Energy, Attn: Email Removal | 1801 N. Lamar St=
+reet, Dallas, TX 75202<br><br> Por favor no responda a este correo electr=
+=C3=B3nico, esta direcci=C3=B3n es parte de un sistema de respuesta autom=
+=C3=A1tico que no es supervisado.Texas PUC License 10117 | =C2=A9 2016 Ambi=
+t Energy. Todos los derechos reservados.</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<p><br></p>
+</div>
+</div>
+
+<img src=3D"http://mkt.ambitenergy.com/trk?t=3D1&mid=3DNzU5LUhJQS0zNTU6MDox=
+NDUzOjI3NDU6MToxNjI3Ojc6NTc4NTY2My0xOm51bGw%3D" width=3D"1" height=3D"1" st=
+yle=3D"display:none !important;" alt=3D"" />
+
+<p><font color=3D"#ECEAE8"><font face=3D"Verdana" size=3D"1">If you no long=
+er wish to receive these emails you may <a href=3D
+"http://mkt.ambitenergy.com/u/Y0boI0hx900h7003FIH0fA0" style=3D"text-decora=
+tion : none; color : #ECEAE8;"
+>unsubscribe</a> at any time. </font> </p>
+</body>
+</html>
+------=_Part_923214048_781506104.1475181053908--

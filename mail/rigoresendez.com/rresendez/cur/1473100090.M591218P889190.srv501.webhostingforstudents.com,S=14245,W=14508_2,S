@@ -1,0 +1,263 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id WeUwIzq5zVdmkQ0ATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 05 Sep 2016 14:28:10 -0400
+Return-path: <mailer@infusionmail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 05 Sep 2016 14:28:10 -0400
+Received: from mta-c-24-56.infusionmail.com ([208.76.24.56]:38732)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1bgycs-003jI8-0t
+	for rresendez@rigoresendez.com; Mon, 05 Sep 2016 14:28:10 -0400
+DKIM-Signature: v=1; a=rsa-sha1; d=craftycodr.com; s=dkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@craftycodr.com; t=1473100049;
+	h=From:Sender:Subject:Date:To:MIME-Version:Content-Type;
+	bh=KGp3zndTtMIDQMmC/WTYMuMeYtM=;
+	b=aqxmTnJ2r+nGK/CYjmCIdJSig9MSo00uYmWqiRMV0PdiTNMp4wWmuT4FOo7ulQj6
+	GovOSznR+ETxQV1GFIz38SoAz6y2DtmmSIFTDk3flguiOtBBKWvQCmTlM3ZUVeAm
+	x6RhYJh+zMhTvRaIQv+7M03D/iBHE5BkbiqK7OFXttA=;
+Pool-Debug: rg241 value
+Pool-Name: default_value
+x-sieve: enabled
+Pool-Version: 2
+Received: from [10.0.0.231] ([10.0.0.231:48610] helo=buzzsaw)
+	by phxme4 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id FE/D6-56511-119BDC75; Mon, 05 Sep 2016 14:27:29 -0400
+Date: Mon, 5 Sep 2016 14:27:29 -0400 (EDT)
+From: Trevor Page <trevor@craftycodr.com>
+To: rresendez@rigoresendez.com
+Message-ID: <57568261.3182231473100049009.JavaMail.tomcat@buzzsaw>
+Subject: Free Workshop - Binary Search Trees in Java (and why they rock)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_273929_717139213.1473100049008"
+X-MailSentId: 281329
+X-campaignid: infusion_rg241281329
+Feedback-ID: rg241:rg241_281329:value
+X-BatchId: 0
+X-InfApp: rg241
+X-InfContact: 95887
+X-InfSent: 3110851
+X-inf-package: value
+X-inf-uflags: SO
+X-inf-iflags: SO
+List-Unsubscribe: <https://rg241.infusionsoft.com/app/optOut/noConfirm/3110851/c80ba3451dc9a179>
+
+------=_Part_273929_717139213.1473100049008
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+Hi there fellow coder,
+ 
+I hope you're having a good Monday
+ 
+I wanted to let you know something exciting.
+ 
+I'm hosting a free workshop where I'll teach you all I know
+about the Binary Search Tree data structure in Java.
+ 
+"Binary Search Trees?" - you ask
+
+Dude! Learning about this data structure is like drinking a
+tasty, yet healthy, green smoothie. You'll feel like you've 
+accomplished something great once you're done!
+
+Once you've watched this workshop you'll:
+ 
+- See real world examples of how to apply recursive algorithms to your code
+- Learn the art of writing "generic" code with Java Generics
+- See another great example of how to program using the Test Driven Development methodology so your code is rock solid
+- Also learn how a very useful data structure works internally and be able to blow away any future technical interviewer with the depth of your new knowledge!
+
+Since I know you're dedicated to learning Java, this will be one of the most productive hours you'll spend on your education.
+ 
+Go to this URL to Register for Free: http://app.webinarjam.net/register/12137/49bcf1bd2a
+
+If you no longer wish to receive our emails, click the link below:
+
+https://rg241.infusionsoft.com/app/optOut/8/1cd03abc1d6796a3/3110851/c80ba3451dc9a179
+
+Crafty Codr Inc. 551B Old Abbey Court Waterloo, Ontario N2K 3V3 Canada
+
+
+
+Delivered By Infusionsoft
+https://crm.infusionsoft.com/go/infs/footer_rg241/text
+
+
+------=_Part_273929_717139213.1473100049008
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML>
+<html>
+<head>
+</head><body>
+<div id="mainContent" style="text-align: left;">
+<table cellpadding="10" cellspacing="0" style="background-color: rgb(255,255,255); width: 100%; height: 100%;">
+<tbody>
+<tr>
+<td valign="top">
+<table align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" style="width: 600px;">
+<tbody>
+<tr>
+<td sectionid="preheader" style="text-align: left; margin: 0; padding: 10px 0; border: none; white-space: normal; line-height: normal;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#FFFFFF" cellpadding="20" cellspacing="0" style="width: 600px; background-color: rgb(255,255,255);">
+<tbody>
+<tr>
+<td sectionid="body" style="text-align: left; margin: 0; padding: 20px; border: none; white-space: normal; line-height: normal; background-color: rgb(255,255,255);" valign="top">
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 12px; font-family: arial; color: rgb(0,0,0);">
+<div contentid="paragraph" style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 12px; font-family: arial; color: rgb(0,0,0);">
+<div style="overflow: visible;">
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">Hi there fellow coder,</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">I hope you're having a good Monday</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">I wanted to let you know <strong>something exciting</strong>.</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">I'm hosting a <strong><a href="https://rg241.infusionsoft.com/app/linkClick/5019/074a8a14a21172a7/3110851/c80ba3451dc9a179" nottracked="false" shape="rect" style="color: rgb(6,69,173);">free workshop</a></strong>&nbsp;where I'll teach you all I know</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">about the&nbsp;<strong>Binary Search Tree data structure in Java</strong>.</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 16px;">&quot;Binary Search Trees?&quot; - you ask</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 16px;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 16px;">Dude! Learning about this data structure is like drinking a</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 16px;">tasty, yet healthy, green smoothie. You'll feel like you've&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 16px;">accomplished something great once you're done!</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 16px;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">Once you've watched this workshop you'll:</span>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</div>
+<div style="overflow: visible;">
+<ul>
+<li>
+<span data-mce-mark="1" style="font-size: 16px;">See real world examples of how to apply <strong>recursive algorithms</strong> to your code</span>
+</li>
+<li>
+<span data-mce-mark="1" style="font-size: 16px;">Learn the art of writing &quot;generic&quot; code with <strong>Java Generics</strong></span>
+</li>
+<li>
+<span data-mce-mark="1" style="font-size: 12pt;">See another great example of how to program using the <strong>Test Driven Development</strong> methodology so your code is rock solid</span>
+</li>
+<li>
+<span style="font-size: 12pt;">Also learn how a very useful data structure works internally and be able to <strong>blow away any future technical interviewer with the depth of your new knowledge!</strong></span>
+</li>
+</ul>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">Since I know <span style="text-decoration: underline;">you're dedicated to learning Java</span>, this will be one of the <strong>most productive hours</strong> you'll spend on your education.</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<strong><span data-mce-mark="1" style="font-size: 12pt;">&gt;&gt;&nbsp;<a href="https://rg241.infusionsoft.com/app/linkClick/5021/b2f6714ceac6ca50/3110851/c80ba3451dc9a179" nottracked="false" shape="rect" style="color: rgb(6,69,173);">Click Here to Register for Free</a>&nbsp;&lt;&lt;</span></strong>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</p>
+<p style="margin: 0; color: null; font-size: 12px; font-family: arial;">
+<span data-mce-mark="1" style="font-size: 12pt;">&nbsp;</span>
+</p>
+</div>
+<div style="overflow: visible;">
+<span data-mce-mark="1" style="font-size: 14pt;">&nbsp;</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div style="max-width:600px; border-top: 0px solid #d7d7d7;border-right: 0px solid #d7d7d7;border-left: 0px solid #d7d7d7;border-bottom: 0px solid #d7d7d7;border-style: dashed !important; direction: ltr; " class="main_html date__2016_03_11___19_15"> <div class="html wisestamp_app main_sig" id="tp1s" style="max-width: 470px;margin: 8px 8px 8px 0;">       <table border="0" cellspacing="0" cellpadding="0" width="470" style="width: 470px;"><tbody><tr valign="top"><td style="padding-left:10px; width: 10px; padding-right:10px;"> <img moz-do-not-send="true" src="https://s3.amazonaws.com/ucwebapp.wisestamp.com/5d2b6289-bdb6-4fc9-9e08-69632945d990/DSC_9261_modded.crop_332x258_0,0.preview.format_png.resize_200x.png#logo" width="65" height="50.5120481928" alt="photo" style="border-radius:50%;moz-border-radius:50%;khtml-border-radius:50%;o-border-radius:50%;webkit-border-radius:50%;ms-border-radius: 50%;width:65px;height:50.5120481928px;max-width: 120px;" /> </td><td style="border-right: 1px solid #0072b1;"></td><td style="text-align:initial; font:14px Verdana;color:#646464;padding:0 10px"> <div> <b class="text-color theme-font">Trevor Page</b><br /> <span>Coders Campus</span> </div> <div style="color:#8d8d8d;font-size:13px;padding:5px 0"> <span style="display:inline-block;"><a href="mailto:trevor@craftycodr.com" style="color:#8d8d8d;text-decoration: none;">trevor@craftycodr.com</a></span>  <span style="color: #0072b1;display:inline-block;">|</span> <span style="white-space: nowrap;display:inline-block;"><a href="http://coderscampus.com" target="_blank" style="color:#8d8d8d;text-decoration: none;">http://coderscampus.com</a></span> </div> <div style="margin-top: 5px"><a href="http://facebook.com/howtoprogramwithjava" target="_blank"><img moz-do-not-send="true" style="border-radius:0px;moz-border-radius:0px;khtml-border-radius:0px;o-border-radius:0px;webkit-border-radius:0px;ms-border-radius:0px;border: 0;width:16px; height:16px;" width="16" height="16" src="https://s3.amazonaws.com/images.wisestamp.com/icons_32/facebook.png" /></a>&nbsp;<a href="http://twitter.com/programwithjava" target="_blank"><img moz-do-not-send="true" style="border-radius:0px;moz-border-radius:0px;khtml-border-radius:0px;o-border-radius:0px;webkit-border-radius:0px;ms-border-radius:0px;border: 0;width:16px; height:16px;" width="16" height="16" src="https://s3.amazonaws.com/images.wisestamp.com/icons_32/twitter.png" /></a>&nbsp;<a href="http://linkedin.com/in/trevor-page-28350921" target="_blank"><img moz-do-not-send="true" style="border-radius:0px;moz-border-radius:0px;khtml-border-radius:0px;o-border-radius:0px;webkit-border-radius:0px;ms-border-radius:0px;border: 0;width:16px; height:16px;" width="16" height="16" src="https://s3.amazonaws.com/images.wisestamp.com/icons_32/linkedin.png" /></a></div> </td></tr></tbody></table> </div> </div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td sectionid="footer" style="text-align: left; margin: 0; padding: 20px; border: none; white-space: normal; line-height: normal; background-color: rgb(255,255,255);" valign="top">
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 10px; font-family: verdana; color: rgb(0,0,0);">
+<div contentid="paragraph" style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 10px; font-family: verdana; color: rgb(0,0,0);">
+<div>
+If you no longer wish to receive our emails, click the link below: 
+<br clear="none" />
+<a href="https://rg241.infusionsoft.com/app/linkClick/5017/b9d7b0fe8f74ffef/3110851/c80ba3451dc9a179" shape="rect" style="font-size: 11px; font-family: arial; color: rgb(6,69,173);">Unsubscribe</a>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="margin: 0; padding: 0; background: none; border: none; white-space: normal; line-height: normal; overflow: visible; font-size: 10px; font-family: verdana; color: rgb(0,0,0);">
+Crafty Codr Inc. 551B Old Abbey Court Waterloo, Ontario N2K 3V3 Canada
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<img height="1" width="1" style="display: block;" src="https://rg241.infusionsoft.com/app/emailOpened/3110851/0"><br><br><div id="branding" style="text-align:right;display:block"><a href="https://crm.infusionsoft.com/go/infs/footer_rg241/html" target="_blank"><img border="0" src="https://infusionmedia.s3.amazonaws.com/app/template/delivered_white.png"></a></div></body>
+</html>
+------=_Part_273929_717139213.1473100049008--
+

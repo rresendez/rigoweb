@@ -1,0 +1,753 @@
+Return-Path: <news@goldandsilver.apmex.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id USj/AB4Uz1c9RwcATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 06 Sep 2016 15:08:14 -0400
+Return-path: <news@goldandsilver.apmex.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 06 Sep 2016 15:08:14 -0400
+Received: from omp.goldandsilver.apmex.com ([199.7.204.176]:47251)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <news@goldandsilver.apmex.com>)
+	id 1bhLjB-001zye-IM
+	for rresendez@rigoresendez.com; Tue, 06 Sep 2016 15:08:13 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=apmex; d=goldandsilver.apmex.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:Message-ID; i=news@goldandsilver.apmex.com;
+ bh=aMeomIMb6XZYQpQAQ07oiTr+Dsg=;
+ b=sbXjjcsSMneqI7GuKG8+9IJMiKJa2hYeFkHvkGpOVfs0h/u749qTDuunhzUDOyCersEABCu9xG+a
+   gloGbX6k1ozizyJ4dSIeeIwEDqcKWElbamoliH0rJf/lkVT2Sfnb2/c1c39B8lJw4umlxSzkKEgz
+   /EbIN7AXcWnY30cfkzc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=apmex; d=goldandsilver.apmex.com;
+ b=n3YxzElZ57nPvCh2HR8BSO0qKnDzepnsghLVgoiBjWa5JLtKSDgxZj6xP6zt+resifG71vVd9g+U
+   8uZqs+Av6i7mK2OiJNBI/JHExWrOmPd56RJRmvl+J0ed/vIoCkdJ0UHk3mcwvEkUKXaVbCqsTuf4
+   hjqF57Tei320aZ+/sbU=;
+Received: by omp.goldandsilver.apmex.com id hpsa1s162kse for <rresendez@rigoresendez.com>; Tue, 6 Sep 2016 12:07:32 -0700 (envelope-from <news@goldandsilver.apmex.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 6 Sep 2016 12:07:32 -0700
+To: rresendez@rigoresendez.com
+From: "APMEX News" <news@goldandsilver.apmex.com>
+Reply-To: "APMEX News" <reply@goldandsilver.apmex.com>
+Subject: Premium over spot explained
+Feedback-ID: 53131:411865:oraclersys
+X-sgxh1: jjLkLgKLFxjpnhjLkLgKLFQJhu
+X-rext: 5.interact5.Eq3ijaAr8CLcrEou4WGRUIhP008Z_whE_XXww6kiU7GOphKFt_LW60RWfA_VDfei
+X-cid: apmex.2980365
+Message-ID: <0.0.9.DFF.1D20871EBE40ADC.0@omp.goldandsilver.apmex.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html style=3D=22font-family: Arial, Helvetica, sans-serif; margin: 0; padd=
+ing: 0;=22 xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+   <meta content=3D=22width=3Ddevice-width=22 name=3D=22viewport=22 />
+   <meta content=3D=22text/html; charset=3Dutf-8=22 http-equiv=3D=22Content=
+-Type=22 />
+   <meta content=3D=22width=3Ddevice-width, initial-scale=3D1=22 name=3D=22=
+viewport=22 />
+   <meta content=3D=22IE=3Dedge=22 http-equiv=3D=22X-UA-Compatible=22 />
+   <title>Understanding premium over spot price=2E</title>
+   <style type=3D=22text/css=22>/* CLIENT-SPECIFIC STYLES */
+    body, table, td, a=7B-webkit-text-size-adjust: 100%; -ms-text-size-adju=
+st: 100%;=7D /* Prevent WebKit and Windows mobile changing default text siz=
+es */
+    table, td=7Bmso-table-lspace: 0pt; mso-table-rspace: 0pt;=7D /* Remove =
+spacing between tables in Outlook 2007 and up */
+    img=7B-ms-interpolation-mode: bicubic;=7D /* Allow smoother rendering o=
+f resized image in Internet Explorer */
+
+/* RESET STYLES */
+    img=7Bborder: 0; height: auto; line-height: 100%; outline: none; text-d=
+ecoration: none;=7D
+    table=7Bborder-collapse: collapse =21important;=7D
+    body=7Bheight: 100% =21important; margin: 0 =21important; padding: 0 =
+=21important; width: 100% =21important;=7D=09
+=09
+/* iOS BLUE LINKS */
+a =5Bx-apple-data-detectors=5D =7B
+	color: inherit =21important;
+	text-decoration: none =21important;
+	font-size: inherit =21important;
+	font-family: inherit =21important;
+	font-weight: inherit =21important;
+	line-height: inherit =21important;
+	=7D
+
+=40media (max-width: 600px) =7B
+
+h1 =7B
+	font-size: 22px =21important;
+	=7D
+=09
+=2Emain-heading =7B
+	font-size: 22px =21important;
+	=7D
+=09
+=2Eheadline-text =7B
+	font-size: 14px =21important;
+	padding: 3% =21important;
+	=7D
+=09
+=2Epromo-text =7B
+	font-size: 14px =21important;
+	=7D
+=09
+=2Econtainer =7B
+    width: 100% =21important;=20
+    padding: 15px;
+  	=7D
+  =09
+=2Econtent =7B
+    padding: 15px =21important;
+  	=7D
+  =09
+=2Elogo-container =7B
+    width: 35%;
+  	=7D
+  =09
+=2Estack =7B
+	display: block;
+	width: 99% =21important;
+	max-width: 600px;
+	=7D
+=09
+=2Ebutton =7B
+	width:100% =21important;
+	font-size: 14px =21important;
+	=7D
+=09
+=2Eheader-blue =7B
+	height: 75px =21important;
+	width: 100% =21important;
+ 	=7D
+ =09
+=2Eheader-nav =7B
+	font-size: 14px =21important;
+	text-align: right =21important;
+	padding: 10px 0px 10px 25px =21important;
+ 	=7D
+ =09
+=2Eheader-image =7B
+	width: 75% =21important;
+	=7D
+=09
+=2Eheader-nav-table =7B
+	width: 100% =21important;
+	=7D
+=09
+=2Efull =7B
+	max-width: 600px =21important;
+	margin-bottom: 35px =21important;
+	=7D=20
+=09
+=2Efull-flag =7B
+	max-width: 100% =21important;
+	=7D=20
+=09
+=2Eproduct-image =7B
+	width: 100% =21important;
+	max-width: 300px =21important;
+	height: auto =21important;
+	=7D
+=09
+=2Ebanner-image =7B
+	width: 100% =21important;
+	height: auto =21important;
+	=7D
+
+=2Eflag-image =7B
+	width: 75% =21important;
+	height: auto =21important;
+	=7D
+=09
+=2Ecell-small-space =7B
+	height: 25px;
+	=7D
+=09
+=2Esection-header =7B
+	text-align: center =21important;
+	font-size: 28px =21important;
+	margin-bottom: 25px =21important;
+	padding-bottom: 10px =21important;
+	width: 100% =21important;
+	max-width: 600px;
+	=7D
+=09
+=2Efooter-grey =7B
+	width: 100% =21important;
+	=7D
+=09
+=23free-shipping-1 =7B=20
+	display: none =21important;
+	=7D
+=09
+=23free-shipping-2 =7B=20
+	display: block =21important;
+	=7D
+
+=7D
+=40media (max-width: 430px) =7B
+
+ =2Eheader-nav =7B
+	 font-size: 10px =21important;
+	 padding: 10px =21important;
+	 text-align: right =21important;
+	 =7D
+=7D
+   </style>
+</head>
+<body bgcolor=3D=22=23FFFFFF=22 style=3D=22font-family: Arial, Helvetica, s=
+ans-serif; -webkit-font-smoothing: antialiased; height: 100%; color: rgb(51=
+, 51, 51); margin: 0px; padding: 0px; width: 100%;=22><=21-- SCHEMA DATA ST=
+ART -->
+<div itemscope=3D=22=22 itemtype=3D=22http://schema=2Eorg/EmailMessage=22>
+<div itemprop=3D=22publisher=22 itemscope=3D=22=22 itemtype=3D=22http://sch=
+ema=2Eorg/Organization=22>
+</div>
+</div>
+
+<div itemprop=3D=22about=22 itemscope=3D=22=22 itemtype=3D=22http://schema=
+=2Eorg/Offer=22>
+</div>
+<=21-- SCHEMA DATA END --><=21-- HEADER START -->
+
+<table align=3D=22center=22 bgcolor=3D=22=23002539=22 class=3D=22header-blu=
+e=22 height=3D=22100=22 style=3D=22font-family: Arial, Helvetica, sans-seri=
+f; display: table; border-bottom: 6px solid =23ffffff; -webkit-border-horiz=
+ontal-spacing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: =
+0 auto; padding: 0; =22 width=3D=22100%=22>
+   <tbody>
+      <tr>
+         <td>
+         <table align=3D=22center=22 class=3D=22header-nav-table=22 style=
+=3D=22font-family: Arial, Helvetica, sans-serif; display: table; border-col=
+lapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-border-verti=
+cal-spacing: 0; width: 600px; margin: 0 auto; padding: 0; =22>
+            <tbody>
+               <tr style=3D=22font-family: Arial, Helvetica, sans-serif; ma=
+rgin: 0; padding: 0;=22>
+                  <td align=3D=22left=22 style=3D=22font-family: Arial, Hel=
+vetica, sans-serif; text-align: left; display: block =21important; max-widt=
+h: 600px; clear: both =21important; margin: 0 auto; padding: 5px; mso-paddi=
+ng-alt: 10px; mso-padding: 10px;=22>
+                  <table style=3D=22font-family: Arial, Helvetica, sans-ser=
+if; display: table; border-collapse: separate; -webkit-border-horizontal-sp=
+acing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; paddi=
+ng: 0;=22>
+                     <tbody>
+                        <tr height=3D=222=22>
+                           <td align=3D=22center=22 class=3D=22textContent=
+=22 colspan=3D=222=22>
+                           <div style=3D=22display: none; font-family:Helve=
+tica,Arial,sans-serif;font-size:1px;color:=23002539;text-align:center;=22>
+                           <p>Premium is the additional cost of Precious Me=
+tal above the spot price=2E
+                           </p>
+                           </div>
+                           </td>
+                        </tr>
+                        <tr style=3D=22font-family: Arial, Helvetica, sans-=
+serif; margin: 0; padding: 0;=22>
+                           <td align=3D=22center=22 class=3D=22logo-contain=
+er=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: cen=
+ter; margin: 0; padding: 0;=22 valign=3D=22middle=22><br />
+                           <a href=3D=22https://goldandsilver=2Eapmex=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzcz=
+cOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSUYYYCY&amp;_ei_=3DEq2tf9zs59idfPO=
+1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6i=
+uASvFH=2E=22 target=3D=22_blank=22><img class=3D=22logo=22 src=3D=22http://=
+www=2Eimages-apmex=2Ecom/images/Banners/2016/Email/apmex-logo-white-400x80=
+=2Epng=22 style=3D=22font-family: Arial, Helvetica, sans-serif;  width: 250=
+px; margin: 0; padding: 0;=22 /></a><br />
+                           &nbsp;</td>
+                        </tr>
+                        <tr style=3D=22font-family: Arial, Helvetica, sans-=
+serif; margin: 0; padding: 0;=22><=21-- THIS IS THE 3 NAV LINKS -->
+                           <td style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; text-align: center; margin: 0; padding: 0;=22 valign=3D=22middle=
+=22>
+                           <p class=3D=22header-nav=22 style=3D=22font-fami=
+ly: Arial, Helvetica, sans-serif; color: =2324a186; text-decoration: none ;=
+ font-size: 14px; margin: 0; padding: 0;display: inline-block; font-weight:=
+ bold;=22><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0=
+Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglX=
+e4AR04M6Xze9MLpVXtpKX%3DSURRWCY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8Mf=
+gXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 styl=
+e=3D=22font-family: Arial, Helvetica, sans-serif; color: =2324a186; text-de=
+coration: none; font-size: 18px; margin: 0; padding: 0;display: inline-bloc=
+k; vertical-align: bottom; =22 target=3D=22_blank=22>Gold Items</a>&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D=22https://goldandsilver=2Eapmex=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXz=
+czcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRYRY&amp;_ei_=3DEq2tf9zs59idf=
+PO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl=
+6iuASvFH=2E=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color:=
+ =2324a186; text-decoration: none; font-size: 18px; margin: 0; padding: 0;d=
+isplay: inline-block;=22 target=3D=22_blank=22>Silver Items</a>&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/p=
+ub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcO=
+OAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRYTY&amp;_ei_=3DEq2tf9zs59idfPO1S=
+c_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iuA=
+SvFH=2E=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23=
+24a186; text-decoration: none; font-size: 18px; margin: 0; padding: 0;displ=
+ay: inline-block; vertical-align: bottom;=22 target=3D=22_blank=22>Spot Pri=
+ces</a>
+                           </p>
+                           <br />
+                           &nbsp;</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- HEADER END --><=21-- MAIN CONTENT START -->
+
+<table align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 cla=
+ss=3D=22stack=22 style=3D=22font-family: Arial, Helvetica, sans-serif; disp=
+lay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0=
+; -webkit-border-vertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=
+=3D=22600=22>
+   <tbody><=21-- HEADLINE START -->
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22sect=
+ion-header=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-al=
+ign: left; display: block =21important; width: 600px; clear: both =21import=
+ant;
+				padding: 0px 0px 10px 0px; margin: 15px 0px 0px 0px;mso-padding-alt: 0p=
+x 0px 10px 0px; mso-padding: 10px 0px 0px 0px;=22 valign=3D=22middle=22><sp=
+an class=3D=22section-header=22 style=3D=22color:=2324A186; font-weight: bo=
+ld; font-size: 32px;=22>What is Premium over Spot?</span></td>
+      </tr>
+      <tr style=3D=22font-family: Arial, Helvetica, sans-serif; margin: 0; =
+padding: 0;=22>
+         <td align=3D=22left=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22contai=
+ner=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: le=
+ft; display: block =21important; clear: both =21important; margin: 0 auto; =
+padding: 0px;=22 width=3D=22600=22>
+         <table style=3D=22font-family: Arial, Helvetica, sans-serif; displ=
+ay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0;=
+ -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+            <tbody>
+               <tr>
+                  <td align=3D=22left=22 colspan=3D=222=22 valign=3D=22top=
+=22>&nbsp;
+                  <p class=3D=22headline-text=22 style=3D=22font-family: Ar=
+ial, Helvetica, sans-serif;line-height: 1=2E3; color:=23002539; font-size: =
+16px;=22>=22Spot price=22 is the <a href=3D=22https://goldandsilver=2Eapmex=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXO=
+oGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRYWY&amp;_ei_=3DEq2tf9zs5=
+9idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwo=
+ZVWl6iuASvFH=2E=22 style=3D=22text-align: center; color:=23f98d29;=22 targe=
+t=3D=22_blank=22>market price of a Precious Metal</a>, which fluctuates on =
+a minute-to-minute basis, like any commodity traded on the market=2E =22Pre=
+mium=22 is the additional cost of any Precious Metal above the spot price, =
+which accounts for the costs of doing business, such as fabrication and dis=
+tribution, and perhaps additional collectible, or numismatic, costs for rar=
+e items=2E
+                  </p>
+
+                  <p class=3D=22headline-text=22 style=3D=22font-family: Ar=
+ial, Helvetica, sans-serif;line-height: 1=2E3; color:=23002539; font-size: =
+16px;=22>Understanding premium over spot is equally important for investors=
+ and collectors=2E Investors naturally want to purchase items as close to t=
+he Silver spot price or Gold spot price as possible=2E However, collectors =
+must also be aware of the spot price of Gold and the spot price of Silver t=
+o understand how much they are paying for the numismatic aspect of a Precio=
+us Metals product=2E<br />
+                  &nbsp;
+                  </p>
+                  <=21-- SMALL PROMO BANNER START --><a href=3D=22https://g=
+oldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8e=
+JjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRYAY&=
+amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG=
+0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 target=3D=22_blank=22><img alt=3D=22=
+Learn About Gold Spot Price=22 class=3D=22banner-image=22 height=3D=22145=
+=22 src=3D=22http://www=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFoote=
+rs/725x175-Gold-Spot=2Ejpg=22 style=3D=22display:block;=22 title=3D=22Learn=
+ About Gold Spot Price=22 width=3D=22600=22 /></a><br />
+                  <=21-- SMALL PROMO BANNER END --> <span class=3D=22sectio=
+n-header=22 style=3D=22color:=2324A186; font-weight: bold; font-size: 32px;=
+=22> Spot Price Gold </span>
+
+                  <p class=3D=22headline-text=22 style=3D=22font-family: Ar=
+ial, Helvetica, sans-serif;line-height: 1=2E3; color:=23002539; font-size: =
+16px;=22>No matter how ideal, it is virtually impossible to buy exactly on =
+spot Gold price, because even <a href=3D=22https://goldandsilver=2Eapmex=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGX=
+zczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRYCY&amp;_ei_=3DEq2tf9zs59id=
+fPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVW=
+l6iuASvFH=2E=22 style=3D=22text-align: center; color:=23f98d29;=22 target=
+=3D=22_blank=22>reputable Precious Metals</a> dealers have to account for b=
+usiness costs=2E Spot Gold prices show what a dealer would pay on the open =
+market, but there will always be a modest markup=2E It is normal to pay som=
+ething over the spot price of Gold, but a wise buyer armed with information=
+ can make the best decision, and it is easy to follow <a href=3D=22https://=
+goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8=
+eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRARY=
+&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAI=
+G0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22text-align: center; colo=
+r:=23f98d29;=22 target=3D=22_blank=22>Gold spot</a> on any reputable websit=
+e=2E
+                  </p>
+
+                  <p class=3D=22headline-text=22 style=3D=22font-family: Ar=
+ial, Helvetica, sans-serif;line-height: 1=2E3; color:=23002539; font-size: =
+16px;=22>Spot Gold fluctuates constantly, so if you are considering a large=
+ purchase, watch the spot price of Gold carefully=2E A well-timed move can =
+save a tidy sum=2E It is easy to follow <a href=3D=22https://goldandsilver=
+=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03bo=
+yRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRARY&amp;_ei_=3DE=
+q2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr=
+4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22text-align: center; color:=23f98d29;=
+=22 target=3D=22_blank=22>Gold spot</a> on any reputable website=2E<br />
+                  &nbsp;
+                  </p>
+                  <=21-- SMALL PROMO BANNER START --> <a href=3D=22https://=
+goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8=
+eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRATY=
+&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAI=
+G0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 target=3D=22_blank=22> <img alt=3D=
+=22Learn About Silver Spot Price=22 class=3D=22banner-image=22 height=3D=22=
+145=22 src=3D=22http://www=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFo=
+oters/725x175-Silver-Spot=2Ejpg=22 style=3D=22display:block;=22 title=3D=22=
+Learn About Silver Spot Price=22 width=3D=22600=22 /></a><br />
+                  <=21-- SMALL PROMO BANNER END --> <span class=3D=22sectio=
+n-header=22 style=3D=22color:=2324A186; font-weight: bold; font-size: 32px;=
+=22> Spot Price Silver</span>
+
+                  <p class=3D=22headline-text=22 style=3D=22font-family: Ar=
+ial, Helvetica, sans-serif;line-height: 1=2E3; color:=23002539; font-size: =
+16px;=22>Purchasing coins or bullion exactly on Silver spot is as unlikely =
+as buying spot price Gold, but a smart buyer can get Silver much closer to =
+spot Silver price than other Precious Metals=2E For the simple reason that =
+<a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQ=
+pglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xz=
+e9MLpVXtpKX%3DSURRYTY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo=
+8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22tex=
+t-align: center; color:=23f98d29;=22 target=3D=22_blank=22>spot Silver pric=
+es</a> are lower, the premium over spot for Silver is also lower=2E<br />
+                  <br />
+                  Paying attention to <a href=3D=22https://goldandsilver=2E=
+apmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRR=
+CzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRYTY&amp;_ei_=3DEq2t=
+f9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZ=
+wVWwoZVWl6iuASvFH=2E=22 style=3D=22text-align: center; color:=23f98d29;=22 =
+target=3D=22_blank=22>spot Silver cost</a> can add up if you wish to make a=
+ large purchase, too=2E Just as with the spot price of Gold, watching for s=
+mall fluctuations in the spot Silver price makes sense if you wish to make =
+a considerable addition to your Silver investment portfolio=2E<br />
+                  &nbsp;
+                  </p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+      <=21-- HEADLINE END -->
+   </tbody>
+</table>
+<=21-- MAIN CONTENT END --><=21-- EMAIL FOOTER START --><=21-- ADDITIONAL T=
+EXT INFORMATION START -->
+
+<table align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 cla=
+ss=3D=22stack=22 style=3D=22font-family: Arial, Helvetica, sans-serif; disp=
+lay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0=
+; -webkit-border-vertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=
+=3D=22600=22>
+   <tbody>
+      <tr>
+         <td></td>
+      </tr>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22sect=
+ion-header=22 height=3D=225=22 valign=3D=22middle=22></td>
+      </tr>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; padding: 0px; margin: 50px 0 50px 0;=22 valign=3D=22middle=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22sect=
+ion-header=22 style=3D=22font-family: Arial, Helvetica, sans-serif; border-=
+top: =2324A186 solid 2px; border-bottom: =2324A186 solid 2px; text-align: c=
+enter; vertical-align: middle; display: block =21important; clear: both =21=
+important;
+						padding: 0px; margin: 15px 0 15px 0;=22 valign=3D=22middle=22>
+         <h2 style=3D=22text-align: center; color:=23002539; font-family: A=
+rial, Helvetica, sans-serif; line-height: 1=2E6;  font-size: 14px; font-wei=
+ght: normal; margin: 40px 0 40px 0; padding: 0px 0px 0px 0px; mso-padding-a=
+lt: 40px 0px 40px 0px; mso-padding: 0px 0px 0px 0px;=22>APMEX offers <a hre=
+f=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjH=
+JlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpV=
+XtpKX%3DSURRAWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-=
+acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22text-alig=
+n: center; color:=23f98d29;=22 target=3D=22_blank=22>free shipping</a> on a=
+ll domestic orders of =2499 or more=2E
+         </h2>
+         </td>
+      </tr>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22sect=
+ion-header=22 height=3D=2235=22 valign=3D=22middle=22></td>
+      </tr>
+   </tbody>
+</table>
+<=21-- ADDITIONAL TEXT INFORMATION END --><=21-- PRICE CHART BANNER START -=
+->
+
+<table align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stack=22 s=
+tyle=3D=22font-family: Arial, Helvetica, sans-serif; display: table; border=
+-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-border-v=
+ertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=3D=22600=22>
+   <tbody>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stac=
+k=22 style=3D=22font-family: Arial, Helvetica, sans-serif; text-align: left=
+; display: block =21important; width: 600px; clear: both =21important; marg=
+in: 0 auto; padding: 5px;=22>
+         <table style=3D=22font-family: Arial, Helvetica, sans-serif; displ=
+ay: table; border-collapse: separate; -webkit-border-horizontal-spacing: 0;=
+ -webkit-border-vertical-spacing: 0; width: 100%; margin: 0; padding: 0;=22>
+            <tbody>
+               <tr>
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; font-weight: normal =21important; font-family=
+: Helvetica,Arial,sans-serif =21important;=22 width=3D=22600=22>
+                  <table align=3D=22center=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 class=3D=22full=22 style=3D=22border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal =21import=
+ant;=22 width=3D=22100%=22>
+                     <tbody>
+                        <tr>
+                           <td align=3D=22center=22><a href=3D=22https://go=
+ldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJ=
+jGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSUYYARY&a=
+mp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0=
+uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 target=3D=22_blank=22><img alt=3D=22A=
+PMEX Tools & Alerts=22 class=3D=22banner-image=22 height=3D=22145=22 src=3D=
+=22http://www=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFooters/725x175=
+-apmex-tools_alerts-footer=2Ejpg=22 style=3D=22display:block;=22 title=3D=
+=22APMEX Tools & Alerts=22 width=3D=22600=22 /> </a></td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<=21-- PRICE CHART BANNER END --><=21-- ADDITIONAL TEXT INFORMATION END -->
+
+<table align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22 class=3D=22stack=22 s=
+tyle=3D=22font-family: Arial, Helvetica, sans-serif; display: table; border=
+-collapse: separate; -webkit-border-horizontal-spacing: 0; -webkit-border-v=
+ertical-spacing: 0; margin: 0 auto; padding: 0;=22 width=3D=22600=22>
+   <tbody>
+      <tr align=3D=22center=22 style=3D=22font-family: Arial, Helvetica, sa=
+ns-serif; margin: 0; padding: 0;=22>
+         <td align=3D=22center=22 style=3D=22font-family: Arial, Helvetica,=
+ sans-serif; text-align: left; display: block =21important; max-width: 600p=
+x; clear: both =21important; margin: 0 auto; padding: 5px;=22>&nbsp;
+         <table align=3D=22center=22 class=3D=22stack=22 style=3D=22font-fa=
+mily: Arial, Helvetica, sans-serif; display: table; border-collapse: separa=
+te; -webkit-border-horizontal-spacing: 0; -webkit-border-vertical-spacing: =
+0; margin: 0; padding: 0;=22 width=3D=22600=22>
+            <tbody>
+               <tr align=3D=22center=22 style=3D=22text-align: center;font-=
+weight: normal;font-size: 14px;=22>
+                  <td align=3D=22center=22 class=3D=22stack=22 style=3D=22f=
+ont-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0;=22><a href=
+=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJ=
+lYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVX=
+tpKX%3DSURRACY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-a=
+cSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22text-decor=
+ation:none =21important;display:inline-block;font-family: Arial, Helvetica,=
+ sans-serif; color: =23FFFFFF; margin: 0; padding: 0;=22 target=3D=22_blank=
+=22><img alt=3D=22Follow Us on Twitter=22 src=3D=22http://www=2Eimages-apme=
+x=2Ecom/images/Banners/2016/EmailFooters/twitter-icon=2Epng=22 style=3D=22f=
+ont-family: Arial, Helvetica, sans-serif; width: 100%; margin: 0; padding: =
+0;=22 title=3D=22Follow Us on Twitter=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3=
+DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M=
+6Xze9MLpVXtpKX%3DSURRBRY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpO=
+fvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22=
+text-decoration:none =21important;display:inline-block;font-family: Arial, =
+Helvetica, sans-serif; color: =23FFFFFF; margin: 0; padding: 0;=22 target=
+=3D=22_blank=22> <img alt=3D=22Find Us on Facebook=22 src=3D=22http://www=
+=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFooters/facebook-icon=2Epng=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; width: 100%; marg=
+in: 0; padding: 0;=22 title=3D=22Find Us on Facebook=22 /></a>&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BE=
+wiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRBTY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bbkq=
+cy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iuASvFH=2E=
+=22 style=3D=22text-decoration:none =21important;display:inline-block;font-=
+family: Arial, Helvetica, sans-serif; color: =23FFFFFF; margin: 0; padding:=
+ 0;=22 target=3D=22_blank=22> <img alt=3D=22Watch Us on YouTube=22 src=3D=
+=22http://www=2Eimages-apmex=2Ecom/images/Banners/2016/EmailFooters/youtube=
+-icon=2Epng=22 style=3D=22font-family: Arial, Helvetica, sans-serif; width:=
+ 100%; margin: 0; padding: 0;=22 title=3D=22Watch Us on YouTube=22 /></a>
+
+                  <h6 align=3D=22center=22 style=3D=22text-align: center; c=
+olor:=23002539; font-family: Arial, Helvetica, sans-serif; line-height: 1=
+=2E4; font-weight: 500; font-size: 13px;
+									margin: 0 0 0px 0px; padding: 10px 0px 0px 0px;=22><span style=3D=
+=22font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size:=
+ 16px; text-transform: uppercase;=22>APMEX, INC=2E</span><br />
+                  226 Dean A McGee Ave=2E<br />
+                  Oklahoma City, OK 73102
+                  </h6>
+                  &nbsp;
+
+                  <h6 align=3D=22center=22 style=3D=22text-align: center; c=
+olor: =23666666; font-family: Arial, Helvetica, sans-serif; line-height: 1=
+=2E6; font-size: 10px; font-weight: normal; margin: 0 0 15px 0; padding: 10=
+px 0px 0px 0px;=22>Our Account Managers are available toll free at (800) 37=
+5-9006, Mondays through Thursdays from 8 a=2Em=2E to 8 p=2Em=2E and Fridays=
+ from 8 a=2Em=2E to 6 p=2Em=2E (ET)=2E At APMEX, our integrity is as tangib=
+le as the products we buy and sell=2E Visit <a href=3D=22https://goldandsil=
+ver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E0=
+3boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRYCY&amp;_ei_=
+=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEv=
+HYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22font-size: 10px; text-align: cent=
+er; color:=23f98d29;=22 target=3D=22_blank=22>Why APMEX</a> and learn more=
+=21
+                  </h6>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+<table align=3D=22center=22 bgcolor=3D=22=23D1D1D1=22 class=3D=22header-blu=
+e=22 height=3D=2250=22 style=3D=22font-family: Arial, Helvetica, sans-serif=
+; display: table; border-collapse: separate; -webkit-border-horizontal-spac=
+ing: 0; -webkit-border-vertical-spacing: 0; width: 100%; margin: 0 auto; pa=
+dding: 0; =22>
+   <tbody>
+      <tr>
+         <td>
+         <table align=3D=22center=22 bgcolor=3D=22=23D1D1D1=22 class=3D=22h=
+eader-nav-table=22 style=3D=22font-family: Arial, Helvetica, sans-serif; di=
+splay: table; border-collapse: separate; -webkit-border-horizontal-spacing:=
+ 0; -webkit-border-vertical-spacing: 0; width: 600px; margin: 0 auto; paddi=
+ng: 0; =22>
+            <tbody>
+               <tr style=3D=22font-family: Arial, Helvetica, sans-serif; ma=
+rgin: 0; padding: 0;=22>
+                  <td></td>
+                  <td>
+                  <p align=3D=22center=22 style=3D=22color: =23828282; font=
+-size: 13px; line-height: 1=2E23em; text-align: center; font-family: Arial,=
+ Helvetica, sans-serif; font-weight: normal; padding: 0;=22><br />
+                  <strong><a href=3D=22https://goldandsilver=2Eapmex=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGXzczc=
+OOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRBWY&amp;_ei_=3DEq2tf9zs59idfPO1=
+Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZwVWwoZVWl6iu=
+ASvFH=2E=22 style=3D=22text-decoration:none; color:=23828282=22 target=3D=
+=22_blank=22>View Web Version</a> =7C <a href=3D=22https://goldandsilver=2E=
+apmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRR=
+CzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRBAY&amp;_ei_=3DEq2t=
+f9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr4NZ=
+wVWwoZVWl6iuASvFH=2E=22 style=3D=22text-decoration:none; color:=23828282=22=
+ target=3D=22_blank=22>Privacy Policy</a> =7C <a href=3D=22https://goldands=
+ilver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4=
+E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRBCY&amp;_ei=
+_=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOE=
+vHYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22text-decoration:none; color:=238=
+28282=22 target=3D=22_blank=22>FAQs</a> =7C <a href=3D=22https://goldandsil=
+ver=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E0=
+3boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSURRCRY&amp;_ei_=
+=3DEq2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEv=
+HYnr4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22text-decoration:none; color:=2382=
+8282=22 target=3D=22_blank=22>Contact Us</a></strong><br />
+                  <br />
+                  Copyright &copy; 2016 <a href=3D=22https://goldandsilver=
+=2Eapmex=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03bo=
+yRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXtpKX%3DSUYYYCY&amp;_ei_=3DE=
+q2tf9zs59idfPO1Sc_9Bbkqcy76h8MfgXN6TpOfvo8G959-acSc0XryrM7_NAIG0uDUDOEvHYnr=
+4NZwVWwoZVWl6iuASvFH=2E=22 style=3D=22text-decoration:none;color:=23828282;=
+=22 target=3D=22_blank=22><span style=3D=22color:=23828282;=22>APMEX, Inc</=
+span></a>=2E All&nbsp;rights&nbsp;reserved=2E<br />
+                  <br />
+                  If you no longer want emails from APMEX,<br />
+                  you can <a href=3D=22https://goldandsilver=2Eapmex=2Ecom/=
+pub/optout?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbUprH6jC8eJjGhmW4E03boyRRCzdXOoGX=
+zczcOOAsp3BEwiodzglXe4AR04M6Xze9MLp&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWPBfOvE=
+5PAaxMA-BRlt27gMAQjiSdHtrZeRQCr0XfDFBO02xtoOUI43HvD-EGCLZg=22 style=3D=22co=
+lor:=23828282;=22 target=3D=22_blank=22>Unsubscribe here</a>=2E
+                  </p>
+                  <br />
+                  <br />
+                  <br />
+                  <=21-- GOOGLE CODE FOR CUSTOMERS --><=21-- Remarketing ta=
+gs may not be associated with personally identifiable information or placed=
+ on pages related to sensitive categories=2E For instructions on adding thi=
+s tag and more information on the above requirements, read the setup guide:=
+ google=2Ecom/ads/remarketingsetup --><script type=3D=22text/javascript=22>
+									/* <=21=5BCDATA=5B */
+									var google_conversion_id =3D 1071975115;
+									var google_conversion_label =3D =22SdGcCP3Q9wEQy5WU_wM=22;
+									var google_custom_params =3D window=2Egoogle_tag_params;
+									var google_remarketing_only =3D true;
+									/* =5D=5D> */
+								</script><script type=3D=22text/javascript=22 src=3D=22https://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/apmex/contentlibrary/pricecha=
+rtemailseries2016/Email-Drip-Campaign-Send_05-v2///www=2Egoogleadservices=
+=2Ecom/pagead/conversion=2Ejs=22>
+								</script><noscript><div style=3D=22display:inline;=22> <img height=
+=3D=221=22 width=3D=221=22 style=3D=22border-style:none;=22 alt=3D=22=22 da=
+ta-cke-saved-src=3D=22//googleads=2Eg=2Edoubleclick=2Enet/pagead/viewthroug=
+hconversion/1071975115/?value%3D1=2E00%26amp;currency_code%3DUSD%26amp;labe=
+l%3DSdGcCP3Q9wEQy5WU_wM%26amp;guid%3DON%26amp;script%3D0=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/apmex/contentlibrary/pr=
+icechartemailseries2016/Email-Drip-Campaign-Send_05-v2///googleads=2Eg=2Edo=
+ubleclick=2Enet/pagead/viewthroughconversion/1071975115/?value%3D1=2E00%26a=
+mp;currency_code%3DUSD%26amp;label%3DSdGcCP3Q9wEQy5WU_wM%26amp;guid%3DON%26=
+amp;script%3D0=22/> </div> </td> </tr> </tbody> </table> </td> </tr> </tbod=
+y> </table> <=21--=7Bcke_protected=7D=7BC=7D%3C=21%2D%2D%20FOOTER%20END%20%=
+2D%2D%3E--> </cke:body> </cke:html>
+                  </noscript></td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table><table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22borde=
+r: 0px; padding: 0px; margin: 0px; position: absolute; display: none; float=
+: left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img height=3D=221=22 width=3D=221=22 style=3D =22padding: 0px 0px; =21=
+important; margin: 0px 0px; font-size: 1px; line-height: 1px;=22 src=3D=22h=
+ttps://goldandsilver=2Eapmex=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGzbU=
+prH6jC8eJjGhmW4E03boyRRCzdXOoGXzczcOOAsp3BEwiodzglXe4AR04M6Xze9MLpVXHkMX%3D=
+w&_ei_=3DEolaGGF4SNMvxFF7KucKuWPBfOvE5PAaxMA-BRlt27gMAQjiSdHtrZeRQCr0XfDFBO=
+02xtoOUI43HvD-EGCLZg=2E=22></img>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+

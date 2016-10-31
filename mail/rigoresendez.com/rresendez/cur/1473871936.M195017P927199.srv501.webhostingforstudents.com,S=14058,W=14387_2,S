@@ -1,0 +1,329 @@
+Return-Path: <BwBEWwoBVwJsUghXVwFSUlcAAwZWUVYDUTBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBSDA@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id OcOPC0CA2VffJQ4ATAh+fg
+	for <rresendez@rigoresendez.com>; Wed, 14 Sep 2016 12:52:16 -0400
+Return-path: <BwBEWwoBVwJsUghXVwFSUlcAAwZWUVYDUTBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBSDA@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Wed, 14 Sep 2016 12:52:16 -0400
+Received: from mta-dock-front-24.bluestatedigital.com ([66.151.230.135]:57790)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsUghXVwFSUlcAAwZWUVYDUTBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBSDA@bounce.bluestatedigital.com>)
+	id 1bkDPz-003tXn-VS
+	for rresendez@rigoresendez.com; Wed, 14 Sep 2016 12:52:16 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.178])
+	by mta-dock-front-24.bluestatedigital.com (Postfix) with ESMTP id 3sZ6yG73PjzjYNQ
+	for <rresendez@rigoresendez.com>; Wed, 14 Sep 2016 16:51:34 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=bounce.bluestatedigital.com; s=bsdkey; t=1473871895;
+	bh=nvdwDd4zJmpBlUDZSJVhJbNCELKN9xxSa1GmHUyGyEc=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=eSsS8U/4Kj2T+Ys9NPalg5b0pAI7fGONUvj/J4guSqJgsxKSFvco3UJAPpszaH6Zg
+	 ShSLlX/YciVZO82D59St+YtROVff+iz5uF+F2ZxyMOpIwsOnw8cfhd1iTMhZmaqmxF
+	 NlCDHGzHANN/ivIG+XolbDIRCN+/SjUx+JbYKbsM=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Wed, 14 Sep 2016 16:51:34 +0000
+Date: Wed, 14 Sep 2016 16:51:34 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: "OurRevolution.com" <info@ourrevolution.com>
+Reply-to: info@ourrevolution.com
+Subject: This is our chance to stop TPP
+Message-ID: <e8063020eea5a6086bf0568c9e91424f@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: a8bfda34934bf303
+X-rpcampaign: rp_177261
+X-maillist-guid: BwBEWwoBVwJsUghXVwFSUlcAAwZWUVYDUTBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBSDA
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsUghXVwFSUlcAAwZWUVYDUTBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQBSDA@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_e8063020eea5a6086bf0568c9e91424f"
+
+
+--b1_e8063020eea5a6086bf0568c9e91424f
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto,
+
+Wall Street, big corporations, and special interests all want to pass the =
+disastrous Trans-Pacific Partnership trade deal (TPP). They see the huge =
+potential profits, and they're going to do everything they can to make =
+sure it passes - and they especially hope it comes up for a vote in the =
+lame duck session of Congress.
+
+Working families want to defeat TPP because they know it means more of the =
+same like other trade deals: more jobs moving overseas and more =
+protections for corporations' reckless behavior.
+
+Today is our day of action to defeat TPP, and we're setting an ambitious =
+goal: we want Our Revolution supporters to help make 50,000 calls to =
+Congress today.
+
+Can you call your member of Congress and ask them to oppose TPP? Click =
+here for talking points and to be connected to Congress.
+
+CALL CONGRESS TO STOP TPP: =
+https://ourrevolution-bernie16.bsd.net/page/content/tpp-calls/
+
+You can also dial this number straight from your phone and contact your =
+member of Congress:
+
+1-844-311-2016
+
+We're targeting calls to the House of Representatives because that is our =
+best chance at winning the fight against TPP. If TPP passes Congress, =
+that's it. It can't be changed. TPP can't be cancelled unless all 12 =
+nations pull out. We must defeat it before it's too late.
+
+Our Revolution is helping lead a huge coalition of labor and environmental =
+groups with millions of members who are committed to defeating TPP. We're =
+excited to have you as part of this effort.
+
+Click here to be connected to Congress and to read talking points about =
+TPP:
+
+https://ourrevolution-bernie16.bsd.net/page/content/tpp-calls/
+
+You can also call 1-844-311-2016 on your phone.
+
+Thank you.
+
+In solidarity,
+
+Larry Cohen
+Board Chair, Our Revolution
+Former President, Communication Workers of America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Our Revolution
+
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE. OUR REVOLUTION IS =
+A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION ARE NOT =
+DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX PURPOSES.
+(not the billionaires)
+
+603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to Our =
+Revolution here: https://secure.actblue.com/contribute/page/ourrevolution?=
+refcode=3Demail_footer.
+
+
+--b1_e8063020eea5a6086bf0568c9e91424f
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+         div{
+         font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+         font-weight: 400;
+         font-size: 17px;
+         line-height:140%;
+         color: #364350;
+         }
+         a{
+         color: #147FD7;
+         }
+         .express-lane-links .link{
+         margin: 0;
+         }
+         .express-lane-links .link a{
+         font-family: sans-serif;
+         font-size: 18px;
+         background-color: #147FD7;
+         border-top: 1px solid #1e88e0;
+         border-bottom: 2px solid #0e72c4;
+         width: 290px;
+         margin: 12px auto;
+         border-radius: 4px;
+         text-align: center;
+         color: white;
+         text-decoration: none;
+         padding: 12px 5px;
+         font-weight:700;
+         display: block;
+         text-transform: uppercase;
+         letter-spacing: 0.075em;
+         }
+         .express-lane-links .link a:hover{
+         background-color: #1e88e0;
+         }
+         .express-lane-links .link.other a{
+         font-size: 17px;
+         }
+      </style></head><body><h1 style=3D"text-align: center; padding: 25px =
+0 20px 0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Our Revolution" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Our%20Revolution/OurRev-Logo=
+-160827-335px.png"></h1>
+   <!--[if mso]>
+   <center>
+      <table>
+         <tr>
+            <td width=3D"600">
+               <![endif]-->
+               <div style=3D"max-width: 600px; margin: 0 auto;"><p =
+style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Rigoberto,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Wall Street, big corporations, and special interests all want to pass the =
+disastrous Trans-Pacific Partnership trade deal (TPP). They see the huge =
+potential profits, and they're going to do everything they can to make =
+sure it passes &ndash; and they especially hope it comes up for a vote in =
+the lame duck session of Congress.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Working families want to defeat TPP because they know it means more of =
+the same like other trade deals: more jobs moving overseas and more =
+protections for corporations' reckless behavior.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong><a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">Today</a> is our day of action to defeat TPP, and we're setting =
+an ambitious goal: we want Our Revolution supporters to help make 50,000 =
+calls to Congress <a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">today</a>.</strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Can you call your member of Congress and ask them to oppose TPP? <a =
+href=3D"https://ourrevolution-bernie16.bsd.net/page/content/tpp-calls/" =
+style=3D"text-decoration:underline;" title=3D"https://ourrevolution-bernie=
+16.bsd.net/page/content/tpp-calls/"><strong>Click here for talking points =
+and to be connected to Congress.</strong></a></p>
+<p style=3D"font-family: Arial; font-size: 17px; line-height: 140%; =
+margin:0;">
+	<strong><a =
+href=3D"https://ourrevolution-bernie16.bsd.net/page/content/tpp-calls/" =
+style=3D"font-family: sans-serif; font-size: 16px; background-color: =
+#147FD7; border-top: 1px solid #1e88e0; border-bottom: 2px solid #0e72c4; =
+width: 300px; margin: 12px auto; border-radius: 4px; text-align: center; =
+color: white; text-decoration: none; padding: 12px 5px 11px; =
+font-weight:700; display: block; text-transform: uppercase; =
+letter-spacing: 0.075em;" title=3D"https://ourrevolution-bernie16.bsd.net/=
+page/content/tpp-calls/">CALL CONGRESS TO STOP TPP</a></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>You can also dial this number straight from your phone and =
+contact your member of Congress:</strong></p>
+<p align=3D"center" style=3D"font-size: 25px; font-family: Arial; =
+line-height:140%;">
+	<a href=3D"tel:18443112016"><strong>1-844-311-2016</strong></a></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We're targeting calls to the House of Representatives because that is our =
+best chance at winning the fight against TPP. If TPP passes Congress, =
+that's it. It can't be changed. TPP can't be cancelled unless all 12 =
+nations pull out. We must defeat it before it's too late.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Our Revolution is helping lead a huge coalition of labor and =
+environmental groups with millions of members who are committed to =
+defeating TPP. We're excited to have you as part of this effort.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a =
+href=3D"https://ourrevolution-bernie16.bsd.net/page/content/tpp-calls/" =
+style=3D"text-decoration:underline;" title=3D"https://ourrevolution-bernie=
+16.bsd.net/page/content/tpp-calls/"><strong>Click here to be connected to =
+Congress and to read talking points about TPP</strong></a>; you can also =
+call <a href=3D"tel:18443112016"><strong>1-844-311-2016</strong></a> on =
+your phone.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Thank you.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Larry Cohen<br>
+	Board Chair, Our Revolution<br>
+	Former President, Communication Workers of America</p>
+<br><p>
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/stop-the_tp=
+p?refcode=3Dem160914-tpp" style=3D"font-family: sans-serif; font-size: =
+18px; background-color: #E9514F; border-top: 1px solid #E9514F; =
+border-bottom: 2px solid #E9514F; width: 300px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/stop-the_tpp?refcode=3Dem160914-tpp">Contri=
+bute</a></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<br><br><br><br><br><br><br><br><br><br></div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px; font-size: 12px; max-width:400px;">PAID FOR BY OUR REVOLUTION<br><br>
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE.<br><br>OUR =
+REVOLUTION IS A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION =
+ARE NOT DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX =
+PURPOSES.</p>
+                  <p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb0970/43b7f9e2/35a1977b=
+/62010d9d/2879445793/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_e8063020eea5a6086bf0568c9e91424f--
+
+

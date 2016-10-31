@@ -1,0 +1,285 @@
+Return-Path: <noreply@e.fiverr.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id sefrCENnAFhTNggATAh+fg
+	for <rresendez@rigoresendez.com>; Fri, 14 Oct 2016 01:04:03 -0400
+Return-path: <noreply@e.fiverr.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Fri, 14 Oct 2016 01:04:03 -0400
+Received: from e.fiverr.com ([162.242.133.147]:33069 helo=mailer04.fiverr.com)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <noreply@e.fiverr.com>)
+	id 1buuf4-002Fz6-PF
+	for rresendez@rigoresendez.com; Fri, 14 Oct 2016 01:04:03 -0400
+Received: from fiverr.com (fiverr-worker-05 [10.209.65.201])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mailer04.fiverr.com (Postfix) with ESMTPS id 59A031656F4
+	for <rresendez@rigoresendez.com>; Fri, 14 Oct 2016 05:03:22 +0000 (UTC)
+Date: Fri, 14 Oct 2016 05:03:22 +0000
+From: Fiverr <noreply@e.fiverr.com>
+To: rresendez@rigoresendez.com
+Message-ID: <5800671a56807_3457e319941057406e9@fiverr-worker-05.mail>
+Subject: Fiverr: Activate Your New Account
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_5800671a55f0b_3457e319941057405e8";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_5800671a55f0b_3457e319941057405e8
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<body>
+
+    <img style=3D"display:none !important;" src=3D"https://www.fiverr.com=
+/js_event_tracking/v1/track_email_open/1476421402?email_id=3D197777d9633c=
+d65cb20b86cb857e59bd&amp;user_id=3D46705067"><title>Fiverr</title>
+
+
+    =
+
+    <table cellspacing=3D"0" cellpadding=3D"0" border-collapse=3D"collaps=
+e" style=3D"padding: 30px 10px;
+            background: #eee;
+            width: 100%;
+            font-family: arial;">
+
+        <tbody>
+            <tr>
+                <td>
+                    <table align=3D"center" cellspacing=3D"0" style=3D"ma=
+x-width: 650px;
+                            min-width:320px;
+                        ">
+                        <tbody>
+                            <tr>
+                                <td style=3D"text-align: left;
+                                    padding-bottom: 14px;">
+                                    <img align=3D"left" alt=3D"Fiverr" sr=
+c=3D"http://cdnil20.fiverrcdn.com/assets/v2_emails/email_logo-a0883158efd=
+aa30f5c507a1c24982905.png">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"background:=
+ #fff;
+                                    border: 1px solid #e4e4e4;
+                                    padding:50px 30px;">
+
+                                    			<div itemscope itemtype=3D"http://=
+schema.org/EmailMessage">
+			  <div itemprop=3D"action" itemscope itemtype=3D"http://schema.org/Con=
+firmAction">
+			    <meta itemprop=3D"name" content=3D"Activate Account">
+			    <div itemprop=3D"handler" itemscope itemtype=3D"http://schema.org/=
+HttpActionHandler">
+			      <link itemprop=3D"url" href=3D"http://www.fiverr.com/activate_fr=
+om_gmail_action/TVsbm9gPw6khTV8IPt6?cr=3D5800671a">
+			    </div>
+			  </div>
+			  <meta itemprop=3D"description" content=3D"Activate Your Account">
+			</div>
+		<table align=3D"center">
+			<tbody>
+				<tr>
+					<td style=3D"border-bottom:1px solid #dfdfd0;
+						color: #666;
+						text-align: center;
+						padding-bottom: 30px;">
+
+
+
+						<table align=3D"center" style=3D"margin:auto;">
+    <tbody>
+
+        <tr>
+            <td style=3D"color: #666;
+                font-size: 20px;
+                font-weight: bold;
+                text-align: center;
+                font-family: arial;">
+
+                Hi rresendez, Welcome to Fiverr!
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+						<table align=3D"center" style=3D"margin:auto;">
+							<tbody>
+								<tr>
+									<td style=3D"color: #666;
+										font-size:16px;
+										padding-bottom: 30px;
+										text-align: center;
+										font-family: arial;">
+
+										Click below to confirm your email address and get started.
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+							<table align=3D"center" style=3D"margin:auto;">
+		<tbody>
+			<tr>
+				<td style=3D"background-color: #00b22d;
+					border: 1px solid #028a25;
+					border-radius: 3px;
+					text-align: center;">
+					<a href=3D"http://www.fiverr.com/linker?activation_token=3DTVsbm9gPw=
+6khTV8IPt6&amp;view=3Dactivation" style=3D"padding: 16px 20px;
+						display: block;
+						text-decoration: none;
+						color: #fff;
+						font-size: 16px;
+						text-align: center;
+						font-family: arial;
+						font-weight: bold;">ACTIVATE YOUR ACCOUNT</a>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+					</td>
+				</tr>
+				<tr>
+					<td style=3D"color: #aaa;
+						padding: 15px;
+						font-size: 11px;
+						line-height: 15px;
+						text-align: left;">
+
+						<div style=3D"color: #aaa;
+							padding-bottom: 15px;
+							font-family: arial;">
+
+							If the above button does not work, copy and paste the following UR=
+L in a new browser window: <a href=3D"http://www.fiverr.com/linker?activa=
+tion_token=3DTVsbm9gPw6khTV8IPt6&amp;view=3Dactivation" target=3D"blank" =
+style=3D"color:#00b22c">http://www.fiverr.com/linker?activation_token=3DT=
+Vsbm9gPw6khTV8IPt6&amp;view=3Dactivation</a>
+						</div>
+
+						<div style=3D"color: #aaa;
+							font-family: arial;">
+							It is also a good idea to add <a href=3D"" style=3D"color:#aaa">no=
+reply@e.fiverr.com</a> to your address book to ensure that you receive ou=
+r messages (no spam, we promise!).
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+                                </td>
+                            </tr>
+
+                            =
+
+                            <tr>
+                                <td align=3D"center" style=3D"background:=
+ #636363; border: 1px solid #e4e4e4; border-top: none; padding: 24px 10px=
+;">
+
+                                    <table align=3D"center" style=3D"widt=
+h: 100%; max-width: 650px;">
+                                        <tbody>
+                                            <tr>
+                                                <td style=3D"font-size:20=
+px;line-height:27px;text-align:center;max-width:650px;padding-bottom:20px=
+">
+                                                    <a href=3D"https://ww=
+w.fiverr.com/ios_app?from_email=3Dtrue" style=3D"text-decoration: none; c=
+olor: white;">
+                                                        All the Gigs you =
+need also in your pocket
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style=3D"text-align: =
+center;">
+                                                    <a href=3D"http://app=
+.appsflyer.com/id346080608?pid=3DOrganic&amp;c=3DEmails_System" target=3D=
+"_blank" style=3D"text-decoration:none; margin-bottom:10px; display:inlin=
+e-block; margin-right:15px;">
+                                                        <img width=3D"201=
+" height=3D"60" border=3D"0" src=3D"https://cdnil0.fiverrcdn.com/email_as=
+sets/welcome_buyer/download-ios_EN.png?1423386820" alt=3D"Download on the=
+ App Store">
+                                                    </a>
+
+                                                    <a href=3D"http://app=
+.appsflyer.com/com.fiverr.fiverr?pid=3DOrganic&amp;c=3DEmails_System" tar=
+get=3D"_blank" style=3D"text-decoration:none; display:inline-block;">
+                                                       <img width=3D"201"=
+ height=3D"60" border=3D"0" src=3D"https://cdnil0.fiverrcdn.com/email_ass=
+ets/welcome_buyer/download-android_EN.png?1423386821" alt=3D"Download on =
+the Play Store">
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <table align=3D"center" style=3D"max-width: 650px;">
+
+                        <tr>
+                            <td style=3D"color: #b4b4b4;
+                                font-size: 11px;
+                                padding-top: 10px;
+                                line-height: 15px;
+                                font-family: arial;">
+                                =C2=A9 Fiverr International Limited 2010-=
+2016, Fiverr Inc. | 401 Broadway, Suite 1600 New York NY, 10013 USA. Appl=
+e, the Apple logo and iPhone are trademarks of Apple Inc., registered in =
+the U.S. and other countries. App Store is a service mark of Apple Inc.
+                            </td>
+
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    =
+
+<style>@media print{#_t { background-image: url('https://0lsd2pin.emltrk.=
+com/0lsd2pin?p&d=3Drresendez@rigoresendez.com');}} div.OutlookMessageHead=
+er {background-image:url('https://0lsd2pin.emltrk.com/0lsd2pin?f&d=3Drres=
+endez@rigoresendez.com')} table.moz-email-headers-table {background-image=
+:url('https://0lsd2pin.emltrk.com/0lsd2pin?f&d=3Drresendez@rigoresendez.c=
+om')} blockquote #_t {background-image:url('https://0lsd2pin.emltrk.com/0=
+lsd2pin?f&d=3Drresendez@rigoresendez.com')} #MailContainerBody #_t {backg=
+round-image:url('https://0lsd2pin.emltrk.com/0lsd2pin?f&d=3Drresendez@rig=
+oresendez.com')}</style>
+<div id=3D"_t"></div>
+<img src=3D"https://0lsd2pin.emltrk.com/0lsd2pin?d=3Drresendez@rigoresend=
+ez.com" width=3D"1" height=3D"1" border=3D"0">
+      <img src=3D"https://www.google-analytics.com/collect?v=3D1&amp;tid=3D=
+UA-12078752-14&amp;cid=3D5b8dbd04-232a-4e38-84fb-477e0fa3cc4d&amp;uid=3D0=
+&amp;t=3Devent&amp;ec=3Demail_open&amp;ea=3Dactivation_instructions">
+
+
+
+
+</body>=
+
+----==_mimepart_5800671a55f0b_3457e319941057405e8--

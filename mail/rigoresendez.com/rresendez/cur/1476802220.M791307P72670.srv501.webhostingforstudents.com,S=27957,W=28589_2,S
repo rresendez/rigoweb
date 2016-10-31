@@ -1,0 +1,632 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id qe0cL6w2BljeGwEATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 18 Oct 2016 10:50:20 -0400
+Return-path: <mailer@infusionmail.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 18 Oct 2016 10:50:20 -0400
+Received: from mta-c-24-41.infusionmail.com ([208.76.24.41]:23372)
+	by srv501.webhostingforstudents.com with esmtp (Exim 4.87)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1bwVie-000ItD-FD
+	for rresendez@rigoresendez.com; Tue, 18 Oct 2016 10:50:20 -0400
+DKIM-Signature: v=1; a=rsa-sha1; d=infusionmail.com; s=dkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@infusionmail.com; t=1476802179;
+	h=From:Sender:Subject:Date:To:MIME-Version:Content-Type;
+	bh=qEf28avWAo3nunq8HjltWxcgaQg=;
+	b=npPLId8msYgUynK8fgkVO+kutByJ904QAFfwAzBYj8pfg7xPL2VLMB2dkbcB3VRt
+	gdbIDZoAzLo0f5LcSUwS9GeMicDn00dAdtOP5aOsclEzKnzUu+5wo0w0e2fjPVsA
+	2jk56VIgjwue7D00K/oGxNvdkekw6Cs2z1HYo226yqU=;
+Pool-Debug: rg241 value
+Pool-Name: default_value
+x-sieve: enabled
+Pool-Version: 2
+Received: from [10.0.0.231] ([10.0.0.231:58586] helo=buzzsaw)
+	by phxme2 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 75/24-07173-38636085; Tue, 18 Oct 2016 10:49:39 -0400
+Date: Tue, 18 Oct 2016 10:49:38 -0400 (EDT)
+From: Trevor Page <trevor@craftycodr.com>
+Sender: mailer@infusionmail.com
+To: rresendez@rigoresendez.com
+Message-ID: <230649644.844061476802178184.JavaMail.tomcat@buzzsaw>
+Subject: This week in Java...
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_84488_1876344313.1476802178182"
+X-MailSentId: 313707
+X-campaignid: infusion_rg241313707
+Feedback-ID: rg241:rg241_313707:value
+X-BatchId: 55615
+X-InfApp: rg241
+X-InfContact: 95887
+X-InfSent: 3274931
+X-inf-package: value
+X-inf-uflags: SO
+X-inf-iflags: SO
+List-Unsubscribe: <https://rg241.infusionsoft.com/app/optOut/noConfirm/3274931/12dba428d2ee7115>
+
+------=_Part_84488_1876344313.1476802178182
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://rg241.infusionsoft.com/app/hostedEmail/3274931/12dba428d2ee7115
+------=_Part_84488_1876344313.1476802178182
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic" type="text/css" rel="stylesheet" />
+<style type="text/css">
+#outlook a {padding: 0;}.ReadMsgBody, .ExternalClass {width: 100%;}.ExternalClass * {line-height: 100%;}body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }table, td { border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; }.column { display: inline-block; width: 100%; text-align: left; vertical-align: top; }@media only screen and (min-width:480px) {.column-100, * [aria-labelledby='column-100'] { width: 100% !important; display: inline-block; text-align: left; vertical-align: top; }.column-50, * [aria-labelledby='column-50'] { width: 50% !important; display: inline-block; text-align: left; vertical-align: top; }.column-33, * [aria-labelledby='column-33'] { width: 33% !important; display: inline-block; text-align: left; vertical-align: top; }}@media only screen and (max-width:479px) {.socialBlock, td.imageBlock, .buttonBlock, .alignmentContainer { text-align: center !important }.alignmentContainer table { margin-right: auto; margin-left: auto;}}
+</style>
+</head>
+<body style="background:#ffffff">
+<div style="background:#ffffff">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 0px; text-align: center;">
+<img src="https://d1yoaun8syyxxt.cloudfront.net/rg241-3437401e-af4b-4b5c-9fc0-4456a6bd06a3-v2" alt="image" width="258" style="width: 43%; margin-left: auto; margin-right: auto;" />
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: center;">
+<div>
+<!--[if mso]>
+<hr xmlns="http://www.w3.org/1999/xhtml" align="center" style="width: 100%; border-color: rgb(221, 221, 221); background-color: rgb(221, 221, 221); color: rgb(221, 221, 221); border-width: 1px 0px 0px; height: 1px;" />
+<![endif]-->
+<div style="width: 100%; border-color: rgb(221, 221, 221); background-color: rgb(221, 221, 221); color: rgb(221, 221, 221); height: 1px; margin: 0px auto; mso-hide:all;" xmlns="http://www.w3.org/1999/xhtml">
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<h2 style="text-align: center; color: rgb(56, 56, 56); font-family: Helvetica, Arial, sans-serif; font-size: 18px; padding: 0px; margin: 0px; line-height: 1.6; font-weight: bold;" class="bard-text-block style-scope">
+Upgrading to Java 8
+</h2>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Hello fellow coder,
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+It's been a while since I've email my email subscribers, and I want to change that.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+I'm shooting to put together a helpful email to send out to you on a weekly (or maybe bi-weekly) basis. The goal of which is to help keep you informed as to what's going on in the programming world as well as any helpful articles I stumbled across.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+First up is to talk about what's been going on in the Coders Campus Podcast. <a href="https://rg241.infusionsoft.com/app/linkClick/5775/3accf912731f48d2/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Episode 14 of the podcast</a> is live and it'll teach you about two big tips for upgrading your Java code to version 8.
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 0px; text-align: center;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5777/4acfb932f44444b6/3274931/12dba428d2ee7115" target="_blank" style="margin-left: auto; margin-right: auto;"><img src="https://d1yoaun8syyxxt.cloudfront.net/rg241-a764ff03-25ba-4465-a30a-617d3e422b9e-v2" alt="Click 'Display Images'" width="252" style="width: 42%;" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 0px; text-align: center;">
+<div style="padding-top: 10px;">
+<!--[if mso]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" filled="f" stroked="false" style="width:10;height:10"></v:rect><![endif]--> 
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 0px; text-align: center;">
+<div style="padding-top: 15px;">
+<!--[if mso]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" filled="f" stroked="false" style="width:10;height:15"></v:rect><![endif]--> 
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+If you're not yet familiar with all the cool stuff that Java 8 has introduced, then I'd highly recommend checking out these articles first:
+</p><ul class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 0px; margin-left: initial; line-height: 1.6; font-family: Helvetica, Arial, sans-serif; font-size: 13px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5779/96aa19aaff57359a/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Lambdas</a>
+</li>
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5783/da76e8e3ea0308ca/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Streams</a>
+</li>
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5787/f7a1a21d5f099673/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Streams (Part II)</a>
+</li>
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5789/8c5d9ca6a4862480/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Optional Keyword</a>
+</li>
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5795/3e06f26c93eca27b/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Default Methods</a>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<h2 class="bard-text-block style-scope" style="text-align: center; color: rgb(56, 56, 56); font-family: Helvetica, Arial, sans-serif; font-size: 18px; padding: 0px; margin: 0px; line-height: 1.6; font-weight: bold;">
+For Coders Campus Members
+</h2>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:300px;">
+<![endif]-->
+<div class="column column-50" aria-labelledby="column-50">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Members of the Coders Campus have spoken up and told me what they wanted to learn about next. Turns out, you guys want to learn about <b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">Angular JS</b>!
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+You spoke, I listened, and have started putting together a tutorial series on the <b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">Angular JS</b> framework. 
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+If you're already a member, you can <a href="https://rg241.infusionsoft.com/app/linkClick/5801/9741c4f8aceef1e8/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">login here</a> to view the videos.
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:300px;">
+<![endif]-->
+<div class="column column-50" aria-labelledby="column-50">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 0px; text-align: center;">
+<img src="https://d1yoaun8syyxxt.cloudfront.net/rg241-8d0b0871-eba1-4f41-96bf-47018a23d4c3-v2" alt="image" width="300" style="width: 100%; margin-left: auto; margin-right: auto;" />
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<h2 class="bard-text-block style-scope" style="text-align: center; color: rgb(56, 56, 56); font-family: Helvetica, Arial, sans-serif; font-size: 18px; padding: 0px; margin: 0px; line-height: 1.6; font-weight: bold;">
+Around the Web
+</h2>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+I just read through a great article written by a developer who was reflecting on their journey of learning how to code.
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5803/1705256a01863352/3274931/12dba428d2ee7115" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">In the article</a>, the author outlines what he wished he'd known when he started coding.
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+My favorite part is his view on testing and continuous learning ;)
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255); margin: 0px auto;">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: center;">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+<a href="https://rg241.infusionsoft.com/app/linkClick/5773/9dc92dbf7e3832b9/3274931/12dba428d2ee7115" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Unsubscribe</a>
+</p>
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+Crafty Codr Inc. 551B Old Abbey Court Waterloo, Ontario N2K 3V3 Canada
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" src="https://rg241.infusionsoft.com/app/emailOpened/3274931/55615"></body>
+</html>
+------=_Part_84488_1876344313.1476802178182--
+

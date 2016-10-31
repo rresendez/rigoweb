@@ -1,0 +1,408 @@
+Return-Path: <bounce-md_9656357.57f604b8.v1-2e5322557c0f4b18b9287776d05d8eb5@mandrillapp.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id JJ2DEN8E9leKZQoATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 06 Oct 2016 04:01:35 -0400
+Return-path: <bounce-md_9656357.57f604b8.v1-2e5322557c0f4b18b9287776d05d8eb5@mandrillapp.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 06 Oct 2016 04:01:35 -0400
+Received: from mail5.mcsignup.com ([205.201.136.19]:14704)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-md_9656357.57f604b8.v1-2e5322557c0f4b18b9287776d05d8eb5@mandrillapp.com>)
+	id 1bs3cU-002pds-WC
+	for rresendez@rigoresendez.com; Thu, 06 Oct 2016 04:01:35 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail5.mcsignup.com;
+ h=From:Sender:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=social@mail5.mcsignup.com;
+ bh=hGEpJZIeNLj/MqdZGl6VANwE2bI=;
+ b=n8IIV+jS4v/b4CDBwEQtxW/HDqRJcKpADGSBHIOgOJQahdQDlm4qtyUjv4cDgqA3JlcJMQmJEXgr
+   DDK/+qMYzGssB35HjPZ1tpOAMCQ3ahvxiYOmXvQ63Qdan3mQXsw6Oo77PLDRYGEH1tEzxdOgbSPW
+   Y4M/gH/cyd6VXRKht14=
+Received: from pmta07.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail5.mcsignup.com id huo2du174e0a for <rresendez@rigoresendez.com>; Thu, 6 Oct 2016 08:00:54 +0000 (envelope-from <bounce-md_9656357.57f604b8.v1-2e5322557c0f4b18b9287776d05d8eb5@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1475740856; h=From : 
+ Sender : Subject : To : Message-Id : Date : MIME-Version : Content-Type 
+ : From : Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=9+0SDRBSMTUW0bxTJ0fb7lbNh3ChEEPf1It/ug/jRlc=; 
+ b=NkkZCH1y9zg11MuB5SnDfFgWHixhoaNn5xG00ee85+b0JlhzkAd/Ye11RrTzpmLY8XM8kW
+ fcRuPGXfgIpi9Z7vD6n1sVQ1EVWJpfDhhHJGREiM7HtbdU3piR/dasZQ8cDmeCq7oFCNhTbP
+ tMOHLvSdX4n7/drlSAhFp/d9mWhNI=
+From: =?utf-8?Q?Udacity=20Blog?= <social@udacity.com>
+Sender: =?utf-8?Q?Udacity=20Blog?= <social@mail5.mcsignup.com>
+Subject: Udacity Blog Subscribers: Please Confirm Subscription
+X-Accounttype: pd
+X-Auto-Response-Suppress: OOF, AutoReply
+Auto-Submitted: auto-generated
+To: "=?utf-8?Q?rresendez=40rigoresendez.com?=" <rresendez@rigoresendez.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=9656357.2e5322557c0f4b18b9287776d05d8eb5
+X-Mandrill-User: md_9656357
+Message-Id: <9656357.20161006080056.57f604b8106899.75294410@mail5.mcsignup.com>
+Date: Thu, 06 Oct 2016 08:00:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-7G2se09jpMCLeqJE_HNWNw"
+
+--_av-7G2se09jpMCLeqJE_HNWNw
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+** Please Confirm Subscription
+------------------------------------------------------------
+Yes, subscribe me to this list. (https://udacity.us9.list-manage.com/subscribe/confirm?u=4d05b2ee9291e1caafe0113a7&id=cbed5f65c4&e=64de8a65b8)
+
+If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above.
+
+For questions about this list, please contact:
+social@udacity.com (mailto:social@udacity.com)
+--_av-7G2se09jpMCLeqJE_HNWNw
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" dir=3D"ltr">
+    <head>
+        <title>Udacity Blog Subscribers</title>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <meta name=3D"description" content=3D"Udacity Blog Subscribers Emai=
+l Forms">
+        <meta name=3D"keywords" content=3D"Udacity Blog Subscribers">
+        
+    <style type=3D"text/css">
+=09=09body{
+=09=09=09font:14px/20px 'Helvetica', Arial, sans-serif;
+=09=09=09margin:0;
+=09=09=09padding:75px 0 0 0;
+=09=09=09text-align:center;
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09p{
+=09=09=09padding:0 0 10px 0;
+=09=09}
+=09=09h1 img{
+=09=09=09max-width:100%;
+=09=09=09height:auto !important;
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09h2{
+=09=09=09font-size:22px;
+=09=09=09line-height:28px;
+=09=09=09margin:0 0 12px 0;
+=09=09}
+=09=09h3{
+=09=09=09margin:0 0 12px 0;
+=09=09}
+=09=09.headerBar{
+=09=09=09background:none;
+=09=09=09padding:0;
+=09=09=09border:none;
+=09=09}
+=09=09.wrapper{
+=09=09=09width:600px;
+=09=09=09margin:0 auto 10px auto;
+=09=09=09text-align:left;
+=09=09}
+=09=09input.button{
+=09=09=09border:none !important;
+=09=09}
+=09=09.button{
+=09=09=09display:inline-block;
+=09=09=09font-weight:500;
+=09=09=09font-size:16px;
+=09=09=09line-height:42px;
+=09=09=09font-family:'Helvetica', Arial, sans-serif;
+=09=09=09width:auto;
+=09=09=09white-space:nowrap;
+=09=09=09height:42px;
+=09=09=09margin:12px 5px 12px 0;
+=09=09=09padding:0 22px;
+=09=09=09text-decoration:none;
+=09=09=09text-align:center;
+=09=09=09cursor:pointer;
+=09=09=09border:0;
+=09=09=09border-radius:3px;
+=09=09=09vertical-align:top;
+=09=09}
+=09=09.button span{
+=09=09=09display:inline;
+=09=09=09font-family:'Helvetica', Arial, sans-serif;
+=09=09=09text-decoration:none;
+=09=09=09font-weight:500;
+=09=09=09font-style:normal;
+=09=09=09font-size:16px;
+=09=09=09line-height:42px;
+=09=09=09cursor:pointer;
+=09=09=09border:none;
+=09=09}
+=09=09.rounded6{
+=09=09=09border-radius:6px;
+=09=09}
+=09=09.poweredWrapper{
+=09=09=09padding:20px 0;
+=09=09=09width:560px;
+=09=09=09margin:0 auto;
+=09=09}
+=09=09.poweredBy{
+=09=09=09display:block;
+=09=09}
+=09=09span.or{
+=09=09=09display:inline-block;
+=09=09=09height:32px;
+=09=09=09line-height:32px;
+=09=09=09padding:0 5px;
+=09=09=09margin:5px 5px 0 0;
+=09=09}
+=09=09.clear{
+=09=09=09clear:both;
+=09=09}
+=09=09.profile-list{
+=09=09=09display:block;
+=09=09=09margin:15px 20px;
+=09=09=09padding:0;
+=09=09=09list-style:none;
+=09=09=09border-top:1px solid #eee;
+=09=09}
+=09=09.profile-list li{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:5px 0;
+=09=09=09border-bottom:1px solid #eee;
+=09=09}
+=09=09html[dir=3Drtl] .wrapper,html[dir=3Drtl] .container,html[dir=3Drtl] l=
+abel{
+=09=09=09text-align:right !important;
+=09=09}
+=09=09html[dir=3Drtl] ul.interestgroup_field label{
+=09=09=09padding:0;
+=09=09}
+=09=09html[dir=3Drtl] ul.interestgroup_field input{
+=09=09=09margin-left:5px;
+=09=09}
+=09=09html[dir=3Drtl] .hidden-from-view{
+=09=09=09right:-5000px;
+=09=09=09left:auto;
+=09=09}
+=09=09body,#bodyTable{
+=09=09=09background-color:#f3f3f3;
+=09=09}
+=09=09h1{
+=09=09=09font-size:28px;
+=09=09=09line-height:110%;
+=09=09=09margin-bottom:30px;
+=09=09=09margin-top:0;
+=09=09=09padding:0;
+=09=09}
+=09=09#templateContainer{
+=09=09=09background-color:#ffffff;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#ffffff;
+=09=09}
+=09=09.bodyContent{
+=09=09=09line-height:150%;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:14px;
+=09=09=09color:#333333;
+=09=09=09padding:20px;
+=09=09}
+=09=09a:link,a:active,a:visited,a{
+=09=09=09color:#336699;
+=09=09}
+=09=09.button:link,.button:active,.button:visited,.button,.button span{
+=09=09=09background-color:#1eb4e1 !important;
+=09=09=09color:#ffffff !important;
+=09=09}
+=09=09.button:hover{
+=09=09=09background-color:#294860 !important;
+=09=09=09color:#ffffff !important;
+=09=09}
+=09=09label{
+=09=09=09line-height:150%;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09color:#5d5d5d;
+=09=09}
+=09=09.field-group input,select,textarea,.dijitInputField{
+=09=09=09font-family:Helvetica;
+=09=09=09color:#5d5d5d !important;
+=09=09}
+=09=09.asterisk{
+=09=09=09color:#cc6600;
+=09=09=09font-size:20px;
+=09=09}
+=09=09label .asterisk{
+=09=09=09visibility:hidden;
+=09=09}
+=09=09.indicates-required{
+=09=09=09display:none;
+=09=09}
+=09=09.field-help{
+=09=09=09color:#777;
+=09=09}
+=09=09.error,.errorText{
+=09=09=09color:#e85c41;
+=09=09=09font-weight:bold;
+=09=09}
+=09@media (max-width: 620px){
+=09=09body{
+=09=09=09width:100%;
+=09=09=09-webkit-font-smoothing:antialiased;
+=09=09=09padding:10px 0 0 0 !important;
+=09=09=09min-width:300px !important;
+=09=09}
+
+}=09@media (max-width: 620px){
+=09=09.wrapper,.poweredWrapper{
+=09=09=09width:auto !important;
+=09=09=09max-width:600px !important;
+=09=09=09padding:0 10px;
+=09=09}
+
+}=09@media (max-width: 620px){
+=09=09#templateContainer,#templateBody,#templateContainer table{
+=09=09=09width:100% !important;
+=09=09=09-moz-box-sizing:border-box;
+=09=09=09-webkit-box-sizing:border-box;
+=09=09=09box-sizing:border-box;
+=09=09}
+
+}=09@media (max-width: 620px){
+=09=09.addressfield span{
+=09=09=09width:auto;
+=09=09=09float:none;
+=09=09=09padding-right:0;
+=09=09}
+
+}=09@media (max-width: 620px){
+=09=09.captcha{
+=09=09=09width:auto;
+=09=09=09float:none;
+=09=09}
+
+}</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"font: 14px/20px 'Helvetica', Arial, sans-serif=
+;margin: 0;padding: 75px 0 0 0;text-align: center;-webkit-text-size-adjust:=
+ none;background-color: #f3f3f3;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"background-color: #f3f3f=
+3;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top">
+                    =09<!-- // BEGIN CONTAINER -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" class=3D"rounded6" style=3D"b=
+order-radius: 6px;background-color: #ffffff;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top">
+                                =09<!-- // BEGIN HEADER -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600">
+                                    =09<tr>
+                                        =09<td>
+                                            =09<h1 style=3D"font-size: 28px=
+;line-height: 110%;margin-bottom: 30px;margin-top: 0;padding: 0;"><img src=
+=3D"https://gallery.mailchimp.com/4d05b2ee9291e1caafe0113a7/images/c7e4bbad=
+-1846-4538-a6cb-baac5a5f6ae2.png" alt=3D"" border=3D"0" style=3D"border: 0p=
+x none;border-color: ;border-style: none;border-width: 0px;height: 69px;wid=
+th: 600px;margin: 0;padding: 0;max-width: 100%;vertical-align: bottom;" wid=
+th=3D"600" height=3D"69"></h1>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                =09<!-- END HEADER \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top">
+                                =09<!-- // BEGIN BODY -->
+                                =09<table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"600" id=3D"templateBody" class=3D"rounded6" style=
+=3D"border-radius: 6px;background-color: #ffffff;">
+                                    =09<tr>
+                                            
+                                            <td align=3D"left" valign=3D"to=
+p" class=3D"bodyContent" style=3D"line-height: 150%;font-family: Helvetica;=
+font-size: 14px;color: #333333;padding: 20px;">
+                                                
+                                                <h2 style=3D"font-size: 22p=
+x;line-height: 28px;margin: 0 0 12px 0;">Please Confirm Subscription
+</h2>
+<a class=3D"button" href=3D"https://udacity.us9.list-manage.com/subscribe/c=
+onfirm?u=3D4d05b2ee9291e1caafe0113a7&id=3Dcbed5f65c4&e=3D64de8a65b8" style=
+=3D"color: #ffffff !important;display: inline-block;font-weight: 500;font-s=
+ize: 16px;line-height: 42px;font-family: 'Helvetica', Arial, sans-serif;wid=
+th: auto;white-space: nowrap;height: 42px;margin: 12px 5px 12px 0;padding: =
+0 22px;text-decoration: none;text-align: center;cursor: pointer;border: 0;b=
+order-radius: 3px;vertical-align: top;background-color: #1eb4e1 !important;=
+"><span style=3D"display: inline;font-family: 'Helvetica', Arial, sans-seri=
+f;text-decoration: none;font-weight: 500;font-style: normal;font-size: 16px=
+;line-height: 42px;cursor: pointer;border: none;background-color: #1eb4e1 !=
+important;color: #ffffff !important;">Yes, subscribe me to this list.</span=
+></a>
+<br>
+<div><p style=3D"padding: 0 0 10px 0;">If you received this email by mistak=
+e, simply delete it. You won't be subscribed if you don't click the confirm=
+ation link above.</p>
+<p style=3D"padding: 0 0 10px 0;">For questions about this list, please con=
+tact:
+<br><a href=3D"mailto:social@udacity.com" style=3D"color: #336699;">social@=
+udacity.com</a></p>
+</div>
+
+
+<span itemscope itemtype=3D"http://schema.org/EmailMessage">
+  <span itemprop=3D"description" content=3D"We need to confirm your email a=
+ddress."></span>
+  <span itemprop=3D"action" itemscope itemtype=3D"http://schema.org/Confirm=
+Action">
+    <meta itemprop=3D"name" content=3D"Confirm Subscription">
+    <span itemprop=3D"handler" itemscope itemtype=3D"http://schema.org/Http=
+ActionHandler">
+      <meta itemprop=3D"url" content=3D"https://udacity.us9.list-manage.com=
+/subscribe/smartmail-confirm?u=3D4d05b2ee9291e1caafe0113a7&id=3Dcbed5f65c4&=
+e=3D64de8a65b8&inline=3Dtrue">
+      <link itemprop=3D"method" href=3D"http://schema.org/HttpRequestMethod=
+/POST">
+    </span>
+  </span>
+</span>
+
+
+                                            </td>
+                                            
+                                        </tr>
+                                    </table>
+                                    <!-- END BODY \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top">
+                                =09<!-- // BEGIN FOOTER -->
+                                =09<table border=3D"0" cellpadding=3D"20" c=
+ellspacing=3D"0" width=3D"600">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"t=
+op">
+                                                
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END FOOTER \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END CONTAINER \\ -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+
+--_av-7G2se09jpMCLeqJE_HNWNw--
+

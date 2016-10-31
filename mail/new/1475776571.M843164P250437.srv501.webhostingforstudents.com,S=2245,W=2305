@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: rigorese@srv501.webhostingforstudents.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id CVM2MjuQ9ldF0gMATAh+fg
+	for <rigorese@srv501.webhostingforstudents.com>; Thu, 06 Oct 2016 13:56:11 -0400
+Return-path: <>
+Envelope-to: rigorese@srv501.webhostingforstudents.com
+Delivery-date: Thu, 06 Oct 2016 13:56:11 -0400
+Received: from mailnull by srv501.webhostingforstudents.com with local (Exim 4.87)
+	id 1bsCtv-00139b-IC
+	for rigorese@srv501.webhostingforstudents.com; Thu, 06 Oct 2016 13:56:11 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@srv501.webhostingforstudents.com>
+To: rigorese@srv501.webhostingforstudents.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1bsCtv-00139b-IC@srv501.webhostingforstudents.com>
+Date: Thu, 06 Oct 2016 13:56:11 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  Sorry, you don't have permission to send email from this server with a
+header that states the email is from hotmail.com.
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from rigorese by srv501.webhostingforstudents.com with local (Exim 4.87)
+	(envelope-from <rigorese@srv501.webhostingforstudents.com>)
+	id 1bsCtv-00139T-E9
+	for 9564292948@tmomail.net; Thu, 06 Oct 2016 13:56:11 -0400
+To: 9564292948@tmomail.net
+Subject: From rigoresendez.com/sms.php
+X-PHP-Script: rigoresendez.com/sms.php for 172.56.7.217
+Date: Thu, 6 Oct 2016 12:56:11 -0500
+Return-Path: cerveza_gratis@hotmail.com
+From: cerveza_gratis@hotmail.com
+Message-ID: <12f6cfc391f9a757f097f835749e561f@rigoresendez.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_12f6cfc391f9a757f097f835749e561f"
+
+--b1_12f6cfc391f9a757f097f835749e561f
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Ho
+
+
+--b1_12f6cfc391f9a757f097f835749e561f
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Ho
+
+
+
+--b1_12f6cfc391f9a757f097f835749e561f--
+

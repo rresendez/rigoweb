@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: rigorese@srv501.webhostingforstudents.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id qXMqNy2z5Fc9EgYATAh+fg
+	for <rigorese@srv501.webhostingforstudents.com>; Fri, 23 Sep 2016 00:44:29 -0400
+Return-path: <>
+Envelope-to: rigorese@srv501.webhostingforstudents.com
+Delivery-date: Fri, 23 Sep 2016 00:44:29 -0400
+Received: from mailnull by srv501.webhostingforstudents.com with local (Exim 4.87)
+	id 1bnILd-001fbD-QS
+	for rigorese@srv501.webhostingforstudents.com; Fri, 23 Sep 2016 00:44:29 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@srv501.webhostingforstudents.com>
+To: rigorese@srv501.webhostingforstudents.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1bnILd-001fbD-QS@srv501.webhostingforstudents.com>
+Date: Fri, 23 Sep 2016 00:44:29 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  Sorry, you don't have permission to send email from this server with a
+header that states the email is from hotmail.com.
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from rigorese by srv501.webhostingforstudents.com with local (Exim 4.87)
+	(envelope-from <rigorese@srv501.webhostingforstudents.com>)
+	id 1bnILd-001fbA-Oq
+	for 9564292948@tmomail.net; Fri, 23 Sep 2016 00:44:29 -0400
+To: 9564292948@tmomail.net
+Subject: Visit rigoresendez.com/sms.php to send a message
+X-PHP-Script: rigoresendez.com/sms.php for 24.243.100.162
+Date: Thu, 22 Sep 2016 23:44:29 -0500
+Return-Path: cerveza_gratis@hotmail.com
+From: cerveza_gratis@hotmail.com
+Message-ID: <2c3983a285e11a6d92eace5f4e801674@rigoresendez.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2c3983a285e11a6d92eace5f4e801674"
+
+--b1_2c3983a285e11a6d92eace5f4e801674
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+asdasd
+
+
+--b1_2c3983a285e11a6d92eace5f4e801674
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+asdasd
+
+
+
+--b1_2c3983a285e11a6d92eace5f4e801674--
+

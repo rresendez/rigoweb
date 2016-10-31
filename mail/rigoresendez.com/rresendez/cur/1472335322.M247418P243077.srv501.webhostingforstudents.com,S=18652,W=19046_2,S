@@ -1,0 +1,394 @@
+Return-Path: <BwBEWwoBVwJsAFUFUAFRU1VYUgEEVlFVBzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0OXQJW@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id eP6kDtoNwleFtQMATAh+fg
+	for <rresendez@rigoresendez.com>; Sat, 27 Aug 2016 18:02:02 -0400
+Return-path: <BwBEWwoBVwJsAFUFUAFRU1VYUgEEVlFVBzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0OXQJW@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sat, 27 Aug 2016 18:02:02 -0400
+Received: from mta-dock-front-29.bluestatedigital.com ([69.25.202.112]:45308)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsAFUFUAFRU1VYUgEEVlFVBzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0OXQJW@bounce.bluestatedigital.com>)
+	id 1bdlfu-00118S-0o
+	for rresendez@rigoresendez.com; Sat, 27 Aug 2016 18:02:02 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.223])
+	by mta-dock-front-29.bluestatedigital.com (Postfix) with ESMTP id 3sMBh20Gclz9ryF
+	for <rresendez@rigoresendez.com>; Sat, 27 Aug 2016 22:01:22 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=bounce.bluestatedigital.com; s=bsdkey; t=1472335282;
+	bh=Falb1BFIRLxeRbN/AXBcRaMZ5UdFd0pJCJytGabJbtU=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=qULzyMOxgk9PCDx1yd2Ku0sBXg/a+B6bfoEAdeF/pBdQRDR7HIcxlev7r0an8dvTK
+	 EMhnOwDbJFDfwmLTGnGQK0jp3aSaSAgH/YkKOgdTtF++H5dFY28Mz6/9qFdoTadv/y
+	 Xj22xYRCXxwE4t1XvKFga9+YpcTVQco4B6gZeKow=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Sat, 27 Aug 2016 22:01:21 +0000
+Date: Sat, 27 Aug 2016 22:01:21 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: "OurRevolution.com" <info@ourrevolution.com>
+Reply-to: info@ourrevolution.com
+Subject: [Petition] Stop the TPP
+Message-ID: <7e48f0be2ea8aa4568e9c93ae7c66421@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 3e0adb26ab30a4fe
+X-rpcampaign: rp_177424
+X-maillist-guid: BwBEWwoBVwJsAFUFUAFRU1VYUgEEVlFVBzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0OXQJW
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsAFUFUAFRU1VYUgEEVlFVBzBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0OXQJW@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_7e48f0be2ea8aa4568e9c93ae7c66421"
+
+
+--b1_7e48f0be2ea8aa4568e9c93ae7c66421
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto,
+
+One of the great challenges ahead of us is defeating the disastrous Trans =
+Pacific Partnership trade deal. We will have a very, very narrow window to =
+do so in lame duck session of Congress.
+
+While we've made great progress in the campaign to defeat the TPP, but we =
+must continue to mobilize. Here's what we believe is happening, and what =
+we need to do to defeat the TPP.
+
+The good news is this: Republican Senate leader Mitch McConnell just said =
+he does not want to vote on TPP this year. And Secretary Hillary Clinton =
+has also said TPP should not come up for a vote in this Congress.
+
+The bad news is Wall Street, corporate America and their representatives =
+in Congress will try to pass this bad trade deal after the election =
+anyway.
+
+As Bernie Sanders has said consistently, the TPP would expand to 12 other =
+nations the same failed "free trade" policies that have already cost =
+millions of jobs and shuttered tens of thousands of factories across the =
+United States.
+
+Make no mistake: if TPP passes, it will further hurt consumers and cost =
+American jobs.
+
+We expect that, as early as the middle of September, the White House will =
+start the process to "fast track" the TPP. From that point, it is likely =
+that Congress must vote within 90 days.
+
+This is our chance to make our voices heard. Say that you want to stop the =
+TPP -- add your name and help defeat this disastrous trade deal:
+
+https://go.berniesanders.com/page/s/stop-the-TPP?source=3Dem160827
+
+The TPP follows in the footsteps of other unfettered free trade agreements =
+like NAFTA and CAFTA that have been supported by corporate America and =
+that cost America millions of decent-paying jobs.
+
+In the past 25 years, nearly 60,000 manufacturing plants in this country =
+have been shut down, and we have lost almost 5 million decent-paying =
+manufacturing jobs. NAFTA alone led to the loss of almost three-quarters =
+of a million jobs -- the Permanent Normalized Trade Agreement with China =
+cost America four times that number: almost 3 million jobs. These =
+agreements are not the only reason why manufacturing in the United States =
+has declined, but they are important factors.
+
+The TPP would also give multinational corporations the ability to =
+challenge laws passed in the United States that could negatively impact =
+their "expected future profits." Take for example Trans Canada suing the =
+United States for $15 billion due to their "lost profits" from President =
+Obama's decision to stop the Keystone Pipeline. Or Vattenfall, a Swedish =
+energy company, has used this process to sue Germany for $5 billion over =
+its decision to phase out nuclear power. Should the people of Germany have =
+the right to make energy choices on their own or should these decisions be =
+left in the hands of an unelected international tribunal?
+
+We face the same threats here at home if the TPP passes.
+
+Virtually every major union and environmental organization in the United =
+States is against the deal. Major religious groups are as well because =
+they know what it could mean for some of the poorest people on the planet.
+
+If we're going to defeat the TPP, all of us need to be involved in not =
+just showing our opposition to this trade deal, but actively working to =
+defeat it by getting organized.
+
+That is why we are asking you today:
+
+Say that you stand with Bernie Sanders in opposition to the TPP, and will =
+do whatever it takes to defeat it:
+
+https://go.berniesanders.com/page/s/stop-the-TPP?source=3Dem160827
+
+Thank you for standing up to the TPP. Let's do everything we can to make =
+sure it is defeated.
+
+In solidarity,
+
+Larry Cohen
+Incoming Chair, Our Revolution
+
+
+
+
+
+=20
+
+=20
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Our Revolution
+(not the billionaires)
+
+603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to Our =
+Revolution here: https://secure.actblue.com/contribute/page/ourrevolution?=
+refcode=3Demail_footer.
+
+
+--b1_7e48f0be2ea8aa4568e9c93ae7c66421
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+         div{
+         font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+         font-weight: 400;
+         font-size: 17px;
+         line-height:140%;
+         color: #364350;
+         }
+         a{
+         color: #147FD7;
+         }
+         .express-lane-links .link{
+         margin: 0;
+         }
+         .express-lane-links .link a{
+         font-family: sans-serif;
+         font-size: 18px;
+         background-color: #147FD7;
+         border-top: 1px solid #1e88e0;
+         border-bottom: 2px solid #0e72c4;
+         width: 290px;
+         margin: 12px auto;
+         border-radius: 4px;
+         text-align: center;
+         color: white;
+         text-decoration: none;
+         padding: 12px 5px;
+         font-weight:700;
+         display: block;
+         text-transform: uppercase;
+         letter-spacing: 0.075em;
+         }
+         .express-lane-links .link a:hover{
+         background-color: #1e88e0;
+         }
+         .express-lane-links .link.other a{
+         font-size: 17px;
+         }
+      </style></head><body><h1 style=3D"text-align: center; padding: 25px =
+0 20px 0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Our Revolution" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Our%20Revolution/OurRev-Logo=
+-160827-335px.png"></h1>
+   <!--[if mso]>
+   <center>
+      <table>
+         <tr>
+            <td width=3D"600">
+               <![endif]-->
+               <div style=3D"max-width: 600px; margin: 0 auto;"><center>
+	<div style=3D"width:95%; background-color:#eeeeee; border: 1px; =
+border-color:#cccccc; font-size:17px; line-height:140%; padding:15px;">
+		We likely have a very narrow window to defeat the disastrous Trans =
+Pacific Partnership trade deal in the lame duck Congress. We must redouble =
+our opposition to TPP to make sure it fails.<br><br><strong>Say you agree =
+with Bernie Sanders that TPP must not come up for a vote &ndash; and if it =
+does, it must be soundly defeated.</strong><br><p align=3D"center" =
+style=3D"font-family:Arial; font-size:17px; line-height:140%;">
+			<strong><strong><a href=3D"https://go.berniesanders.com/page/s/stop-the=
+-TPP?source=3Dem160827-full" style=3D"font-family: sans-serif; font-size: =
+18px; background-color: #53a2f2; border-top: 1px solid #53a2f2; =
+border-bottom: 2px solid #53a2f2; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://go.b=
+erniesanders.com/page/s/stop-the-TPP?source=3Dem160827-full">I AGREE: STOP =
+THE TPP</a></strong></strong></p>
+	</div>
+</center>
+<p style=3D"font-size:17px; line-height:140%;">
+	Rigoberto,</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	One of the great challenges ahead of us is defeating the disastrous Trans =
+Pacific Partnership trade deal. <strong>We will have a very, very narrow =
+window to do so in lame duck session of Congress.</strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	While we&rsquo;ve made great progress in the campaign to defeat the TPP, =
+but we must continue to mobilize. Here's what we believe is happening, and =
+what we need to do to defeat the TPP.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	The good news is this: Republican Senate leader Mitch McConnell just said =
+he does not want to vote on TPP this year. And Secretary Hillary Clinton =
+has also said TPP should not come up for a vote in this Congress.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<strong>The bad news is Wall Street, corporate America and their =
+representatives in Congress will try to pass this bad trade deal after the =
+election anyway.</strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	As Bernie Sanders has said consistently, the TPP would expand to 12 other =
+nations the same failed "free trade" policies that have already cost =
+millions of jobs and shuttered tens of thousands of factories across the =
+United States.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Make no mistake: if TPP passes, it will further hurt consumers and cost =
+American jobs.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<strong>We expect that, as early as the middle of <a href=3D"#" =
+style=3D"text-decoration:none; color: #364350;">September</a>, the White =
+House will start the process to "fast track" the TPP. From that point, it =
+is likely that Congress must vote <a href=3D"#" =
+style=3D"text-decoration:none; color: #364350;">within 90 =
+days</a>.</strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"https://go.berniesanders.com/page/s/stop-the-TPP?source=3Dem16=
+0827-full" style=3D"text-decoration:underline;" title=3D"https://go.bernie=
+sanders.com/page/s/stop-the-TPP?source=3Dem160827-full"><strong>This is =
+our chance to make our voices heard. Say that you want to stop the TPP =
+&mdash; add your name and help defeat this disastrous trade =
+deal.</strong></a></p>
+<p align=3D"center" style=3D"font-family:Arial; font-size:17px; =
+line-height:140%;">
+	<strong><strong><a href=3D"https://go.berniesanders.com/page/s/stop-the-T=
+PP?source=3Dem160827-full" style=3D"font-family: sans-serif; font-size: =
+18px; background-color: #53a2f2; border-top: 1px solid #53a2f2; =
+border-bottom: 2px solid #53a2f2; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://go.b=
+erniesanders.com/page/s/stop-the-TPP?source=3Dem160827-full">ADD YOUR =
+NAME</a></strong></strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	The TPP follows in the footsteps of other unfettered free trade =
+agreements like NAFTA and CAFTA that have been supported by corporate =
+America and that cost America millions of decent-paying jobs.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	In the past 25 years, nearly 60,000 manufacturing plants in this country =
+have been shut down, and we have lost almost 5 million decent-paying =
+manufacturing jobs. NAFTA alone led to the loss of almost three-quarters =
+of a million jobs &mdash; the Permanent Normalized Trade Agreement with =
+China cost America four times that number: almost 3 million jobs. These =
+agreements are not the only reason why manufacturing in the United States =
+has declined, but they are important factors.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	The TPP would also give multinational corporations the ability to =
+challenge laws passed in the United States that could negatively impact =
+their &ldquo;expected future profits.&rdquo; Take for example Trans Canada =
+suing the United States for $15 billion due to their &ldquo;lost =
+profits&rdquo; from President Obama&rsquo;s decision to stop the Keystone =
+Pipeline. Or Vattenfall, a Swedish energy company, has used this process =
+to sue Germany for $5 billion over its decision to phase out nuclear =
+power. Should the people of Germany have the right to make energy choices =
+on their own or should these decisions be left in the hands of an =
+unelected international tribunal?</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	We face the same threats here at home if the TPP passes.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Virtually every major union and environmental organization in the United =
+States is against the deal. Major religious groups are as well because =
+they know what it could mean for some of the poorest people on the =
+planet.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	If we're going to defeat the TPP, all of us need to be involved in not =
+just showing our opposition to this trade deal, but actively working to =
+defeat it by getting organized.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	That is why we are asking you <a href=3D"#" =
+style=3D"text-decoration:none; color: #364350;">today</a>:</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"https://go.berniesanders.com/page/s/stop-the-TPP?source=3Dem16=
+0827-full" style=3D"text-decoration:underline;" title=3D"https://go.bernie=
+sanders.com/page/s/stop-the-TPP?source=3Dem160827-full"><strong>Say that =
+you stand with Bernie Sanders in opposition to the TPP, and will do =
+whatever it takes to defeat it.</strong></a></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Thank you for standing up to the TPP. Let's do everything we can to make =
+sure it is defeated.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Larry Cohen<br>
+	Incoming Chair, Our Revolution</p>
+<p>
+	<strong><strong><a href=3D"https://secure.actblue.com/contribute/page/aug=
+ust-24-kickoff?refcode=3Dem160827-tpp" style=3D"font-family: sans-serif; =
+font-size: 18px; background-color: #E9514F; border-top: 1px solid #E9514F; =
+border-bottom: 2px solid #E9514F; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/august-24-kickoff?refcode=3Dem160827-tpp">C=
+ontribute</a></strong><br><br><br>
+	&nbsp;</strong></p>
+<p>
+	<strong>&nbsp;</strong></p>
+<br><br><br><br><br><br><br><br><br><br><br></div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px;">Paid for by Our Revolution</p>
+                  <p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb0767/43b7f9e2/343d8209=
+/62011658/916550798/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_7e48f0be2ea8aa4568e9c93ae7c66421--
+
+

@@ -1,0 +1,149 @@
+Return-Path: <bounces+1486486-db6f-rresendez=rigoresendez.com@em.webinarjam.net>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id mA5fEAOMw1d3ygQATAh+fg
+	for <rresendez@rigoresendez.com>; Sun, 28 Aug 2016 21:12:35 -0400
+Return-path: <bounces+1486486-db6f-rresendez=rigoresendez.com@em.webinarjam.net>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Sun, 28 Aug 2016 21:12:35 -0400
+Received: from o1.em.webinarjam.net ([192.254.114.186]:38762)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+1486486-db6f-rresendez=rigoresendez.com@em.webinarjam.net>)
+	id 1beB7q-001JbA-RZ
+	for rresendez@rigoresendez.com; Sun, 28 Aug 2016 21:12:35 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=webinarjam.net; 
+	h=to:from:reply-to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=kmFOR5iXjHYFfAh7odG0NamYPMw=; b=vVKbnhH+sfl85/FvVF
+	z/LTuiQllx9x0jCxAr+4eWtP4YJlv++/93ZaTKQQvSi1l5CZy2cttNgxzFp/pBXU
+	Nh5sqT+/OesUzph3SscLYJlTspfuJTikhiJ/hTFF3eJ3cvWoPNRW3+GBG4uY/6v/
+	mcA+SG7nD8bPimyLkGy9J+zjA=
+Received: by filter0896p1mdw1.sendgrid.net with SMTP id filter0896p1mdw1.11006.57C38BD51B
+        2016-08-29 01:11:49.326633264 +0000 UTC
+Received: from app.webinarjam.net (unknown [104.130.18.214])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id RU4oTv1qTii39SHefGcWWg
+	for <rresendez@rigoresendez.com>; Mon, 29 Aug 2016 01:11:49.265 +0000 (UTC)
+Date: Mon, 29 Aug 2016 01:11:49 +0000
+To: rresendez@rigoresendez.com
+From: Trevor Page <webinarinfo@webinarjam.net>
+Reply-To: Trevor Page <trevor@craftycodr.com>
+Subject: [Confirmation] Your webinar link
+Message-ID: <5c23e74fe2fac10ea4f8a1dde7381197@app.webinarjam.net>
+X-Priority: 3
+X-Mailer: WebinarJam
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5c23e74fe2fac10ea4f8a1dde7381197"
+Content-Transfer-Encoding: 8bit
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRgbl26EPY+8UJph8uU9hP2tjTsqPhafYkWsqsI
+ owKIH7tY9ngiWlqWNeSsm2NgtX9JKBfy/fyxl7ONc8crKvbM0+BkoIxQKHX9h+lVhc86gTX3AaUf0Z
+ L691j5Y8D1z4C7Osl5fpofWJcoiaQJIh0v90xt+vg99z55Lp6RSbf8P/Tnb9E3uwNfNtaO/9Mz/d0F
+ w=
+
+This is a multi-part message in MIME format.
+--b1_5c23e74fe2fac10ea4f8a1dde7381197
+Content-Type: text/plain; charset=UTF-8
+content-transfer-encoding: quoted-printable
+
+Free Workshop - How to Create Web Apps in Java=0D
+Utilizing the latest technologies from the Spring.io team, you will learn h=
+ow to create a web application with Java=0D
+=C2=A0=0D
+=0D
+=0D
+=C2=A0=0D
+=0D
+=0D
+=0D
+Tuesday, 30 August 2016=0D
+01:00 pm Central Time (US and Canada), GMT -5=0D
+=0D
+Login to webinar=0D
+=C2=A0=0D
+=0D
+=0D
+=C2=A0=0D
+=0D
+=0D
+Congratulations! You have successfully registered.=0D
+The best thing you can do now is to bookmark your webinar link, and to set =
+a reminder on your calendar so you don't miss the webinar.=0D
+Here are the webinar details:=0D
+=0D
+Link: https://app.webinarjam.net/r/0/0/live/12137/f557e2594c/0/47844968=0D
+Title: Free Workshop - How to Create Web Apps in Java  Description: Utilizi=
+ng the latest technologies from the Spring.io team, you will learn how to c=
+reate a web application with Java=0D
+Host: Trevor Page (Senior Software Engineer)=0D
+Date: Tuesday, 30 August 2016  Time: 01:00 pm Central Time (US and Canada),=
+ GMT -5=0D
+=0D
+See you at the webinar!=0D
+=0D
+=0D
+=0D
+=0D
+You are receiving this email because you registered for this webinar.  Unsu=
+bscribe to stop receiving notifications about this webinar.=0D
+WebinarJam LLC7660 Fay Ave Ste H184La Jolla, CA 92037USA=0D
+=0D
+=0D
+POWERED BY...=0D
+=0D
+=C2=A0=0D
+
+
+--b1_5c23e74fe2fac10ea4f8a1dde7381197
+Content-Type: text/html; charset=us-ascii
+
+<header></header>
+<div style="margin: 20px auto 20px auto; font-family: roboto; font-weight: 300;"><!-- START HEADER -->
+<div style="padding-left: 20px; float: right;"><img title="Trevor Page (Senior Software Engineer)" data-toggle="tooltip" data-placement="bottom" alt="Trevor Page (Senior Software Engineer)" src="https://s3.amazonaws.com/webinarjam/images-users/presenters/cJ9Ro4AkHQy6j76W1snV.png" data-original-title="Trevor Page (Senior Software Engineer)" style="border-radius: 50%;display: inline-block;height: 50px;vertical-align: top;width: 50px; margin-left:10px;"></div>
+<div style="font-size: 18px; font-weight: 300; line-height: 140%; color: #000; padding-bottom: 10px;">Free Workshop - How to Create Web Apps in Java</div>
+<div style="font-size: 14px; font-weight: 300; line-height: 140%; color: #999;">Utilizing the latest technologies from the Spring.io team, you will learn how to create a web application with Java</div>
+<div style="clear: both;">&nbsp;</div>
+</div>
+<!-- END HEADER -->
+<div>&nbsp;</div>
+<!-- START TIME AND DATE -->
+<div style="border: 1px solid #ccc; vertical-align: middle; padding-bottom: 10px; padding: 5px 10px 5px 10px; background-color: #fbfbfb; border-radius: 4px;">
+<div style="float: left; vertical-align: middle;">
+<div style="color: #000; font-size: 14px; padding-bottom: 5px; font-weight: 300;">Tuesday, 30 August 2016</div>
+<div style="color: #000; font-size: 14px; font-weight: 300;">01:00 pm Central Time (US and Canada), GMT -5</div>
+</div>
+<div style="float: right; vertical-align: middle; background-color: #97ce68; color: #fff; text-align: center; padding: 5px 15px; border: 1px solid #7cb849; border-bottom: 3px solid #7cb849; border-radius: 4px; font-weight: 300; margin-top: 7px;"><a style="color: #fff; text-decoration: none;" href="https://app.webinarjam.net/r/0/0/live/12137/f557e2594c/0/47844968">Login to webinar</a></div>
+<div style="clear: both; height: 0px;">&nbsp;</div>
+</div>
+<!-- END TIME AND DATE -->
+<div>&nbsp;</div>
+<!-- START BODY -->
+<div style="border-bottom: 1px solid #ccc; vertical-align: top; padding-bottom: 10px; padding-top: 10px; line-height: 140%; font-size: 14px; color: #000; text-align: left;">
+<p style="font-weight: bold;">Congratulations! You have successfully registered.</p>
+<p>The best thing you can do now is to bookmark your webinar link, and to set a reminder on your calendar so you don't miss the webinar.</p>
+<p>Here are the webinar details:</p>
+<div style="padding: 0px 0px 5px 0px;">
+<p style="padding-left: 10px; border-left: 2px solid #5bc0de;"><span style="font-weight: bold;">Link:</span> <a href="https://app.webinarjam.net/r/0/0/live/12137/f557e2594c/0/47844968">https://app.webinarjam.net/r/0/0/live/12137/f557e2594c/0/47844968</a></p>
+<p style="padding-left: 10px; border-left: 2px solid #5bc0de;"><span style="font-weight: bold;">Title:</span> Free Workshop - How to Create Web Apps in Java <br /> <span style="font-weight: bold;">Description:</span> Utilizing the latest technologies from the Spring.io team, you will learn how to create a web application with Java</p>
+<p style="padding-left: 10px; border-left: 2px solid #5bc0de;"><span style="font-weight: bold;">Host:</span> Trevor Page (Senior Software Engineer)</p>
+<p style="padding-left: 10px; border-left: 2px solid #5bc0de;"><span style="font-weight: bold;">Date:</span> Tuesday, 30 August 2016 <br /> <span style="font-weight: bold;">Time:</span> 01:00 pm Central Time (US and Canada), GMT -5</p>
+</div>
+<p>See you at the webinar!</p>
+</div>
+<!-- END BODY --><!-- START FOOTER -->
+<div style="margin: 10px auto 20px auto; font-family: roboto; font-weight: 300;">
+<div style="float: left; vertical-align: middle;">
+<div style="color: #000; font-size: 12px;">You are receiving this email because you registered for this webinar. <br /> <a style="color: #00f; font-weight: 500; text-decoration: underline;" href="https://app.webinarjam.net/unsubscribe?m=MTIxMzc=&w=ZjU1N2UyNTk0Yw==&e=cnJlc2VuZGV6QHJpZ29yZXNlbmRlei5jb20=">Unsubscribe</a> to stop receiving notifications about this webinar.</div>
+<div style="padding-top: 15px; color: #999; font-size: 12px;">WebinarJam LLC<br />7660 Fay Ave Ste H184<br />La Jolla, CA 92037<br />USA</div>
+</div>
+<div style="float: right; vertical-align: top; text-align: center;">
+<div style="color: #999; font-size: 12px; padding-bottom: 5px;">POWERED BY...</div>
+<a style="border: 0px;" href="http://webinarjam.com" target="_blank"><img src="https://s3.amazonaws.com/webinarjam/images/logo3.png" alt="" width="130" height="20" /></a></div>
+<div style="clear: both;">&nbsp;</div>
+</div>
+<!-- END FOOTER --><img src=https://app.webinarjam.net/r/0/0/open/12137/f557e2594c/0/47844968 width="0" height="0" border="0" style="visibility:hidden; display:none; height:0px!important; width:0px!important; border:none;">
+
+
+<img src="http://em.webinarjam.net/wf/open?upn=xb69N2IWj9cpa7VY1jz2n0Hql-2BtcgQ1b-2BZAa351hvYubcgluMjpWtTDCfhu6T-2FQ5isN9CDcIddXfKsSpT7tGaviJdNNsdXwz69gN4lzZsSo-2B9kiBhevpF6icgwn-2BV59A5t1zaSu6g2xenyScEy0oco98s3cAHsyAk3hYlwsNhg-2Bb-2BgxfyzgF7c9r53LE-2Fr88a8MVLDRogEqNViDIBBNEUOA1pMHg-2FM7seCtGsHtluxM-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+
+--b1_5c23e74fe2fac10ea4f8a1dde7381197--
+

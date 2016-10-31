@@ -1,0 +1,146 @@
+Return-Path: <bounces+1486486-db6f-rresendez=rigoresendez.com@em.webinarjam.net>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id zZSZHhvyzlddawUATAh+fg
+	for <rresendez@rigoresendez.com>; Tue, 06 Sep 2016 12:43:07 -0400
+Return-path: <bounces+1486486-db6f-rresendez=rigoresendez.com@em.webinarjam.net>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Tue, 06 Sep 2016 12:43:07 -0400
+Received: from o2.em.webinarjam.net ([192.254.124.80]:5887)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+1486486-db6f-rresendez=rigoresendez.com@em.webinarjam.net>)
+	id 1bhJSl-001UFI-6v
+	for rresendez@rigoresendez.com; Tue, 06 Sep 2016 12:43:07 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=webinarjam.net; 
+	h=subject:from:reply-to:to:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=NjfMQuxOc+kv+vqN5P6VMNsCPgs=; b=beCpLoflBv50GQJZCo
+	OyTQ1QLTNObIS+4HoF6bri6UrmELq9mGhsSIe8elM1M8vaF3wPwH4ucXt2qRYZ3K
+	nud6ziOd66XefEKAPaoeg3UUJx/h+kAvHyULDvAyDn9yW6CalQR+QdHKKlK3N4u+
+	vttvLhSWJagHyfbkLpF6ABQXU=
+Received: by filter0849p1mdw1.sendgrid.net with SMTP id filter0849p1mdw1.13463.57CEF1DE1D
+        2016-09-06 16:42:06.276992712 +0000 UTC
+Received: from [127.0.0.1] (localhost [104.130.229.92])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id 1uwx4mzISU-cuqw3EqCMzQ
+	for <rresendez@rigoresendez.com>; Tue, 06 Sep 2016 16:42:06.301 +0000 (UTC)
+Message-ID: <515723301d892d9038df33ab639b1192@swift.generated>
+Date: Tue, 06 Sep 2016 16:42:06 +0000
+Subject: [Workshop alert] We're about to start learning about REST APIs, click
+ to join now.
+From: Trevor Page <webinarinfo@webinarjam.net>
+Reply-To: Trevor Page <trevor@craftycodr.com>
+To: rresendez@rigoresendez.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: Zt8ZWpNAXxRbgHVTG5EMk8o1Me4y+jW+5BOA0j+sRga2v5HTxYGVPYNzNlvP5Lik5VC3nVQruIdXy7
+ eySDr/JtQV0vRo+aJfO9mcZM0dOu81oZuZjrq3wQxurmVwqFmWlWJzSg/FRf89vu3q8O4M0zytzNny
+ 8xX0MjVh5/fEFyOkoDYJR1sLLyiE5P+hu8aeV+DkWfDIkkkaoP0JCX7Bpacuxb40STYzrj6aJa/1ug
+ g=
+
+<header></header>
+<div style=3D"margin: 20px auto 20px auto; font-family: roboto; font-weight=
+: 300;"><!-- START HEADER -->
+<div style=3D"padding-top: 20px;">
+<div style=3D"padding-left: 20px; float: right;"><img title=3D"Trevor Page =
+(Senior Software Engineer)" data-toggle=3D"tooltip" data-placement=3D"botto=
+m" alt=3D"Trevor Page (Senior Software Engineer)" src=3D"https://s3.amazona=
+ws.com/webinarjam/images-users/presenters/cJ9Ro4AkHQy6j76W1snV.png" data-or=
+iginal-title=3D"Trevor Page (Senior Software Engineer)" style=3D"border-rad=
+ius: 50%;display: inline-block;height: 50px;vertical-align: top;width: 50px=
+; margin-left:10px;"></div>
+<div style=3D"font-size: 18px; font-weight: 300; line-height: 140%; color: =
+#000; padding-bottom: 10px;">Learn to Interact with 3rd Part APIs with REST=
+ Calls in Spring</div>
+<div style=3D"font-size: 14px; font-weight: 300; line-height: 140%; color: =
+#999;">You'll learn how to easily interact with 3rd party APIs. Today you'l=
+l learn to build a weather app with a freely available weather API</div>
+</div>
+<div style=3D"clear: both;">&nbsp;</div>
+</div>
+<!-- END HEADER -->
+<div>&nbsp;</div>
+<!-- START TIME AND DATE -->
+<div style=3D"border: 1px solid #ccc; vertical-align: middle; padding-botto=
+m: 10px; padding: 5px 10px 5px 10px; background-color: #fbfbfb; border-radi=
+us: 4px;">
+<div style=3D"float: left; vertical-align: middle;">
+<div style=3D"color: #000; font-size: 14px; padding-bottom: 5px; font-weigh=
+t: 300;">Tuesday, 6 September 2016</div>
+<div style=3D"color: #000; font-size: 14px; font-weight: 300;">01:00 pm Eas=
+tern Time (US and Canada), GMT -4</div>
+</div>
+<div style=3D"float: right; vertical-align: middle; background-color: #97ce=
+68; color: #fff; text-align: center; padding: 5px 15px; border: 1px solid #=
+7cb849; border-bottom: 3px solid #7cb849; border-radius: 4px; font-weight: =
+300; margin-top: 7px;"><a style=3D"color: #fff; text-decoration: none;" hre=
+f=3D"https://app.webinarjam.net/r/1/0/live/12137/173f021498/0/48719195">Log=
+in to webinar</a></div>
+<div style=3D"clear: both; height: 0px;">&nbsp;</div>
+</div>
+<!-- END TIME AND DATE -->
+<div>&nbsp;</div>
+<!-- START BODY -->
+<div style=3D"border-bottom: 1px solid #ccc; vertical-align: top; padding-b=
+ottom: 10px; padding-top: 10px; line-height: 140%; font-size: 14px; color: =
+#000; text-align: left;">
+<p style=3D"font-weight: bold;">We are about to start!</p>
+<p>In just a few minutes, the workshop&nbsp;you registered for is about to =
+start. Please, proceed to click on the link to access the workshop&nbsp;roo=
+m now.</p>
+<div style=3D"padding: 0px 0px 5px 0px;">
+<p style=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><span styl=
+e=3D"font-weight: bold;">Link:</span> <a href=3D"https://app.webinarjam.net=
+/r/1/0/live/12137/173f021498/0/48719195">https://app.webinarjam.net/r/1/0/l=
+ive/12137/173f021498/0/48719195</a></p>
+<p style=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><span styl=
+e=3D"font-weight: bold;">Title:</span> Learn to Interact with 3rd Part APIs=
+ with REST Calls in Spring <br /> <span style=3D"font-weight: bold;">Descri=
+ption:</span> You'll learn how to easily interact with 3rd party APIs. Toda=
+y you'll learn to build a weather app with a freely available weather API</=
+p>
+<p style=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><span styl=
+e=3D"font-weight: bold;">Host:</span> Trevor Page (Senior Software Engineer=
+)</p>
+<p style=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><span styl=
+e=3D"font-weight: bold;">Date:</span> Tuesday, 6 September 2016 <br /> <spa=
+n style=3D"font-weight: bold;">Time:</span> 01:00 pm Eastern Time (US and C=
+anada), GMT -4</p>
+</div>
+<p>See you soon!</p>
+</div>
+<!-- END BODY -->
+<div>&nbsp;</div><img src=3Dhttps://app.webinarjam.net/r/1/0/open/12137/173=
+f021498/0/48719195 width=3D"0" height=3D"0" border=3D"0" style=3D"visibilit=
+y:hidden; display:none; height:0px!important; width:0px!important; border:n=
+one;"><!-- START FOOTER -->
+<div style=3D"margin: 10px auto 20px auto; font-family: roboto; font-weight=
+: 300;">
+<div style=3D"float: left; vertical-align: middle;">
+<div style=3D"color: #000; font-size: 12px;">You are receiving this email b=
+ecause you registered for this webinar. <br /> <a style=3D"color: #00f; fon=
+t-weight: 500; text-decoration: underline;" href=3D"https://app.webinarjam.=
+net/unsubscribe?m=3DMTIxMzc=3D&w=3DMTczZjAyMTQ5OA=3D=3D&e=3DcnJlc2VuZGV6QHJ=
+pZ29yZXNlbmRlei5jb20=3D">Unsubscribe</a> to stop receiving notifications ab=
+out this webinar.</div>
+<div style=3D"padding-top: 15px; color: #999; font-size: 12px;">WebinarJam =
+LLC<br />7660 Fay Ave Ste H184<br />La Jolla, CA 92037<br />USA</div>
+</div>
+<div style=3D"float: right; vertical-align: top; text-align: center;">
+<div style=3D"color: #999; font-size: 12px; padding-bottom: 5px;">POWERED B=
+Y...</div>
+<a style=3D"border: 0px;" href=3D"http://webinarjam.com" target=3D"_blank">=
+<img src=3D"https://s3.amazonaws.com/webinarjam/images/logo3.png" alt=3D"" =
+width=3D"130" height=3D"20" /></a></div>
+<div style=3D"clear: both;">&nbsp;</div>
+</div>
+<!-- END FOOTER -->
+<img src=3D"http://em.webinarjam.net/wf/open?upn=3Dxb69N2IWj9cpa7VY1jz2n0Hq=
+l-2BtcgQ1b-2BZAa351hvYu0SZcFrdIEjFJIlVBOkabuMi1Dvtr4hbF-2BzD6GM6KjyIzGROH4N=
+QAXbJQ9qu0q6oKZ33nrK5yXknXT3Mtpz-2BxEEjjwB-2F8WiIhfvBxLZIylhGQlpEHKMsz6XMTY=
+iHc7v-2Bk2zdVDHqcjZk6oiJBd5d3E29K7u0LhH7y-2FCDqNHrGqgNB2lkV3eXYPASd5HAQspBA=
+-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !im=
+portant;width:1px !important;border-width:0 !important;margin-top:0 !import=
+ant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !imp=
+ortant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0=
+ !important;padding-left:0 !important;"/>

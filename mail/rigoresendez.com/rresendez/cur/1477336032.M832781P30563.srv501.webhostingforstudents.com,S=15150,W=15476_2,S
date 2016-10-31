@@ -1,0 +1,326 @@
+Return-Path: <BwBEWwoBVwJsUgQMA1AEAFdcBAACAgQBADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWDw@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id KfyVMeBbDlhjdwAATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 24 Oct 2016 15:07:12 -0400
+Return-path: <BwBEWwoBVwJsUgQMA1AEAFdcBAACAgQBADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWDw@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 24 Oct 2016 15:07:12 -0400
+Received: from mta-dock-front-17.bluestatedigital.com ([66.151.230.154]:55111)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsUgQMA1AEAFdcBAACAgQBADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWDw@bounce.bluestatedigital.com>)
+	id 1bykaW-0008cB-La
+	for rresendez@rigoresendez.com; Mon, 24 Oct 2016 15:07:12 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.81])
+	by mta-dock-front-17.bluestatedigital.com (Postfix) with ESMTP id 3t2lxR5R1Dz1y752
+	for <rresendez@rigoresendez.com>; Mon, 24 Oct 2016 19:01:15 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=berniesanders.com;
+	s=berniesanderskey; t=1477335675;
+	bh=Z1YmtJ78oJgNEdD+IYO32FspBgzIPUfL49LlMDsrUrg=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=D8Yz30gsr7HI+4EnnBnaCwic9wExdtsbJ+lU+YK3n1wMcRkVSnFvt7kw4MFETCsUN
+	 SgRDdNs1+eP3j17zWCsM7SxzVavOaLxmPvcBp1QmIw3Gb/Pnr8vDKr/9LHZjlGOI5r
+	 Ov366AtXY5ZimyCcAnQiojkV5qnXbOeuGnsk2SaE=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Mon, 24 Oct 2016 19:01:15 +0000
+Date: Mon, 24 Oct 2016 19:01:15 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: Bernie Sanders <info@BernieSanders.com>
+Reply-to: info@berniesanders.com
+Subject: Urgent situations
+Message-ID: <ab89e8aec34b7fd6939f30a75ef706df@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: a49257a4e4265a2b
+X-rpcampaign: rp_177770
+X-maillist-guid: BwBEWwoBVwJsUgQMA1AEAFdcBAACAgQBADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWDw
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsUgQMA1AEAFdcBAACAgQBADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZWDw@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ab89e8aec34b7fd6939f30a75ef706df"
+
+
+--b1_ab89e8aec34b7fd6939f30a75ef706df
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto,
+
+Election Day is in two weeks, and we cannot allow the Koch brothers and =
+other billionaires to buy elections throughout the country. Let's stand =
+together and elect strong progressives who are fighting for real change - =
+fighting to stand up for working families, the elderly, the children, the =
+sick and the poor. Let's support candidates who are prepared to take on =
+the fossil fuel industry and transform our energy system away from coal =
+and oil into energy efficiency and sustainable energy.
+
+Our candidates are working hard and, in many cases, the polls show the =
+races are very close. It is likely that the outcome will be decided by a =
+few votes - one way or the other. Let's make sure that our candidates are =
+on top.
+
+I want to tell you about these candidates, their close races, and the =
+billionaires trying to defeat them. But if you can contribute right now, =
+please split a $15 contribution between the campaigns of Jane Kim, Sue =
+Minter, David Zuckerman, Proposition 61 in California, and Eloise Reyes:
+
+https://secure.actblue.com/contribute/page/billionaires-buying-elections?r=
+efcode=3Dem161024-pt
+
+In California, Jane Kim - one of the first candidates I endorsed, and who =
+won her incredibly close primary because of your support - is facing an =
+outrageous amount of outside spending in her race for state senate. =
+Billionaire-funded groups have spent $500,000 attacking her in just the =
+last three weeks, with more sure to come. Jane is a true progressive, and =
+she can defeat the big money interests if we are prepared to stand behind =
+her.
+
+In my home state of Vermont, Sue Minter is the Democratic nominee for =
+Governor. She will be a strong leader in making higher education tuition =
+free for all, and in the struggle against climate change. But a new poll =
+shows she is one point behind the Republican nominee, who is receiving =
+strong support from billionaires around the country. In my view her =
+running-mate David Zuckerman, a family farmer and food activist, will be =
+the most progressive Lieutenant Governor in the country. He is an =
+outstanding member of the state senate who has taken on powerful special =
+interests throughout his career.
+
+Proposition 61 in California would lower prescription drug prices and =
+challenge the price gouging of Big Pharma. As you might imagine, drug =
+companies don't like it very much. They are spending more than $100 =
+million to defeat this initiative, and just added another $22 million last =
+week. A victory in California against the greed of the pharmaceutical =
+industry is a victory for all of us.
+
+Big oil companies want to defeat Eloise Reyes in her race for state =
+legislature in California. Chevron has donated millions of dollars to =
+outside groups trying to defeat Reyes because they know she would hold =
+them accountable in the fight against climate change.
+
+With just 15 days until the election, we need your support to expand our =
+political revolution. Great candidates are being overwhelmed with huge =
+contributions from the Koch brothers and other billionaires. Let's fight =
+back and help our candidates win.
+
+Please split a $15 contribution between Jane Kim, Sue Minter, David =
+Zuckerman, Proposition 61 in California, and Eloise Reyes:
+
+https://secure.actblue.com/contribute/page/billionaires-buying-elections?r=
+efcode=3Dem161024-pt
+
+In solidarity,
+
+Bernie Sanders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Friends of Bernie Sanders
+(not the billionaires)
+
+PO BOX 391, Burlington, VT 05402
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to =
+Friends of Bernie Sanders here:
+
+
+--b1_ab89e8aec34b7fd6939f30a75ef706df
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+div{
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+   font-weight: 400;
+line-height:1.4;
+color: #364350;
+}
+a{
+color: #147FD7;
+}
+.express-lane-links .link{
+  margin: 0;
+}
+.express-lane-links .link a{
+  font-family: sans-serif;
+  font-size: 18px;
+  background-color: #147FD7;
+  border-top: 1px solid #1e88e0;
+  border-bottom: 2px solid #0e72c4;
+  width: 290px;
+  margin: 12px auto;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 12px 5px;
+  font-weight:700;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+}
+.express-lane-links .link a:hover{
+  background-color: #1e88e0;
+}
+.express-lane-links .link.other a{
+  font-size: 17px;
+}
+</style></head><body><h1 style=3D"text-align: center; padding: 25px 0 20px =
+0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Friends of Bernie =
+Sanders" src=3D"https://s.bsd.net/bernie16/main/page/-/Email%20Images/plai=
+nbernielogo.png"></h1>
+<div style=3D"line-height:140%;padding-top:1px;"><p style=3D"font-size: =
+17px; font-family: Arial; line-height:140%;">
+	Rigoberto,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Election Day is in two weeks, and we cannot allow the Koch brothers and =
+other billionaires to buy elections throughout the country. Let's stand =
+together and elect strong progressives who are fighting for real change =
+&ndash; fighting to stand up for working families, the elderly, the =
+children, the sick and the poor. Let's support candidates who are prepared =
+to take on the fossil fuel industry and transform our energy system away =
+from coal and oil into energy efficiency and sustainable energy.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Our candidates are working hard and, in many cases, the polls show the =
+races are very close. It is likely that the outcome will be decided by a =
+few votes &ndash; one way or the other. Let's make sure that our =
+candidates are on top.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	I want to tell you about these candidates, their close races, and the =
+billionaires trying to defeat them. But if you can contribute right now, =
+<a href=3D"https://secure.actblue.com/contribute/page/billionaires-buying-=
+elections?refcode=3Dem161024-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/billionaires-buying-el=
+ections?refcode=3Dem161024-full"><strong>please split a $15 contribution =
+between the campaigns of Jane Kim, Sue Minter, David Zuckerman, =
+Proposition 61 in California, and Eloise Reyes.</strong></a></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In California, Jane Kim &ndash; one of the first candidates I endorsed, =
+and who won her incredibly close primary because of your support &ndash; =
+is facing an outrageous amount of outside spending in her race for state =
+senate. <strong>Billionaire-funded groups have spent $500,000 attacking =
+her in just the last three weeks</strong>, with more sure to come. Jane is =
+a true progressive, and she can defeat the big money interests if we are =
+prepared to stand behind her.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In my home state of Vermont, Sue Minter is the Democratic nominee for =
+Governor. She will be a strong leader in making higher education tuition =
+free for all, and in the struggle against climate change. <strong>But a =
+new poll shows she is one point behind the Republican nominee, who is =
+receiving strong support from billionaires around the country.</strong> In =
+my view her running-mate <strong>David Zuckerman</strong>, a family farmer =
+and food activist, will be the most progressive Lieutenant Governor in the =
+country. He is an outstanding member of the state senate who has taken on =
+powerful special interests throughout his career.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Proposition 61 in California would lower prescription drug prices and =
+challenge the price gouging of Big Pharma. As you might imagine, drug =
+companies don't like it very much. <strong>They are spending more than =
+$100 million to defeat this initiative, and just added another $22 million =
+last week.</strong> A victory in California against the greed of the =
+pharmaceutical industry is a victory for all of us.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Big oil companies want to defeat Eloise Reyes in her race for state =
+legislature in California. <strong>Chevron has donated millions of dollars =
+to outside groups trying to defeat Reyes</strong> because they know she =
+would hold them accountable in the fight against climate change.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	With just 15 days until the election, we need your support to expand our =
+political revolution. Great candidates are being overwhelmed with huge =
+contributions from the Koch brothers and other billionaires. Let's fight =
+back and help our candidates win.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/billionaires-buying=
+-elections?refcode=3Dem161024-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/billionaires-buying-el=
+ections?refcode=3Dem161024-full"><strong>Please split a $15 contribution =
+between Jane Kim, Sue Minter, David Zuckerman, Proposition 61 in =
+California, and Eloise Reyes.</strong></a></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Bernie Sanders</p>
+<p>
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/billionaire=
+s-buying-elections?refcode=3Dem161024-full" style=3D"font-family: =
+sans-serif; font-size: 18px; background-color: #e9514f; border-top: 1px =
+solid #e9514f; border-bottom: 2px solid #e9514f; width: 275px; margin: =
+12px auto; border-radius: 4px; text-align: center; color: white; =
+text-decoration: none; padding: 12px 5px 11px; font-weight:700; display: =
+block; text-transform: uppercase; letter-spacing: 0.075em;" =
+title=3D"https://secure.actblue.com/contribute/page/billionaires-buying-el=
+ections?refcode=3Dem161024-full">CONTRIBUTE</a></strong></p>
+<br><br><br><br><br><p>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	&nbsp;</p> </div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px;">Paid for by Friends of Bernie Sanders</p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">PO BOX 391, Burlington, VT 05402</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb0803/43b7f9e2/2ed4a980=
+/6200cd2d/2108406738/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_ab89e8aec34b7fd6939f30a75ef706df--
+
+

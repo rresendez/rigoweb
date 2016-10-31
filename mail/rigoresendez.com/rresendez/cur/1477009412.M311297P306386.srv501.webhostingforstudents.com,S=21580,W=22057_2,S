@@ -1,0 +1,477 @@
+Return-Path: <BwBEWwoBVwJsUgQGV1MKVlBbCFMEBlRXADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZQCw@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id KQZ+EgRgCVjSrAQATAh+fg
+	for <rresendez@rigoresendez.com>; Thu, 20 Oct 2016 20:23:32 -0400
+Return-path: <BwBEWwoBVwJsUgQGV1MKVlBbCFMEBlRXADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZQCw@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Thu, 20 Oct 2016 20:23:32 -0400
+Received: from mta-dock-front-4.bluestatedigital.com ([69.25.202.75]:48290)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsUgQGV1MKVlBbCFMEBlRXADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZQCw@bounce.bluestatedigital.com>)
+	id 1bxNcR-001IPC-Ll
+	for rresendez@rigoresendez.com; Thu, 20 Oct 2016 20:23:32 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.94])
+	by mta-dock-front-4.bluestatedigital.com (Postfix) with ESMTP id 3t0RDp33WVz1t2Pf
+	for <rresendez@rigoresendez.com>; Fri, 21 Oct 2016 00:21:30 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=berniesanders.com;
+	s=berniesanderskey; t=1477009290;
+	bh=3rkBBAzJ2+8W5TEOTIUoMOP1unMnph1QDJqrLkKgsRU=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=Tww19tu3mc9UOaB7p4i0nhNLVVuQ0B5TfOtIOMNb++QhPHlHF6bhhyJlzFWlYzmtj
+	 /sE5H3FHgix4Gg3p0KJPqqSCuA5PYEMP3eaDBn438ZdBkHHVxoeVandYhVZdL6rtlm
+	 1Qrx+RS7uhpY834Jno/2EhDzfUBYRB8HtModbmQ4=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Fri, 21 Oct 2016 00:21:30 +0000
+Date: Fri, 21 Oct 2016 00:21:30 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: "BernieSanders.com" <info@berniesanders.com>
+Reply-to: info@berniesanders.com
+Subject: Paul Ryan actually sent this email:
+Message-ID: <77bbe3c64a1a7c3bb8c178416dceb00e@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: a43f6973b8a011db
+X-rpcampaign: rp_177177
+X-maillist-guid: BwBEWwoBVwJsUgQGV1MKVlBbCFMEBlRXADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZQCw
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsUgQGV1MKVlBbCFMEBlRXADBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQZQCw@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_77bbe3c64a1a7c3bb8c178416dceb00e"
+
+
+--b1_77bbe3c64a1a7c3bb8c178416dceb00e
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rigoberto,
+
+It looks like you got Paul Ryan's attention. And he's not happy.
+
+The Speaker of the House forwarded the email Bernie sent to you to his =
+entire fundraising list. You can see what he said below.
+
+Paul Ryan really doesn't like that you donated more than $1.8 million in =
+two days to take back the House and Senate (which is an AMAZING feat, and =
+something for which we are so grateful). He even put in a big, red button =
+when he forwarded Bernie's email that says "HELP STOP SANDERS."
+
+We've got their attention. Now let's show what we really can do.
+
+Split a $15 contribution between Bernie's thirteen candidates for the =
+House and Senate so we can take back Congress, make Bernie a committee =
+chairman in a Democratic Senate, and enact our progressive agenda.
+
+
+https://secure.actblue.com/contribute/page/paul-ryan-sad
+
+The incredible contributions you've made in the last two days are =
+completely changing the dynamics of these races for Congress. We are so =
+grateful, because your support means campaigns can train more volunteers, =
+talk to more voters, and turn out more people on Election Day.
+
+Paul Ryan knows the tremendous impact you're having, and he's scared. =
+Let's keep it going.
+
+In solidarity,
+
+Team Bernie
+
+---
+From: Paul Ryan
+Sent: Thursday, October 20, 2016 5:09 PM
+Subject: FWD Bernie's Email (Please Read)
+
+I spoke last week about what would happen if we lose our majority in =
+Congress. It looks like Bernie Sanders was listening, because a staffer =
+showed me the message he sent to his supporters yesterday....
+
+Read it and find out why it is so important to hold the House and Senate =
+this November.
+
+Bottom line: we must stop Bernie Sanders, Nancy Pelosi, and the =
+Progressive Democrats from taking over Congress. Please consider making a =
+donation today to stop this dangerous, progressive agenda.
+
+Help Stop Sanders
+
+Thank you.
+
+Let's do this,
+
+Paul Ryan
+House Speaker
+
+---
+From: Bernie Sanders
+Sent: Wednesday, October 19, 2016 1:39 PM
+Subject: I hear you want me to have a gavel
+
+Bernie
+
+Sisters and Brothers,
+
+I heard what Paul Ryan said about me: that if the Republicans lose the =
+Senate, I will be the chairman of the Senate Budget Committee.
+
+That sounds like a very good idea to me. It means that we can establish =
+priorities for working people, and not just the billionaire class.
+
+What would be equally exciting is if the Democrats took back the House, =
+and Congressman Ryan was no longer Speaker. That would mean the clearest =
+possible path to enact our agenda - the most progressive agenda of any =
+party in American history.
+
+In the last day, you have responded tremendously to our call to support =
+four leaders who will help shift the balance of the Senate. More than =
+20,000 people have contributed more than $900,000 to ten candidates who =
+are inspired by the political revolution.
+
+During our campaign we pushed ourselves to reach goals that many thought =
+impossible. That is why we set a very big, very audacious goal that we =
+didn't know if we could reach, but that we thought it was very important =
+to try. But you're about to smash that $1 million goal.
+
+So, we're going to need a bigger goal.
+
+Let's raise $2 million before tonight's final FEC deadline of the campaign =
+for candidates for the House and Senate. Can you start with a $3 =
+contribution between Paul Clements, Catherine Cortez-Masto, Deborah Ross, =
+Zephyr Teachout, Morgan Carroll, Nanette Barragan, and Rick Nolan?
+
+
+https://secure.actblue.com/contribute/page/paul-ryan-sad
+
+Consider for a moment the power that exists in the U.S. Senate. Right now, =
+the Republican majority is using their power to block any meaningful =
+action on addressing income inequality or climate change. In addition, =
+without a Democratic majority the Senate is refusing to confirm federal =
+judges and, incredibly, has left open a critical seat on the Supreme =
+Court.
+
+With a Democratic majority, we can change all of that. What Paul Ryan is =
+specifically afraid of is the power of the budget committee. That =
+committee defines the spending priorities of the entire government. The =
+work of that committee says how much revenue the government should have, =
+and where its money should go.
+
+I have some thoughts on how the government should allocate its spending. =
+I'm sure you do, too.
+
+The first step to being able to enact our progressive agenda is taking =
+back the Senate. And if we take back the House... well, the sky is the =
+limit for what we can achieve.
+
+Help us reach for our new, audacious goal of raising $2 million for =
+candidates for the House and Senate by midnight tonight. Add a $3 =
+contribution now split between Paul Clements, Catherine Cortez-Masto, =
+Deborah Ross, Zephyr Teachout, Morgan Carroll, Nanette Barragan, and Rick =
+Nolan.
+
+
+https://secure.actblue.com/contribute/page/paul-ryan-sad
+
+Thank you for all you do.
+
+In solidarity,
+
+Bernie Sanders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Friends of Bernie Sanders
+(not the billionaires)
+
+PO BOX 391, Burlington, VT 05402
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to =
+Friends of Bernie Sanders here:
+
+
+--b1_77bbe3c64a1a7c3bb8c178416dceb00e
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+div{
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+   font-weight: 400;
+line-height:1.4;
+color: #364350;
+}
+a{
+color: #147FD7;
+}
+.express-lane-links .link{
+  margin: 0;
+}
+.express-lane-links .link a{
+  font-family: sans-serif;
+  font-size: 18px;
+  background-color: #147FD7;
+  border-top: 1px solid #1e88e0;
+  border-bottom: 2px solid #0e72c4;
+  width: 290px;
+  margin: 12px auto;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 12px 5px;
+  font-weight:700;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+}
+.express-lane-links .link a:hover{
+  background-color: #1e88e0;
+}
+.express-lane-links .link.other a{
+  font-size: 17px;
+}
+</style></head><body><h1 style=3D"text-align: center; padding: 25px 0 20px =
+0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Friends of Bernie =
+Sanders" src=3D"https://s.bsd.net/bernie16/main/page/-/Email%20Images/plai=
+nbernielogo.png"></h1>
+<div style=3D"line-height:140%;padding-top:1px;"><p style=3D"font-size: =
+17px; font-family: Arial; line-height:140%;">
+	Rigoberto,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	It looks like you got Paul Ryan's attention. And he's not happy.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	The Speaker of the House forwarded the email Bernie sent to you to his =
+entire fundraising list. You can see what he said below.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Paul Ryan really doesn't like that you donated more than $1.8 =
+million in two days to take back the House and Senate </strong>(which is =
+an AMAZING feat, and something for which we are so grateful). He even put =
+in a big, red button when he forwarded Bernie's email that says "HELP STOP =
+SANDERS."</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We've got their attention. Now let's show what we really can do.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refco=
+de=3Dem161020-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refcode=
+=3Dem161020-full"><strong>Split a $8 contribution between Bernie's =
+thirteen candidates for the House and Senate so we can take back Congress, =
+make Bernie a committee chairman in a Democratic Senate, and enact our =
+progressive agenda.</strong></a></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	The incredible contributions you've made in the last two days are =
+completely changing the dynamics of these races for Congress. We are so =
+grateful, because your support means campaigns can train more volunteers, =
+talk to more voters, and turn out more people on Election Day.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Paul Ryan knows the tremendous impact you're having, and he's scared. =
+Let's keep it going.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Team Bernie</p>
+<p>
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/paul-ryan-s=
+ad?refcode=3Dem161020-full" style=3D"font-family: sans-serif; font-size: =
+18px; background-color: #e9514f; border-top: 1px solid #e9514f; =
+border-bottom: 2px solid #e9514f; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/paul-ryan-sad?refcode=3Dem161020-full">CONT=
+RIBUTE</a></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<br>
+	--- Fowarded Message --</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	From: Paul Ryan<br>
+	Sent: Thursday, October 20, 2016 5:09 PM<br>
+	Subject: FWD Bernie's Email (Please Read)</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	I spoke last week about what would happen if we lose our majority in =
+Congress. It looks like Bernie Sanders was listening, because a staffer =
+showed me the message he sent to his supporters yesterday....</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Read it and find out why it is so important to hold the House and Senate =
+this November.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Bottom line: we must stop Bernie Sanders, Nancy Pelosi, and the =
+Progressive Democrats from taking over Congress.</strong> <b =
+style=3D"color:#0645AD; text-decoration:underline;">Please consider making =
+a donation today to stop this dangerous, progressive agenda.</b></p>
+<center>
+	<img alt=3D"Help Stop Sanders" src=3D"https://s.bsd.net/bernie16/main/pag=
+e/-/Email%20Buttons/help-stop-sanders.jpg"></center>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Thank you.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Let&rsquo;s do this,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Paul Ryan<br>
+	House Speaker</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	---<br>
+	From: Bernie Sanders<br>
+	Sent: Wednesday, October 19, 2016 1:39 PM<br>
+	Subject: I hear you want me to have a gavel</p>
+<center>
+	<a href=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refco=
+de=3Dem161020-full" title=3D"https://secure.actblue.com/contribute/page/pa=
+ul-ryan-sad?refcode=3Dem161020-full"><img alt=3D"Bernie" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Email%20Images/plainbernielo=
+go.png" style=3D"max-width:250px;"></a></center>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<br>
+	Sisters and Brothers,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	I heard what Paul Ryan said about me: that if the Republicans lose the =
+Senate, I will be the chairman of the Senate Budget Committee.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	That sounds like a very good idea to me. It means that we can establish =
+priorities for working people, and not just the billionaire class.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	What would be equally exciting is if the Democrats took back the House, =
+and Congressman Ryan was no longer Speaker. That would mean the clearest =
+possible path to enact our agenda &ndash; the most progressive agenda of =
+any party in American history.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In the last day, you have responded tremendously to our call to support =
+four leaders who will help shift the balance of the Senate. More than =
+20,000 people have contributed more than $900,000 to ten candidates who =
+are inspired by the political revolution.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	During our campaign we pushed ourselves to reach goals that many thought =
+impossible. That is why we set a very big, very audacious goal that we =
+didn't know if we could reach, but that we thought it was very important =
+to try. But you're about to smash that $1 million goal.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	So, we're going to need a bigger goal.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refco=
+de=3Dem161020-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refcode=
+=3Dem161020-full"><strong>Let's raise $2 million before tonight's final =
+FEC deadline of the campaign for candidates for the House and Senate. Can =
+you start with a $3 contribution between Paul Clements, Catherine =
+Cortez-Masto, Deborah Ross, Zephyr Teachout, Morgan Carroll, Nanette =
+Barragan, and Rick Nolan?</strong></a></p>
+<center>
+	<a href=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refco=
+de=3Dem161020-full" title=3D"https://secure.actblue.com/contribute/page/pa=
+ul-ryan-sad?refcode=3Dem161020-full"><img alt=3D"Help us reach $2 million =
+raised for House and Senate candidates" src=3D"https://go.berniesanders.co=
+m/page/contribute_c/1m-final-deadline/graphic?goal-2m-pr" =
+style=3D"max-width:600px;width:100%;"></a></center>
+<p>
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/paul-ryan-s=
+ad?refcode=3Dem161020-full" style=3D"font-family: sans-serif; font-size: =
+18px; background-color: #e9514f; border-top: 1px solid #e9514f; =
+border-bottom: 2px solid #e9514f; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/paul-ryan-sad?refcode=3Dem161020-full">CONT=
+RIBUTE</a></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Consider for a moment the power that exists in the U.S. Senate. Right =
+now, the Republican majority is using their power to block any meaningful =
+action on addressing income inequality or climate change. In addition, =
+without a Democratic majority the Senate is refusing to confirm federal =
+judges and, incredibly, has left open a critical seat on the Supreme =
+Court.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	With a Democratic majority, we can change all of that. What Paul Ryan is =
+specifically afraid of is the power of the budget committee. That =
+committee defines the spending priorities of the entire government. The =
+work of that committee says how much revenue the government should have, =
+and where its money should go.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	I have some thoughts on how the government should allocate its spending. =
+I'm sure you do, too.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	The first step to being able to enact our progressive agenda is taking =
+back the Senate. And if we take back the House... well, the sky is the =
+limit for what we can achieve.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refco=
+de=3Dem161020-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/paul-ryan-sad?refcode=
+=3Dem161020-full"><strong>Help us reach for our new, audacious goal of =
+raising $2 million for candidates for the House and Senate by midnight =
+tonight. Add a $3 contribution now split between Paul Clements, Catherine =
+Cortez-Masto, Deborah Ross, Zephyr Teachout, Morgan Carroll, Nanette =
+Barragan, and Rick Nolan.</strong></a></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Thank you for all you do.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Bernie Sanders</p>
+<br><br><br><br><br><p>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	&nbsp;</p> </div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px;">Paid for by Friends of Bernie Sanders</p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">PO BOX 391, Burlington, VT 05402</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb082b/43b7f9e2/2e6ab6a1=
+/6200c267/1679963430/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_77bbe3c64a1a7c3bb8c178416dceb00e--
+
+

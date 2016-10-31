@@ -1,0 +1,432 @@
+Return-Path: <BwBEWwoBVwJsUghWAgNQV1JfVQEBDwADATBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQFXCQ@bounce.bluestatedigital.com>
+Delivered-To: rresendez@rigoresendez.com
+Received: from srv501.webhostingforstudents.com
+	by srv501.webhostingforstudents.com (Dovecot) with LMTP id aUdDDUUo11d2hQMATAh+fg
+	for <rresendez@rigoresendez.com>; Mon, 12 Sep 2016 18:12:21 -0400
+Return-path: <BwBEWwoBVwJsUghWAgNQV1JfVQEBDwADATBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQFXCQ@bounce.bluestatedigital.com>
+Envelope-to: rresendez@rigoresendez.com
+Delivery-date: Mon, 12 Sep 2016 18:12:21 -0400
+Received: from mta-dock-front-11.bluestatedigital.com ([66.151.230.134]:58044)
+	by srv501.webhostingforstudents.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <BwBEWwoBVwJsUghWAgNQV1JfVQEBDwADATBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQFXCQ@bounce.bluestatedigital.com>)
+	id 1bjZSf-000yGO-1N
+	for rresendez@rigoresendez.com; Mon, 12 Sep 2016 18:12:21 -0400
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.177])
+	by mta-dock-front-11.bluestatedigital.com (Postfix) with ESMTP id 3sY28W6pGcz1gwd1
+	for <rresendez@rigoresendez.com>; Mon, 12 Sep 2016 22:11:39 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=bounce.bluestatedigital.com; s=bsdkey; t=1473718300;
+	bh=OT/3+D7eWQwMgK0UD0vy0uJgC2XALvQY7+TnrJIbi6Y=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=Is4fvkyp6mtwqLNbTSILY2bPj4tnbgltPp+PFDosSz4s5LBVYp2n365DUJFen3ypg
+	 lHXJo2c2wysZdqN38psTsNGx5FLD5NKNMMkZz516rtM7CBpHskl9Q1QRmOZz3a69bK
+	 KSChlV0fKQngLgaA5jhlH4TqzLju3YXiU3MbzWXk=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Mon, 12 Sep 2016 22:11:39 +0000
+Date: Mon, 12 Sep 2016 22:11:39 +0000
+To: Rigoberto Resendez <rresendez@rigoresendez.com>
+From: "OurRevolution.com" <info@ourrevolution.com>
+Reply-to: info@ourrevolution.com
+Subject: A little long but very important
+Message-ID: <2487409b362162a9c1c7881c76cf9f5f@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: a8c3fc61fe358e0c
+X-rpcampaign: rp_177289
+X-maillist-guid: BwBEWwoBVwJsUghWAgNQV1JfVQEBDwADATBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQFXCQ
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=rresendez%40rigoresendez.com>, <mailto:BwBEWwoBVwJsUghWAgNQV1JfVQEBDwADATBAEVNHUAoBAEx1EQ0BWxdWQ1BfAVYbTVpfXz0GVQFXCQ@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2487409b362162a9c1c7881c76cf9f5f"
+
+
+--b1_2487409b362162a9c1c7881c76cf9f5f
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is an important email, Rigoberto, about how we stop the disastrous =
+Trans Pacific Partnership trade deal.
+
+It may be a little longer than your normal email, but we think it's very =
+important that everyone understands both what's at stake with TPP and how =
+we can actually win.
+
+We're going to ask you in this email to step up and declare that you =
+oppose TPP, and the reason we're asking is so that we can give you more =
+opportunities this week to speak out and oppose TPP. But we still think =
+it's very important for you to understand exactly what we're facing in =
+order to win. Here's what you need to know:
+
+https://go.berniesanders.com/page/s/stop_tpp
+
+President Obama is the one person who can start the process to pass TPP.
+
+Last year President Obama sought, and won, approval from Congress to "fast =
+track" trade deals. That means that he can submit the TPP to Congress and =
+put it up for a vote without any amendments. Congress can approve it =
+as-is, or reject it. That's it.
+
+Legally, today is the first day that President Obama can do this. He's =
+said before that he would like to pass TPP in the lame duck session. We =
+don't know if he's going to try this week, next week, or after the =
+election, but we need to be ready to stop it in case he does try.
+
+If President Obama does force a vote, realistically our best chance at =
+defeating TPP is in the House of Representatives.
+
+The reality of how the fast track process works is that TPP can't be =
+amended -- not a single word. It's also true that TPP can't be =
+filibustered in the Senate. It just needs 50 votes if President Obama =
+decides to submit it to Congress.
+
+We know that Bernie Sanders will oppose TPP, but the same can't be said =
+for many other members of the Senate. If TPP comes up in the Senate, it's =
+likely it will pass. It's not great, but that's what we're facing.
+
+Our best chance to defeat TPP is in the House of Representatives. If we =
+can get a majority of members of Congress to vote no on TPP, we can win. =
+So we must focus our efforts there.
+
+Wednesday is a national day of action focusing on the House of =
+Representatives to stop TPP.
+
+For years, a big coalition of labor, environmental, trade, and other =
+groups has worked to stop TPP. Together these groups have millions of =
+members who have spoken out, made phone calls, lobbied politicians, and =
+done everything they can to stop TPP.
+
+All of these groups and all of their members - including Our Revolution - =
+are building towards a huge day of action this Wednesday focused on the =
+House of Representatives.
+
+Our goal is to place at least 50,000 calls to members of Congress and =
+their offices on Wednesday. With your help, we're going to help lead this =
+fight and find out where these representatives stand on TPP, and we're =
+going to do everything we can to make sure that they know the people they =
+represent want to defeat TPP.
+
+We can only win if all of us get involved to stop TPP.
+
+If TPP passes, there's no going back. The only way to get out of the trade =
+deal - even to change a single word! - is if every one of the 12 nations =
+agree. That's not going to happen. So we need to defeat TPP now.
+
+Big corporate interests and Wall Street are lining up to help TPP pass =
+Congress when President Obama starts the fast track process. We've proven =
+before that when enough people stand together, we can beat those special =
+interests. Now we need to do it again, starting with our day of action on =
+Wednesday to reach our goal of 50,000 calls to Congress.
+
+Rigoberto, this is what we need you to do:
+
+The first step to stopping TPP is showing a huge number of people oppose =
+it. Members of Congress and the media need to know that millions of people =
+want to stop this trade deal.
+
+Add your name and say that you want to stop TPP and have your voice =
+counted:
+
+https://go.berniesanders.com/page/s/stop_tpp
+
+Thanks for all you do for our movement. We'll be in touch soon about how =
+else you can help stop TPP.
+
+In solidarity,
+
+Larry Cohen
+Former President, Communication Workers of America
+Chair of the Board, Our Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Our Revolution
+
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE. OUR REVOLUTION IS =
+A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION ARE NOT =
+DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX PURPOSES.
+(not the billionaires)
+
+603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE
+
+This email was sent to rresendez@rigoresendez.com. Email is one of the =
+most important tools we have to reach supporters like you, but if =
+you=E2=80=99d like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests and build our movement by contributing to Our =
+Revolution here: https://secure.actblue.com/contribute/page/ourrevolution?=
+refcode=3Demail_footer.
+
+
+--b1_2487409b362162a9c1c7881c76cf9f5f
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+         div{
+         font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+         font-weight: 400;
+         font-size: 17px;
+         line-height:140%;
+         color: #364350;
+         }
+         a{
+         color: #147FD7;
+         }
+         .express-lane-links .link{
+         margin: 0;
+         }
+         .express-lane-links .link a{
+         font-family: sans-serif;
+         font-size: 18px;
+         background-color: #147FD7;
+         border-top: 1px solid #1e88e0;
+         border-bottom: 2px solid #0e72c4;
+         width: 290px;
+         margin: 12px auto;
+         border-radius: 4px;
+         text-align: center;
+         color: white;
+         text-decoration: none;
+         padding: 12px 5px;
+         font-weight:700;
+         display: block;
+         text-transform: uppercase;
+         letter-spacing: 0.075em;
+         }
+         .express-lane-links .link a:hover{
+         background-color: #1e88e0;
+         }
+         .express-lane-links .link.other a{
+         font-size: 17px;
+         }
+      </style></head><body><h1 style=3D"text-align: center; padding: 25px =
+0 20px 0; border: 0; margin: 0;"><img width=3D"200" alt=3D"Our Revolution" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/Our%20Revolution/OurRev-Logo=
+-160827-335px.png"></h1>
+   <!--[if mso]>
+   <center>
+      <table>
+         <tr>
+            <td width=3D"600">
+               <![endif]-->
+               <div style=3D"max-width: 600px; margin: 0 auto;"><p =
+style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	This is an important email, Rigoberto, about how we stop the disastrous =
+Trans Pacific Partnership trade deal.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	It may be a little longer than your normal email, but we think it's very =
+important that everyone understands both what's at stake with TPP and how =
+we can actually win.</p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We're going to ask you in this email to <a href=3D"https://go.berniesande=
+rs.com/page/s/stop_tpp?source=3Dem160912-full" =
+style=3D"text-decoration:underline;" title=3D"https://go.berniesanders.com=
+/page/s/stop_tpp?source=3Dem160912-full"><strong>step up and declare that =
+you oppose TPP</strong></a>, and the reason we're asking is so that we can =
+give you more opportunities <a href=3D"#" style=3D"text-decoration:none; =
+color: #364350;">this week</a> to speak out and oppose TPP. But we still =
+think it's very important for you to understand exactly what we're facing =
+in order to win. Here's what you need to know.</p>
+<p>
+	</p>
+<p style=3D"font-size: 20px; font-family: Arial; line-height:140%;">
+	<strong><font color=3D"#cc4125">President Obama is the one person who can =
+start the process to pass TPP.</font></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"#" style=3D"text-decoration:none; color: #364350;">Last =
+year</a> President Obama sought, and won, approval from Congress to "fast =
+track" trade deals. That means that he can submit the TPP to Congress and =
+put it up for a vote without any amendments. Congress can approve it =
+as-is, or reject it. That's it.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Legally, <a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">today</a> is the first day that President Obama can do this. =
+He's said before that he would like to pass TPP in the lame duck session. =
+We don't know if he's going to try <a href=3D"#" =
+style=3D"text-decoration:none; color: #364350;">this week, next week,</a> =
+or after the election, but we need to be ready to stop it in case he does =
+try.</p>
+<p style=3D"font-size: 20px; font-family: Arial; line-height:140%;">
+	<strong><font color=3D"#cc4125">If President Obama does force a vote, =
+realistically our best chance at defeating TPP is in the House of =
+Representatives.</font></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	The reality of how the fast track process works is that TPP can't be =
+amended &mdash; not a single word. It's also true that TPP can't be =
+filibustered in the Senate. It just needs 50 votes if President Obama =
+decides to submit it to Congress.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	We know that Bernie Sanders will oppose TPP, but the same can't be said =
+for many other members of the Senate. If TPP comes up in the Senate, it's =
+likely it will pass. It's not great, but that's what we're facing.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>Our best chance to defeat TPP is in the House of =
+Representatives.</strong> If we can get a majority of members of Congress =
+to vote no on TPP, we can win. So we must focus our efforts there.</p>
+<p style=3D"font-size: 20px; font-family: Arial; line-height:140%;">
+	<strong><font color=3D"#cc4125"><a href=3D"#" =
+style=3D"text-decoration:none; color: #cc4125;">Wednesday</a> is a =
+national day of action focusing on the House of Representatives to stop =
+TPP.</font></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	For years, a big coalition of labor, environmental, trade, and other =
+groups has worked to stop TPP. Together these groups have millions of =
+members who have spoken out, made phone calls, lobbied politicians, and =
+done everything they can to stop TPP.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	All of these groups and all of their members &ndash; including Our =
+Revolution &ndash; are <strong>building towards a huge day of action <a =
+href=3D"#" style=3D"text-decoration:none; color: #364350;">this =
+Wednesday</a> focused on the House of Representatives.</strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Our goal is to place at least 50,000 calls to members of Congress and =
+their offices <a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">on Wednesday</a>. With your help, we're going to help lead this =
+fight and find out where these representatives stand on TPP, and we're =
+going to do everything we can to make sure that they know the people they =
+represent want to defeat TPP.</p>
+<p style=3D"font-size: 20px; font-family: Arial; line-height:140%;">
+	<strong><font color=3D"#cc4125">We can only win if all of us get involved =
+to stop TPP.</font></strong></p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<strong>If TPP passes, there's no going back.</strong> The only way to =
+get out of the trade deal &ndash; even to change a single word! &ndash; is =
+if every one of the 12 nations agree. That's not going to happen. So we =
+need to defeat TPP now.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Big corporate interests and Wall Street are lining up to help TPP pass =
+Congress when President Obama starts the fast track process. We've proven =
+before that when enough people stand together, we can beat those special =
+interests. <strong>Now we need to do it again, starting with our day of =
+action <a href=3D"#" style=3D"text-decoration:none; color: #364350;">on =
+Wednesday</a> to reach our goal of 50,000 calls to Congress.</strong></p>
+<p style=3D"font-size: 20px; font-family: Arial; line-height:140%;">
+	<strong><font color=3D"#cc4125">Rigoberto, this is what we need you to =
+do:</font></strong></p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	The first step to stopping TPP is showing a huge number of people oppose =
+it. Members of Congress and the media need to know that millions of people =
+want to stop this trade deal.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	<a href=3D"https://go.berniesanders.com/page/s/stop_tpp?source=3Dem160912=
+-full" style=3D"text-decoration:underline;" title=3D"https://go.berniesand=
+ers.com/page/s/stop_tpp?source=3Dem160912-full"><strong>Add your name and =
+say that you want to stop TPP and have your voice =
+counted.</strong></a></p>
+<p style=3D"font-family: Arial; font-size: 17px; line-height: 140%; =
+margin:0;">
+	<strong><a href=3D"https://go.berniesanders.com/page/s/stop_tpp?source=3D=
+em160912-full" style=3D"font-family: sans-serif; font-size: 18px; =
+background-color: #147FD7; border-top: 1px solid #1e88e0; border-bottom: =
+2px solid #0e72c4; width: 300px; margin: 12px auto; border-radius: 4px; =
+text-align: center; color: white; text-decoration: none; padding: 12px 5px =
+11px; font-weight:700; display: block; text-transform: uppercase; =
+letter-spacing: 0.075em;" title=3D"https://go.berniesanders.com/page/s/sto=
+p_tpp?source=3Dem160912-full">ADD YOUR NAME</a></strong></p>
+<p>
+	</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Thanks for all you do for our movement. We'll be in touch soon about how =
+else you can help stop TPP.</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size: 17px; font-family: Arial; line-height:140%;">
+	Larry Cohen<br>
+	Former President, Communication Workers of America<br>
+	Chair of the Board, Our Revolution</p>
+<p>
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/stop-the_tp=
+p?refcode=3Dem160912-tpp" style=3D"font-family: sans-serif; font-size: =
+18px; background-color: #E9514F; border-top: 1px solid #E9514F; =
+border-bottom: 2px solid #E9514F; width: 300px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/stop-the_tpp?refcode=3Dem160912-tpp">Contri=
+bute</a></strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<br><br><br><br><br><br><br><br><br><br></div>
+               <div class=3D"footer" style=3D"text-align: center; =
+margin-top: 40px; padding-top: 15px; border-top: 1px solid #aaa;">
+                  <p class=3D"disclaimer" style=3D"display: inline-block; =
+border: 1px solid #555; padding: 5px 10px; color: #444; margin-bottom: =
+5px; font-size: 12px; max-width:400px;">PAID FOR BY OUR REVOLUTION<br><br>
+NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE COMMITTEE.<br><br>OUR =
+REVOLUTION IS A 501(C)(4) ORGANIZATION. CONTRIBUTIONS TO OUR REVOLUTION =
+ARE NOT DEDUCTIBLE AS CHARITABLE CONTRIBUTIONS FOR FEDERAL INCOME TAX =
+PURPOSES.</p>
+                  <p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+                  <p style=3D"font-size: 9px; margin: 15px 0 15px; color: =
+#444;">603 2nd St NE, Washington, DC 20002 | (855) 4-BERNIE</p>
+                  <p style=3D"font-size: 9px; color: #444;">This email was =
+sent to rresendez@rigoresendez.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D785=
+39" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Dema=
+il_footer&amp;email=3Drresendez@rigoresendez.com&amp;zip=3D78539">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>.<=
+/p>
+               </div>
+               <!--[if mso]>
+            </td>
+         </tr>
+      </table>
+   </center>
+   <![endif]-->=20
+<img src=3D"https://go.berniesanders.com/page/o/24fb093b/43b7f9e2/3579f8dd=
+/62010045/932392180/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_2487409b362162a9c1c7881c76cf9f5f--
+
+
